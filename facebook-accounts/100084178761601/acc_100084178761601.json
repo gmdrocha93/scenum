@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "23.11.2022 14:01 predstart",
+	"lastEventDate": "23.11.2022 14:04 predstart",
 	"status": 2,
 	"id": "100084178761601",
 	"name": "",
-	"amountFriends": "62",
+	"amountFriends": "63",
 	"screenname": "Ириска Никулина",
 	"birthdate": "1994 August 23",
 	"country": "",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669657033,
+			"expirationDate": 1669817040,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,8 +115,20 @@
 			"value": "1034x620"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaMChaUhajbCBMEFoLe4Z7VwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbik_G3DBYAABV-HEwAABYAFvaT8bcMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABb2k_G3DBYAABWAARxMAAAWABb2k_G3DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAoKU8bcMJAAgFoKU8bcMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBlsFQQVDCb2k_G3DBYAABUEFTom9pPxtwwWAAAVBBU8JvaT8bcMFgAAFQQVUib2k_G3DBYAABUEFWAm9pPxtwwWAAAVBBVuJvaT8bcMFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221669211385%22%7D%2C%22d%22%3A%22f64a9d38-09d3-4c83-ad4a-8ef2f22f7dd2%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676828096.610798,
+			"expirationDate": 1676988120.222626,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LOKGdeA1yChbRITC.AWU4sz-fpOW5rDBOLkNPW2kkvFo.Bi9lwU.Pv.AAA.0.0.Bje7bB.AWUpy3Q7lKE"
+			"value": "0LOKGdeA1yChbRITC.AWVt1q2qvD04GB5FGWbQ3hA_8vo.Bi9lwU.Pv.AAA.0.0.BjfifZ.AWXJLT_L-P0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669052208821%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669212216718%2C%22v%22%3A1%7D"
 		}
 	]
 }
