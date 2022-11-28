@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 21:05 D-05",
+	"lastEventDate": "28.11.2022 21:07 D-05",
 	"status": 2,
 	"id": "100086012170366",
 	"name": "",
-	"amountFriends": "65",
+	"amountFriends": "71",
 	"screenname": "Анастасия Щёголева",
 	"birthdate": "1996 October 31",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700844352.901814,
+			"expirationDate": 1701205397.557534,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669913366,
+			"expirationDate": 1670274464,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700844352.901871,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdjVjeWU2czR1aCIsInRpbWUiOjE2NjkzMTE5NzB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701205397.557593,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "41%3AafTnX_6ocGHi2A%3A2%3A1664042982%3A-1%3A3333%3A%3AAcVKqkjNYlVysBd8l-T2jXZghMCY2weqFcS9kfmrnK8"
+			"value": "41%3AafTnX_6ocGHi2A%3A2%3A1664042982%3A-1%3A3333%3A%3AAcXEQ2DhLhzgXfvAHDESBd8Yq_Iudf__I1XtGm0FwC0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677084448.084233,
+			"expirationDate": 1677445540.059152,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gkZpz2yrJhTfBh0m.AWVF9TeQ1O0Z_Gip3QnKccAsgt8.Bjf5_B.Mr.AAA.0.0.Bjf6Ag.AWW8DwH0o-0"
+			"value": "0kRNG4W748KceEzHt.AWX4GKX8MP8_WULu5NhKf-2-Bi0.BjhSIW.Mr.AAA.0.0.BjhSKk.AWVh0t4aajQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669308542758%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669669642026%2C%22v%22%3A1%7D"
 		}
 	]
 }
