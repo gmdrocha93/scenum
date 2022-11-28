@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 13:14 D-05 (003)",
+	"lastEventDate": "28.11.2022 13:18 D-05 (003)",
 	"status": 2,
 	"id": "100085711501421",
 	"name": "",
-	"amountFriends": "79",
+	"amountFriends": "94",
 	"screenname": "Надюша Новоселова",
 	"birthdate": "1993 October 19",
 	"country": "",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669872595,
+			"expirationDate": 1670246280,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,11 +125,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x620"
+			"value": "1030x616"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677043681.024701,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdWFxbmd4aG12YiIsInRpbWUiOjE2NjkyNzIyODd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677417304.100778,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NO62VHqxvPc4KgCz.AWW_vXCT37Vig3n--6XUjrK11ys.BjGsuy.YY.AAA.0.0.BjfwDh.AWVR4-Z9Hv0"
+			"value": "0NO62VHqxvPc4KgCz.AWUbgcj_4FjkL4b6wSdnq2WFU8w.BjGsuy.YY.AAA.0.0.BjhLRY.AWUS5Mhi424"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669267771911%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669641431546%2C%22v%22%3A1%7D"
 		}
 	]
 }
