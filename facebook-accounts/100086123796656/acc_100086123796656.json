@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 17:15 D-05 (003)",
+	"lastEventDate": "28.11.2022 17:17 D-05 (003)",
 	"status": 2,
 	"id": "100086123796656",
 	"name": "",
-	"amountFriends": "57",
+	"amountFriends": "69",
 	"screenname": "Настена Соколова",
 	"birthdate": "1998 September 29",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700823861.854194,
+			"expirationDate": 1701191712.13793,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669405337,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669892851,
+			"expirationDate": 1670260636,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +64,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700823861.854238,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdXFheTFpbmg2am0iLCJ0aW1lIjoxNjY5MjkyNDU4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701191712.137971,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "37%3AzffAXCJbT7EtyA%3A2%3A1664018500%3A-1%3A15731%3A%3AAcWIVq1C5c9J9Q-fBICTDaZc179jZMn2fkkXcW_JlEc"
+			"value": "37%3AzffAXCJbT7EtyA%3A2%3A1664018500%3A-1%3A15731%3A%3AAcVxQDaAz0Z1DDLcYvva4FlGealsWSjgCdU3bW5cQBw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677063866.51805,
+			"expirationDate": 1677431714.221293,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BGLOxXgCMHxnoMwC.AWUW9nyR1DupPHQFEwOGv6R3JeY.Bjf0-2.-u.AAA.0.0.Bjf0-7.AWXA6EwZkAw"
+			"value": "0PNyFEY2igDuuO3d1.AWU-PwsNr-qUptimL6VMOg9o5y8.BjhOyg.-u.AAA.0.0.BjhOyj.AWXA9cAN8Gw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +110,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669288003117%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669655813361%2C%22v%22%3A1%7D"
 		}
 	]
 }
