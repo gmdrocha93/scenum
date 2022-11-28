@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 10:58 D-05 (003)",
+	"lastEventDate": "28.11.2022 11:00 D-05 (003)",
 	"status": 2,
 	"id": "100084661650121",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "62",
 	"screenname": "Ксюша Коновалова",
 	"birthdate": "1994 September 18",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700788454.960967,
+			"expirationDate": 1701169209.80395,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700336460.661,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoZmE3OTF2bDk5bDkiLCJ0aW1lIjoxNjYxODUzNDA2fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669857514,
+			"expirationDate": 1670238041,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700788454.961013,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdHlqNHdvcDFnNiIsInRpbWUiOjE2NjkyNTY0NjR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701169209.803993,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3Agbhj3TQs2mjB5Q%3A2%3A1661275996%3A-1%3A15713%3A%3AAcVYsbM20Wc7lw9BeWXUWV4hecuyJ9qX-h6xBMXsri0"
+			"value": "1%3Agbhj3TQs2mjB5Q%3A2%3A1661275996%3A-1%3A15713%3A%3AAcXjQlSSFnEE7J5ePcwu7-MgjwDA1EIDVbcyBmub_q0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677028559.840304,
+			"expirationDate": 1677409208.804014,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QLOB8P2eerRBiJ0i.AWWR0jwHZWWjYnfM2axsJkMbEWw.BjfsVn.7i.AAA.0.0.BjfsXQ.AWWR1cw-Cbw"
+			"value": "0zBXHdO3dXxNX3bHy.AWWGa_sSKEInwjSPRruo_yJnFLE.BjhJS6.7i.AAA.0.0.BjhJS6.AWXL0CWYJsc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669252683691%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669633215360%2C%22v%22%3A1%7D"
 		}
 	]
 }
