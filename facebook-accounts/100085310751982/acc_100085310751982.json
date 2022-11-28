@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 12:13 D-05",
+	"lastEventDate": "28.11.2022 12:15 D-05",
 	"status": 2,
 	"id": "100085310751982",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "70",
 	"screenname": "Вера Ляпина",
 	"birthdate": "2003 September 21",
 	"country": "",
@@ -93,19 +93,6 @@
 			"expirationDate": 1700309566.126,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJqYWw5eWdxbDNzZiIsInRpbWUiOjE2NjQ5OTM1OTB9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700309566.126,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -116,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669380259,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669871806,
+			"expirationDate": 1670242522,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +112,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1028x614"
+			"value": "1024x610"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677042889.72326,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdWE2aDEya2oydmwiLCJ0aW1lIjoxNjY5MjcxNTYxfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677413630.832187,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Oh0mbLigdSOeHZXX.AWU3HHm5D59KJP0iKNHhXUzupn8.BjHF96.vC.AAA.0.0.Bjfv3K.AWU6pjt_UEM"
+			"value": "0Oh0mbLigdSOeHZXX.AWVu4OZW1g7Gff7EBNyAW1ZTU_k.BjHF96.vC.AAA.0.0.BjhKX_.AWX5PPgnmtU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669266983781%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669637727382%2C%22v%22%3A1%7D"
 		}
 	]
 }
