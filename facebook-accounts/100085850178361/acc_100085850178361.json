@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.11.2022 15:02 D-05 (003)",
+	"lastEventDate": "28.11.2022 15:05 D-05 (003)",
 	"status": 2,
 	"id": "100085850178361",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"screenname": "Надежда Новикова",
 	"birthdate": "1998 November 2",
 	"country": "",
@@ -103,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669405315,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669883844,
+			"expirationDate": 1670252743,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677054922.252212,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdWpjaTFucGVzY2IiLCJ0aW1lIjoxNjY5MjgzNDQyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677423760.335156,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0bcqZP90XCGvcomII.AWVWV8JWMRseT7gqs-CVdF5UOTE.BjKfEN.cc.AAA.0.0.BjfyzL.AWWsAb0KVto"
+			"value": "0bcqZP90XCGvcomII.AWWwSE5ejP2LYyTwAYsU3PqJaaA.BjKfEN.cc.AAA.0.0.BjhM2R.AWVghRxb1uc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669279020480%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669647914715%2C%22v%22%3A1%7D"
 		}
 	]
 }
