@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100085868004700",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"screenname": "Ирина Константинова",
 	"birthdate": "1989 October 1",
 	"country": "",
@@ -92,19 +92,6 @@
 			"expirationDate": 1700337316.641,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJqajdvaW0ydzYwaiIsInRpbWUiOjE2NjUzOTU4NzR9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700337316.641,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669965528,
+			"expirationDate": 1670312428,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677136612.206401,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsd2FnNnRha254eCIsInRpbWUiOjE2NjkzNjUyMjJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677483512.386198,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MhUcOV5JDmH5eVKl.AWWswITx-554X7mGuPS7VTTKjvQ.BjL_4u.8A.AAA.0.0.BjgGvl.AWXJAwmPfnU"
+			"value": "0MhUcOV5JDmH5eVKl.AWVER3QkYs9dSKClAAbKrZorZO4.BjL_4u.8A.AAA.0.0.Bjhbb5.AWUPhz4OqmE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +148,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669360705500%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669707605612%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.11.2022 07:38 D-05"
+	"lastEventDate": "29.11.2022 07:40 D-05"
 }
