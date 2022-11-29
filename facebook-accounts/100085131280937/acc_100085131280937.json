@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 01:48 D-05",
+	"lastEventDate": "29.11.2022 01:53 D-05",
 	"status": 2,
 	"id": "100085131280937",
 	"name": "",
-	"amountFriends": "80",
+	"amountFriends": "96",
 	"screenname": "Елена Прохорова",
 	"birthdate": "1992 October 8",
 	"country": "",
@@ -106,19 +106,6 @@
 			"expirationDate": 1700340464.787,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNWZrdDFra2Y2aDIiLCJ0aW1lIjoxNjYzMDczMzA5fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340464.787,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -129,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669935453,
+			"expirationDate": 1670291626,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +129,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677106493.081394,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdm9sZnZpd2c4aSIsInRpbWUiOjE2NjkzMzY4OTl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677462546.208902,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00Ik5S9XqaCsLX7HR.AWXKcVj6tv0AAAAOqbdB8a_TQQY.BjHfIf.4N.AAA.0.0.Bjf_Y9.AWUXIhIDXY8"
+			"value": "00Ik5S9XqaCsLX7HR.AWWVhVOcOhdQSIytkQ-MOXC-nm4.BjHfIf.4N.AAA.0.0.BjhWUT.AWUvfSFtCQ0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.110001105039305%22%7D%5D%2C%22utc3%22%3A1669330622199%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669686832248%2C%22v%22%3A1%7D"
 		}
 	]
 }
