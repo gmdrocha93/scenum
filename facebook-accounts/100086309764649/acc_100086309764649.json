@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 22:49 D-05",
+	"lastEventDate": "29.11.2022 22:51 D-05",
 	"status": 2,
 	"id": "100086309764649",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "110",
 	"screenname": "Анна Шадрина",
 	"birthdate": "1986 December 7",
 	"country": "",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670030938,
+			"expirationDate": 1670367116,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677201975.054158,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseHB3MDE0dTM2cjUiLCJ0aW1lIjoxNjY5NDMxODg4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677538202.565482,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0G6xkGQqsog8fw9wV.AWVkKJ4vbplmbNEuzaA3XN2Jin0.BjL-00.hd.AAA.0.0.BjgWs3.AWUtspl48RU"
+			"value": "0G6xkGQqsog8fw9wV.AWWpHXXdk3isLOJZB3LcL99zmaQ.BjL-00.hd.AAA.0.0.Bjhoyb.AWW_XZvZL-Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100069121935135%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669426108644%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669762293114%2C%22v%22%3A1%7D"
 		}
 	]
 }
