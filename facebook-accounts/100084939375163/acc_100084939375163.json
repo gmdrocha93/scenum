@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 05:58 D-05",
+	"lastEventDate": "29.11.2022 06:13 D-05",
 	"status": 2,
 	"id": "100084939375163",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Валентина Крюкова",
 	"birthdate": "1996 October 5",
 	"country": "",
@@ -93,19 +93,6 @@
 			"expirationDate": 1700340511.278,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNWJ1MTEybTRxdzYiLCJ0aW1lIjoxNjYzMDY4NDU3fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340511.278,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -116,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669955898,
+			"expirationDate": 1670307085,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677126984.619114,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdzJjazFvd3g5NjYiLCJ0aW1lIjoxNjY5MzU0NzI0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677477894.720663,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0kNegw5J8naC0DWfO.AWVwUoFqk01VZldSWyIFcsWpQB8.BjGwld.sn.AAA.0.0.BjgEZJ.AWXpKTwEzqU"
+			"value": "0kNegw5J8naC0DWfO.AWW-LbHSORGxqprpbODgqytw2IA.BjGwld.sn.AAA.0.0.BjhaEH.AWXxl7SqylA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669351076327%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669702291501%2C%22v%22%3A1%7D"
 		}
 	]
 }
