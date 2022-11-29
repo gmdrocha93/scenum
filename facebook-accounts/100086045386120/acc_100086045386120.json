@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 12:46 D-05",
+	"lastEventDate": "29.11.2022 12:48 D-05",
 	"status": 2,
 	"id": "100086045386120",
 	"name": "",
-	"amountFriends": "69",
+	"amountFriends": "76",
 	"screenname": "Машуня Иванова",
 	"birthdate": "1995 October 4",
 	"country": "",
@@ -93,19 +93,6 @@
 			"expirationDate": 1700337549.326,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJqYmwxeXJuZmQ5ZCIsInRpbWUiOjE2NjUwMzk5NTh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700337549.326,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -116,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669406876,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669990157,
+			"expirationDate": 1670330937,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677161212.961198,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsd3RuZzE5NGQxazciLCJ0aW1lIjoxNjY5MzkwMTA4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677502019.001969,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0yCClTqUI6vTzy0tD.AWUZFAq0vVTV8qKQJA3iSalOag0.BjL_nP.T3.AAA.0.0.BjgMv9.AWXxwjKfDJA"
+			"value": "0yCClTqUI6vTzy0tD.AWWQ0WCbncWGlpdilu86pjzW9ZQ.BjL_nP.T3.AAA.0.0.Bjhf9D.AWW48QWPHfQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669385334724%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669726113698%2C%22v%22%3A1%7D"
 		}
 	]
 }
