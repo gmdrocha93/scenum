@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 06:35 D-05",
+	"lastEventDate": "29.11.2022 06:38 D-05",
 	"status": 2,
 	"id": "100086148753310",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Алёна Андреева",
 	"birthdate": "1988 September 26",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700891651.487412,
+			"expirationDate": 1701239624.8978,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669406121,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669960698,
+			"expirationDate": 1670308704,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700891651.487454,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdzcwMGg2cm1jeCIsInRpbWUiOjE2NjkzNjA3NTJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701239624.897842,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3A6ueMF5NrdeMuRQ%3A2%3A1664298846%3A-1%3A15717%3A%3AAcUC_U95RvajwgGnGdjk4hUqOTO2S5VSne7SyK-eu4k"
+			"value": "36%3A6ueMF5NrdeMuRQ%3A2%3A1664298846%3A-1%3A15717%3A%3AAcXt8en1sMo1tq0MTykb2HNBrLOvKbb5MBJ0yoMNAzQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677131757.002423,
+			"expirationDate": 1677479748.488917,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PwAfhn8g1K0A5Z1g.AWX9oVmrZ-yJut1kdTCqvPEFvMQ.BjgFiE.zf.AAA.0.0.BjgFjt.AWXEx-Xdgzg"
+			"value": "0DDazSINBldNiliAc.AWVW7d4AKxgvjcU0dMZ3AVMXy3w.BjhafI.zf.AAA.0.0.BjhahF.AWXV_cpY3TU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669355872498%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669703858633%2C%22v%22%3A1%7D"
 		}
 	]
 }
