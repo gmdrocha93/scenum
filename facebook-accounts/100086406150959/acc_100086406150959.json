@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 08:38 D-05",
+	"lastEventDate": "29.11.2022 08:40 D-05",
 	"status": 2,
 	"id": "100086406150959",
 	"name": "",
-	"amountFriends": "122",
+	"amountFriends": "134",
 	"screenname": "Алина Журавлёва",
 	"birthdate": "1995 October 3",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700901656.273505,
+			"expirationDate": 1701246972.658397,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669406146,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669970456,
+			"expirationDate": 1670316051,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -79,17 +66,17 @@
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669365605234%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsd2YyMW8xaHBqeiIsInRpbWUiOjE2NjkzNzExOTN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700901656.273575,
+			"expirationDate": 1701246972.65844,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3ALGxx4Pd_rXn-tw%3A2%3A1664387475%3A-1%3A15729%3A%3AAcVkr1tLNSj8vaj-RH5hcGnPxzmcoyWxvuzrEus1TgE"
+			"value": "38%3ALGxx4Pd_rXn-tw%3A2%3A1664387475%3A-1%3A15729%3A%3AAcWlcpodYvWCvE3_HmaH8etPokF_jbqahiyXJrly3gc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677141655.273622,
+			"expirationDate": 1677487114.646636,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +98,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0kJpP5o6yqZNFDfjo.AWWU2zgKiC1OQdj4O2eP_lzNjfE.BjgH-Y.v9.AAA.0.0.BjgH-Y.AWWshgRPNOM"
+			"value": "0XftaI0JfDrIZcMaq.AWWt2xegxSsC_F3fPqiuMgsoXGs.BjhcR9.v9.AAA.0.0.BjhcUL.AWUf5fFmMyM"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669711226312%2C%22v%22%3A1%7D"
 		}
 	]
 }
