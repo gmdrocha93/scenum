@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 20:31 D-05",
+	"lastEventDate": "29.11.2022 20:33 D-05",
 	"status": 2,
 	"id": "100086076915678",
 	"name": "",
-	"amountFriends": "76",
+	"amountFriends": "88",
 	"screenname": "Юлия Сагитова",
 	"birthdate": "1989 October 5",
 	"country": "",
@@ -93,19 +93,6 @@
 			"expirationDate": 1700337613.646,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJqY2VjajJjM254ciIsInRpbWUiOjE2NjUwNzc5MjN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700337613.646,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -116,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670021488,
+			"expirationDate": 1670358789,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677192586.200377,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseGhmZjE2MzAxdGciLCJ0aW1lIjoxNjY5NDIwOTIzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677529898.360335,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sSnbrrL89TtBoFAc.AWUqljmC3HO2-dDSi4Joa73zlmo.Bjd-RO.Sm.AAA.0.0.BjgUaL.AWWRKAgisPM"
+			"value": "0O4jF753kHE2zPbX8.AWVj4HB5MzbRGNwNRjkp_hvUlAM.Bjhmua.Sm.AAA.0.0.Bjhmwr.AWVrPeCFzEg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669416693458%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669753995566%2C%22v%22%3A1%7D"
 		}
 	]
 }
