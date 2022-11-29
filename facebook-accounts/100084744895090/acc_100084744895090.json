@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "29.11.2022 04:30 D-05",
+	"lastEventDate": "29.11.2022 04:36 D-05",
 	"status": 2,
 	"id": "100084744895090",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Кристина Анисимова",
 	"birthdate": "1986 October 6",
 	"country": "",
@@ -116,20 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700340487.016,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpMXdrdTE2cjRpYmsiLCJ0aW1lIjoxNjYyOTA4NzU2fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669947098,
+			"expirationDate": 1670301371,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +129,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677118148.287406,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdnc0aWN3amViZiIsInRpbWUiOjE2NjkzNDY2NTh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677472283.648929,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0B4m3qbMlcduwRvSj.AWUgzs4_nbbGvpJX-GfD4o5d5MI.BjFES7.ef.AAA.0.0.BjgCPF.AWUTTsGpEyY"
+			"value": "0B4m3qbMlcduwRvSj.AWWI3QnpM-XnekwqOPjtIFCoTPs.BjFES7.ef.AAA.0.0.BjhYsc.AWUT4WVeFWY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669342271662%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669696581040%2C%22v%22%3A1%7D"
 		}
 	]
 }
