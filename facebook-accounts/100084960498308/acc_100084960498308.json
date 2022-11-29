@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084960498308",
 	"name": "",
-	"amountFriends": "79",
+	"amountFriends": "90",
 	"screenname": "Оксана Андреева",
 	"birthdate": "1992 November 7",
 	"country": "",
@@ -105,19 +105,6 @@
 			"expirationDate": 1700340042.227,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNWZtZW5ldDJtaCIsInRpbWUiOjE2NjMwNzMzNjZ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340042.227,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -128,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669930505,
+			"expirationDate": 1670288849,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +128,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677101608.059683,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdmplOWJnOTV2YSIsInRpbWUiOjE2NjkzMzAyOTJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677459761.514922,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oFt1UAnWtvllpBOO.AWXYo_qb-1ndI10JQ-EVLpl-Ils.BjDJ7W.jr.AAA.0.0.Bjf-Mo.AWVGP0xQqJc"
+			"value": "0oFt1UAnWtvllpBOO.AWUt4kkW-gNWUT9Wff7DUbVCVi4.BjDJ7W.jr.AAA.0.0.BjhVoy.AWUpTnyEX4s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100040774392996%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100080794511040%22%7D%5D%2C%22utc3%22%3A1669325711496%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669684054516%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.11.2022 01:01 D-05"
+	"lastEventDate": "29.11.2022 01:07 D-05"
 }
