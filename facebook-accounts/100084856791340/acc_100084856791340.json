@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084856791340",
 	"name": "",
-	"amountFriends": "72",
+	"amountFriends": "81",
 	"screenname": "Надежда Баранова",
 	"birthdate": "1992 October 7",
 	"country": "",
@@ -105,19 +105,6 @@
 			"expirationDate": 1700340475.637,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNWZjcjFseXM3YjAiLCJ0aW1lIjoxNjYzMDczMDE5fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340475.637,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -128,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669942129,
+			"expirationDate": 1670295947,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +128,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677113156.940162,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdnRjZW50cW4xMiIsInRpbWUiOjE2NjkzNDMwNTR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677466917.982342,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0d18oKIVsx0nBUJ79.AWUvtzRQi2KGTeEXS4-L17XTNuw.BjDJ1q.xO.AAA.0.0.BjgBBF.AWWMBKVX3gc"
+			"value": "0d18oKIVsx0nBUJ79.AWXjgyZDf2h89bnL7KVlqYi8F3k.BjDJ1q.xO.AAA.0.0.BjhXYm.AWXYb5hMmEI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.103427549728126%22%7D%5D%2C%22utc3%22%3A1669337303213%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669691153263%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.11.2022 03:01 D-05"
+	"lastEventDate": "29.11.2022 03:05 D-05"
 }
