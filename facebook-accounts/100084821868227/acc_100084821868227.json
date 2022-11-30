@@ -79,19 +79,6 @@
 			"expirationDate": 1700340031.742,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJqcWxtYTFndTBtODQiLCJ0aW1lIjoxNjY1NzQwNTMwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340031.742,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -102,20 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669408841,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669926074,
+			"expirationDate": 1670416325,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677097151.919282,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdmZrYjFwZXltZ2wiLCJ0aW1lIjoxNjY5MzI1MTk1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677587123.702424,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05oL3eIPC0D3mm9Sv.AWUAbeockJ9xV4n2JY-IkkFtE-0.Bjd-3A.P6.AAA.0.0.Bjf9HA.AWUdHHjPmeQ"
+			"value": "05oL3eIPC0D3mm9Sv.AWVFZbE_t3rtCl-RUx37M4iBilY.Bjd-3A.P6.AAA.0.0.Bjh0uz.AWVcPaQKNog"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +135,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669321252116%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669811532152%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.11.2022 12:24 D-05 (001)"
+	"lastEventDate": "30.11.2022 12:32 D-05 (001)"
 }
