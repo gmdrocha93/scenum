@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "30.11.2022 14:06 D-05",
+	"lastEventDate": "30.11.2022 14:10 D-05",
 	"status": 2,
 	"id": "100084597366209",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Маша Шубина",
 	"birthdate": "1992 August 21",
 	"country": "",
@@ -106,19 +106,6 @@
 			"expirationDate": 1700340638.503,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNzRqODE4ZnY1Z2YiLCJ0aW1lIjoxNjYzMTUyMzA4fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340638.503,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -129,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669994545,
+			"expirationDate": 1670422222,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +129,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677165557.129781,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsd3ZzODEwb2E1NDciLCJ0aW1lIjoxNjY5MzkyODcyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677593233.982176,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PThw8RJXy4NIS19H.AWVywtMpbi50ayJ9in27v2vXArI.BjHaRV.Ye.AAA.0.0.BjgNz2.AWUKi4bo9j0"
+			"value": "09zFb31mODrJrZYB9.AWUKzBjhfis-OWy0QD7cZIQzT9I.Bjh2Kj.Ye.AAA.0.0.Bjh2OS.AWXN70ghUng"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669389697916%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669817425326%2C%22v%22%3A1%7D"
 		}
 	]
 }
