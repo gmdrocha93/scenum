@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "30.11.2022 13:35 D-05",
+	"lastEventDate": "30.11.2022 13:37 D-05",
 	"status": 2,
 	"id": "100084517111823",
 	"name": "",
-	"amountFriends": "72",
+	"amountFriends": "80",
 	"screenname": "Светлана Белоусова",
 	"birthdate": "1983 August 17",
 	"country": "",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700836104.339158,
+			"expirationDate": 1701351174.32849,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700339983.709,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoZTR5cXEweGdnbiIsInRpbWUiOjE2NjE4MDAwMjB9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669905208,
+			"expirationDate": 1670420236,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700836104.339203,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdXp5Y2d5ZnJjaCIsInRpbWUiOjE2NjkzMDQ5NjR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701351174.328534,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3AglyHFChggpuduw%3A2%3A1661710134%3A-1%3A3151%3A%3AAcVR2aILyDGJ87YpXZo8agbqxIV-mOwT2e1M8PeqYZQ"
+			"value": "24%3AglyHFChggpuduw%3A2%3A1661710134%3A-1%3A3151%3A%3AAcVQi_uhBSFxaJKZB6k3ON4F6qLGfkGGzrBbK8ScDbA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677076226.024324,
+			"expirationDate": 1677591318.254427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vrDztwYio8kh7H6k.AWVmP9iyRf-q-mpKXd8F25O9Av0.Bjf3-J.q9.AAA.0.0.Bjf4AC.AWXhVIQxcZs"
+			"value": "0NFGkLbbhCUvaNijl.AWUqyfqS1hkhePvn5hqS7xSXnEQ.Bjh1uH.q9.AAA.0.0.Bjh1wX.AWUVVssXEUs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669300357133%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669815413194%2C%22v%22%3A1%7D"
 		}
 	]
 }
