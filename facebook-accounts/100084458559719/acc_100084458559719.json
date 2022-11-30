@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "30.11.2022 21:48 D-05",
+	"lastEventDate": "30.11.2022 21:50 D-05",
 	"status": 2,
 	"id": "100084458559719",
 	"name": "",
-	"amountFriends": "112",
+	"amountFriends": "121",
 	"screenname": "Алена Тищенко",
 	"birthdate": "2001 August 24",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700984648.144689,
+			"expirationDate": 1701380799.074334,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700338148.387,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoa2kyaDFva2J5OWQiLCJ0aW1lIjoxNjYyMDk2NzYxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670053673,
+			"expirationDate": 1670449854,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700984648.144762,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseTZhbmZoZDBhMyIsInRpbWUiOjE2Njk0NTMxNTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701380799.074396,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3AtpPzNpOobXzlVQ%3A2%3A1661437151%3A-1%3A15729%3A%3AAcXLqO1gdX3ji1SlIES7JKbOhuEQgCKCJBnZaAcMrr8"
+			"value": "9%3AtpPzNpOobXzlVQ%3A2%3A1661437151%3A-1%3A15729%3A%3AAcX0Y9MuI-Ff4Rceh3PDcK0W-yGD5R62iV0aKv4IQYY"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677224754.38801,
+			"expirationDate": 1677620936.891565,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mJFHPcDyqgno21Ck.AWVZy6OtuXuYjuLsqIt-hdvahZQ.BjgcPI.HM.AAA.0.0.BjgcQz.AWX-amtcp-s"
+			"value": "0LsthddA5cpgTqjEZ.AWXyZL5UZ8ZDahYqHJimlriU9a0.Bjh88_.HM.AAA.0.0.Bjh8_J.AWV879-3KC4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669448851307%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669845031744%2C%22v%22%3A1%7D"
 		}
 	]
 }
