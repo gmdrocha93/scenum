@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084320465591",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "90",
 	"screenname": "Евгения Сидорова",
 	"birthdate": "1986 October 16",
 	"country": "",
@@ -92,19 +92,6 @@
 			"expirationDate": 1700309493.432,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoaHJ2aWdnNDk0OSIsInRpbWUiOjE2NjE5Njk1MDJ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700309493.432,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -115,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669840653,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdGx6NjY1b2JpeSIsInRpbWUiOjE2NjkyNDAxOTR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670407833,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1032x618"
+			"value": "1026x612"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677011621.983196,
+			"expirationDate": 1677578916.58495,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nnPf9NhNbDVhwXjX.AWWFEt3M0YtX51JtzD-HhpRFLVw.Bi7C4G.Rq.AAA.0.0.BjfoOm.AWVLf-etmv8"
+			"value": "0nnPf9NhNbDVhwXjX.AWVW2X7UUfkUzhmzer3w4Jtd_bM.Bi7C4G.Rq.AAA.0.0.Bjhyul.AWWLQivFfp4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +148,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669235799675%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669803009897%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.11.2022 10:08 D-05 (001)"
+	"lastEventDate": "30.11.2022 10:10 D-05 (001)"
 }
