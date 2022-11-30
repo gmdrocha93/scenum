@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "30.11.2022 15:51 D-05",
+	"lastEventDate": "30.11.2022 15:54 D-05",
 	"status": 2,
 	"id": "100084661651763",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "89",
 	"screenname": "Лера Коновалова",
 	"birthdate": "1987 August 18",
 	"country": "",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700340890.72,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpMWkzeGJlOXlpNSIsInRpbWUiOjE2NjI4ODk5NjV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670032270,
+			"expirationDate": 1670428478,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677203357.290603,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseHBleDFvOTAxMGgiLCJ0aW1lIjoxNjY5NDMxMjczfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677599524.182443,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0yO8IvloBOsbmXTq9.AWWZxuNwd4MdrKsRupFN8HGwtxo.BjD48M.6q.AAA.0.0.BjgXCe.AWVMP6fNMXs"
+			"value": "0yO8IvloBOsbmXTq9.AWUtYclxtqifjwATq6l49CUS0BU.BjD48M.6q.AAA.0.0.Bjh3wl.AWWRiGtYHS0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100054536524282%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100070063860190%22%7D%5D%2C%22utc3%22%3A1669427444190%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669823630164%2C%22v%22%3A1%7D"
 		}
 	]
 }
