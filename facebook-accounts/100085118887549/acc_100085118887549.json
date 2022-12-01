@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100085118887549",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"screenname": "Евгения Коваленко",
 	"birthdate": "1995 September 2",
 	"country": "",
@@ -92,19 +92,6 @@
 			"expirationDate": 1700340505.079,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpNWMwNDFtOTFucDAiLCJ0aW1lIjoxNjYzMDY4Njc2fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340505.079,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -115,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669954416,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdzJoOTF2cDRxcWIiLCJ0aW1lIjoxNjY5MzU0ODkzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670482338,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x620"
+			"value": "1032x618"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677125454.276676,
+			"expirationDate": 1677653404.871518,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VPNa8VtREPZ51n6g.AWVIcvbTeHbokZJiwsLbprKzh-I.BjDJBp.7H.AAA.0.0.BjgEBP.AWUw_iwhDuI"
+			"value": "0VPNa8VtREPZ51n6g.AWVqC01vMwEKL2Q6AybM10H9uYQ.BjDJBp.7H.AAA.0.0.BjiE6d.AWXdLUZ3OEY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +148,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669349588011%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669877515538%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "01.12.2022 06:50 D-05"
+	"lastEventDate": "01.12.2022 06:52 D-05"
 }
