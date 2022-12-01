@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "01.12.2022 23:11 D-06(mini)",
+	"lastEventDate": "01.12.2022 23:13 D-06(mini)",
 	"status": 2,
 	"id": "100084259544100",
 	"name": "",
-	"amountFriends": "162",
+	"amountFriends": "163",
 	"screenname": "Настя Литвинова",
 	"birthdate": "1994 August 18",
 	"country": "",
@@ -103,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700340005.947,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoZTBxa2NoNzY2ayIsInRpbWUiOjE2NjE3OTQ2NTB9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670274326,
+			"expirationDate": 1670541184,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677445352.887992,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtMndmNTFpa2wwMngiLCJ0aW1lIjoxNjY5NjczNjMzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677712264.931359,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BIe7WAJA1NDuRPTL.AWWRxeSI5E12Woel6n-YU25H9Mw.Bi_pRR.y-.AAA.0.0.BjhSHp.AWUEwIq3MTU"
+			"value": "0BIe7WAJA1NDuRPTL.AWUty6uMadtltA3qZyDnSz3MuY0.Bi_pRR.y-.AAA.0.0.BjiTSJ.AWVa_OxEGWc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669669479147%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669936361501%2C%22v%22%3A1%7D"
 		}
 	]
 }
