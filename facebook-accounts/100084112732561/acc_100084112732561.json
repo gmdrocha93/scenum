@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084112732561",
 	"name": "",
-	"amountFriends": "88",
+	"amountFriends": "95",
 	"screenname": "Ксюша Ерохина",
 	"birthdate": "1996 August 18",
 	"country": "",
@@ -105,19 +105,6 @@
 			"expirationDate": 1700340655.114,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoajFuYTFvamNwODQiLCJ0aW1lIjoxNjYyMDI4OTQzfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340655.114,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
@@ -128,20 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670000828,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1034x620"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseDN0bzF3bG1xMnYiLCJ0aW1lIjoxNjY5NDAzMjkyfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677171863.130723,
+			"expirationDate": 1677653332.571674,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +136,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XIs8uYSGwgNgDB34.AWX5QTCzfLJ0RHyVntwaLv_tSOg.Bi8lru.px.AAA.0.0.BjgPWX.AWUwTZ8YLQ0"
+			"value": "0XIs8uYSGwgNgDB34.AWWHwl_FmVEMjZx8CQEYmEF1K7k.Bi8lru.px.AAA.0.0.BjiE5V.AWX-cJDzDlk"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670482253,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1032x618"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669395981352%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669877429286%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "01.12.2022 06:48 D-05"
+	"lastEventDate": "01.12.2022 06:50 D-05"
 }
