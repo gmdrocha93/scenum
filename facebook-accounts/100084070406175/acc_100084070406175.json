@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084070406175",
 	"name": "",
-	"amountFriends": "74",
+	"amountFriends": "84",
 	"screenname": "Алия Полякова",
 	"birthdate": "2000 September 19",
 	"country": "",
@@ -79,19 +79,6 @@
 			"expirationDate": 1700338215.98,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoa3B6eTFmcWFvbHkiLCJ0aW1lIjoxNjYyMTA3MDM4fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700338215.98,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -102,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670218542,
+			"expirationDate": 1670470687,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +98,35 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1028x614"
+			"value": "1026x612"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677389619.227714,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtMXA4azFvNmV0Z3giLCJ0aW1lIjoxNjY5NjE3NjY4fQ%3D%3D"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaODxac4ryIDxMEFr7gtrfUwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa-gsG4DBYAABV-HEwAABYAFsyCwbgMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbOgsG4DBYAABWAARxMAAAWABbOgsG4DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAsyCwbgMJAAgFsyCwbgMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBlsFQQVDCbOgsG4DBYAABUEFTomzoLBuAwWAAAVBBU8Js6CwbgMFgAAFQQVUibOgsG4DBYAABUEFWAmzoLBuAwWAAAVBBVuJs6CwbgMFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221669865638%22%7D%2C%22d%22%3A%228ee30300-e735-42d3-83de-f48217fcf03c%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677641771.760353,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tXK2iEx7a46aJ4Q6.AWUTz1vlsRO7OASt7uh2VKClWvI.BjBiZp.52.AAA.0.0.BjhEg0.AWVcEzS3h-0"
+			"value": "0tXK2iEx7a46aJ4Q6.AWUe6A2FPq5aj1ik991qGOZYcR4.BjBiZp.52.AAA.0.0.BjiCEs.AWVXr7uPulQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +147,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669613717982%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669865864520%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "01.12.2022 03:36 D-05"
+	"lastEventDate": "01.12.2022 03:38 D-05"
 }
