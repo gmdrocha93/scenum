@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "01.12.2022 02:41 D-05 (003)",
+	"lastEventDate": "01.12.2022 02:43 D-05 (003)",
 	"status": 2,
 	"id": "100084069986120",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "69",
 	"screenname": "Лера Михеева",
 	"birthdate": "1985 August 24",
 	"country": "",
@@ -80,19 +80,6 @@
 			"expirationDate": 1700338210.532,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoa3EydzFrMm54eTgiLCJ0aW1lIjoxNjYyMTA3MTQ0fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700338210.532,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -103,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670166335,
+			"expirationDate": 1670467420,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677337418.094478,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtMGw2azJrdDBydiIsInRpbWUiOjE2Njk1NjU3NTZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677638504.838402,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tk1Fi3FEOSN73c2s.AWXQyz0JSp6eLCYyWClIEDwtzqI.BjBid9.EX.AAA.0.0.Bjg3xK.AWXtR4dz0o0"
+			"value": "0xuBiJ6LC6JTr4ET7.AWXlT0ThlDNdUfhpuFbL_F3FiGw.BjiBNI.EX.AAA.0.0.BjiBRp.AWUHyn6bcgw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669561512393%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669862597366%2C%22v%22%3A1%7D"
 		}
 	]
 }
