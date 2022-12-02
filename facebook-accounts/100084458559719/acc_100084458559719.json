@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "02.12.2022 23:35 D-06(mini)LV_2",
+	"lastEventDate": "02.12.2022 23:37 D-06(mini)LV_2",
 	"status": 2,
 	"id": "100084458559719",
 	"name": "",
-	"amountFriends": "121",
+	"amountFriends": "123",
 	"screenname": "Алена Тищенко",
 	"birthdate": "2001 August 24",
 	"country": "",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670449854,
+			"expirationDate": 1670629071,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,18 +74,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1030x616"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseTZhbmZoZDBhMyIsInRpbWUiOjE2Njk0NTMxNTF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +90,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677620936.891565,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtNm1sNDF4cGs3YTciLCJ0aW1lIjoxNjY5ODQ3NjM0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677800155.135061,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LsthddA5cpgTqjEZ.AWXyZL5UZ8ZDahYqHJimlriU9a0.Bjh88_.HM.AAA.0.0.Bjh8_J.AWV879-3KC4"
+			"value": "0LsthddA5cpgTqjEZ.AWWhBXt9JyVcohSQ7L6Wv5QVYQk.Bjh88_.HM.AAA.0.0.Bjiovb.AWWLZKcukDY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669845031744%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670024249130%2C%22v%22%3A1%7D"
 		}
 	]
 }
