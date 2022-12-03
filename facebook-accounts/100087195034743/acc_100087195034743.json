@@ -88,32 +88,6 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrNTVnYmd5ZWU2ciIsInRpbWUiOjE2NjY0MTk0NjN9"
 		},
 		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670663164,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670662496,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
 			"domain": "www.facebook.com",
 			"hostOnly": true,
 			"httpOnly": false,
@@ -127,7 +101,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677834181.622468,
+			"expirationDate": 1670670344,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670670514,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677841545.261788,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cwT0hGSLI6chd7hi.AWXvlyteNsYZwnMyGj8I-TWeFfI.BjUwQ7.-3.AAA.0.0.BjixDG.AWVqu8H-jLA"
+			"value": "0cwT0hGSLI6chd7hi.AWXl32LO1-F0fLHEd4DMIm7kOtk.BjUwQ7.-3.AAA.0.0.Bjiy2K.AWXl7NToUG4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,8 +148,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670058339894%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670065685061%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.12.2022 11:05 petr d1"
+	"lastEventDate": "03.12.2022 11:08 petr d1"
 }
