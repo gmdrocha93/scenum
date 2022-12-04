@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100084242178263",
 	"name": "",
-	"amountFriends": "72",
+	"amountFriends": "73",
 	"screenname": "Анна Петрова",
 	"birthdate": "1981 September 27",
 	"country": "",
@@ -79,19 +79,6 @@
 			"expirationDate": 1700338205.308,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJoa3E1dDE4bWV6YSIsInRpbWUiOjE2NjIxMDcyNDl9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700338205.308,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -102,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670467213,
+			"expirationDate": 1670792354,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677638298.097018,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtNzBnYjFsMGxiaTMiLCJ0aW1lIjoxNjY5ODY1NDgzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677963433.491015,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Fw7UM1H2I05k261t.AWWvh27bcax6S7HebeMnjPMz1DA.BjBijf.wq.AAA.0.0.BjiBOa.AWXfhrPMxKY"
+			"value": "0Fw7UM1H2I05k261t.AWXBnz7cuN5hxEJAOUNkppvKdWo.BjBijf.wq.AAA.0.0.BjjQmq.AWXQ3qGNhPY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +135,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669862391070%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670187531588%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.12.2022 20:57 D-06(mini)"
+	"lastEventDate": "04.12.2022 20:59 D-06(mini)"
 }
