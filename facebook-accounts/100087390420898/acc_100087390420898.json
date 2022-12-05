@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "05.12.2022 10:36 petr d6",
+	"lastEventDate": "05.12.2022 10:40 petr d6",
 	"status": 2,
 	"id": "100087390420898",
 	"name": "",
@@ -73,7 +73,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670391083,
+			"expirationDate": 1670841600,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670391083,
+			"expirationDate": 1670841600,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -98,8 +98,20 @@
 			"value": "1.25"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwRAAAWehbOgM25BRMEFsT-0ZXtwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb0h-24DBYAABV-HBwYABgAFQYAABYAFpCe7rgMFgAAFhoA%22%7D%2C%22d%22%3A%22ef78066b-60cc-4db7-a4e6-fb00b0a1f6d4%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677562106.312125,
+			"expirationDate": 1678012619.878545,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -108,7 +120,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "025bmabYnPJCNKn3Z.AWV-Rg9FM0S6-BlVgTrqTSxzlHA.BjVtoR.Qj.AAA.0.0.Bjhun7.AWWVed973NI"
+			"value": "025bmabYnPJCNKn3Z.AWU8KIDzUEEt6Zk0KG-wpk7BQ4w.BjVtoR.Qj.AAA.0.0.BjjcnL.AWXxrSO4t-w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -120,7 +132,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669786247979%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670236775962%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Eric Dan",
