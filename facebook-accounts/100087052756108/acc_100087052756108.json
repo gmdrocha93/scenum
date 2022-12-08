@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "08.12.2022 12:04 petr d8",
+	"lastEventDate": "08.12.2022 12:07 petr d8",
 	"status": 2,
 	"id": "100087052756108",
 	"name": "",
@@ -64,19 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671009199,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1703841715.390466,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -90,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671009199,
+			"expirationDate": 1671105255,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671106069,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1522x706"
+			"value": "1520x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678180193.126545,
+			"expirationDate": 1678277100.502194,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NF90V79LvKiQQVfp.AWV4YkVBQo3RqpuTc4QhIPRzea4.BjV1wF.Ku.AAA.0.0.BjkFhh.AWW1CBgeRVg"
+			"value": "0NF90V79LvKiQQVfp.AWWZvuP-v0PHCXgkBQFvnxfSzEo.BjV1wF.Ku.AAA.0.0.BjkdLt.AWW9bdwsvCE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.105880582872515%22%7D%2C%7B%22i%22%3A%22u.190628861913%22%7D%5D%2C%22utc3%22%3A1670404351585%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.105880582872515%22%7D%2C%7B%22i%22%3A%22u.190628861913%22%7D%5D%2C%22utc3%22%3A1670501224155%2C%22v%22%3A1%7D"
 		}
 	]
 }
