@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100086973103935",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "3",
 	"screenname": "Kristinochka Naumova",
 	"birthdate": "1997 January 28",
 	"country": "",
@@ -89,7 +89,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671114923,
+			"expirationDate": 1671189317,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1216x541"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671189191,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -102,20 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671115674,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678286739.864699,
+			"expirationDate": 1678360396.731829,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dtGsppbPvMdMDSMW.AWXGRJOo5HQy6dKq36PE7We9UZQ.BjUwEu.kP.AAA.0.0.BjkfiU.AWVpMdvZUZc"
+			"value": "0dtGsppbPvMdMDSMW.AWV-ovfuJeVFbJBVEClAAQMZuCc.BjUwEu.kP.AAA.0.0.BjkxhN.AWWzuuFGn7k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670510847211%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100088732890165%22%7D%5D%2C%22utc3%22%3A1670584493970%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.12.2022 11:13 petr d9"
+	"lastEventDate": "09.12.2022 11:15 petr d9"
 }
