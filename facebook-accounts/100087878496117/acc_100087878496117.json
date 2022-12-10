@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "10.12.2022 07:49 petr d13",
+	"lastEventDate": "10.12.2022 07:52 petr d13",
 	"status": 2,
 	"id": "100087878496117",
 	"name": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702134283.701059,
+			"expirationDate": 1702194408.863784,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702134283.701122,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3AJCK-KL2r4M0JDg%3A2%3A1668276049%3A-1%3A14134%3A%3AAcWPjS1q0jVYxo_Im7GzOWYiX8yzUgfT0mZf9YaPptA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671203945,
+			"expirationDate": 1671263566,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -77,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671203945,
+			"expirationDate": 1671263566,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678375006.155324,
+			"expirationDate": 1702194408.863824,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "40%3AJCK-KL2r4M0JDg%3A2%3A1668276049%3A-1%3A14134%3A%3AAcVc-PeJv8v86UBvt09A0Me3kkyhYo7T4bY0zZM2rfU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678434580.923625,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0aGAqXq2YK3RzYZoE.AWXlrDYxWdlLGoWt1xbFX-2mfhk.Bjk06M.aU.AAA.0.0.Bjk1Fe.AWUtGqviaDI"
+			"value": "0AHbPiUkClBDjwwCr.AWUbgBOek0AABcF5B57PrZPDym0.BjlDlp.aU.AAA.0.0.BjlDoV.AWXCehpSb1M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670599117572%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670658721526%2C%22v%22%3A1%7D"
 		}
 	]
 }
