@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 09:01 D-09(mini)",
+	"lastEventDate": "12.12.2022 09:04 D-09(mini)",
 	"status": 2,
 	"id": "100084589196595",
 	"name": "",
-	"amountFriends": "75",
+	"amountFriends": "78",
 	"screenname": "Елена Сергеева",
 	"birthdate": "1991 October 4",
 	"country": "",
@@ -103,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700340557.877,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJpMXNuMjFjcHBqYXEiLCJ0aW1lIjoxNjYyOTAzNjkwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671211045,
+			"expirationDate": 1671440651,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678382088.377942,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtbXg1bHl1Mjd2aiIsInRpbWUiOjE2NzA2MDc3MDV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678611695.836496,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TqqaZDn6KxvMxbh4.AWXYKwCtkZeTkvTyc1NyVpRF4vc.BjEvK3.cT.AAA.0.0.Bjk20J.AWVOfECPaw8"
+			"value": "0TqqaZDn6KxvMxbh4.AWUN0I1NyCcHqc0xfzd_QaVesM4.BjEvK3.cT.AAA.0.0.Bjlu3w.AWWpS7EkA2w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670606200972%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670835809420%2C%22v%22%3A1%7D"
 		}
 	]
 }
