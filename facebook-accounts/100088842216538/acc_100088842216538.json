@@ -13,7 +13,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671661472,
+			"expirationDate": 1671661640,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671661472,
+			"expirationDate": 1671661641,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,31 +125,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678832565.874256,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0dGiu2fnRg6BiyS7N.AWW8RSkN4t3D9sRwJrlUT3ETxjo.Bjmky0.ib.AAA.0.0.Bjmky0.AWW4LrSi5To"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671056628623%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -162,7 +137,32 @@
 			"session": true,
 			"storeId": "0",
 			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFoLa7IEFEwQWtJGX_vfBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbis9K5DBYAABV-HEwAABYAFuqz0rkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbqs9K5DBYAABWAARxMAAAWABbqs9K5DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbqs9K5DBYAABUEFTom6rPSuQwWAAAVBBU8Juqz0rkMFgAAFQQVUibqs9K5DBYAABUEFWAm6rPSuQwWAAAVBBViJuqz0rkMFgAAFQQVaibqs9K5DBYAABUEFW4m6rPSuQwWAAAVBBV0Juqz0rkMFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671056629%22%7D%2C%22d%22%3A%22cc9826a9-4e45-49e4-bbab-92d465501f9c%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678832678.037488,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0dGiu2fnRg6BiyS7N.AWXql1V6F6bBEdGwsRLMjBHt_UU.Bjmky0.ib.AAA.0.0.Bjmk0m.AWWMSxUZxt8"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671056792433%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.12.2022 22:24 registration LV1"
+	"lastEventDate": "14.12.2022 22:27 registration LV1"
 }
