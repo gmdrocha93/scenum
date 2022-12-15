@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6282317358884",
 	"password": "cG6xYT0F",
-	"lastEventDate": "15.12.2022 11:16 petr d10",
+	"lastEventDate": "15.12.2022 11:19 petr d10",
 	"status": 2,
 	"id": "100088495593166",
 	"name": "",
@@ -53,32 +53,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671600214,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1522x706"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671600214,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702531264.964038,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -92,7 +66,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678771265.352952,
+			"expirationDate": 1671707626,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671707980,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1520x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678879004.706551,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MuHK9WsezLfTkjvb.AWXXwEW7qNm9fp-MEBwbEJ88zuU.BjmV1B.sJ.AAA.0.0.BjmV1C.AWUHnVhAVTU"
+			"value": "0MuHK9WsezLfTkjvb.AWXRHL83qdYYG6xsxro5K5fG900.BjmV1B.sJ.AAA.0.0.BjmwId.AWUzdoQt9iw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670995367728%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671103135986%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "nikolaygusglem@outlook.com",
