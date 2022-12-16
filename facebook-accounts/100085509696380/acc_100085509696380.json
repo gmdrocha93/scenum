@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "16.12.2022 11:36 D-11(mini)",
+	"lastEventDate": "16.12.2022 11:37 D-11(mini)",
 	"status": 2,
 	"id": "100085509696380",
 	"name": "",
-	"amountFriends": "95",
+	"amountFriends": "99",
 	"screenname": "Ирина Савченко",
 	"birthdate": "1981 October 15",
-	"country": "",
+	"country": "Coronda",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671653196,
+			"expirationDate": 1671795475,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,19 +100,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1008x594"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678824254.852068,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0fLtexTKC1Ims2qnG.AWXPFWKK3ViEQT_-P-v4w8BXsf8.BjG1Ny.xK.AAA.0.0.Bjmiw_.AWWoNGXnr0M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -128,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1678966575.096986,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0fLtexTKC1Ims2qnG.AWXYyDgaQN39ZqaqbVmgMc2r3pc.BjG1Ny.xK.AAA.0.0.BjnFgv.AWVS8AAvdgo"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671048372544%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100002987694544%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671190671843%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
