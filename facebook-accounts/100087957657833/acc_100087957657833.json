@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6281281674597",
 	"password": "gPHdPrTa",
-	"lastEventDate": "16.12.2022 08:03 petr d11",
+	"lastEventDate": "16.12.2022 08:05 petr d11",
 	"status": 2,
 	"id": "100087957657833",
 	"name": "",
@@ -53,32 +53,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671711605,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671711605,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1386x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702642649.314715,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -92,7 +66,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678882660.655661,
+			"expirationDate": 1671782595,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671782730,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1384x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678953819.735387,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Lb0MAriiijRkO2Kc.AWVp3pKaxV8wqFyF-7ZkT1xBhYk.BjmxBZ.4g.AAA.0.0.BjmxBl.AWU44P5HGjE"
+			"value": "0Lb0MAriiijRkO2Kc.AWVOpMPXYigjH-GbZjYFViT3hEA.BjmxBZ.4g.AAA.0.0.BjnCZc.AWUWyc44KIA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671106781810%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671177924591%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "valeriylsso@outlook.com",
