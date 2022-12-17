@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Rasa Krauklis",
 	"birthdate": "2003 September 23",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671833725,
+			"expirationDate": 1671866714,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671866714,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679004763.462453,
+			"expirationDate": 1679037799.671862,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lBLBpDOlaRGACLgr.AWWIYv2xaKl9U_kdx0jJoBneL9U.BjnOzV.Js.AAA.0.0.BjnO1c.AWVO-xNVVj8"
+			"value": "0lBLBpDOlaRGACLgr.AWWHY7RU2ccprR6mHg1uVz1G47c.BjnOzV.Js.AAA.0.0.BjnW5o.AWVSlxqBluc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671228882344%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671261912470%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.12.2022 07:23 petr d1",
+	"lastEventDate": "17.12.2022 07:25 petr d1",
 	"email": "dantadde1996@outlook.com",
 	"emailPassword": "3A0iz7X",
 	"imapHost": "outlook.office365.com",
