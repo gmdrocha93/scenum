@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.12.2022 07:05 petr d20",
+	"lastEventDate": "18.12.2022 07:07 petr d20",
 	"status": 2,
 	"id": "100087276476716",
 	"name": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702810306.52453,
+			"expirationDate": 1702882675.273646,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -63,7 +63,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671771651,
+			"expirationDate": 1702882675.27368,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "36%3AAIq-kD4OeSJ-Ag%3A2%3A1668276729%3A-1%3A-1%3A%3AAcXgUyfAgXW8U-TiYZ5ku15P8Jq6jH6u_bjiNi0MWeg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671952031,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671951908,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,33 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671880234,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702810306.524565,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "36%3AAIq-kD4OeSJ-Ag%3A2%3A1668276729%3A-1%3A-1%3A%3AAcWB1ql_jwSIJT2Hp5CPFzwQV56CiJf7BMf1vBQcDIk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679051277.695991,
+			"expirationDate": 1679123116.489191,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0keqH5sS4fYCL2WAO.AWWcQkxieArVXjQvv4zhQfpEmX0.BjnZ9D.6-.AAA.0.0.BjnaMO.AWXFXeI0BXw"
+			"value": "0YjvlrQaFR5VLc2zu.AWVcdp_aipq61q4n85xohI2kvYs.Bjnrnz.6-.AAA.0.0.Bjnrut.AWVYGODA_p8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671275408334%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671347226450%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
