@@ -11,7 +11,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1723981226.553256,
+			"expirationDate": 1734524484.19593,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -37,20 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702914335.906471,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100084507992172"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671983261,
+			"expirationDate": 1672081341,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -71,11 +58,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtd21teDFqN2txaHAiLCJ0aW1lIjoxNjcxMDYxMTMxfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuM2Z2cGxuOWhxYiIsInRpbWUiOjE2NzEzNzg3MDh9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702914335.906514,
+			"expirationDate": 1703012216.830581,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100084507992172"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703012216.830675,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,20 +84,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "26%3APqKWLUN2BgWwKA%3A2%3A1660909221%3A-1%3A6747%3A%3AAcUW-Ba6ULgPZQb7bq7id3uIe-qOV1zQUIo7lmku3C0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679154341.126525,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0tIq8S1HnCDK5zVQy.AWUCjmdIQVOGcMZLeQWFpvbrhmc.BjnzWg.nf.AAA.0.0.BjnzWm.AWU10AY10pA"
+			"value": "39%3AQCWJTwGN4-GHhw%3A2%3A1671452480%3A-1%3A6747%3A%3AAcWjj5MIcjsXRwCiKXe4Nxfnl5xjtIT5uw3oedpeZw"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -109,7 +96,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbKJRbC8YuxChMEFtiB39jXwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbM_uS5DBYAABV-HEwAABYAFuD-5LkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbo_uS5DBYAABWAARxMAAAWABbo_uS5DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAuD-5LkMJAAgFuD-5LkMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbo_uS5DBYAABUEFTom6P7kuQwWAAAVBBU8Juj-5LkMFgAAFQQVUibo_uS5DBYAABUEFWAm6P7kuQwWAAAVBBViJuj-5LkMFgAAFQQVaibo_uS5DBYAABUEFW4m6P7kuQwWAAAVBBV0Juj-5LkMFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671208880%22%7D%2C%22d%22%3A%22ceb375e9-3f42-4a96-a5b0-90d206c4e9d8%22%2C%22s%22%3A%221%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaiJxbuq5nRARMEFtiB39jXwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaY3oK6DBYAABV-HEwAABYAFqjegroMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABaq3oK6DBYAABWAARxMAAAWABaq3oK6DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAqjegroMJAAgFqjegroMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaq3oK6DBYAABUEFTomqt6CugwWAAAVBBU8JqregroMFgAAFQQVUiaq3oK6DBYAABUEFWAmqt6CugwWAAAVBBViJqregroMFgAAFQQVaiaq3oK6DBYAABUEFW4mqt6CugwWAAAVBBV0JqregroMFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671452564%22%7D%2C%22d%22%3A%22ceb375e9-3f42-4a96-a5b0-90d206c4e9d8%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679252419.184131,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0WiphMSDlPwXRqHAv.AWXXlJsTsFae_mQMLCI1iS1KCgM.BjoLP5.nf.AAA.0.0.BjoLTC.AWWjj7NUNf8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,10 +121,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671378437428%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671476516995%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 19:00 D-12(mini)",
+	"lastEventDate": "19.12.2022 19:02 D-12(mini)",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100088749817863",
 		"https://www.facebook.com/profile.php?id=100088803547625"
