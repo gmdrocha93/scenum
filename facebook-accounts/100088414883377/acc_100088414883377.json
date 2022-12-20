@@ -114,8 +114,20 @@
 			"value": "lv_LV"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbsAxbGv-W9BxMEFuK40ub0wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbciYW6DBYAABV-HEwAABYAFuKJhboMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbkiYW6DBYAABWAARxMAAAWABbkiYW6DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbiiYW6DBYAABUEFTom4omFugwWAAAVBBU8JuKJhboMFgAAFQQVUibiiYW6DBYAABUEFWAm4omFugwWAAAVBBViJuKJhboMFgAAFQQVaibiiYW6DBYAABUEFW4m4omFugwWAAAVBBV0JuKJhboMFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671471729%22%7D%2C%22d%22%3A%22b0a8efc1-dd1b-40a0-b8ee-2d669e07d26a%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672076471,
+			"expirationDate": 1672179586,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -124,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672076471,
+			"expirationDate": 1672179686,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,11 +149,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679247435.680269,
+			"expirationDate": 1679350788.054535,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +162,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Tdv0eb6o3gZs5ytn.AWWkkGJFCO7MZM9uDQ_xz9KoVnw.Bjme7X.lV.AAA.0.0.BjoKFM.AWWTpvuiJa8"
+			"value": "0Tdv0eb6o3gZs5ytn.AWWIOJR4z4rKiXdqyxD504tLwTQ.Bjme7X.lV.AAA.0.0.BjojUE.AWW-UxpSzRg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,22 +174,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671471630602%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbkAxbiy-VBEwQW4rjS5vTBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbAh4W6DBYAABV-HEwAABYAFp6IhboMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABagiIW6DBYAABWAARxMAAAWABagiIW6DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCagiIW6DBYAABUEFTomoIiFugwWAAAVBBU8JqCIhboMFgAAFQQVUiagiIW6DBYAABUEFWAmoIiFugwWAAAVBBViJqCIhboMFgAAFQQVaiagiIW6DBYAABUEFW4moIiFugwWAAAVBBV0JqCIhboMFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671471631%22%7D%2C%22d%22%3A%22b0a8efc1-dd1b-40a0-b8ee-2d669e07d26a%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671574884554%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.12.2022 22:19 petr d7",
+	"lastEventDate": "20.12.2022 22:21 petr d7",
 	"email": "davidstin46063@outlook.com",
 	"emailPassword": "FagkFb8O",
 	"imapHost": "outlook.office365.com",
