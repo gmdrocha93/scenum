@@ -37,7 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702968207.941584,
+			"expirationDate": 1703077856.89526,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,45 +49,6 @@
 			"value": "100088191224744"
 		},
 		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702968207.941638,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "41%3AzMa0pYM4Kik3GA%3A2%3A1669914774%3A-1%3A-1%3A%3AAcW-ytoC3dTPdxsp7OF-Utf0Ij7sFWjusR7ZPfq5WF4"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672037694,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672037694,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
 			"domain": "www.facebook.com",
 			"hostOnly": true,
 			"httpOnly": false,
@@ -97,11 +58,50 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaUCRbmtbj9BhMEFtCurJHzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABay9PW5DBYAABV-HEwAABYAFsT09bkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbG9PW5DBYAABWAARxMAAAWABbG9PW5DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbG9PW5DBYAABUEFTomxvT1uQwWAAAVBBU8Jsb09bkMFgAAFQQVUibG9PW5DBYAABUEFWAmxvT1uQwWAAAVBBViJsb09bkMFgAAFQQVaibG9PW5DBYAABUEFW4mxvT1uQwWAAAVBBV0Jsb09bkMFgAAFhIRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671347490%22%7D%2C%22d%22%3A%22e0fa74b2-0c8b-4a95-95da-0665fa6186eb%22%2C%22s%22%3A%221%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbQChbWxZetARMEFtCurJHzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaaoIC6DBYAABV-HEwAABYAFqyggLoMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABauoIC6DBYAABWAARxMAAAWABauoIC6DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuVlYEYUJFJ29lRRAmD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQQVCBmcFQQVDCauoIC6DBYAABUEFTomrqCAugwWAAAVBBU8Jq6ggLoMFgAAFQQVUiauoIC6DBYAABUEFWAmrqCAugwWAAAVBBViJq6ggLoMFgAAFQQVaiauoIC6DBYAABUEFW4mrqCAugwWAAAVBBV0Jq6ggLoMFgAAFhIRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671432214%22%7D%2C%22d%22%3A%22e0fa74b2-0c8b-4a95-95da-0665fa6186eb%22%2C%22s%22%3A%220%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679208732.067414,
+			"expirationDate": 1672146656,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672146942,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703077856.895294,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "41%3AzMa0pYM4Kik3GA%3A2%3A1669914774%3A-1%3A-1%3A%3AAcUE8VVZ3Pb7CQu9Lsg42-qsIwFEIQk17qej53N3mL4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679317982.015779,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09mZXR7qeGhGrJF3e.AWWe-GB1p_PGwOfTollhrEHqgkQ.BjoAgQ.dA.AAA.0.0.BjoAoc.AWXIAjf_FgY"
+			"value": "02h7u6mG4ehgSwBhL.AWU4rLjL7En8zXHaysw9BPWN_is.BjobRh.dA.AAA.0.0.BjobTe.AWXHkhGXfLA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,8 +122,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671432869937%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671542097649%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.12.2022 13:12 petr d16"
+	"lastEventDate": "20.12.2022 13:15 petr d16"
 }
