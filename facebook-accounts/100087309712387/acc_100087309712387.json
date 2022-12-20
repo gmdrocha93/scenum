@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "20.12.2022 12:57 petr d22",
+	"lastEventDate": "20.12.2022 13:00 petr d22",
 	"status": 2,
 	"id": "100087309712387",
 	"name": "",
@@ -103,19 +103,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671777379,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -128,20 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672069023,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679240065.957,
+			"expirationDate": 1679317052.910728,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SuuwNZ7yPva2PQwC.AWUrs7OzkZYcrCuv5o8Ww-twGmk.BjmxOg.bz.AAA.0.0.BjoISC.AWWHezuIFUM"
+			"value": "0SuuwNZ7yPva2PQwC.AWXU-jQ-NhYx9mTmBvMQWrJPLQg.BjmxOg.bz.AAA.0.0.BjobE9.AWUtg_UqoQw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +136,33 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671464179031%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671541163855%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672146004,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672146003,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
 		}
 	],
 	"funPages": [
