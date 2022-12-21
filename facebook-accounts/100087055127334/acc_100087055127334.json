@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "21.12.2022 06:05 petr d23",
+	"lastEventDate": "21.12.2022 06:07 petr d23",
 	"status": 2,
 	"id": "100087055127334",
 	"name": "",
-	"amountFriends": "17",
+	"amountFriends": "61",
 	"screenname": "Jonathan Patricia",
 	"birthdate": "1991 December 2",
 	"country": "Kazakhstan",
@@ -77,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672133209,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuNm55Yzl2Y2V5NyIsInRpbWUiOjE2NzE1MjkyOTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672207245,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -86,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672133209,
+			"expirationDate": 1672207656,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679304284.455966,
+			"expirationDate": 1679378711.01339,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BLc40FHPvvxut2ov.AWVHCgxDPoali5LZ8UndU1Z7ZeI.BjWArf.hT.AAA.0.0.BjoX9d.AWUAHBaAjj8"
+			"value": "0BLc40FHPvvxut2ov.AWVPtuYbLK9HMeHSm_NBbM1zVTI.BjWArf.hT.AAA.0.0.BjoqIX.AWXYY-aAme4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671528406728%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671602829887%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
