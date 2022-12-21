@@ -11,7 +11,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1724841333,
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "dbln",
@@ -24,7 +24,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1724841320,
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "datr",
@@ -37,12 +37,12 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1724841326,
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1693808279,
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_pixel_ratio",
@@ -63,33 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1693305322,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100085298310971"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1693305322,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "36%3AzS5xJlx_cFyDCQ%3A2%3A1661769322%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700340499.242,
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -102,20 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700340499.244,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671994793,
+			"expirationDate": 1672233105,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +89,46 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703092766,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJteGFyeXY5Nmw1MSIsInRpbWUiOjE2NzEwOTIwODh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuM29yeTE5bXJ5YXMiLCJ0aW1lIjoxNjcxMzkwMjMyfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679165878.966652,
+			"expirationDate": 1703164243.247134,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100085298310971"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703164243.247186,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "27%3A6IRG9cBsNjwNVw%3A2%3A1671455642%3A-1%3A8764%3A%3AAcX8_ZLMl1NIY3ALeAiDAhPHLQ_Tf-thvM_Danzvaw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679404242.247207,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TpISJbi5TyYKrc5o.AWWLarY1XNYOiuA5oxWj905MfFM.BjFENP.Hu.AAA.0.0.Bjn2K3.AWU4IjnpLjQ"
+			"value": "0tuoHTajQPZazbiCF.AWVIu4hC_nJXyCiPi_4nNfVqX-o.BjowXT.Hu.AAA.0.0.BjowXT.AWXWC3LH4rQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671389969362%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671628308190%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.12.2022 13:10 D-12(mini)LV_1",
+	"lastEventDate": "21.12.2022 13:12 D-12(mini)LV_1",
 	"funPages": [
 		"https://www.facebook.com/RevelationsaroundUnbeliv-114221081532223",
 		"https://www.facebook.com/ReminiscenceintoHike-100844796222551"
