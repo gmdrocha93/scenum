@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "21.12.2022 05:15 petr d23",
+	"lastEventDate": "21.12.2022 05:18 petr d23",
 	"status": 2,
 	"id": "100087565780498",
 	"name": "",
-	"amountFriends": "27",
+	"amountFriends": "31",
 	"screenname": "Brian Hunter",
 	"birthdate": "1997 May 3",
 	"country": "Latvia",
@@ -103,7 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672142055,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuNnVuMTFwY2RtNzMiLCJ0aW1lIjoxNjcxNTM3OTg5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672204311,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -112,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672142055,
+			"expirationDate": 1672204678,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,11 +137,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679313163.100275,
+			"expirationDate": 1679375748.635795,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oaTZpAcetDrSEt41.AWVijbV5Uzu-1gg5EuwFdH6qitk.Bjffyi.F5.AAA.0.0.BjoaIL.AWXbApxyvs4"
+			"value": "0oaTZpAcetDrSEt41.AWXQ6RF0-RSFPQDnj6CdtF8pXBY.Bjffyi.F5.AAA.0.0.BjopaF.AWVSDVHedcs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100085173723166%22%7D%5D%2C%22utc3%22%3A1671537252945%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671599874636%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
