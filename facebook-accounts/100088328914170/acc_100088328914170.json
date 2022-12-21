@@ -114,19 +114,6 @@
 			"expirationDate": 1701350179.24,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseWY1eDF3dWRkNGciLCJ0aW1lIjoxNjY5NDY0NjQ1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1701350179.24,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -137,7 +124,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672135652,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuNnBxdnl0ZXdkZCIsInRpbWUiOjE2NzE1MzE2MDl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672208552,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -146,11 +145,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672135652,
+			"expirationDate": 1672208927,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -159,11 +158,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679306707.32055,
+			"expirationDate": 1679380003.598437,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -172,7 +171,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sYwJZDr4bRD9s0KY.AWWJQhGj42J2iDCcOXWa6X_0VFI.BjgOCi.-f.AAA.0.0.BjoYjU.AWWRaBTIkV4"
+			"value": "0sYwJZDr4bRD9s0KY.AWWhyf2vKtWGh-K7jorxyU8LCcA.BjgOCi.-f.AAA.0.0.Bjoqck.AWVIhwtj2U0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -184,10 +183,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671530806948%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671604104138%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.12.2022 06:26 petr d23",
+	"lastEventDate": "21.12.2022 06:28 petr d23",
 	"screenname": "Sherry Thomas",
 	"birthdate": "2003 October 12",
 	"country": "",
