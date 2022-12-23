@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
 	"status": 2,
-	"lastEventDate": "23.12.2022 11:04 petr d24",
+	"lastEventDate": "23.12.2022 11:06 petr d24",
 	"id": "100087683135774",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "8",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -99,19 +99,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuNzJuczE5NDR5cTQiLCJ0aW1lIjoxNjcxNTQ4MjY5fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672208662,
+			"expirationDate": 1672398392,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -120,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672209065,
+			"expirationDate": 1672398392,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -133,11 +121,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x688"
+			"value": "1042x690"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679380166.52916,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuY2J2MWJ5N3E1eCIsInRpbWUiOjE2NzE3OTMxNjV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679569477.566773,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -146,7 +146,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jQqeQTqdc3kVbKUt.AWUGlg56ePRpNydoWGd4kd-fUTM.BjihZM.Yd.AAA.0.0.BjoqfH.AWULQpepurI"
+			"value": "0jQqeQTqdc3kVbKUt.AWXzSip7LlO4Gri7Ms719xZBxww.BjihZM.Yd.AAA.0.0.BjpYtG.AWVxHJZGb3c"
 		},
 		{
 			"domain": ".facebook.com",
@@ -158,11 +158,15 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671604270325%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671793568555%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/Moving-to-happy-100687372904305",
 		"https://www.facebook.com/Wander-forever-109728901992953"
-	]
+	],
+	"screenname": "Jimmy Cox",
+	"birthdate": "1974 December 13",
+	"country": "",
+	"isAvatarExists": false
 }
