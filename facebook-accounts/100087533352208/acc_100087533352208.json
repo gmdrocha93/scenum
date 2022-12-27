@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "27.12.2022 06:38 petr d27",
+	"lastEventDate": "27.12.2022 06:39 petr d27",
 	"status": 2,
 	"id": "100087533352208",
 	"name": "",
@@ -99,7 +99,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672596733,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuZ2xmaHRzY3JtOCIsInRpbWUiOjE2NzE5OTIxODl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672727978,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -112,7 +124,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672596733,
+			"expirationDate": 1672727978,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -121,23 +133,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1302x706"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuODRvODlnaDRiNCIsInRpbWUiOjE2NzE1OTcyNTB9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679767801.261975,
+			"expirationDate": 1679899085.368771,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -146,7 +146,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lLVAQL65DVBlGPgk.AWVIwLby4OfnZDbLxoZHM6aGqiY.BjfhMm.Qx.AAA.0.0.BjqJH6.AWUEDOKTvZc"
+			"value": "0lLVAQL65DVBlGPgk.AWWcqqMyKQTyM6m-XZQZosRp7co.BjfhMm.Qx.AAA.0.0.BjqpLO.AWV_S96wKiU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -158,7 +158,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671991910426%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672123174395%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Manuel Lopez",
