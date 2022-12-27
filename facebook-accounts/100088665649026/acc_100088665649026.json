@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672639008,
+			"expirationDate": 1672789795,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672789795,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1299x885"
+			"value": "1302x746"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679810121.578765,
+			"expirationDate": 1679960860.474899,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0RHlJmQuGZ42oG0xu.AWXvOSSzWALpCRu_s_QMGw5ttHM.BjoRKC.9r.AAA.0.0.BjqTdK.AWWY3JaJHkc"
+			"value": "0RHlJmQuGZ42oG0xu.AWUu-HOMZ2OyByKwfjqYNHqrasg.BjoRKC.9r.AAA.0.0.Bjq4Qd.AWUvNy-86vU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.1534271790187013%22%7D%5D%2C%22utc3%22%3A1672034212136%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672184972384%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 23:47 petr d5",
+	"lastEventDate": "27.12.2022 23:49 petr d5",
 	"email": "X31IP8Q52ZA@outlook.com",
 	"emailPassword": "RHJ1MN1Y15",
 	"imapHost": "outlook.office365.com",
