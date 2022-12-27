@@ -4,9 +4,9 @@
 	"password": "yofzngnd1386",
 	"status": 2,
 	"id": "100087788289718",
-	"lastEventDate": "27.12.2022 11:51 petr d21",
+	"lastEventDate": "27.12.2022 11:53 petr d21",
 	"name": "",
-	"amountFriends": "68",
+	"amountFriends": "74",
 	"screenname": "Emersyn Shiryaeva",
 	"birthdate": "2000 March 27",
 	"country": "Ukraine",
@@ -92,7 +92,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679853401.413913,
+			"expirationDate": 1672746797,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672746798,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679917889.998622,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +127,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Jxk9j7zPouzmY8Ul.AWUZ9KYPsUZZHH7Jhc9JFNil8Fo.Bjqdwr.nM.AAA.0.0.BjqeBa.AWV63zDxIlA"
+			"value": "0Jxk9j7zPouzmY8Ul.AWVF445_etlscrr5cNac-pNgDtw.Bjqdwr.nM.AAA.0.0.BjqtxC.AWVvY5c5Ej4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,33 +139,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088238923692%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100087800305072%22%7D%5D%2C%22utc3%22%3A1672077496081%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672682298,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "829x525"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672682296,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "C%7B%22lm3%22%3A%22u.100088238923692%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100087800305072%22%7D%5D%2C%22utc3%22%3A1672141992172%2C%22v%22%3A1%7D"
 		}
 	]
 }
