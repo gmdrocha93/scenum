@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.12.2022 06:09 petr d30",
+	"lastEventDate": "28.12.2022 06:12 petr d30",
 	"status": 2,
 	"id": "100087369447112",
 	"name": "",
-	"amountFriends": "73",
+	"amountFriends": "78",
 	"screenname": "Марика Злобина",
 	"birthdate": "1996 November 12",
 	"country": "Kazakhstan",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703664482.334621,
+			"expirationDate": 1703743620.511833,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672733501,
+			"expirationDate": 1672812718,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672733501,
+			"expirationDate": 1672812718,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,32 +74,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1522x706"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703664482.334662,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "30%3A_MAPnybbj3mlrw%3A2%3A1668275728%3A-1%3A6934%3A%3AAcXaWcs8R28iSqFbCYBNpQMk2TmG-_Wq2g9cIUdkpno"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679904514.178466,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0uXSedJaNivvTpTAJ.AWWVEFWHKuc0D5fsf1IOwh_6eBA.Bjqqfi.dy.AAA.0.0.BjqqgC.AWX1tFaB7fc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,15 +89,16 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703743620.511883,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672128674963%2C%22v%22%3A1%7D"
+			"value": "30%3A_MAPnybbj3mlrw%3A2%3A1668275728%3A-1%3A6934%3A%3AAcVzJe-0qwBC_RoNGfhtEOKo3R0thCNInEM1oNOKchY"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -135,7 +110,32 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaWIxas8qy0DhMEFpDb0YHtwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa0otW6DBYAABV-HEwAABYAFsii1boMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbMotW6DBYAABWAARxMAAAWABbMotW6DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbMotW6DBYAABUEFTomzKLVugwWAAAVBBU8Jsyi1boMFgAAFQQVUibMotW6DBYAABUEFWAmzKLVugwWAAAVBBViJsyi1boMFgAAFQQVaibMotW6DBYAABUEFW4mzKLVugwWAAAVBBV0Jsyi1boMFgAAFhIRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221672128676%22%7D%2C%22d%22%3A%22fb66099f-7e0d-4088-adad-a928a937bd3a%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABb2IxbCl-O9BhMEFpDb0YHtwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbysNW6DBYAABV-HEwAABYAFoSx1boMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABaIsdW6DBYAABWAARxMAAAWABaIsdW6DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaIsdW6DBYAABUEFTomiLHVugwWAAAVBBU8Joix1boMFgAAFQQVUiaIsdW6DBYAABUEFWAmiLHVugwWAAAVBBViJoix1boMFgAAFQQVaiaIsdW6DBYAABUEFW4miLHVugwWAAAVBBV0Joix1boMFgAAFhIRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221672129602%22%7D%2C%22d%22%3A%22fb66099f-7e0d-4088-adad-a928a937bd3a%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679983804.572583,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0MOyPz4Cb0lUn0a2t.AWX_0Nw-wlD_HVq67cSlG1KUlYY.Bjq90F.dy.AAA.0.0.Bjq929.AWUkf4a_rZA"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672207911637%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
