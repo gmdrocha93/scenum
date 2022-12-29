@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6281249199559",
 	"password": "hNRr48Oz",
-	"lastEventDate": "29.12.2022 11:21 petr d23",
+	"lastEventDate": "29.12.2022 11:22 petr d23",
 	"status": 2,
 	"id": "100088148298085",
 	"name": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703789016.856705,
+			"expirationDate": 1703848527.096107,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672858158,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJubTc3eTF0YTdibnMiLCJ0aW1lIjoxNjcyMjU0MDg1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672859412,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,24 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672858158,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1522x530"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703789016.856746,
+			"expirationDate": 1703848527.096157,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -88,11 +87,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3A57QnTF89q5TNPQ%3A2%3A1669922240%3A-1%3A15645%3A%3AAcWytXQL0XZFGtAZSvU7yVtUASFzniEoBc9bqqIlmYg"
+			"value": "32%3A57QnTF89q5TNPQ%3A2%3A1669922240%3A-1%3A15645%3A%3AAcXA1uQ1koIvJinK-OeHEMP_lTqOPD7VaDHcA9JbWWM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680029219.853485,
+			"expirationDate": 1672917776,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1520x528"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680088874.774483,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qxdHFl274a3GSg7c.AWXJHn6auACM0phosDkyJuKoyJg.BjrI5Z.v9.AAA.0.0.BjrI8k.AWV6Tb65ftw"
+			"value": "08nT2LTAH6saRLck3.AWWdTi2SQcPa8HO3CQHjYcBFIW4.BjrXbP.v9.AAA.0.0.BjrXgr.AWVq1BxMCi4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672253334192%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672312973587%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "burnetta85397@outlook.com",
