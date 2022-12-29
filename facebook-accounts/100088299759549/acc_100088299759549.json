@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100088299759549",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -33,7 +33,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703758215.549355,
+			"expirationDate": 1703839398.070363,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -46,7 +46,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672827626,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJubGpwbDFocm82bzMiLCJ0aW1lIjoxNjcyMjIzNjI4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672908193,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -55,11 +67,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672827626,
+			"expirationDate": 1672908577,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -68,11 +80,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1302x706"
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703758215.549393,
+			"expirationDate": 1703839398.070402,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -81,11 +93,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3Ar9c3BPyTXGPWLA%3A2%3A1669919958%3A-1%3A2979%3A%3AAcU26-xFhqx20wk-47gkFhMQTqqFG-yOFe3Va-FydYw"
+			"value": "10%3Ar9c3BPyTXGPWLA%3A2%3A1669919958%3A-1%3A2979%3A%3AAcWj9gjx33W3k9utX7F2OAuFF7Hx89-ZJup2WG5nysk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679998668.080261,
+			"expirationDate": 1680079641.210582,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -94,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lmin6kEs3CwbXl4X.AWXUvMoN1ADTDy3MbscfmRpHjyo.BjrBYH.BR.AAA.0.0.BjrBfM.AWVrEvgKjIk"
+			"value": "09okqGE7SmRfUnG7o.AWWgLqC1nx8k3vrwqiNouD8gndg.BjrVMl.BR.AAA.0.0.BjrVQZ.AWXg6cvqUsI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -106,10 +118,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672222800698%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672303753954%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 08:47 petr d23",
+	"lastEventDate": "29.12.2022 08:49 petr d23",
 	"screenname": "Тина Антонова",
 	"birthdate": "1997 November 29",
 	"country": "Kazakhstan",
