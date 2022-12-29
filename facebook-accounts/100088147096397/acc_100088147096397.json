@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6285316224446",
 	"password": "aZSjFlgb",
-	"lastEventDate": "29.12.2022 07:55 petr d23",
+	"lastEventDate": "29.12.2022 07:58 petr d23",
 	"status": 2,
 	"id": "100088147096397",
 	"name": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703767788.219765,
+			"expirationDate": 1703836331.536783,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672837031,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJubHF5MDE4ejNuN3YiLCJ0aW1lIjoxNjcyMjMyOTg1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672905129,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672837032,
+			"expirationDate": 1672905509,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -75,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1042x690"
+			"value": "1040x688"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703767788.219798,
+			"expirationDate": 1703836331.536819,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -88,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3AITRzdN0i8LeuFQ%3A2%3A1669948895%3A-1%3A-1%3A%3AAcWBE2L7bp40KoXX4AB6k-fTn7juaW07mnEmGNMVJCE"
+			"value": "28%3AITRzdN0i8LeuFQ%3A2%3A1669948895%3A-1%3A-1%3A%3AAcVvRKvOs5R-p8ra2MLNCO7DcbDN1RhN8JpnfCjx70U"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680008085.311234,
+			"expirationDate": 1680076565.502263,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QDxWElBu6ZNkhE2Q.AWUCtlra61yLOkwK8VDjXDbPPUY.BjrDtt.y6.AAA.0.0.BjrDyW.AWW2Onzf29E"
+			"value": "0cqQl5zTlGIHBn9AY.AWXSZ5TOALyz_IJC2h_jkh3rPCk.BjrUcs.y6.AAA.0.0.BjrUgW.AWVGvdea7eU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672232205393%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672300682928%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "fedor7eyudin@outlook.com",
