@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100088490850680",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "63",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -33,7 +33,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703758721.182492,
+			"expirationDate": 1703840134.514104,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -46,33 +46,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672827861,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJubGp2czE3MzNjYmEiLCJ0aW1lIjoxNjcyMjIzODUxfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672827861,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703758721.182524,
+			"expirationDate": 1703840134.514155,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -81,11 +67,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3AkZyXymZlayklDg%3A2%3A1669919898%3A-1%3A14608%3A%3AAcU0cK5ZoWOxr-UGwhgNLUldJcP924jxUW1LmEIZXtc"
+			"value": "32%3AkZyXymZlayklDg%3A2%3A1669919898%3A-1%3A14608%3A%3AAcWjrWXgffJF5673FPzp5f_ZVJs5Nuc0oMeztx1dRqk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679998907.596963,
+			"expirationDate": 1672908938,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672909239,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680080324.209015,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -94,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dbfaDeCFSznZEbl8.AWXce37XjJRcQsShAAdVS0W5wsI.BjrBgC.Ua.AAA.0.0.BjrBi8.AWVNZ8Td8wA"
+			"value": "0rJ90C04uOiygLMt0.AWVpeMZf4J7oGHd1oQ_Nmb2baVQ.BjrVYH.Ua.AAA.0.0.BjrVbF.AWVpqua1nMU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -106,10 +118,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672223036647%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100084392293452%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672304433059%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 08:58 petr d23",
+	"lastEventDate": "29.12.2022 09:00 petr d23",
 	"screenname": "Наташа Логинова",
 	"birthdate": "1994 November 29",
 	"country": "Kazakhstan",
