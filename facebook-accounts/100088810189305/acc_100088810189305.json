@@ -1,20 +1,32 @@
 {
 	"sn": "facebook",
-	"login": "996555572451",
-	"password": "qwe123rtY",
+	"custom": {},
+	"lastEventDate": "29.12.2022 01:35 petr d2",
 	"status": 2,
 	"id": "100088810189305",
-	"custom": {},
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Olga Sliva",
 	"birthdate": "1994 August 13",
-	"country": "Kazakhstan",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706620930.19928,
+			"expirationDate": 1672779826,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706617952.782597,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -23,11 +35,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Z-pY51qQVvPy4xdmEvotSVW"
+			"value": "H5SpY3AaFgG_PaSch2i_9oji"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706620887.55917,
+			"expirationDate": 1672779826,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706617891.798519,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "datr",
@@ -36,11 +61,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Z-pY9ZzOABmyhKbClAb6cw4"
+			"value": "H5SpY0zDcU2S_jD_cT3_NrMg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703799680.076916,
+			"expirationDate": 1672662752.782553,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "kk_KZ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703710848.666357,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,33 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672868477,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672868930,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703799680.076955,
+			"expirationDate": 1703710848.666395,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -88,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "47%3AV4ZocYAcbj91rQ%3A2%3A1672060927%3A-1%3A-1%3A%3AAcVOcnmgQqajGn9_1ZduBMnEhDS3ZnkaOobmc-fD3Q"
+			"value": "38%3A_OUgPciXn7uNFA%3A2%3A1672057950%3A-1%3A-1%3A%3AAcUL5TwSxS3h2DD-0t_BA2gfBQRV-sHEzdqd_hYGhQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680039966.528214,
+			"expirationDate": 1679950853.853523,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VX4Wy5rVnWMVd92g.AWUsE5C_Shu76B3FdRTjs7MYJCw.BjrLgA.RK.AAA.0.0.BjrLkf.AWUIU7ndfog"
+			"value": "0bXFGawnCJ2d6X2Ne.AWUkibRDrs857QB4z-XIn1A6U6M.Bjq10B.3X.AAA.0.0.Bjq10G.AWUTbLc1Ccc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,12 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672264106154%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672175003000%2C%22v%22%3A1%7D"
 		}
-	],
-	"lastEventDate": "28.12.2022 21:56 petr d1",
-	"email": "VTAEOJAAUD@outlook.com",
-	"emailPassword": "03RXAIFF2",
-	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	]
 }
