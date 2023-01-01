@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "01.01.2023 18:23 petr d32",
+	"lastEventDate": "01.01.2023 18:25 petr d32",
 	"status": 2,
 	"id": "100087625034739",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "63",
 	"screenname": "Стелла Миронова",
 	"birthdate": "1998 November 12",
 	"country": "Kazakhstan",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703743462.274342,
+			"expirationDate": 1704133211.734361,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,32 +48,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100087625034739"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672812644,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672812644,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1302x706"
 		},
 		{
 			"domain": ".facebook.com",
@@ -89,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703743462.274416,
+			"expirationDate": 1704133211.734437,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +72,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "45%3AMgqTLR99VsGBlA%3A2%3A1668275974%3A-1%3A13396%3A%3AAcVehkFIlnNZCWZvbO9r2OZRJoXCA5LwE1X9zWbA0Sk"
+			"value": "45%3AMgqTLR99VsGBlA%3A2%3A1668275974%3A-1%3A817%3A%3AAcWPb4kCA3aw61ySfj15yd0fvIstziF9Pmxp_Cjp3nA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679983730.549295,
+			"expirationDate": 1673202193,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673202312,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1040x541"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680373397.561133,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IkOi633h7kdcvZr7.AWWNSRxzBIxFqBe2zH0Xn99TGoM.Bjq9xn.p9.AAA.0.0.Bjq91z.AWXlvJmmJg8"
+			"value": "0da1WN5z1oZLoOLop.AWXHPT8aAc3a9Yimbg7kp3M1YEk.Bjsc7c.p9.AAA.0.0.Bjsc-W.AWWPQpSHSic"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672207836425%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100076992462834%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672597506327%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
