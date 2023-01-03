@@ -4,7 +4,7 @@
 	"password": "rcqbhymu4488",
 	"status": 2,
 	"id": "100087902196468",
-	"lastEventDate": "03.01.2023 11:08 petr d26",
+	"lastEventDate": "03.01.2023 11:11 petr d26",
 	"name": "",
 	"amountFriends": "5",
 	"cookie": [
@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704149326.363944,
+			"expirationDate": 1704280069.514221,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,20 +49,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701863902.548,
+			"expirationDate": 1704280069.514256,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJscmljZXp3b292YyIsInRpbWUiOjE2NjkxNDIxNzR9"
+			"value": "12%3AocoA1HXd2OGD_Q%3A2%3A1668386659%3A-1%3A7024%3A%3AAcVeVJXvjKKr1EmedX_1J50oj1Rx8BM2AhJKHNsJFoI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672920472,
+			"expirationDate": 1680520131.894873,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0UFoolBOZ3KkWF9tl.AWWyYGCoLXjmCQ1MPddjiYVavDY.BjtAyF.bh.AAA.0.0.BjtAzE.AWUVcRE1JJc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673349102,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673348993,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -75,42 +101,15 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673218348,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704149326.363976,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "12%3AocoA1HXd2OGD_Q%3A2%3A1668386659%3A-1%3A7024%3A%3AAcU4geE-QvqD3wF5fntBi4qBxUewRcE2h6KRCA6f5Ko"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680389325.363992,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0jreXEsd6DUJbzdj9.AWXoswvmRyzfv8_xDE4-CA-Rb0w.Bjsg3O.bh.AAA.0.0.Bjsg3O.AWVZTuo2sik"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJud3BuOHdnM3R4YiIsInRpbWUiOjE2NzI3NDQyMDF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,7 +121,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672613552482%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672744272587%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Sofiya Berglund",
