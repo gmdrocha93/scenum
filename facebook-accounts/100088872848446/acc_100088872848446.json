@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673398819,
+			"expirationDate": 1673473355,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673473355,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1902x924"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680569881.762293,
+			"expirationDate": 1680644420.892021,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0RhwNKtcx9q1k3o87.AWVtJwwJgXZ3SorGcq2VyqxF028.Bjnpn3.tj.AAA.0.0.BjtM8a.AWWAIcT1xh4"
+			"value": "0RhwNKtcx9q1k3o87.AWUojR2VnaV7cL79R_Br0-zxWUc.Bjnpn3.tj.AAA.0.0.BjtfJF.AWU3hsin1Q0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672793996659%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672868531435%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.01.2023 21:40 petr d17",
+	"lastEventDate": "04.01.2023 21:42 petr d17",
 	"email": "kingangel1987@outlook.com",
 	"emailPassword": "4VnWGiH",
 	"imapHost": "outlook.office365.com",
