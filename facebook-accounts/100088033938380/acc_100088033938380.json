@@ -3,10 +3,10 @@
 	"status": 2,
 	"id": "100088033938380",
 	"name": "",
-	"amountFriends": "109",
+	"amountFriends": "114",
 	"screenname": "Mary Darnell",
 	"birthdate": "1990 October 17",
-	"country": "Iraq",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -37,7 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704444668.310243,
+			"expirationDate": 1704530356.798846,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,19 +89,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673514420,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_pixel_ratio",
@@ -114,7 +101,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673514420,
+			"expirationDate": 1673599153,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673599673,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704444668.310292,
+			"expirationDate": 1704530356.798897,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -136,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3AaaL1bgQCpZBKrw%3A2%3A1669539434%3A-1%3A369%3A%3AAcWs-_vSbNldUsl_IFSfoUYjnErpjUD8lCetixKMun4"
+			"value": "24%3AaaL1bgQCpZBKrw%3A2%3A1669539434%3A-1%3A1031%3A%3AAcVsA_w03HfBEHzjvcRAT6cxlVkx_8NF1N8ugADwm9g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680685511.489465,
+			"expirationDate": 1680770755.987479,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0w9T6vBmfVMwoenIk.AWUPE_nvEst_bJre7sjl3DWp3BE.Bjto99.dO.AAA.0.0.BjtpLI.AWWzi2A32qw"
+			"value": "0oB2XyTnHP8ijJaDA.AWV5HaS-hnBgJWwqu4v4A_5Ro1g.Bjt940.dO.AAA.0.0.Bjt9_E.AWUtDE03X1U"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100004879453732%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100005237827901%22%7D%2C%7B%22i%22%3A%22u.100045166633270%22%7D%2C%7B%22i%22%3A%22u.100088091425498%22%7D%2C%7B%22i%22%3A%22u.100052558633323%22%7D%2C%7B%22i%22%3A%22u.100084841099443%22%7D%5D%2C%22utc3%22%3A1672909614216%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100035353554209%22%7D%5D%2C%22utc3%22%3A1672994850674%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.01.2023 08:45 petr d29",
+	"lastEventDate": "06.01.2023 08:47 petr d29",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100088981569241"
 	]
