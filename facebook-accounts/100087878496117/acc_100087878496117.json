@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "08.01.2023 07:39 petr d30",
+	"lastEventDate": "08.01.2023 07:43 petr d30",
 	"status": 2,
 	"id": "100087878496117",
 	"name": "",
-	"amountFriends": "134",
+	"amountFriends": "139",
 	"screenname": "Зара Титова",
 	"birthdate": "1998 November 12",
 	"country": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704618205.242424,
+			"expirationDate": 1704699248.925032,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -63,7 +63,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673688184,
+			"expirationDate": 1704699248.925089,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "40%3AJCK-KL2r4M0JDg%3A2%3A1668276049%3A-1%3A648%3A%3AAcUgIzLzYf0skepswJHii9ZC5k2K06nzdNtKj2BJHGY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673768619,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673688184,
+			"expirationDate": 1673768620,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704618205.242474,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3AJCK-KL2r4M0JDg%3A2%3A1668276049%3A-1%3A648%3A%3AAcX1-4VpwzJbVZqKNtyqGfpHdRrYI-esfykfVRdRb4s"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680859102.04996,
+			"expirationDate": 1680939611.160032,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Vtjks01gK5CzHn66.AWXYLiPZw5pILGJMbJL3ondFr0g.BjuTVd.aU.AAA.0.0.BjuTje.AWVZxVsnswc"
+			"value": "0aXcbaL7r6jjVpukm.AWVC_NXp1o-GgtrGytMRxt_MLAo.BjunHx.aU.AAA.0.0.BjunNb.AWUHLjzCjds"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088848588010%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673083380598%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100088848588010%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673163790062%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
