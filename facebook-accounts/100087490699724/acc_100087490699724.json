@@ -4,7 +4,7 @@
 	"password": "mtqultmd7017",
 	"status": 2,
 	"id": "100087490699724",
-	"lastEventDate": "08.01.2023 11:55 30+",
+	"lastEventDate": "08.01.2023 11:59 30+",
 	"name": "",
 	"amountFriends": "5",
 	"cookie": [
@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704626537.641057,
+			"expirationDate": 1704714243.448433,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,7 +61,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673611007,
+			"expirationDate": 1704714243.448468,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "3%3Abw26IWSq8wYW6w%3A2%3A1668156460%3A-1%3A10603%3A%3AAcV3cVCl_hhjFIp1LRJImMGPX9DUGwI0o8_UecUR6qM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680954959.253347,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0pVdEDk4vJXU2Lsal.AWWsaGQEB-o3ajjXj7aJGAM6yFk.BjuqyE.Xq.AAA.0.0.Bjuq9P.AWUdDuOorGo"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673783896,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1629x910"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673783828,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,45 +113,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673695702,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704626537.641108,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "3%3Abw26IWSq8wYW6w%3A2%3A1668156460%3A-1%3A10603%3A%3AAcVeDLhRoXrKN6MJIO4U9jBv7ZQ761y89weE96lFwb0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680866771.955114,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0I4LTLbx4gmjLRHbC.AWVSF1o6jrzRhiQV3e6W7PsNYHs.BjuVXq.Xq.AAA.0.0.BjuVbU.AWVvdUPtBfY"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -121,7 +121,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.749302771865633%22%7D%5D%2C%22utc3%22%3A1673090893570%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.749302771865633%22%7D%5D%2C%22utc3%22%3A1673179101429%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Diana Heyficz",
