@@ -1,28 +1,32 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.01.2023 21:59 petr d12",
+	"lastEventDate": "09.01.2023 19:33 petr d13",
 	"status": 2,
 	"id": "100088914074246",
 	"name": "",
 	"amountFriends": "",
+	"screenname": "Olga Mina",
+	"birthdate": "1995 June 10",
+	"country": "",
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706618231.152188,
+			"expirationDate": 1706617826.665787,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "sb",
-			"path": "/",
+			"name": "dbln",
+			"path": "/login/device-based/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "UJWpYwqqfnWHOtMbJxbs78K3"
+			"value": "%7B%22100088914074246%22%3A%22RyU0UIc5%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706618195.548675,
+			"expirationDate": 1706341103.524093,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "datr",
@@ -31,11 +35,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "UJWpY4E4Qf0kKA9I9f7jUbQB"
+			"value": "4lqlY14JwVK8iECYlywrvDUH"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704750101.952997,
+			"expirationDate": 1706617754.764567,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "8FqlY0w6laWDcxsYx2n8YxQS"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1704746522.134733,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673819101,
+			"expirationDate": 1673815535,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -57,24 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673385622,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704750101.953044,
+			"expirationDate": 1704746522.134806,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -83,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3Apun9ziyRv0O4Vg%3A2%3A1672058229%3A-1%3A-1%3A%3AAcXEzW5NqvwSsWdVk3qE_WkV7zIiLElO7twAdJ8XOoU"
+			"value": "35%3AFsut9gK8umsnaw%3A2%3A1672057752%3A-1%3A-1%3A%3AAcXx_Iel4Fz34HrzeBU_ci79MW2tv5wll2ideL58GKo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680990136.861985,
+			"expirationDate": 1680986555.077278,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GksVwKdNQXOFosz9.AWXSzk_lvvxtIvHrlWeV9mGW35M.BjuziW.4p.AAA.0.0.Bjuzi4.AWXEofOKgxs"
+			"value": "0ciVDW6E1fKMoERyr.AWXVAtjTU3N5kHAw0SaHH34YciI.Bjuyqa.O8.AAA.0.0.Bjuyq7.AWXA2J3bT4I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,11 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673214257417%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673210691646%2C%22v%22%3A1%7D"
 		}
-	],
-	"screenname": "Olga Mina",
-	"birthdate": "1995 June 10",
-	"country": "",
-	"isAvatarExists": false
+	]
 }
