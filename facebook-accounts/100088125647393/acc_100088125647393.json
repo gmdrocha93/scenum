@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6281235596166",
 	"password": "FkqfnUzJ",
-	"lastEventDate": "09.01.2023 08:57 [AUTHORIZATION]",
+	"lastEventDate": "09.01.2023 19:07 otvyzka",
 	"status": 2,
 	"id": "100088125647393",
 	"name": "",
-	"amountFriends": "72",
+	"amountFriends": "78",
 	"screenname": "Гражина Тагирова",
 	"birthdate": "1994 November 29",
 	"country": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704733903.044069,
+			"expirationDate": 1704827100.844779,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673515804,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvNmdmamI3ejExaSIsInRpbWUiOjE2NzMxOTg3Njd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673895900,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -66,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvMGFhajEwMndrZGUiLCJ0aW1lIjoxNjcyOTEwODc1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673803235,
+			"expirationDate": 1673896021,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704733903.044141,
+			"expirationDate": 1704827100.844816,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AppF3L-Jnx0smpA%3A2%3A1669914709%3A-1%3A16145%3A%3AAcUB4aDwqQYixRkPfuERp4kQALYLtwXMqo_XSMmtNJw"
+			"value": "2%3AppF3L-Jnx0smpA%3A2%3A1669914709%3A-1%3A16145%3A%3AAcVbHYPJPdMit8s3K_S0ZvfGk2Q6yKEPLF-z5k487dE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680974314.562502,
+			"expirationDate": 1681067106.387825,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZsvP7cYmjvLJNvgL.AWU0VdxEFpj8vFWGW64alCsKAaM.BjuvlP.6B.AAA.0.0.Bjuvrr.AWWjdqTu0Ys"
+			"value": "0Gci7XsSuBx8i2aZn.AWVetz1_itjnoy0RgyY6gDEkIXI.BjvGVd.6B.AAA.0.0.BjvGVj.AWU1aDKvjaQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673198411966%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100067809432907%22%7D%2C%7B%22i%22%3A%22u.100084933171909%22%7D%5D%2C%22utc3%22%3A1673291199602%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
