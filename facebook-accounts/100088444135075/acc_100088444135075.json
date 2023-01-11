@@ -98,7 +98,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673985691,
+			"expirationDate": 1674026497,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674026497,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -107,11 +120,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681156770.617529,
+			"expirationDate": 1681197535.724519,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -120,7 +133,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cGlQ7wJPlYz2OR0t.AWVCvVagDuLk33KOhWGxlJAjfjY.BjniO9.A8.AAA.0.0.BjvcOj.AWV_CgTfkew"
+			"value": "0cGlQ7wJPlYz2OR0t.AWVvJigD-j7q_479C2ml6bGYy48.BjniO9.A8.AAA.0.0.BjvmLg.AWUQFzM63cY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -132,12 +145,16 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673380896340%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673421665647%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.01.2023 07:18 petr d21",
+	"lastEventDate": "11.01.2023 07:21 petr d21",
 	"email": "mallorwright1986@outlook.com",
 	"emailPassword": "vJ4BKLV",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"screenname": "Ksenija Feldmanis",
+	"birthdate": "2001 May 14",
+	"country": "Jurmala",
+	"isAvatarExists": false
 }
