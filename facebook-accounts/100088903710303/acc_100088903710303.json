@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704895544.155994,
+			"expirationDate": 1704972085.017944,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673964487,
+			"expirationDate": 1674041097,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -61,7 +61,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673964443,
+			"expirationDate": 1704972085.018017,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "37%3AaGTnmvdc___07Q%3A2%3A1670830493%3A-1%3A-1%3A%3AAcUBZ65kiyn6iMAgUavtlgQ0e_7gRxX4jb-NadjQyNM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674041098,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,20 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704895544.156039,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "37%3AaGTnmvdc___07Q%3A2%3A1670830493%3A-1%3A-1%3A%3AAcWLvKPFATaqiIo1Hcwo6bG5f30tUc8hx2Y9ieobJ6A"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681135569.254599,
+			"expirationDate": 1681212145.754243,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0V7eephutjC8EHwon.AWXf6HfmbfD_Jtyq0wfOGDiFrDs.BjvXC4.bX.AAA.0.0.BjvXDS.AWUX35dNVnY"
+			"value": "0NleVt7A4ypmtKJ4v.AWWSUKLXpUHWkN2_aq4mVabW0Ns.Bjvpu1.bX.AAA.0.0.Bjvpvy.AWWJEHfbo8E"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,12 +108,16 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673359645738%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673436269147%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.01.2023 11:21 petr d21",
+	"lastEventDate": "11.01.2023 11:25 petr d21",
 	"email": "vadimkuw0ek@outlook.com",
 	"emailPassword": "Fzox4bslg",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"screenname": "Juta Pavlova",
+	"birthdate": "1997 July 20",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
