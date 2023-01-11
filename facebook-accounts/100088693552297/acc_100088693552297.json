@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673870612,
+			"expirationDate": 1674022339,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674022339,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681041663.416535,
+			"expirationDate": 1681193403.558613,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wkhtZz38kbAlBJtX.AWVXKVebOAabQsTwonjB9yj_BkU.BjqEBd.kw.AAA.0.0.BjvAIA.AWX4oUdbujI"
+			"value": "0wkhtZz38kbAlBJtX.AWWX-FQbl-kLT-u9sUGBy67PYpk.BjqEBd.kw.AAA.0.0.BjvlK8.AWVhtu85ezs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673265788486%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673417515457%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -148,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABa6BhbkyKGUBBMEFtLSs_D2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbsieC7DBYAABV-HEwAABYAFvqJ4LsMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABb8ieC7DBYAABWAARxMAAAWABb8ieC7DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCb8ieC7DBYAABUEFTom_InguwwWAAAVBBU8JvyJ4LsMFgAAFQQVUib8ieC7DBYAABUEFWAm_InguwwWAAAVBBViJvyJ4LsMFgAAFQQVaib8ieC7DBYAABUEFW4m_InguwwWAAAVBBV0JvyJ4LsMFgAAFhwRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673265789%22%7D%2C%22d%22%3A%227a342d73-452f-4634-81bc-871daa920d6a%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaiBxaY-NakDBMEFtLSs_D2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbYzPK7DBYAABV-HEwAABYAFt7M8rsMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbgzPK7DBYAABWAARxMAAAWABbgzPK7DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbezPK7DBYAABUEFTom3szyuwwWAAAVBBU8Jt7M8rsMFgAAFQQVUibezPK7DBYAABUEFWAm3szyuwwWAAAVBBViJt7M8rsMFgAAFQQVaibezPK7DBYAABUEFW4m3szyuwwWAAAVBBV0Jt7M8rsMFgAAFhwRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673417519%22%7D%2C%22d%22%3A%227a342d73-452f-4634-81bc-871daa920d6a%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "11.01.2023 06:09 petr d12",
+	"lastEventDate": "11.01.2023 06:12 petr d12",
 	"email": "QODAFYD8ZD5@outlook.com",
 	"emailPassword": "0C9GQE5B17",
 	"imapHost": "outlook.office365.com",
