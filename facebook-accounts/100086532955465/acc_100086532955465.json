@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.01.2023 05:56 petr d1",
+	"lastEventDate": "11.01.2023 05:58 petr d1",
 	"status": 2,
 	"id": "100086532955465",
 	"name": "people/Sandra-Jenkins/100086532955465",
 	"amountFriends": "",
 	"screenname": "Sandra Jenkins",
-	"birthdate": "2000 October 26",
-	"country": "Latvia",
+	"birthdate": "",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704885877,
+			"expirationDate": 1707922862.83354,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -52,33 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704895423.478219,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100086532955465"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704885877,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "oo",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "v1%7C3%3A1673346130"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673964464,
+			"expirationDate": 1674021531,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673964464,
+			"expirationDate": 1704952367.151531,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100086532955465"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674021531,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1038x687"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704895423.478251,
+			"expirationDate": 1704952367.151569,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -113,7 +100,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "14%3A2h_6TcaVnUU33w%3A2%3A1673346127%3A-1%3A-1%3A%3AAcWQ5AvR8YNQ8PKV1lNrLmGDgff2q_M2INJhPG6K1Q"
+			"value": "7%3A2rL0Ajt4Lco4cg%3A2%3A1673362861%3A-1%3A-1%3A%3AAcXi5BU3Huom7ep8ePRUNP58S90hhIxr2gUEBkfPdw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707976368.528298,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "oo",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "v1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681192596.551296,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0UdUVbjcejne9LUMO.AWWca4xte92A6nFe0URxBD7pjvU.Bjvk97.Tx.AAA.0.0.Bjvk-V.AWWj0NKdaxo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673359637931%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673416708418%2C%22v%22%3A1%7D"
 		}
 	]
 }
