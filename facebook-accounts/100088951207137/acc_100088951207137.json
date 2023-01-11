@@ -102,7 +102,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681143311.969321,
+			"expirationDate": 1673972288,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674080341,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681251381.633707,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iJzR2Ylj1ZhnMqFw.AWXQHE6CU8wGGVrqrIESzvn3qd0.BjoUvF.b0.AAA.0.0.BjvY8Q.AWXSi6hmeE4"
+			"value": "0iJzR2Ylj1ZhnMqFw.AWVwB5cpZZHRVp9tRocJHW3Zs7k.BjoUvF.b0.AAA.0.0.BjvzU2.AWW-rLuGyr8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,36 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673367447046%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673972297,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1040x541"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673972288,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673475497611%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.01.2023 22:16 petr d10",
+	"lastEventDate": "11.01.2023 22:19 petr d10",
 	"email": "VAPUPY9Q1DB5@outlook.com",
 	"emailPassword": "CR00OJH711",
 	"imapHost": "outlook.office365.com",
