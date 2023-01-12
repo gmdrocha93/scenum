@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6281281668742",
 	"password": "5LSIcw6n",
-	"lastEventDate": "12.01.2023 13:34 petr d31",
+	"lastEventDate": "12.01.2023 13:36 petr d31",
 	"status": 2,
 	"id": "100087906086006",
 	"name": "",
@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704898300.259168,
+			"expirationDate": 1705065650.501513,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -46,19 +46,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100087906086006"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673537161,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -74,7 +61,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673967546,
+			"expirationDate": 1674135411,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674135411,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -83,11 +83,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1520x704"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704898300.25924,
+			"expirationDate": 1705065650.50155,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -96,11 +96,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3ATiSkIbqNKWct0g%3A2%3A1669922292%3A-1%3A-1%3A%3AAcW6dM1MJoa07WDHJbwKdxYAhMsB0oOOchsLyFzpo-8"
+			"value": "1%3ATiSkIbqNKWct0g%3A2%3A1669922292%3A-1%3A9285%3A%3AAcWeKUDsaVDDIEAmHRzUKOekX61R9UIXxXedxYuT1Go"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681138644.591615,
+			"expirationDate": 1681306500.464888,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +109,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wo549lZnRCxvzaZ4.AWX-5AVzjctEmwXo_Bp8xhUGUig.BjvXt9.-A.AAA.0.0.BjvXzV.AWVUgOaYYoU"
+			"value": "0s5ol5hqAGIBMZkGy.AWWI-i432W50evM9Cg7HZQO5hiY.BjwAkz.-A.AAA.0.0.BjwAyF.AWVs7iUGplg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,7 +121,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100034625345964%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100087930631965%22%7D%5D%2C%22utc3%22%3A1673362741742%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673530608422%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "thompsonkare1988@outlook.com",
