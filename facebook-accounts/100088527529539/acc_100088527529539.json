@@ -102,7 +102,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674068719,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYzViMGpvbmNmbiIsInRpbWUiOjE2NzM0NjQ2NDZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674217452,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674217452,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681239764.60982,
+			"expirationDate": 1681388519.786009,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ukqajBDOc22Yyx45.AWWA2X6WbyrMs7He5U4k6dIHTmM.Bjm6El.jB.AAA.0.0.BjvwfV.AWWb0o71RK0"
+			"value": "0ukqajBDOc22Yyx45.AWVx1hTOLOoMhFCzS3YaKdoCLUQ.Bjm6El.jB.AAA.0.0.BjwUzo.AWVNb-Q3srQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673463916196%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673612628798%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.01.2023 12:21 petr d23",
+	"lastEventDate": "13.01.2023 12:24 petr d23",
 	"email": "cookatie1998@outlook.com",
 	"emailPassword": "ygMdGl1n",
 	"imapHost": "outlook.office365.com",
