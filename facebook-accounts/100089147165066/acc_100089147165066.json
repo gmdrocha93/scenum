@@ -102,7 +102,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681279730.452233,
+			"expirationDate": 1674250905,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674251051,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681422107.629393,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qbgnFMjW5Jbx2U9h.AWVbu_X3nYR-gTGbwOLqS5uDIqY.Bjqdfc.5G.AAA.0.0.Bjv6Pz.AWWhr-Bt2i8"
+			"value": "0qbgnFMjW5Jbx2U9h.AWXZnMqAQ9DZKPdTp7PtKU_AMik.Bjqdfc.5G.AAA.0.0.BjwdAc.AWXA9idlBYs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,36 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673503853481%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674108680,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1299x885"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674108675,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673646226805%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.01.2023 21:41 petr d9",
+	"lastEventDate": "13.01.2023 21:44 petr d9",
 	"email": "E8L1MD9P3S@outlook.com",
 	"emailPassword": "DLFNWRWX4",
 	"imapHost": "outlook.office365.com",
