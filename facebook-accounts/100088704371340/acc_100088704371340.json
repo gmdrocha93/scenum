@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088704371340",
 	"name": "",
-	"amountFriends": "9",
+	"amountFriends": "14",
 	"screenname": "Lelde Karpova",
 	"birthdate": "2001 March 1",
 	"country": "Jurmala",
@@ -102,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674047361,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYm90MTEwMHJjNm0iLCJ0aW1lIjoxNjczNDQzNDAyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674205742,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -111,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674047361,
+			"expirationDate": 1674205887,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681218465.255284,
+			"expirationDate": 1681376945.446026,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0fZzMcrfqt6DpcD3E.AWXhYZ9M87qyoYHPtr4d3Zh49mo.Bjmf30.xW.AAA.0.0.BjvrSi.AWVNfWvIRjo"
+			"value": "0fZzMcrfqt6DpcD3E.AWUqCDMe3DXU-CFK4Ve49AgFbgE.Bjmf30.xW.AAA.0.0.BjwR-y.AWWp8n6J6-4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673442559775%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673601064314%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.01.2023 09:09 petr d23",
+	"lastEventDate": "13.01.2023 09:11 petr d23",
 	"email": "allekelly1989@outlook.com",
 	"emailPassword": "ts9O5ks",
 	"imapHost": "outlook.office365.com",
