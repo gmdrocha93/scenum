@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089044891503",
 	"name": "",
-	"amountFriends": "64",
+	"amountFriends": "69",
 	"screenname": "Juta Lapina",
 	"birthdate": "2001 October 10",
 	"country": "Latvia",
@@ -102,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674061009,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYnpwMm9oYXJ6dCIsInRpbWUiOjE2NzM0NTczODF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674213199,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -111,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674061410,
+			"expirationDate": 1674213199,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681232450.814606,
+			"expirationDate": 1681384304.734335,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sgK5WoqMYYlSXYXK.AWVBgNScAFRLpPusFUYN0ZsjsV8.Bjnksx.Jr.AAA.0.0.BjvutD.AWWmm-pFAE8"
+			"value": "0sgK5WoqMYYlSXYXK.AWUkz69rmOsHOt58j7fSgH-xomg.Bjnksx.Jr.AAA.0.0.BjwTxx.AWULEIABuAI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673456606946%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673608397513%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.01.2023 11:11 petr d23",
+	"lastEventDate": "13.01.2023 11:13 petr d23",
 	"email": "hardyroma1979@outlook.com",
 	"emailPassword": "pEk52UDw",
 	"imapHost": "outlook.office365.com",
