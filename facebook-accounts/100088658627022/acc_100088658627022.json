@@ -102,33 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681226339.925136,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "0sOebVIrHhDrIxIc6.AWUjuMKxIWWm2-IOttnChv4ezhE.BjnoMy.lT.AAA.0.0.BjvtNk.AWVZC7gAo78"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYnV6NzE5OWJmMW0iLCJ0aW1lIjoxNjczNDUxMjY3fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674055284,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "831x527"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674055232,
+			"expirationDate": 1674210100,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -137,7 +123,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674210100,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1040x688"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681381116.604985,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0sOebVIrHhDrIxIc6.AWWPIcRva10WHcROZi5MOIlmEb0.BjnoMy.lT.AAA.0.0.BjwS_9.AWVTcwsKdwI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673450448293%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673605295138%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.01.2023 10:18 petr d23",
+	"lastEventDate": "13.01.2023 10:21 petr d23",
 	"email": "faggaud1990@outlook.com",
 	"emailPassword": "LX0fC6fD",
 	"imapHost": "outlook.office365.com",
