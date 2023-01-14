@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "6289514089807",
 	"password": "fejyiTRS",
-	"lastEventDate": "14.01.2023 20:11 petr d33",
+	"lastEventDate": "14.01.2023 20:14 petr d33",
 	"status": 2,
 	"id": "100087904466788",
 	"name": "",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704879606.126594,
+			"expirationDate": 1708255629.998479,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087904466788%22%3A%22T7RJpFZ4%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708255629.998403,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705137080.550746,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjNrMDFhMjFoM28iLCJ0aW1lIjoxNjczNjAyMjE2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705262669.206225,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZGxvNHp0aXhuaSIsInRpbWUiOjE2NzM1MzIxNDh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674205880,
+			"expirationDate": 1674331470,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674206475,
+			"expirationDate": 1674332082,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705137080.55078,
+			"expirationDate": 1705262669.206273,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +113,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3AWbuo1Ud7ZIQYSQ%3A2%3A1669922475%3A-1%3A-1%3A%3AAcWREYlvxv_76Lotuyo_Th_aGk-G4DWbuhkCEVtxO4k"
+			"value": "46%3AEIFDvputZKLJxw%3A2%3A1673695626%3A-1%3A-1%3A%3AAcXTMZz9LqdSHqsYGDnNQsCjT4UJGPhIIfOna12gXg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681377493.695269,
+			"expirationDate": 1681503127.094312,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EcuQC3TZuySWK6Iw.AWWLsOJDcB-82vo8vGF0p2UaUSs.BjwSA5.ud.AAA.0.0.BjwSHW.AWVMv296E1c"
+			"value": "0aUuJBmEiPizF9tSe.AWUZZsR95WUzZz0tCIdwa-0d05E.BjwwrO.ud.AAA.0.0.BjwwyX.AWVDbxY5_uk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673601630828%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673727258985%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "rodrigubrian1999@outlook.com",
