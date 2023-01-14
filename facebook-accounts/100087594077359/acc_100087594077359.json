@@ -4,9 +4,9 @@
 	"password": "wlkbdoxq4160",
 	"status": 2,
 	"id": "100087594077359",
-	"lastEventDate": "14.01.2023 17:13 petr d33",
+	"lastEventDate": "14.01.2023 17:15 petr d33",
 	"name": "",
-	"amountFriends": "76",
+	"amountFriends": "90",
 	"screenname": "Taisiya Gracziano",
 	"birthdate": "1974 December 11",
 	"country": "",
@@ -14,12 +14,25 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704887886.313359,
+			"expirationDate": 1708249965.049957,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087594077359%22%3A%22djcJhorg%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708249923.128286,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705156413.407755,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZmlpaDFpNXA1cHgiLCJ0aW1lIjoxNjczNjIxNjM3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705251841.762643,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,45 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701863886.068,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZDlmamJpbWNudiIsInRpbWUiOjE2NzM1MTYyODd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705156413.407803,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "5%3AdpJc2vZ-xrz8ig%3A2%3A1668306770%3A-1%3A7600%3A%3AAcU4M9uszagLtV6zknb5iF2lnmbSnec39oRrhy6SPxI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674225231,
+			"expirationDate": 1674320641,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -104,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674225738,
+			"expirationDate": 1674321345,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +104,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681396767.414086,
+			"expirationDate": 1705251841.762676,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "8%3AedEIGZm_xpJ5eQ%3A2%3A1673689921%3A-1%3A7600%3A%3AAcWXdxSuJwQC56gyTwfFU2M-QFYYSjmRk3iP9IS9Cg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681492409.935486,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0eJWNdudgEZOJns2c.AWW-lu8QpXdrtlLD99Q_qQOJw-o.BjwWu8.WB.AAA.0.0.BjwW0g.AWWe2KEL8Ng"
+			"value": "06pEgXZy0NGf3ounP.AWXHrJADWVkMC5hXLyZubPv9wYg.BjwuCC.WB.AAA.0.0.BjwuK6.AWU1TwtbRRE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673620943451%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673716520575%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
