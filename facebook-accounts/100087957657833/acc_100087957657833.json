@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6281281674597",
 	"password": "gPHdPrTa",
-	"lastEventDate": "14.01.2023 18:23 petr d33",
+	"lastEventDate": "14.01.2023 18:26 petr d33",
 	"status": 2,
 	"id": "100087957657833",
 	"name": "",
-	"amountFriends": "106",
+	"amountFriends": "112",
 	"screenname": "Кира Корнилова",
 	"birthdate": "1997 December 1",
 	"country": "Kazakhstan",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704878062.809722,
+			"expirationDate": 1708256198.408178,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087957657833%22%3A%22wXx3A02V%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708256198.408095,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705134045.542449,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjExZDEyNDUzcXciLCJ0aW1lIjoxNjczNTk4OTUzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705256404.851476,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZG93ZzE4Z29xZXEiLCJ0aW1lIjoxNjczNTM2NDkzfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705134045.542511,
+			"expirationDate": 1705256404.851517,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3AvLJ3t9FtmWSzww%3A2%3A1669923006%3A-1%3A5586%3A%3AAcV1KhJ0737WevztuIs3PAGAD3yOUiDOA7TxAOQxV4Y"
+			"value": "22%3AQ6QGQXq3Hv8IyQ%3A2%3A1673696195%3A-1%3A5586%3A%3AAcVm8ZGXd5fEmvwqYJvrOS7R0zrIcFxOwImBfndSBg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674202855,
+			"expirationDate": 1674325206,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674203166,
+			"expirationDate": 1674325591,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681374257.54061,
+			"expirationDate": 1681496641.495915,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JPjL7QEx1JE4jJur.AWXPIlmHVvT-tV-SXpdUTa_DMQM.BjwRRe.4g.AAA.0.0.BjwRUy.AWVqCUij3Zs"
+			"value": "0mEuiRYQ2WQIe6zdd.AWUGUt6dbnkwJ8WCFx5-098zEqE.BjwvJV.4g.AAA.0.0.BjwvNC.AWUiSCsyUi4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673598361104%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673720767307%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "valeriylsso@outlook.com",
