@@ -4,9 +4,9 @@
 	"password": "thjosrgn4734",
 	"status": 2,
 	"id": "100087975243082",
-	"lastEventDate": "14.01.2023 19:46 petr d33",
+	"lastEventDate": "14.01.2023 19:48 petr d33",
 	"name": "",
-	"amountFriends": "96",
+	"amountFriends": "134",
 	"screenname": "Mariya Floyd",
 	"birthdate": "1993 October 25",
 	"country": "Luhansk",
@@ -14,12 +14,25 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704887947.638846,
+			"expirationDate": 1708248655.203429,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087975243082%22%3A%22AXiCRbcb%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708248540.948225,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705151953.429462,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZmYzNjFwZTRtY2ciLCJ0aW1lIjoxNjczNjE3MjMwfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705261121.485413,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJudTBwZHJ4azBueSIsInRpbWUiOjE2NzI2MTg2OTh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705151953.429507,
+			"expirationDate": 1705261121.485464,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3AtiwAqBuUf-xQMw%3A2%3A1668361459%3A-1%3A6993%3A%3AAcVmZ9qpCesLauzo1GKLWKsuiusYcPAaHik5wKWZwQc"
+			"value": "33%3AGbIoTmMhAvptwA%3A2%3A1673688538%3A-1%3A6993%3A%3AAcVdDmAroQzQ3stIETzziR3LvgJBo928DiKI0-iqPA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674220769,
+			"expirationDate": 1674329923,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674221197,
+			"expirationDate": 1674330506,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681392240.726468,
+			"expirationDate": 1681501595.072211,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04zenNpyyeQw1ItiQ.AWVLD4ZQ6d5LdX950irENTNgzqc.BjwVpP.h8.AAA.0.0.BjwVtx.AWUUfb1GLDY"
+			"value": "0PNVzvgcc1u7gExxj.AWUsJG3ipknSNIbEREkti-4NRO4.BjwwTC.h8.AAA.0.0.Bjwwab.AWX99K7YivA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673616401628%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673725700997%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
