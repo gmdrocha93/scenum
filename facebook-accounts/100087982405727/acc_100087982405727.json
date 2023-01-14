@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6281220446292",
 	"password": "m4aAbhzk",
-	"lastEventDate": "14.01.2023 19:00 petr d33",
+	"lastEventDate": "14.01.2023 19:01 petr d33",
 	"status": 2,
 	"id": "100087982405727",
 	"name": "",
-	"amountFriends": "91",
+	"amountFriends": "95",
 	"screenname": "Никки Захарова",
 	"birthdate": "1994 December 2",
 	"country": "Kazakhstan",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704878073.385025,
+			"expirationDate": 1708256027.71203,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087982405727%22%3A%22urlNbNsn%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708256027.711904,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705134982.770974,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjF5aDE1YnplYXYiLCJ0aW1lIjoxNjczNjAwMTUyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705258063.43918,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1705258063.43922,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZG51eDZmeDIyZiIsInRpbWUiOjE2NzM1MzQ5ODV9"
+			"value": "30%3AFxvhDnw3Gi3F5A%3A2%3A1673696026%3A-1%3A3319%3A%3AAcU-Xq4GNQ5c5FcPHyC-nQpl-LJUva4FEGcSD89FsQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674203783,
+			"expirationDate": 1674326866,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674204299,
+			"expirationDate": 1674327717,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705134982.771038,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3A2ooOhkfAo6dklw%3A2%3A1669922851%3A-1%3A3319%3A%3AAcUcrqpSNnWxfGrujZ9Uot2c07zxASusg-jFR-A6rNM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681375319.734508,
+			"expirationDate": 1681498811.371397,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0h0yAjdMfjNgX1PnB.AWU-f1E78nbFAeooda3CtsHnMAs.BjwRgH.qk.AAA.0.0.BjwRlY.AWUYw4M3rLc"
+			"value": "0HAPhJOs8RcrUMILo.AWUsqLNwxWbkNBYdU7K_3jYQ9Q4.BjwvjQ.qk.AAA.0.0.Bjwvu8.AWXUjbqEwhw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673599470400%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673722914277%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "wilkinsarah97880@outlook.com",
