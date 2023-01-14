@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088958311306",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "64",
 	"screenname": "Maruta Jakovlevs",
 	"birthdate": "1998 April 24",
 	"country": "Latvia",
@@ -102,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674152550,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZHlhbTFqdG04OW4iLCJ0aW1lIjoxNjczNTQ4NzkzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674327992,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +127,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674152812,
+			"expirationDate": 1674328077,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +140,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681323902.002492,
+			"expirationDate": 1681499193.552854,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05MiYePEjApSBvO4t.AWX69l20IJuihcMJYfALVEcPOpE.BjmgtN.PS.AAA.0.0.BjwFB-.AWVFRpKjqzo"
+			"value": "05MiYePEjApSBvO4t.AWXnFShSJBNkDJtuZoHw7CHVr58.BjmgtN.PS.AAA.0.0.Bjwv06.AWXNO19GCKw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673548007453%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673723281646%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.01.2023 19:06 petr d23",
+	"lastEventDate": "14.01.2023 19:08 petr d23",
 	"email": "debbiewa1993@outlook.com",
 	"emailPassword": "24qFAA62",
 	"imapHost": "outlook.office365.com",
