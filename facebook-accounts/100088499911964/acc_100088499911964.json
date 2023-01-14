@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6281281670574",
 	"password": "WMT5OkqE",
-	"lastEventDate": "14.01.2023 19:35 petr d33",
+	"lastEventDate": "14.01.2023 19:37 petr d33",
 	"status": 2,
 	"id": "100088499911964",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "101",
 	"screenname": "Милена Газизова",
 	"birthdate": "1997 December 1",
 	"country": "Kazakhstan",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704878083.588532,
+			"expirationDate": 1708255897.888157,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100088499911964%22%3A%22jwDSPfeV%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708255897.888081,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705135942.510701,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjJrZjFrZzF6dGUiLCJ0aW1lIjoxNjczNjAwOTM0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705260502.832731,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1705260502.832781,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZG56eDE0bGNiaTkiLCJ0aW1lIjoxNjczNTM1MTY1fQ%3D%3D"
+			"value": "19%3AiHe8EpPHE6Ekpg%3A2%3A1673695894%3A-1%3A6888%3A%3AAcWmROpbHYYUKVJwLW40s8YpLn_L9zMpW8AJyDm51Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674204742,
+			"expirationDate": 1674329304,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674205200,
+			"expirationDate": 1674329837,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705135942.510736,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "44%3Ak3lxEuxs6k3z0A%3A2%3A1669922707%3A-1%3A6888%3A%3AAcXKXcFuhwBCo78GnOrzA2gsQEBm4ELXz2eoHdeEEGs"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681376291.565839,
+			"expirationDate": 1681500919.918221,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dTKsEpgdLoBVxssn.AWWCDiu9L3UWtV2w8dX3ryvyzUU.BjwRvH.Mm.AAA.0.0.BjwR0k.AWUb8lOcvL4"
+			"value": "0TpOvyT1YNBUW1w7M.AWWHekKG6eo9uzKA95jTsTKK0Xc.BjwwJX.Mm.AAA.0.0.BjwwP4.AWXzt9LOnN0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673600394587%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673725028342%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "rwoods19891@outlook.com",
