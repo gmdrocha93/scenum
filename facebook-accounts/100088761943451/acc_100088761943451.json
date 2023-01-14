@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "87072182905",
 	"password": "qwe123rtY",
-	"lastEventDate": "14.01.2023 09:32 petr d16",
+	"lastEventDate": "14.01.2023 09:34 petr d16",
 	"status": 2,
 	"id": "100088761943451",
 	"custom": {},
@@ -37,7 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705103246.552517,
+			"expirationDate": 1705224552.491863,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674172321,
+			"expirationDate": 1674293652,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674293652,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -71,11 +84,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705103246.552559,
+			"expirationDate": 1705224552.491901,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +97,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3A25kmbq290yVCxg%3A2%3A1671373866%3A-1%3A3270%3A%3AAcWvP7_88l79Ynb9611-tUjf2RwEXh4XRMlrEr_P7ZI"
+			"value": "10%3A25kmbq290yVCxg%3A2%3A1671373866%3A-1%3A3270%3A%3AAcX_-mMhovSaGbGXt1vO7CWC8sEF8D14P8Yci58mm_8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681343416.828324,
+			"expirationDate": 1681464740.296342,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cb3cmyvi9fxlCzjW.AWUKg8zPlYVCz_dKB-6gdpOKH8g.BjwJwP.5v.AAA.0.0.BjwJy5.AWXOME-HnJM"
+			"value": "0b9a8hcEkKfc6pPg7.AWW29OAjpkbtczVF2ZiiTs_scys.BjwnXp.5v.AAA.0.0.Bjwnal.AWW2xC2mG98"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,7 +122,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673567516865%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673688849522%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Daria Solova",
