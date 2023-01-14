@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6282189345621",
 	"password": "NSjb7H0M",
-	"lastEventDate": "14.01.2023 17:56 petr d33",
+	"lastEventDate": "14.01.2023 17:57 petr d33",
 	"status": 2,
 	"id": "100087904526260",
 	"name": "",
-	"amountFriends": "54",
+	"amountFriends": "65",
 	"screenname": "Таисия Стрелкова",
 	"birthdate": "1994 December 1",
 	"country": "Kazakhstan",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704877705.524013,
+			"expirationDate": 1708256539.917382,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087904526260%22%3A%22mFqxizYn%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708256500.021378,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705133163.829202,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjBhZGE1N2podCIsInRpbWUiOjE2NzM1OTgwMDF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705254192.820963,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,19 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1705254192.821004,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZHB0OWxudXZqdSIsInRpbWUiOjE2NzM1Mzc2NzR9"
+			"value": "23%3AmR8AzrKUUyWzCg%3A2%3A1673696496%3A-1%3A5589%3A%3AAcWqGj3vJwiM3H3RIQpDszjCeKfb1ca37vrPe-0V_w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674142746,
+			"expirationDate": 1674322998,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674202132,
+			"expirationDate": 1674323875,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705133163.829252,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "24%3A_NLqfd69Pj2ExQ%3A2%3A1669923121%3A-1%3A5589%3A%3AAcXYM30qqLDH9Yfi5Ox1BQ9eGOCUqVxAgJU1aR4RNCo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681373207.367938,
+			"expirationDate": 1681494969.668594,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0D673WUCTAfETDtk1.AWV21gyExA05waVwAJszlu0bkMQ.BjwRDs.uu.AAA.0.0.BjwREY.AWUtltCMmL4"
+			"value": "0iMh8APcr51pb8RyQ.AWWnAEbaJL5grZjAITP0Otaiomk.Bjwumw.uu.AAA.0.0.Bjwuy6.AWWCI5fDgjU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100051367361184%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673597325265%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673719067676%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "borisgexe@outlook.com",
