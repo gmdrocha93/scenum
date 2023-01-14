@@ -115,7 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674166710,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZTh4djVuYjA2cCIsInRpbWUiOjE2NzM1NjI2ODZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674320552,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1902x909"
+			"value": "1904x910"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681337777.898872,
+			"expirationDate": 1681491583.50882,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0f3yptKno3pttmani.AWVsXerF-e-ioBWnIPrclJu31v4.Bjma-D.0V.AAA.0.0.BjwIay.AWVBBFCPKoE"
+			"value": "0f3yptKno3pttmani.AWUnXgRD5jWbMy7sPr37bZ4E8gE.Bjma-D.0V.AAA.0.0.Bjwt-A.AWUae5k7AHY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673561887676%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673715729586%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.01.2023 16:59 petr d23",
+	"lastEventDate": "14.01.2023 17:02 petr d23",
 	"email": "dayoder1999@outlook.com",
 	"emailPassword": "dH8dxia",
 	"imapHost": "outlook.office365.com",
