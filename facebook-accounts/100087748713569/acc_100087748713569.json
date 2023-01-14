@@ -4,18 +4,31 @@
 	"password": "mrocaoex3990",
 	"status": 2,
 	"id": "100087748713569",
-	"lastEventDate": "14.01.2023 18:51 petr d33",
+	"lastEventDate": "14.01.2023 18:53 petr d33",
 	"name": "people/Caroline-Matveeva/100087748713569",
 	"amountFriends": "",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704887919.53868,
+			"expirationDate": 1708249160.973664,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087748713569%22%3A%22PmnxB02X%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708249155.374415,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -36,7 +49,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705153784.75767,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZmdhYTFteThmcTkiLCJ0aW1lIjoxNjczNjE4NzM0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705257562.043603,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,19 +74,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1705257562.043635,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZGNscG51anFiYiIsInRpbWUiOjE2NzM1MjAzOTd9"
+			"value": "16%3AB78zKP4hq8qhgg%3A2%3A1673689153%3A-1%3A13977%3A%3AAcXLobqZEr78uqUeXqG1YdFT8IUcJrZn1Vo-_dtCfw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674222673,
+			"expirationDate": 1674326364,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,20 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705153784.757717,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "47%3A0_GOgG7YDNPelg%3A2%3A1667888623%3A-1%3A13977%3A%3AAcWs2S5hSTUEIUjZQszWnE28tpLzjASLlkMFmrDOMis"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674222903,
+			"expirationDate": 1674327202,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681393884.081236,
+			"expirationDate": 1681498283.104888,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "056CABxYX8FTdloA2.AWWoqIyy7aRluEDRr3oLWnlNwFQ.BjwWF3.Gl.AAA.0.0.BjwWHc.AWXZsJkmWAM"
+			"value": "0Ob5emNXMyUbFkHjh.AWXG8FxDvI8KsJNAl0y0KMlUOUE.Bjwvba.Gl.AAA.0.0.Bjwvmr.AWWAPiffHxw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,12 +134,12 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673618107480%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673722379423%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Caroline Matveeva",
-	"birthdate": "1979 November 13",
-	"country": "Ukraine",
+	"birthdate": "",
+	"country": "",
 	"isAvatarExists": false,
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100089106968406"
