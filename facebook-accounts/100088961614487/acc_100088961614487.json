@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "87027619720",
 	"password": "qwe123rtY",
-	"lastEventDate": "14.01.2023 09:49 petr d16",
+	"lastEventDate": "14.01.2023 09:51 petr d16",
 	"status": 2,
 	"id": "100088961614487",
 	"name": "",
@@ -103,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674171331,
+			"expirationDate": 1674294662,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674294662,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1302x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681342426.922181,
+			"expirationDate": 1681465748.184193,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KvbzCpxjojbMYu2v.AWWFuy-pvLwJ-dghc-bec5boQCo.Bjnh0y.qN.AAA.0.0.BjwJjb.AWVfxLjmVhQ"
+			"value": "0KvbzCpxjojbMYu2v.AWUrm0YhrZW2gYFwVaYOh7Tbtg8.Bjnh0y.qN.AAA.0.0.BjwnqV.AWWX7TmKMm8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673566528968%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673689858750%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "aerin53976@outlook.com",
