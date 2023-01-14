@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
 	"id": "100087788289718",
-	"lastEventDate": "02.01.2023 01:30 petr d25",
+	"lastEventDate": "14.01.2023 21:05 petr d33",
 	"status": 2,
 	"name": "",
-	"amountFriends": "78",
+	"amountFriends": "89",
 	"screenname": "Emersyn Shiryaeva",
 	"birthdate": "2000 March 27",
 	"country": "Ukraine",
@@ -12,12 +12,25 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704887975.50826,
+			"expirationDate": 1708247861.32701,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087788289718%22%3A%22ZEjC8ZKu%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708247735.959797,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -38,7 +51,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703768960.780501,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZnQyNHVzNW1xNiIsInRpbWUiOjE2NzM2MzYwMDB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705266205.471965,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,33 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701863975.265,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJseG5rZDFyeGhqdXAiLCJ0aW1lIjoxNjY5NDI4ODc3fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1701863975.265,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672838062,
+			"expirationDate": 1674334207,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -86,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672838062,
+			"expirationDate": 1674335151,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703768960.780533,
+			"expirationDate": 1705266205.472022,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3AN22TuQYvgbhVLQ%3A2%3A1668373079%3A-1%3A2544%3A%3AAcVhc8bZ7oVm22avuPGTU89EOu-yzefvP9Uk8gpHn04"
+			"value": "30%3AfVEYEaYGNRm0Qw%3A2%3A1673687733%3A-1%3A2544%3A%3AAcUqgnR9MzfonxLMxx56mY0Pusva5ebrgibLdiE2rg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680009159.049282,
+			"expirationDate": 1681506246.287766,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HfSTZch1f6eB5jPR.AWX9GEj3OFO78orF5jO9t4O23es.BjrEAB.nM.AAA.0.0.BjrEDH.AWVgL198rPc"
+			"value": "0kwoxI5APUSVaVjwq.AWUSBVewAiuuP6f3G5OaAD8QhLI.Bjwxie.nM.AAA.0.0.BjwxjH.AWXJaMfeapo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672233257343%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673730347036%2C%22v%22%3A1%7D"
 		}
 	],
 	"login": "rhrelyeq@firstmailler.net",
