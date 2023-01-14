@@ -4,18 +4,31 @@
 	"password": "yusxqmaq8562",
 	"status": 2,
 	"id": "100087671864781",
-	"lastEventDate": "14.01.2023 17:39 petr d33",
+	"lastEventDate": "14.01.2023 17:41 petr d33",
 	"name": "",
-	"amountFriends": "80",
+	"amountFriends": "88",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704887897.032347,
+			"expirationDate": 1708249762.410416,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087671864781%22%3A%22EclbNXNn%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708249709.655789,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -36,7 +49,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705154940.805011,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZmhncDFsbjlzMDEiLCJ0aW1lIjoxNjczNjIwMzA5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705253630.190954,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,19 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvMGdmemRmaXhiaSIsInRpbWUiOjE2NzI5MTg4NDd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705154940.805048,
+			"expirationDate": 1705253630.190994,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -70,11 +83,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3APL3m0ohiNJJlnw%3A2%3A1669158511%3A-1%3A15470%3A%3AAcUwDv1Q4h0z72AVeDchSO-su4HIEzEYJLg4RARh37E"
+			"value": "19%3AYbbYWrRP2qa_aA%3A2%3A1673689707%3A-1%3A15470%3A%3AAcVS7RrpGV1tMXBSxLhyZgr_REVJ-kKT6RHWAjUQKg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674223755,
+			"expirationDate": 1674322434,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -87,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674224421,
+			"expirationDate": 1674322900,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681395456.863713,
+			"expirationDate": 1681493988.209341,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vEUqDJObFnjxQ62z.AWUJhd4PL83tSVBkoLKCWL62AK0.BjwWX9.uf.AAA.0.0.BjwWgB.AWXkzBAcoLA"
+			"value": "0cJDQgSWu2j64cu5p.AWULKMVEJwvAISio3HizCG0FDIM.Bjwud_.uf.AAA.0.0.Bjwujk.AWXPs2C3I0g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,7 +134,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100085156411797%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22g.6371513246212132%22%7D%2C%7B%22i%22%3A%22u.100074550793970%22%7D%2C%7B%22i%22%3A%22u.100052885506359%22%7D%5D%2C%22utc3%22%3A1673619601859%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673718093868%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Aliya Sai",
