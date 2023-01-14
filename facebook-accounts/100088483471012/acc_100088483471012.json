@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "6285236391927",
 	"password": "z2C9DRX9",
-	"lastEventDate": "14.01.2023 16:07 petr d33",
+	"lastEventDate": "14.01.2023 16:09 petr d33",
 	"status": 2,
 	"id": "100088483471012",
 	"name": "",
-	"amountFriends": "117",
+	"amountFriends": "124",
 	"screenname": "Зарина Беляева",
 	"birthdate": "1995 November 29",
 	"country": "Kazakhstan",
@@ -14,7 +14,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704877674.337724,
+			"expirationDate": 1708257205.053492,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100088483471012%22%3A%220qYrYaEZ%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708257170.76248,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -40,19 +53,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705128782.075814,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088483471012"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -61,24 +61,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZHN5MXBnaHRociIsInRpbWUiOjE2NzM1NDE2MDh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZXhxbDZ4ZHExZiIsInRpbWUiOjE2NzM1OTQ3MTF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674197759,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674197759,
+			"expirationDate": 1674317376,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705128782.075881,
+			"expirationDate": 1674317376,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705247814.202316,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088483471012"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705247814.202349,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +113,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3ACiUSo84AZeXa8A%3A2%3A1669948532%3A-1%3A3714%3A%3AAcXTAj5x-cV0MPG6GJFWDCNIuMPpW5XJPKy_fMGBNkQ"
+			"value": "41%3AkGk6taMjTI0wUw%3A2%3A1673697168%3A-1%3A3714%3A%3AAcVKUG5Dc3QqqPN0COICI2m6mKQ5inxSHJJvg9zySw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681368813.156662,
+			"expirationDate": 1681488474.85286,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wUntQm0u73oPckDj.AWXEnei6b2hrrKaMcpPDSYZJLX0.BjwP_O.AM.AAA.0.0.BjwP_t.AWV_d4-4reY"
+			"value": "0H4682OQYSYn6fbXT.AWU2EQQDPrWGiaUj2uUOJLuYiqk.BjwtDF.AM.AAA.0.0.BjwtNb.AWXQHmE_N98"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673592935103%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673712573509%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "ivanpoqxste@outlook.com",
