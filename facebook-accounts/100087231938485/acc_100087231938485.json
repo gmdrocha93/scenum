@@ -4,35 +4,22 @@
 	"password": "vEmnHn0",
 	"status": 2,
 	"id": "100087231938485",
-	"lastEventDate": "14.01.2023 13:07 petr d33",
+	"lastEventDate": "14.01.2023 13:10 petr d33",
 	"name": "people/Ethan-Mary/100087231938485",
 	"amountFriends": "88",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703841673.360394,
+			"expirationDate": 1708246304.077105,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "unspecified",
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "100087231938485"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703841673.360494,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "44:UHAmiQsKFxTMew:2:1666669828:-1:-1"
+			"value": "%7B%22100087231938485%22%3A%22B0wclSz5%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -49,25 +36,12 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703841673.360544,
+			"expirationDate": 1708246250.928392,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100087231938485"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703841694.267904,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -83,11 +57,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZDNycjFnb3JncGgiLCJ0aW1lIjoxNjczNTA5MTA2fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZm4yN25vajNsYyIsInRpbWUiOjE2NzM2Mjc1NTd9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674230999,
+			"expirationDate": 1674306605,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -96,11 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674231511,
+			"expirationDate": 1674306580,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -109,11 +83,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1520x704"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681402483.412456,
+			"expirationDate": 1705237299.892309,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087231938485"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705237299.892343,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "32%3AzY_lJMNsPxzzag%3A2%3A1673686247%3A-1%3A5586%3A%3AAcXpeKG7ypYrWQn1KLImzZ1vPFoQ-bInlrWZU2ucoA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681477670.749012,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07mJ6hhR9DtFeHbau.AWUCf5qmnWhP3bdJXplFRPHIXGM.BjV10E.h-.AAA.0.0.BjwYN0.AWXS75MnV8w"
+			"value": "0u5OJfnBA2xqYyi2F.AWVfNmpKNCbELeTCC_ojnZHEUTo.Bjwqe0.h-.AAA.0.0.Bjwqkn.AWVPdWtz5k8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,15 +134,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673626656131%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673701782958%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100088717218347"
 	],
-	"screenname": "Ethan Mary",
-	"birthdate": "1993 December 1",
-	"country": "",
-	"isAvatarExists": false,
 	"adsToken": "EAABsbCS1iHgBAJ2IpesIEDOQ24UzD76ZCkhTqpg3Bu1cAZBanD1B5gePnjSK0h5TAovtReW8v0QtE93GRoB4BQhi9ZBYiRavR7FyWbJrgRAwXdIcn6UuTCJLd7n730TCfvLQbypL08CMW5wSA6wQ5NYa9mIaO5ZA0ZCZBY2WfrDbw0enqtbrDJFZBomYJpgjZCMZD"
 }
