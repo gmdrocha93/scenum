@@ -4,35 +4,22 @@
 	"password": "UsZyINZ",
 	"status": 2,
 	"id": "100087197231174",
-	"lastEventDate": "14.01.2023 08:36 petr d33",
+	"lastEventDate": "14.01.2023 08:41 petr d33",
 	"name": "people/Billy-Rachel/100087197231174",
 	"amountFriends": "",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703841657.463654,
+			"expirationDate": 1708245391.840582,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "unspecified",
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "100087197231174"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703841657.463737,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "33:fFf7BnzluFcZIA:2:1666714407:-1:-1"
+			"value": "%7B%22100087197231174%22%3A%22u9xhNncv%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -49,25 +36,12 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703841657.463767,
+			"expirationDate": 1708245353.277229,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100087197231174"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704540596.166692,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -83,11 +57,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZDNqbWppOTV0dSIsInRpbWUiOjE2NzM1MDg3ODV9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZm53bHliMDh6aSIsInRpbWUiOjE2NzM2Mjg2MTB9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674232324,
+			"expirationDate": 1674290479,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -96,11 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674232749,
+			"expirationDate": 1674290479,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -109,11 +83,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1520x704"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681403748.9339,
+			"expirationDate": 1705221351.277273,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087197231174"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705221351.27729,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "13%3A2XivDl1EPfU43Q%3A2%3A1673685350%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681461418.638347,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dXovNfkdciskJqmo.AWXjzVRbOZetHosJk7pQ1hLoUA0.BjhGlo.eY.AAA.0.0.BjwYhl.AWWCM_a3pL4"
+			"value": "0dXovNfkdciskJqmo.AWV1ko1VpnsLfBWzmces1iNFGBk.BjhGlo.eY.AAA.0.0.Bjwmmq.AWVNvvsMvMM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,15 +134,15 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673627897405%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673685646577%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/Wander-with-us-114273991534691"
 	],
 	"screenname": "Billy Rachel",
-	"birthdate": "1991 December 3",
-	"country": "Kazakhstan",
+	"birthdate": "",
+	"country": "",
 	"isAvatarExists": false,
 	"adsToken": "EAABsbCS1iHgBAHi7pL42KS5UF1ffXHcpwa7dxig0FVDpeMS87AuBZCx6HGKzzLAW6U1ZCRYcQrwXgp3V6EZBt5xRe6GFQvSEHuOaBVTzYZAkVAgcaBiVSxsRpBIB8beZBOgPMFBZBvuJPzzgqXn0m9giG0bVPGYaZA4DIedvxJS9BY4dkfImMZCXPLZAeZAYgsoEeF7hrGWZAIupAZDZD"
 }
