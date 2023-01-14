@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705115363.946908,
+			"expirationDate": 1705240618.699344,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674183958,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZW1oZHlvejlwZyIsInRpbWUiOjE2NzM1ODAyNTJ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705115363.946939,
+			"expirationDate": 1705240618.699379,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +73,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3AYTt9h5OXwgt7GA%3A2%3A1670696618%3A-1%3A716%3A%3AAcXD1DvjQ8Z42Hg4B6FMXgk_ym8zqXLgGhB6OueihOQ"
+			"value": "49%3AYTt9h5OXwgt7GA%3A2%3A1670696618%3A-1%3A716%3A%3AAcUZLzev_KSULYaEKSvIfAvHtfMnxFT4e8tkhvV4qqM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674184283,
+			"expirationDate": 1674309556,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674309557,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1520x704"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681355387.906246,
+			"expirationDate": 1681480647.467863,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0awCfbIwsDzjavvm1.AWVZEwoVXFo4KZgET6fHcYKc6Ts.BjwMtk.N9.AAA.0.0.BjwMt8.AWXP-75oaDg"
+			"value": "0tdpq3iN4gJfirpZA.AWVzkEuDr9DHUIoNTfpa-RiVDQ0.BjwrSr.N9.AAA.0.0.BjwrTI.AWUKj7MGgWg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,10 +124,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673579479679%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673704751432%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.01.2023 13:57 petr d23",
+	"lastEventDate": "14.01.2023 13:59 petr d23",
 	"email": "pavelw5g@outlook.com",
 	"emailPassword": "q7xyJ8srhn",
 	"imapHost": "outlook.office365.com",
