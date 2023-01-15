@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "87054113666",
 	"password": "qwe123rtY",
-	"lastEventDate": "15.01.2023 19:49 petr d17",
+	"lastEventDate": "15.01.2023 19:52 petr d17",
 	"status": 2,
 	"id": "100088911397166",
 	"custom": {},
@@ -37,7 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705276741.862292,
+			"expirationDate": 1705347236.207625,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -50,7 +50,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674345534,
+			"expirationDate": 1705347236.20766,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "4%3ABSzGD2uBubBB4g%3A2%3A1671374919%3A-1%3A-1%3A%3AAcUl32SETW_K1_oo6H9ApRVd3nsYPGU4qhiIcEsG190"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674416990,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -63,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674345875,
+			"expirationDate": 1674417134,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -72,24 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x688"
+			"value": "832x528"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705276741.862324,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "4%3ABSzGD2uBubBB4g%3A2%3A1671374919%3A-1%3A-1%3A%3AAcXnqA8aY3OfKY9MVYyyFvxtWQxn6BLBA0n1mCK0Q_k"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681516931.641335,
+			"expirationDate": 1681588192.231947,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00LyWUViAiFQExOL3.AWW6x8skrLqGOR9QrLFM8VIf72w.Bjw0HG.2D.AAA.0.0.Bjw0KE.AWV6URXitb0"
+			"value": "0YqJvI2QtOMcNtR7i.AWVMFbQdGKi87_R_eoHKEDvVaoI.BjxFUl.2D.AAA.0.0.BjxFjh.AWXZhAi1Rvs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673741051068%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673812310103%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Daria Tishko",
