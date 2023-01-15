@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100087886196469",
 	"name": "",
-	"amountFriends": "76",
+	"amountFriends": "87",
 	"screenname": "Дарьяна Куликова",
 	"birthdate": "1995 December 1",
 	"country": "Kazakhstan",
@@ -13,7 +13,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704806081.555887,
+			"expirationDate": 1708260350.335528,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087886196469%22%3A%226dkqFT2P%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708251713.36283,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -38,19 +51,6 @@
 			"value": "BvaIYy9KHGhvWptaOWVpFPLG"
 		},
 		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705166433.244116,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100087886196469"
-		},
-		{
 			"domain": "www.facebook.com",
 			"expirationDate": 1701782081.312,
 			"hostOnly": true,
@@ -65,7 +65,45 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674183883,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZnFqZTFuZmlvbnkiLCJ0aW1lIjoxNjczNjMyMDY3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705279344.612084,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087886196469"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705279344.612123,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AhViA6WFN3gZTbQ%3A2%3A1673691710%3A-1%3A13881%3A%3AAcX6CqN5ArqewpxUysk3DazJI_j_sdLRWCDeTgF-Bg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674348147,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674236049,
+			"expirationDate": 1674348706,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,32 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZWxmMzE1NnJ3bDkiLCJ0aW1lIjoxNjczNTc4NjA4fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705166433.244155,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "46%3AxxbpZuldae7uSQ%3A2%3A1669920277%3A-1%3A13881%3A%3AAcXRmd5OZwjvvvUPipkw74A27ltKIjYHreSsnzV1N_E"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681407073.751319,
+			"expirationDate": 1681519800.377418,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zG8wLYO1yEVWDsp1.AWVsBqFII1aGhuVUfWYP7uYkJ54.BjwZLh.Hw.AAA.0.0.BjwZVi.AWVBBG8Ib-k"
+			"value": "06EolhYz4XILf68k9.AWVzHQdTW3XK5VXSFOdTxZKpLEY.Bjw0vx.Hw.AAA.0.0.Bjw025.AWXHyXAcakk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,10 +150,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673631230624%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673743900499%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "15.01.2023 00:49 petr d33",
+	"lastEventDate": "15.01.2023 00:51 petr d33",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100088670366238"
 	],
