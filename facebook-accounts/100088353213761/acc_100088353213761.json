@@ -3,7 +3,7 @@
 	"status": 2,
 	"id": "100088353213761",
 	"name": "",
-	"amountFriends": "94",
+	"amountFriends": "103",
 	"screenname": "Стефания Панина",
 	"birthdate": "1997 November 26",
 	"country": "Latvia",
@@ -11,7 +11,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704720826.725603,
+			"expirationDate": 1708332992.312351,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100088353213761%22%3A%22ELkuVHiw%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708332958.44038,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -37,32 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705227811.295501,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088353213761"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZjJmMWRrOXhwaSIsInRpbWUiOjE2NzM2MDA1MDl9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674296722,
+			"expirationDate": 1674459877,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -75,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674296722,
+			"expirationDate": 1674459877,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,7 +76,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705227811.295543,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvaDE4bmp5dm55YiIsInRpbWUiOjE2NzM2OTI0NDV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705390953.169024,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088353213761"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705390953.169076,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -97,11 +110,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3ANqim3hI1RQ1GuQ%3A2%3A1669913673%3A-1%3A15645%3A%3AAcWD9k6FEsTtv-Le-PlHiG6V0D16Vo_3bWbECAPYb7A"
+			"value": "50%3AtikBTcWNdjqGvg%3A2%3A1673772955%3A-1%3A15645%3A%3AAcV-0zqIUKw89gEX-c0Gx5KgXGSQ_Yv_83ZsFngm5A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681467817.61522,
+			"expirationDate": 1681630979.718048,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SXr1OeDY0bm10u7r.AWVQmO639t_r_qiJYv2MlCNZEyU.BjwoKj.Rc.AAA.0.0.BjwoKq.AWVsIHUkRW8"
+			"value": "0PES6x3Fcdju24tek.AWVvplAG0CKo82f09939WEIiakM.BjxP_q.Rc.AAA.0.0.BjxQAE.AWV9nha31f0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,10 +135,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100044831014830%22%7D%2C%7B%22i%22%3A%22u.100087970584362%22%7D%5D%2C%22utc3%22%3A1673691918849%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673855073224%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.01.2023 07:42 petr d33",
+	"lastEventDate": "16.01.2023 07:44 petr d33",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100088806472256"
 	],
