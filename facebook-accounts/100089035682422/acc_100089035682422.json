@@ -2,12 +2,12 @@
 	"sn": "facebook",
 	"login": "87753506172",
 	"password": "qwe123rtY",
-	"lastEventDate": "16.01.2023 13:44 petr d18",
+	"lastEventDate": "16.01.2023 13:46 petr d18",
 	"status": 2,
 	"id": "100089035682422",
 	"custom": {},
 	"name": "",
-	"amountFriends": "72",
+	"amountFriends": "79",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705340406.626788,
+			"expirationDate": 1705412240.255675,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,7 +74,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674409748,
+			"expirationDate": 1705412240.255712,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "43%3AXCTRPLub_QQxvA%3A2%3A1671371515%3A-1%3A542%3A%3AAcXKxDg97E7pp4F4M7sAJBIVssygbX2b7jq1w7y_LTQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674481573,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -87,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674409748,
+			"expirationDate": 1674481573,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,20 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705340406.62683,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "43%3AXCTRPLub_QQxvA%3A2%3A1671371515%3A-1%3A542%3A%3AAcXcljfQj71EIQu1mN1G7i4UmJD0GhjvMAZCa0euChg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681580842.787626,
+			"expirationDate": 1681652659.271783,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0n8ZxfmetdD61hsWQ.AWWRLrjMpa7vO0rRrOCxIysFilc.BjxDp3.fT.AAA.0.0.BjxDwr.AWVO6gw5pjE"
+			"value": "0FSHx2tT2aX4YaJmJ.AWVd9T5ab0vX_NPpK4OxNm12poQ.BjxVMR.fT.AAA.0.0.BjxVS0.AWV28Ih1Z0I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,7 +134,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100087524415865%22%7D%5D%2C%22utc3%22%3A1673804943342%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100088839193705%22%7D%2C%7B%22i%22%3A%22u.100087524415865%22%7D%5D%2C%22utc3%22%3A1673876766229%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Дарья Николаева",
