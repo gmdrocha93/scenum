@@ -24,19 +24,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1704436009,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704436009,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
@@ -100,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674441732,
+			"expirationDate": 1674530457,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -109,11 +96,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674441733,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_pixel_ratio",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674531026,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -122,11 +121,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681612795.092746,
+			"expirationDate": 1681702087.731403,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +134,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ASG6JRYKIn92BY0V.AWX6pYqCX-_10ZB3wpB9vNALV08.BjqD7f._y.AAA.0.0.BjxLj7.AWXqmaEQe0s"
+			"value": "0ASG6JRYKIn92BY0V.AWXIyZc6pNq4UbnVv4Rp20cb2Pw.BjqD7f._y.AAA.0.0.BjxhXI.AWWCbBkXwBo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,10 +146,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673836910924%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673926204855%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.01.2023 03:28 petr d12",
+	"lastEventDate": "17.01.2023 03:30 petr d12",
 	"email": "MB474YH4LN@outlook.com",
 	"emailPassword": "0KV2WLMW1",
 	"imapHost": "outlook.office365.com",
