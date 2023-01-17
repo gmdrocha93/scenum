@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705421940.361459,
+			"expirationDate": 1705483226.482339,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,7 +49,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674490738,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbDc3YjdsMmQ4eiIsInRpbWUiOjE2NzM4ODcwMjJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674552589,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -58,24 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674491091,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705421940.361497,
+			"expirationDate": 1705483226.482376,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +83,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3APdUIxaYqaI7f9A%3A2%3A1671700176%3A-1%3A-1%3A%3AAcWYMO4ZI1D_nlzfxMMb-_xrihAKWixU0eGMKR09yXQ"
+			"value": "32%3APdUIxaYqaI7f9A%3A2%3A1671700176%3A-1%3A-1%3A%3AAcXQv74ex7wK1amZrEfdHrMmx6XycJzaHOU6hqkDebo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681662193.86977,
+			"expirationDate": 1674552589,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681723623.236271,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +109,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wOMLIOo0yrcBsbms.AWWzrOk9Dh4KVBvYImOSK_QIkck.BjxXj1.Fm.AAA.0.0.BjxXny.AWUmPQMGaSY"
+			"value": "0Yk3mpEjY4yaXOp7v.AWW7J8Ll8OkmKQ2Te5TdUir0N2M.Bjxmhb.Fm.AAA.0.0.Bjxmnn.AWUaoZIfQgo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,10 +121,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673886289448%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673947761334%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.01.2023 09:26 petr d23",
+	"lastEventDate": "17.01.2023 09:29 petr d23",
 	"screenname": "Tanya Zueva",
 	"birthdate": "1985 September 14",
 	"country": "Kazakhstan",
