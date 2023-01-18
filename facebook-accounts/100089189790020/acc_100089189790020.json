@@ -102,7 +102,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681742124.431912,
+			"expirationDate": 1674682875,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674683034,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681854087.078778,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0hzKtcccpwaDEf4gA.AWVlHiQheguLMmY-XjY5dmgWTbM.BjpJ97.Rf.AAA.0.0.BjxrIs.AWUK-hzVsLg"
+			"value": "0hzKtcccpwaDEf4gA.AWUmMGsDkZwoB1uuQ6m81C2dXjA.BjpJ97.Rf.AAA.0.0.BjyGeH.AWXPKsxL-yM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,36 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673966251426%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674571074,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674571074,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674078211449%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.01.2023 21:41 petr d17",
+	"lastEventDate": "18.01.2023 21:43 petr d17",
 	"email": "XP10D3KL5DE@outlook.com",
 	"emailPassword": "ASZFBWJD12",
 	"imapHost": "outlook.office365.com",
