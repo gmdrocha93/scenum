@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088563499252",
 	"name": "",
-	"amountFriends": "62",
+	"amountFriends": "72",
 	"screenname": "Rudīte Karpova",
 	"birthdate": "2001 September 10",
 	"country": "Daugavpils",
@@ -110,11 +110,37 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvamw4ZXJnZTFsZSIsInRpbWUiOjE2NzM4MTE1MTh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbGY3MDlreDIxcSIsInRpbWUiOjE2NzM4OTcwMDR9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674501393,
+			"expirationDate": 1681834348.04031,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0crRjKBLo9LKLAIYz.AWUGQu6tZBXMcxBq593Fj3f6FOc.BjnLKR.hs.AAA.0.0.BjyBps.AWXtAnVIC-Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674663244,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1629x910"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674663197,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,32 +153,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674501486,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681672595.003854,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0crRjKBLo9LKLAIYz.AWXXJ7eVpfofyTyAVo7cTKc2LHY.BjnLKR.hs.AAA.0.0.BjxaKT.AWXKBadH2fk"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -161,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673896681991%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674058439687%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.01.2023 16:12 petr d27",
+	"lastEventDate": "18.01.2023 16:14 petr d27",
 	"email": "michellnguyen36328@outlook.com",
 	"emailPassword": "9fUDqFM",
 	"imapHost": "outlook.office365.com",
