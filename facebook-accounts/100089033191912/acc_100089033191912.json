@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "87476740531",
 	"password": "qwe123rtY",
-	"lastEventDate": "17.01.2023 09:45 petr d19",
+	"lastEventDate": "18.01.2023 10:26 otvyzka",
 	"status": 2,
 	"id": "100089033191912",
 	"name": "",
@@ -103,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674551795,
+			"expirationDate": 1674642403,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674642403,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -116,20 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674551795,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681722842.131995,
+			"expirationDate": 1681813469.74848,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0g0YfFltnJbure93m.AWWxtezHxGsEKnbMX8ViTXacvwc.Bjng2u.sY.AAA.0.0.Bjxmba.AWW6AT6ge6k"
+			"value": "0g0YfFltnJbure93m.AWXUgEk1R-8qe02WedQJ46LqAlI.Bjng2u.sY.AAA.0.0.Bjx8je.AWUhAi8eO8I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673946968190%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674037577932%2C%22v%22%3A1%7D"
 		}
 	],
 	"email": "kimballro91734@outlook.com",
