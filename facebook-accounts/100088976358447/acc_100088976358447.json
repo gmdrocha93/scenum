@@ -110,7 +110,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674533647,
+			"expirationDate": 1674709279,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -122,8 +122,20 @@
 			"value": "1036x684"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbiBhbc5vnZBhMEFt7wjf74wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaqjLG8DBYAABV-HEwAABYAFrCMsbwMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABayjLG8DBYAABWAARxMAAAWABayjLG8DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQUa8gEJFJx9kxAsoD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQQVCBmcFQQVDCayjLG8DBYAABUEFTomsoyxvAwWAAAVBBU8JrKMsbwMFgAAFQQVUiayjLG8DBYAABUEFWAmsoyxvAwWAAAVBBViJrKMsbwMFgAAFQQVaiayjLG8DBYAABUEFW4msoyxvAwWAAAVBBV0JrKMsbwMFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673929496%22%7D%2C%22d%22%3A%22f64450cf-55b4-43ca-932e-58d3013dbeb0%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681704717.086905,
+			"expirationDate": 1681880324.217024,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -132,7 +144,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DGEM2JtS6W7q3vpU.AWVYmhM853ss3u-fY5f4vdId-D4.Bjsv8Z.Hv.AAA.0.0.BjxiAN.AWXoG2TFuUA"
+			"value": "0DGEM2JtS6W7q3vpU.AWXsWFDfoKv8-J1U57ioKPHlS1Y.Bjsv8Z.Hv.AAA.0.0.BjyM4F.AWVPH-T-FsY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -144,22 +156,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673928824570%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKBha84M6oBBMEFt7wjf74wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbwgbG8DBYAABV-HEwAABYAFvaBsbwMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABb4gbG8DBYAABWAARxMAAAWABb4gbG8DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCb4gbG8DBYAABUEFTom-IGxvAwWAAAVBBU8JviBsbwMFgAAFQQVUib4gbG8DBYAABUEFWAm-IGxvAwWAAAVBBViJviBsbwMFgAAFQQVaib4gbG8DBYAABUEFW4m-IGxvAwWAAAVBBV0JviBsbwMFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221673928827%22%7D%2C%22d%22%3A%22f64450cf-55b4-43ca-932e-58d3013dbeb0%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674104485228%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.01.2023 04:58 petr d12",
+	"lastEventDate": "19.01.2023 05:01 petr d12",
 	"amountFriends": "",
 	"screenname": "Modrīte Zaitseva",
 	"birthdate": "2005 January 1",
