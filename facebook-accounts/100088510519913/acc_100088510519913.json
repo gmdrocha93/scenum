@@ -114,7 +114,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674147739,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvb3BpY210Z292NiIsInRpbWUiOjE2NzQwNTA1Mzl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674772240,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,7 +139,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674654972,
+			"expirationDate": 1674772334,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -136,23 +148,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1520x704"
+			"value": "1213x540"
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbm5jdzFxdGVjcTYiLCJ0aW1lIjoxNjc0MDAxMDUwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681826030.000148,
+			"expirationDate": 1681943442.556979,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -161,7 +161,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ny3QwVeXMy6SNJU7.AWXl3YPJVO_RDMDxfzrE0yVbWrs.Bjm0vi.X5.AAA.0.0.Bjx_nu.AWXE9CrzFuU"
+			"value": "0Ny3QwVeXMy6SNJU7.AWXVFdZl6b4UQdPWkgNqz47r3pM.Bjm0vi.X5.AAA.0.0.BjycST.AWUGReCElgI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -173,10 +173,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674050147858%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674167533039%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.01.2023 22:30 petr d27",
+	"lastEventDate": "19.01.2023 22:32 petr d27",
 	"email": "shankalex1985@outlook.com",
 	"emailPassword": "Sv9VivJ",
 	"imapHost": "outlook.office365.com",
