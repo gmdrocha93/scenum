@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.01.2023 06:06 D-03(mini)LV_1",
+	"lastEventDate": "19.01.2023 06:08 D-03(mini)LV_1",
 	"status": 2,
 	"id": "100088668228001",
 	"name": "",
-	"amountFriends": "276",
+	"amountFriends": "275",
 	"screenname": "Mariana Polyakova",
 	"birthdate": "1998 April 22",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705384303.609764,
+			"expirationDate": 1705644483.623056,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705145678.245,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYW93MHoyOWw5ZSIsInRpbWUiOjE2NzMzOTY0NDB9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674453147,
+			"expirationDate": 1674713293,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705384303.609808,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJva2R6MDF2d3pybDgiLCJ0aW1lIjoxNjczODQ4NzY0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705644483.623099,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AmdedJmWVktpkDA%3A2%3A1671548422%3A-1%3A5599%3A%3AAcVuqSdc5Y0yf4HZoqe48pMjya7y0ENHBKZfP8vouW8"
+			"value": "23%3AmdedJmWVktpkDA%3A2%3A1671548422%3A-1%3A5599%3A%3AAcU1sqWjXMVqDTk3_3eZnu_AQXAZSkGrEOrq225We7Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681624302.609829,
+			"expirationDate": 1681884482.623118,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Y5Os7TCkpg0XNeP3.AWXX8sOaYTxK_9F-q6oLu7BeP7o.BjxOXw.-L.AAA.0.0.BjxOXw.AWUrgdxr1Fs"
+			"value": "0uoTN8vSQ14RaOpES.AWXD8qPemIotie8qlQmrm8ee4x0.BjyN5E.-L.AAA.0.0.BjyN5E.AWUglhZmqBY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100087960674537%22%7D%2C%7B%22i%22%3A%22u.100001756306492%22%7D%2C%7B%22i%22%3A%22u.100015114798648%22%7D%2C%7B%22i%22%3A%22u.100022411950945%22%7D%5D%2C%22utc3%22%3A1673848344653%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100087960674537%22%7D%2C%7B%22i%22%3A%22u.100001756306492%22%7D%2C%7B%22i%22%3A%22u.100015114798648%22%7D%2C%7B%22i%22%3A%22u.100022411950945%22%7D%5D%2C%22utc3%22%3A1674108487099%2C%22v%22%3A1%7D"
 		}
 	]
 }
