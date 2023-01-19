@@ -102,7 +102,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674545195,
+			"expirationDate": 1681907157.879924,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0O2rLAFkgwtv9mj70.AWU9D22jb006D3DUdWrJKLirwxU.Bjv8UQ.Pi.AAA.0.0.BjyTbW.AWVStNdiYiY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674736117,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1298x884"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674736117,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,32 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674545195,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681716259.085942,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0O2rLAFkgwtv9mj70.AWWFpENbsS4-wMwp8bmVDdR1iSY.Bjv8UQ.Pi.AAA.0.0.Bjxk0j.AWXVBqOyAkA"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673940372730%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674131289563%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.01.2023 12:25 petr d4",
+	"lastEventDate": "19.01.2023 12:28 petr d4",
 	"email": "diagrasaban1984@hotmail.com",
 	"emailPassword": "CR4rFnqcj6",
 	"imapHost": "outlook.office365.com",
