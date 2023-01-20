@@ -110,11 +110,37 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbDY5bTV5aXQxNyIsInRpbWUiOjE2NzM4ODU0MzR9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcWZqdDFrdXlrdmkiLCJ0aW1lIjoxNjc0MTMwNzQ1fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674734712,
+			"expirationDate": 1681988217.389139,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0EqbOF28pYfQn6YWo.AWXLp7SxJ76_KF8afLhX9dcIGJA.BjmXz7.Dy.AAA.0.0.BjynN6.AWVNWXb8D3U"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674817153,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1040x541"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674817125,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,32 +153,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674735272,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681906342.129347,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0EqbOF28pYfQn6YWo.AWXcNpfane7yGD_x1eCk8Xst5cg.BjmXz7.Dy.AAA.0.0.BjyTOm.AWWo699fGM0"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -161,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674130449228%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674212330851%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.01.2023 10:56 petr d29",
+	"lastEventDate": "20.01.2023 10:59 petr d29",
 	"email": "michewood2000@outlook.com",
 	"emailPassword": "KpI0iVf",
 	"imapHost": "outlook.office365.com",
