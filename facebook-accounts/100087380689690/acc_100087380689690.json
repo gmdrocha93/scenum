@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "reqcturn@bfirstmail.com",
 	"password": "1meXtM4vRb",
-	"lastEventDate": "20.01.2023 07:38 petr d29",
+	"lastEventDate": "20.01.2023 07:40 petr d29",
 	"status": 2,
 	"id": "100087380689690",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "106",
 	"screenname": "Cecelia Voronina",
 	"birthdate": "1993 March 27",
 	"country": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705657937.646639,
+			"expirationDate": 1705735843.649715,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,11 +74,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbDNheDF0M3IycWkiLCJ0aW1lIjoxNjczODgxNTkzfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcTlmOWs1cWUyZCIsInRpbWUiOjE2NzQxMjI4MDV9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674727347,
+			"expirationDate": 1705735843.649751,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "20%3Ar0ivpaoBE36zuA%3A2%3A1667866688%3A-1%3A2776%3A%3AAcUjF7b1VpoIN1BYBvlJMX-WiRrHzqmG3RNp5Va25eA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674805237,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674727322,
+			"expirationDate": 1674805237,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705657937.646692,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "20%3Ar0ivpaoBE36zuA%3A2%3A1667866688%3A-1%3A2776%3A%3AAcW6FsEMGjqBh3Ku-si-4VKU3XbNIwMFgMZSfncq9eM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681898437.82902,
+			"expirationDate": 1681976315.238772,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07NCSgKLR5S8kQctX.AWXdSDD-9bz6Ish8Tw5Gx9SH5-A.BjyRLS.9-.AAA.0.0.BjyRTG.AWWzBx4w5iw"
+			"value": "0eX7H6xQFPUHk658V.AWV5aB7Qg3oWiOe8cBlkRCWPoc4.BjykMk.9-.AAA.0.0.BjykT7.AWUzCcs01es"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674122526064%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674200414802%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
