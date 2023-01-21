@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.01.2023 15:33 D-05(LV_1)",
+	"lastEventDate": "21.01.2023 15:35 D-05(LV_1)",
 	"status": 2,
 	"id": "100088385276711",
 	"name": "",
-	"amountFriends": "357",
+	"amountFriends": "355",
 	"screenname": "Yulya Agaeva",
 	"birthdate": "1996 December 30",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705494998.354901,
+			"expirationDate": 1705851245.550861,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705126910.102,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvMjk1dzFucG1mMCIsInRpbWUiOjE2NzMwMDI3Mjd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674563846,
+			"expirationDate": 1674920131,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705494998.354943,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbXNva3dtemZzdiIsInRpbWUiOjE2NzM5NjExNjV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705851245.550901,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3AMOtK2kzgD90UxQ%3A2%3A1671367406%3A-1%3A5599%3A%3AAcVklmgMQi-Q0QJ5vwuGFuc89MT2IyL0aPRwluysvsQ"
+			"value": "10%3AMOtK2kzgD90UxQ%3A2%3A1671367406%3A-1%3A5599%3A%3AAcU6d_qf2so2IW2Y0UVG223S9apFkp4LIenJdhE4vVo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681734996.354964,
+			"expirationDate": 1682091244.550921,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nNwkJ0wnhEA5Slea.AWXtgAkb63OwwUvYDcwrNS6pwiI.BjxpZX.E5.AAA.0.0.BjxpZX.AWWOP4Wgtj0"
+			"value": "0vERYeEFJFzX2FrJh.AWV1iMmkJWajPHPTULUcKaoIAFg.BjzAXu.E5.AAA.0.0.BjzAXu.AWVTEhGTm2k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100078660940866%22%7D%5D%2C%22utc3%22%3A1673959042747%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674315307129%2C%22v%22%3A1%7D"
 		}
 	]
 }
