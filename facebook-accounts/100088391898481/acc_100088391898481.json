@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705504981.763639,
+			"expirationDate": 1705861916.701078,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705128344.012,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvMHZ1eG9qNHRhbCIsInRpbWUiOjE2NzI5Mzg4MjV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674574013,
+			"expirationDate": 1674930983,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +64,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705504981.76368,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbjB1c3ZpcmUzdyIsInRpbWUiOjE2NzM5NzE3MzJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705861916.701121,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "48%3AwcYVOX2UmmRviA%3A2%3A1670826696%3A-1%3A5599%3A%3AAcX8C5BEuS7wtyCnxH1vAQxiDI5Jb0ptoYxELQNEl5Y"
+			"value": "48%3AwcYVOX2UmmRviA%3A2%3A1670826696%3A-1%3A5599%3A%3AAcU19S9sN6fEmw9OF0ljuRhi8iUSnmCkg1gidxZIyjg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681745116.733733,
+			"expirationDate": 1682102048.806094,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EJ04Ry9OKotbufuB.AWWdIeCEFYcF31J4V8UYEMb6SDc.Bjxr1W.Fq.AAA.0.0.Bjxr3d.AWWzbQwq-4M"
+			"value": "0xgKcyl5gsLJCRIRs.AWU-vlq5SOKkRmlheXYCurPGOAw.BjzC-d.Fq.AAA.0.0.BjzDAh.AWWAmtklSSE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +110,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087385356316%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.217817548247725%22%7D%2C%7B%22i%22%3A%22u.100007630772812%22%7D%2C%7B%22i%22%3A%22u.100078293694776%22%7D%5D%2C%22utc3%22%3A1673969206939%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674326159475%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.01.2023 18:34 D-05"
+	"lastEventDate": "21.01.2023 18:36 D-05"
 }
