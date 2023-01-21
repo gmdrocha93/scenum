@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674087421,
+			"expirationDate": 1674885545,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674679451,
+			"expirationDate": 1674885545,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1302x704"
+			"value": "1304x706"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%7D%2C%22d%22%3A%22ea2c61e7-59ec-4d62-99ec-aa8c68450aa7%22%2C%22s%22%3A%221%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681850557.442321,
+			"expirationDate": 1682056648.305661,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dWlktt45yy61kBEA.AWVS__8ZdyPTogMlaON-A6FosGE.BjpIkV.LQ.AAA.0.0.BjyFm-.AWVJOghyBis"
+			"value": "0dWlktt45yy61kBEA.AWXkA4bNTaaAaASgf40BCFp4t4g.BjpIkV.LQ.AAA.0.0.Bjy37J.AWUaUC_9DBM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100029463045714%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.282868361904233%22%7D%5D%2C%22utc3%22%3A1674074649235%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.282868361904233%22%7D%2C%7B%22i%22%3A%22u.100029463045714%22%7D%5D%2C%22utc3%22%3A1674280741705%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.01.2023 05:57 petr d14",
+	"lastEventDate": "21.01.2023 05:59 petr d14",
 	"email": "JO5I2YQGL@outlook.com",
 	"emailPassword": "DDPOFWHV4",
 	"imapHost": "outlook.office365.com",
