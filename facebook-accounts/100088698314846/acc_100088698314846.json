@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.01.2023 12:19 D-05(LV_1)",
+	"lastEventDate": "21.01.2023 12:21 D-05(LV_1)",
 	"status": 2,
 	"id": "100088698314846",
 	"name": "",
-	"amountFriends": "346",
+	"amountFriends": "342",
 	"screenname": "Alice Barsuk",
 	"birthdate": "1998 March 16",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705479439.361232,
+			"expirationDate": 1705839671.035726,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705125122.507,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYmU2ZTR3MmdwZCIsInRpbWUiOjE2NzM0MjkxMjZ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674548565,
+			"expirationDate": 1674908497,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705479439.361273,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbWhzNTE5dDF4ejAiLCJ0aW1lIjoxNjczOTQ3MDEzfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705839671.035844,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "16%3ARng_-heg4HlFkA%3A2%3A1671548613%3A-1%3A5599%3A%3AAcWo5aQplpWVCcze60H9GQVuV3c11Wf3dUUgvjQAjEo"
+			"value": "16%3ARng_-heg4HlFkA%3A2%3A1671548613%3A-1%3A5599%3A%3AAcUVZv7hpNPhDbGCYNUVcvikpj7WxJJQss2YD53HiMw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681719674.691474,
+			"expirationDate": 1682079670.035911,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PNvRfhHzWdbfjhVP.AWUL6g3oYHIAX_3V_t571kH-Lyg.BjxlmQ.bi.AAA.0.0.Bjxlp7.AWVgNTn8ses"
+			"value": "0UhiRNATNtIWMs8Jl.AWUkLGtPZG-GvU7-mcmOF5idSJA.Bjy9i3.bi.AAA.0.0.Bjy9i3.AWUohEUGaYQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100052184855357%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100009075475959%22%7D%2C%7B%22i%22%3A%22u.100001970927848%22%7D%2C%7B%22i%22%3A%22u.100088876923523%22%7D%2C%7B%22i%22%3A%22u.100013541763984%22%7D%5D%2C%22utc3%22%3A1673943768917%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674303672877%2C%22v%22%3A1%7D"
 		}
 	]
 }
