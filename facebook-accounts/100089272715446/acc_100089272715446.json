@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705737381.969369,
+			"expirationDate": 1705829328.250641,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674806702,
+			"expirationDate": 1674898877,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -66,7 +66,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674806702,
+			"expirationDate": 1705829328.250674,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "47%3Aulg1e45m69KCMQ%3A2%3A1672647822%3A-1%3A-1%3A%3AAcW2zCwNZS_HPAdE98Rzz5XF98ovOPi0h7UKH7F5K98"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674898877,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -79,20 +92,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705737381.969415,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "47%3Aulg1e45m69KCMQ%3A2%3A1672647822%3A-1%3A-1%3A%3AAcUUgE9q_L2XwvBGk71IlPjGitNostfUIE70ahF240Q"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681977727.746304,
+			"expirationDate": 1682069915.265342,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00jAYU36PbME4xeow.AWXO6qYZ--SLG44yvBxldL3QYuY.Bjykkm.uA.AAA.0.0.BjykqA.AWU_1tHLKsg"
+			"value": "0rGreZvzhSxk6ls9o.AWWyoHMGBJ8Zdw2EfmdzY81IFSo.Bjy7BQ.uA.AAA.0.0.Bjy7Kc.AWXeA-i-kOw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,10 +113,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674201857581%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674294033666%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.01.2023 09:38 petr d14",
+	"lastEventDate": "21.01.2023 09:41 petr d14",
 	"email": "szat.roni@outlook.com",
 	"emailPassword": "w2e7iGHt",
 	"imapHost": "outlook.office365.com",
