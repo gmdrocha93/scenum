@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.01.2023 21:46 D-05(LV_1)",
+	"lastEventDate": "21.01.2023 21:48 D-05(LV_1)",
 	"status": 2,
 	"id": "100088065747873",
 	"name": "",
-	"amountFriends": "80",
+	"amountFriends": "88",
 	"screenname": "Lera Butko",
 	"birthdate": "1996 July 30",
 	"country": "Latvia",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705130955.677,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJua2ZlZjZqYXpreCIsInRpbWUiOjE2NzIxNzEwMDJ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705517760.886899,
+			"expirationDate": 1705873619.076887,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674586599,
+			"expirationDate": 1674942507,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705517760.886948,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbmF2MzFyMTBxYmEiLCJ0aW1lIjoxNjczOTg0NzMxfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705873619.076951,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3ATc58_x921hMEfA%3A2%3A1670573212%3A-1%3A15376%3A%3AAcUO90ZynDNumRcOk3MNr2SOROYBU0_3lGBV1BlK7RU"
+			"value": "36%3ATc58_x921hMEfA%3A2%3A1670573212%3A-1%3A15715%3A%3AAcXxqA422foHRSlllCnCcLOEy9K6Tra8Hs5No7qpXgs"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681757759.886971,
+			"expirationDate": 1682113618.076984,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s95wEhofDiyMhI87.AWXTuoAo90TFXoeEQdxK5NU44Uo.Bjxu9B.80.AAA.0.0.Bjxu9B.AWU1gdBjd8g"
+			"value": "0e4k0E5DfdyAnhbKb.AWVxC6CdMSOZr8uaL_c27OBDfpg.BjzF1T.80.AAA.0.0.BjzF1T.AWVvJINwB7A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673981795794%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674337712743%2C%22v%22%3A1%7D"
 		}
 	]
 }
