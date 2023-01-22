@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.01.2023 19:53 D-05(LV_1)",
+	"lastEventDate": "22.01.2023 19:55 D-05(LV_1)",
 	"status": 2,
 	"id": "100088302982751",
 	"name": "",
-	"amountFriends": "328",
+	"amountFriends": "333",
 	"screenname": "Olga Sitnikova",
 	"birthdate": "1994 May 24",
 	"country": "Latvia",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705142953.576,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJueWprZnQ3cXZ2YSIsInRpbWUiOjE2NzI4Mjk1ODh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705621016.481364,
+			"expirationDate": 1705953270.989382,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674689913,
+			"expirationDate": 1675022144,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705621016.481423,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcGoyenk2cWhpdCIsInRpbWUiOjE2NzQwODg2Njd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705953270.989451,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3AMqIt3qU66Ks_8w%3A2%3A1671188262%3A-1%3A5599%3A%3AAcUSxyspqDX0nIpFCrPOEijWsGg2VjFkVP-vweFvsps"
+			"value": "38%3AMqIt3qU66Ks_8w%3A2%3A1671188262%3A-1%3A5599%3A%3AAcUcwAKjIWTL3fVQUqRptNWq3RVYK9Sk60Q8Vri8RL8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681861015.481449,
+			"expirationDate": 1682193269.989495,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cfnRJJFcADTUrTIQ.AWX8wxZJejMnc1bGu1EkOCK5AYo.BjyIKZ.M1.AAA.0.0.BjyIKZ.AWVtxWmJJeI"
+			"value": "0kzN6EarbeKvStUdW.AWUC9BIleWVnKaLrfLX_kIfYFU8.BjzZR3.M1.AAA.0.0.BjzZR3.AWXqZAKW6ZQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100015732042013%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674085111221%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674417319659%2C%22v%22%3A1%7D"
 		}
 	]
 }
