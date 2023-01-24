@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.01.2023 22:51 petr d6",
+	"lastEventDate": "24.01.2023 22:53 petr d6",
 	"status": 2,
 	"id": "100089323784023",
 	"name": "",
@@ -11,19 +11,6 @@
 	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675125087,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1705814930,
@@ -117,7 +104,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675125087,
+			"expirationDate": 1675205508,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675205607,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682296192.290984,
+			"expirationDate": 1682376709.470172,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sNo3NnMnTchwETPI.AWVRXNPJEeZGqi9Rly3x0e641pA.Bjv66G.x6.AAA.0.0.BjzyaB.AWXC-xRjYNo"
+			"value": "0sNo3NnMnTchwETPI.AWX7FWyMEjMPGr4PWJAMmt7S2aM.Bjv66G.x6.AAA.0.0.Bj0GEG.AWUMiJwUoLY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.180368555328146%22%7D%2C%7B%22i%22%3A%22u.148028975263736%22%7D%2C%7B%22i%22%3A%22u.314197722000030%22%7D%5D%2C%22utc3%22%3A1674520284157%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.180368555328146%22%7D%2C%7B%22i%22%3A%22u.148028975263736%22%7D%2C%7B%22i%22%3A%22u.314197722000030%22%7D%5D%2C%22utc3%22%3A1674600805429%2C%22v%22%3A1%7D"
 		}
 	]
 }
