@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.01.2023 16:39 petr d15",
+	"lastEventDate": "24.01.2023 16:42 petr d15",
 	"status": 2,
 	"id": "100088885491835",
 	"name": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706015354.842715,
+			"expirationDate": 1706113753.022693,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675084401,
+			"expirationDate": 1675183357,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675084402,
+			"expirationDate": 1706113753.022746,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "22%3AM61jwc6Os7tReA%3A2%3A1673849424%3A-1%3A2619%3A%3AAcX4xAnw8N8goZ-vM-227N97zh4UZ7IABjBhJ7Jg898"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675183358,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706015354.842753,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "22%3AM61jwc6Os7tReA%3A2%3A1673849424%3A-1%3A2619%3A%3AAcU6FoQiqh7ErKdmESGLn_VK7aRBsnyosPfR91B4ug"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682255384.749848,
+			"expirationDate": 1682354353.973772,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GaVMiqgLML6meRl2.AWUzB7eOVWId-h5sWDBIxy6mK8o.Bjzob7.qo.AAA.0.0.BjzocZ.AWUduDgcANs"
+			"value": "0qdMYKPR9x6FLQoP9.AWVKrie7RBg_gze23z2VrwtE0eE.Bj0AdY.qo.AAA.0.0.Bj0Amy.AWVmbJL_SmA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674479568849%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674578530917%2C%22v%22%3A1%7D"
 		}
 	]
 }
