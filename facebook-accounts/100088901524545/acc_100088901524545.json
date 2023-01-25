@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 11:47 petr d31",
+	"lastEventDate": "25.01.2023 11:49 petr d31",
 	"status": 2,
 	"id": "100088901524545",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Ērika Jacobsons",
 	"birthdate": "2004 November 14",
 	"country": "Daugavpils",
@@ -107,32 +107,6 @@
 			"expirationDate": 1705792396,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675046193,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705792396,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
@@ -143,7 +117,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682217283.364521,
+			"expirationDate": 1675252145,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675252145,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682423238.725389,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +152,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Po4NLFmWfYnVVySx.AWW4hi_ycVo8X_A-SplAz-jvnhY.Bjm4Ri.K1.AAA.0.0.BjzfJE.AWXsuiAPUeo"
+			"value": "0Po4NLFmWfYnVVySx.AWXyj6bsfwRpimzt2K8Dl6WuU-0.Bjm4Ri.K1.AAA.0.0.Bj0RbH.AWX5Iso3IS4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674441389354%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674647341434%2C%22v%22%3A1%7D"
 		}
 	]
 }
