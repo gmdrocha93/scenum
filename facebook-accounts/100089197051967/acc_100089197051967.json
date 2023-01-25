@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 05:33 petr d21",
+	"lastEventDate": "25.01.2023 05:34 petr d21",
 	"status": 2,
 	"id": "100089197051967",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Grieta Bulls",
 	"birthdate": "1999 August 16",
 	"country": "Latvia",
@@ -104,7 +104,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675039411,
+			"expirationDate": 1675229697,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675229697,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1302x763"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682210518.274838,
+			"expirationDate": 1682400788.943262,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0o9BgazH2wovYH1OQ.AWW6unnR-LYz4CCGbfWG5SqpjuY.BjqAHp.Fc.AAA.0.0.BjzdfX.AWV_23r4LXE"
+			"value": "0o9BgazH2wovYH1OQ.AWVpNPCh-7QIR3GdPe67g6uJV5U.BjqAHp.Fc.AAA.0.0.Bj0L8V.AWWDvILwsr4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.114979501871035%22%7D%5D%2C%22utc3%22%3A1674434608302%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.114979501871035%22%7D%5D%2C%22utc3%22%3A1674624893842%2C%22v%22%3A1%7D"
 		}
 	]
 }
