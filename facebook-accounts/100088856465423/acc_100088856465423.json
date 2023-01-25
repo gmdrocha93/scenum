@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 08:22 petr d31",
+	"lastEventDate": "25.01.2023 08:24 petr d31",
 	"status": 2,
 	"id": "100088856465423",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "90",
 	"screenname": "Aiva Strazdins",
 	"birthdate": "2001 October 6",
 	"country": "Liepaja",
@@ -107,19 +107,6 @@
 			"expirationDate": 1705780111,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705780111,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675115695,
+			"expirationDate": 1675239859,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,11 +126,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682286792.804064,
+			"expirationDate": 1675239859,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682410952.736783,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +152,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WutzfjULMnQRDeTn.AWUuVZQ4MnIInQx7z9LtmkSxvZ0.BjmckX.7n.AAA.0.0.BjzwHJ.AWUeWRdD3p0"
+			"value": "0WutzfjULMnQRDeTn.AWWjl9S8JuorsyFUhYyfUUBGJMM.BjmckX.7n.AAA.0.0.Bj0ObJ.AWVoWwb25Do"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089244585770%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674510892312%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089244585770%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674635056759%2C%22v%22%3A1%7D"
 		}
 	]
 }
