@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 15:28 petr d31",
+	"lastEventDate": "25.01.2023 15:30 petr d31",
 	"status": 2,
 	"id": "100087632048043",
 	"name": "",
-	"amountFriends": "175",
+	"amountFriends": "184",
 	"screenname": "Elizaveta Novikova",
 	"birthdate": "1980 July 13",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706029872.915786,
+			"expirationDate": 1706196048.327333,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705735631,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcTdqaGNlNzBiMiIsInRpbWUiOjE2NzQxMjAzNjV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675099256,
+			"expirationDate": 1675265425,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706029872.915827,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "22%3A9W34jWqIPaJ7kQ%3A2%3A1667868856%3A-1%3A6993%3A%3AAcXZdX-MciFCZAvrDRn8ijQJV8WtApbLLZFuEq7jQIk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682270315.144149,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0oVmIvS2CNAFD4aDB.AWVvgujdD3iqcRlOXiWExf6ctX0.Bjzr-x.U-.AAA.0.0.BjzsFs.AWU_Akgjmcs"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675099256,
+			"expirationDate": 1675265425,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -119,13 +80,51 @@
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJveThpemUyejZzMyIsInRpbWUiOjE2NzQ0OTQ4OTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706196048.32741,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "22%3A9W34jWqIPaJ7kQ%3A2%3A1667868856%3A-1%3A6993%3A%3AAcW2a5SJOaroRB7zZsV3bIrshdrPCeSUUZci_24iqYQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682436503.225754,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0PNeb8iHgOfRFeEci.AWX8WawyZjweqk7AMa1w0oB2kzg.Bj0UjN.U-.AAA.0.0.Bj0UqY.AWW_WmsMklg"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
 			"name": "presence",
 			"path": "/",
 			"sameSite": "unspecified",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674494429306%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100082286041690%22%7D%5D%2C%22utc3%22%3A1674660602256%2C%22v%22%3A1%7D"
 		}
 	]
 }
