@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 17:23 petr d31",
+	"lastEventDate": "25.01.2023 17:25 petr d31",
 	"status": 2,
 	"id": "100087824168228",
 	"name": "",
-	"amountFriends": "131",
+	"amountFriends": "140",
 	"screenname": "Fayth Pankratova",
 	"birthdate": "1975 January 12",
 	"country": "Luhansk",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706042169.561697,
+			"expirationDate": 1706203434.236128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,33 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705850315,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvbDE2Zm14dXF3cSIsInRpbWUiOjE2NzM4Nzg4Mzl9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJveWh1ZTF3dG00bjAiLCJ0aW1lIjoxNjc0NTA2OTY2fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706042169.561749,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "5%3ANpx5zo3b0kTm-w%3A2%3A1668285829%3A-1%3A12176%3A%3AAcXCsAEYhqCZicqYSOxA8RpXt43nGjyfr-NhdXDtU0Q"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675111399,
+			"expirationDate": 1675271918,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -87,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675111399,
+			"expirationDate": 1675272351,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,11 +86,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x683"
+			"value": "826x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682282496.039375,
+			"expirationDate": 1706203434.236166,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "5%3ANpx5zo3b0kTm-w%3A2%3A1668285829%3A-1%3A12176%3A%3AAcWs0nnWv-2qLtHMMYI67FmHesPoi6uWh0tMsQR342I"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682443446.403272,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JUydNBgGKJG0VFE0.AWUTCZBt7XXkeiK5J-TU662-8D0.Bjzu-6.aO.AAA.0.0.BjzvEA.AWXNR8FNtg4"
+			"value": "0Bv3u3vRqV0NjhvBx.AWWywML8ME0mjt3fk6biBD3jI34.Bj0WWq.aO.AAA.0.0.Bj0WW3.AWWBB6iwbbQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.152929098120638%22%7D%5D%2C%22utc3%22%3A1674506594448%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674667545614%2C%22v%22%3A1%7D"
 		}
 	]
 }
