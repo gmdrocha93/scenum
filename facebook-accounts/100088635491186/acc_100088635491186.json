@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 10:05 petr d32",
+	"lastEventDate": "26.01.2023 10:07 petr d32",
 	"status": 2,
 	"id": "100088635491186",
 	"name": "",
-	"amountFriends": "68",
+	"amountFriends": "81",
 	"screenname": "Estere Antonova",
 	"birthdate": "2002 April 13",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706165790.70798,
+			"expirationDate": 1706263318.097575,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,46 +52,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705774020,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvc3B2cDR3bXgxdCIsInRpbWUiOjE2NzQyMzc0NzB9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMndlbzE3Y3lzN2siLCJ0aW1lIjoxNjc0NzEyNDY0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675235217,
+			"expirationDate": 1674798864,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675235217,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706165790.70802,
+			"expirationDate": 1706263318.097629,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3ArOI98ld0cknQFQ%3A2%3A1670826285%3A-1%3A10540%3A%3AAcUm9djWddMgWLyM362kU1nvQyPvhugBoNVo6O3GwI8"
+			"value": "27%3ArOI98ld0cknQFQ%3A2%3A1670826285%3A-1%3A5612%3A%3AAcXPTWivRKySa0riCxH02jKBf66sM72uJ9gZmT7V7qI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682406311.250366,
+			"expirationDate": 1675332122,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675332439,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682503538.956596,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oB0IavhrgDORZUWx.AWVQ2JXns7J8WNX4WZD81RH18y8.Bj0NKd.mh.AAA.0.0.Bj0NSo.AWUyws5jt9I"
+			"value": "0q8bJDBXX2V82uezw.AWVhOSxNUCC3IxrPs0Ggd9DlQ4w.Bj0k-W.mh.AAA.0.0.Bj0lBz.AWXG2lG7vJw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674630408421%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674727636010%2C%22v%22%3A1%7D"
 		}
 	]
 }
