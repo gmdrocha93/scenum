@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 08:18 petr d32",
+	"lastEventDate": "26.01.2023 08:20 petr d32",
 	"status": 2,
 	"id": "100088977393114",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "67",
 	"screenname": "Ligita Peterson",
 	"birthdate": "2000 February 24",
 	"country": "Latvia",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705795975,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvdDZ1ejZzODhtNCIsInRpbWUiOjE2NzQyNTk2MTd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675248631,
+			"expirationDate": 1675326038,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675248632,
+			"expirationDate": 1675326039,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682419732.280747,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMWZuODFya3d4YSIsInRpbWUiOjE2NzQ2NDQxODV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682497121.183986,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CTu44UjHvgR7LFtE.AWXLaQqe5noPuXF_0WNyb0XRmzs.BjnO0T.y2.AAA.0.0.Bj0QkV.AWXNlKa1P6o"
+			"value": "0CTu44UjHvgR7LFtE.AWWHQEqPRqqUuUDJpfkC6ZNgQF8.BjnO0T.y2.AAA.0.0.Bj0jdi.AWUsYVB9juM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674643828263%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674721233869%2C%22v%22%3A1%7D"
 		}
 	]
 }
