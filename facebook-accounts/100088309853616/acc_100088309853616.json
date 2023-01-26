@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 11:09 petr d32",
+	"lastEventDate": "26.01.2023 11:11 petr d32",
 	"status": 2,
 	"id": "100088309853616",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Kristiāna Zvirbule",
 	"birthdate": "2002 October 2",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706024834.159087,
+			"expirationDate": 1706267133.975521,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706024834.159152,
+			"expirationDate": 1675335942,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706267133.97558,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,24 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "6%3AmwL4hSwS3oEWxA%3A2%3A1670692938%3A-1%3A11310%3A%3AAcUVANhgzTBwUvkIfFiuc-IBHEi61KBByEt71FY4Tno"
+			"value": "6%3AmwL4hSwS3oEWxA%3A2%3A1670692938%3A-1%3A5591%3A%3AAcXRwVWTaSE4WaSvMk-xCUanRgkS--pDesUO1qPswxs"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682265253.200193,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "00wLJIRypMH2SfCbf.AWU7mwkVx-Tya3BtC5jY6Itf17U.BjzqwD.d7.AAA.0.0.Bjzq2m.AWX-ZdnhV7o"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675094170,
+			"expirationDate": 1675336272,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,16 +104,16 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675094170,
+			"expirationDate": 1682507373.093709,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
+			"httpOnly": true,
+			"name": "fr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "0ZwIM3s0gtF8Zwcib.AWVpLl09begZXfoJyg040TFtIV8.Bj0l5-.d7.AAA.0.0.Bj0l9t.AWVqXR902Po"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.1027954680%22%7D%5D%2C%22utc3%22%3A1674489366744%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100081792924557%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100088367560775%22%7D%2C%7B%22i%22%3A%22u.1027954680%22%7D%5D%2C%22utc3%22%3A1674731469243%2C%22v%22%3A1%7D"
 		}
 	]
 }
