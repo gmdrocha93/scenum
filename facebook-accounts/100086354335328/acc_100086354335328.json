@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 07:26 petr d9",
+	"lastEventDate": "26.01.2023 07:27 petr d9",
 	"status": 2,
 	"id": "100086354335328",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "73",
 	"screenname": "Maria Thomas",
 	"birthdate": "2000 October 11",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706094388.299428,
+			"expirationDate": 1706253758.999612,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675163188,
+			"expirationDate": 1675322872,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675163188,
+			"expirationDate": 1675322873,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.749302771865633%22%7D%2C%7B%22i%22%3A%22u.131347667701760%22%7D%5D%2C%22utc3%22%3A1674558385440%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706094388.29948,
+			"expirationDate": 1706253758.999665,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +113,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AtH2W_ObVVo5ezg%3A2%3A1673345097%3A-1%3A15663%3A%3AAcXhJ5M-rcOJsx6J0ywLlgh2SH2l2Jf7m9S1miGWDOI"
+			"value": "19%3AtH2W_ObVVo5ezg%3A2%3A1673345097%3A-1%3A15663%3A%3AAcVVWzykyPZscCG2SvbP8mw_GfgkhkPjBzai-em48b8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682334386.299511,
+			"expirationDate": 1682493972.333018,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +126,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BHhOqhAi4R9UklJ5.AWXfIpAjMyo-lBPxynRFkFnkgOg.Bjz7u1.qT.AAA.0.0.Bjz7u1.AWU_Y5RG2uc"
+			"value": "0z96rRpzgvVy0Y63L.AWWFDQfw5fVcgL0sjPC43T3pLqE.Bj0io_.qT.AAA.0.0.Bj0isV.AWVEkWS3w5A"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.749302771865633%22%7D%2C%7B%22i%22%3A%22u.131347667701760%22%7D%5D%2C%22utc3%22%3A1674718070698%2C%22v%22%3A1%7D"
 		}
 	]
 }
