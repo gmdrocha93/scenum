@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 10:15 petr d32",
+	"lastEventDate": "26.01.2023 10:17 petr d32",
 	"status": 2,
 	"id": "100088436959413",
 	"name": "",
-	"amountFriends": "139",
+	"amountFriends": "176",
 	"screenname": "Anželika Muddy",
 	"birthdate": "2003 April 3",
 	"country": "Daugavpils",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706164799.174612,
+			"expirationDate": 1706263944.906448,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705775303,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvc3F4OHJqcWlhNyIsInRpbWUiOjE2NzQyMzg3OTZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMndhMGV4dnU4eSIsInRpbWUiOjE2NzQ3MTIyOTZ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675234175,
+			"expirationDate": 1674798697,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675332745,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,24 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675234175,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706164799.174668,
+			"expirationDate": 1706263944.906495,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +99,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3As-PAuyPMLqcGmw%3A2%3A1670828468%3A-1%3A3217%3A%3AAcXDSX8jlZmAQFLiNn_gUU-DLafyNVL_txphCuD0kbE"
+			"value": "9%3As-PAuyPMLqcGmw%3A2%3A1670828468%3A-1%3A3217%3A%3AAcWHcKixAZzw3XRZo4nANjUNPDjMm_VkwYtnpFdumzc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682405254.250696,
+			"expirationDate": 1675333078,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682504166.908977,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Q6O7aIO0rqDW1oTK.AWWVJzgo_xtH50lIs2-PxdItvHk.Bj0M68.Eh.AAA.0.0.Bj0NCH.AWXyIzkXEiE"
+			"value": "0BoEQV4VfUE7Oca13.AWXXINbVQaFHqj8Yl73FM_Ja1e4.Bj0lIJ.Eh.AAA.0.0.Bj0lLn.AWV0EdNHBJA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674629372563%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674728273551%2C%22v%22%3A1%7D"
 		}
 	]
 }
