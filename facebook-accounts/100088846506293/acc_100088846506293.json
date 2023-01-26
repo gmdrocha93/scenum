@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 08:16 petr d32",
+	"lastEventDate": "26.01.2023 08:18 petr d32",
 	"status": 2,
 	"id": "100088846506293",
 	"name": "",
-	"amountFriends": "86",
+	"amountFriends": "96",
 	"screenname": "Emīlija Serzheva",
 	"birthdate": "1996 May 14",
 	"country": "Daugavpils",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705784839,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvb25rYTF1b2N1N3ciLCJ0aW1lIjoxNjc0MDQ3ODE4fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675247692,
+			"expirationDate": 1675325903,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675247692,
+			"expirationDate": 1675325903,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682418792.891272,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMWV5MTF5YWhldXciLCJ0aW1lIjoxNjc0NjQzMTc3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682496989.523038,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "085WAQwzEgnFujC8I.AWUqebmNBGvVghulgcZNqZ4ygQk.Bjmjdb.Ia.AAA.0.0.Bj0QVp.AWU7hFh_83U"
+			"value": "085WAQwzEgnFujC8I.AWXixhnEXyC6WOjH3IUaTkGAj1s.Bjmjdb.Ia.AAA.0.0.Bj0jbd.AWX6htS3jkU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088951426493%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674642889811%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674721099663%2C%22v%22%3A1%7D"
 		}
 	]
 }
