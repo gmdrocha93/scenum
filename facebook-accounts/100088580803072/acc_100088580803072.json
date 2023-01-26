@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 10:14 petr d32",
+	"lastEventDate": "26.01.2023 10:17 petr d32",
 	"status": 2,
 	"id": "100088580803072",
 	"name": "",
-	"amountFriends": "85",
+	"amountFriends": "97",
 	"screenname": "Natalija Saulite",
 	"birthdate": "1996 September 18",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706165660.190876,
+			"expirationDate": 1706263908.254731,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,46 +52,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705773794,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvc3ByNDE1ZXNldyIsInRpbWUiOjE2NzQyMzczODJ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMndkOTFzZDFvYmciLCJ0aW1lIjoxNjc0NzEyNDEzfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675234669,
+			"expirationDate": 1674798813,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675234669,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706165660.190934,
+			"expirationDate": 1706263908.254771,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AsOD89UP-z51mkg%3A2%3A1670844697%3A-1%3A7181%3A%3AAcVtUmaNoQNRf5XnaS1Pe78mD5AjoErCMcXG47pAnyU"
+			"value": "42%3AsOD89UP-z51mkg%3A2%3A1670844697%3A-1%3A7181%3A%3AAcXNTlS5Pi1Hipb0JpEWOKHEr9z7zeDex4e4vNOlx3A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682405697.683745,
+			"expirationDate": 1675332715,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675333021,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682504087.933485,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AUjpxPQmWTcjpAzq.AWUVElbvir5qlMDKOBlFg42JMv4.Bj0NIc.Sm.AAA.0.0.Bj0NJC.AWXMhQCOnGk"
+			"value": "0QB2Kjv8M94oV27mw.AWW-qn34aJxbhziOrCfIrzP_TzE.Bj0lHk.Sm.AAA.0.0.Bj0lKY.AWWuF7NR4R8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674629826116%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674728197175%2C%22v%22%3A1%7D"
 		}
 	]
 }
