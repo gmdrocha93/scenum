@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 23:34 petr d23",
+	"lastEventDate": "26.01.2023 23:37 petr d23",
 	"status": 2,
 	"id": "100089254686547",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "4",
 	"screenname": "Katarīna Gaile",
 	"birthdate": "2003 January 2",
 	"country": "",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705731658,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMGo2Ynd2b2Y3YiIsInRpbWUiOjE2NzQ2MDIzODF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675381048,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675206413,
+			"expirationDate": 1675381048,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682377450.439139,
+			"expirationDate": 1682552088.486379,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UCeGYF4gJRl7eLnU.AWUbAr58NM9TwShSyxz7yyZlAVI.Bjsrab.ro.AAA.0.0.Bj0GPr.AWUD6yWNbf0"
+			"value": "0UCeGYF4gJRl7eLnU.AWXW84PN4L_hAwHyT0inybRoFgc.Bjsrab.ro.AAA.0.0.Bj0w4Z.AWVSvPQGSD0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674601567496%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674776205757%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
