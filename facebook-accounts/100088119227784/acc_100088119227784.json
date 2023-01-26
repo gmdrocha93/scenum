@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 11:37 petr d32",
+	"lastEventDate": "26.01.2023 11:39 petr d32",
 	"status": 2,
 	"id": "100088119227784",
 	"name": "",
-	"amountFriends": "155",
+	"amountFriends": "162",
 	"screenname": "Настёна Попова",
 	"birthdate": "1998 November 29",
-	"country": "Zambia",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706030763.533775,
+			"expirationDate": 1706268871.636102,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675099726,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675099726,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706030763.533837,
+			"expirationDate": 1706268871.636143,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +74,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "31%3Ap6x7mSSkO5RdMQ%3A2%3A1669915223%3A-1%3A2936%3A%3AAcUwq7-56NHqcLrTnuHnBAs9zumxBcD2xns-SEboiWo"
+			"value": "31%3Ap6x7mSSkO5RdMQ%3A2%3A1669915223%3A-1%3A6411%3A%3AAcXKFmY9YwohKxp_5BI5WZIh-8WI_88IloUK8NQOY-M"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682270791.903357,
+			"expirationDate": 1675337680,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675337992,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682509064.576637,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GW49OBEC4GnMxKGs.AWX34P3KD6RQJ-boIhQhyz8441k.BjzsMs.sC.AAA.0.0.BjzsNI.AWXWKwuNzf4"
+			"value": "0UlOQS694dQvFvfbe.AWUcGYVPAtLOVn2H4_SS91TMu10.Bj0iB_.sC.AAA.0.0.Bj0mYJ.AWWB9SYFfeU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088552054219%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100015922001748%22%7D%2C%7B%22i%22%3A%22u.100088138755038%22%7D%5D%2C%22utc3%22%3A1674494919095%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100088552388329%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100051612071995%22%7D%2C%7B%22i%22%3A%22u.100066171634291%22%7D%2C%7B%22i%22%3A%22u.100015922001748%22%7D%2C%7B%22i%22%3A%22u.100088138755038%22%7D%2C%7B%22i%22%3A%22u.100088552054219%22%7D%5D%2C%22utc3%22%3A1674733168142%2C%22v%22%3A1%7D"
 		}
 	]
 }
