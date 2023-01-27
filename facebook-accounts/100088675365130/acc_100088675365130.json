@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.01.2023 05:40 petr d23",
+	"lastEventDate": "27.01.2023 05:43 petr d23",
 	"status": 2,
 	"id": "100088675365130",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "66",
 	"screenname": "Elīza Pavlovska",
 	"birthdate": "1996 March 20",
 	"country": "Liepaja",
@@ -104,33 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675258329,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMW44enkxN2UyMyIsInRpbWUiOjE2NzQ2NTQzNTl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675258329,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682429421.259613,
+			"expirationDate": 1682574064.712697,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +125,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iH2dkPoovvPMpTy3.AWXOE2Kk-SY3MB6Rq4xq8WOB9TE.BjnSZ0.kZ.AAA.0.0.Bj0S7u.AWV2pyppGtc"
+			"value": "0iH2dkPoovvPMpTy3.AWUMyvMFIwz6JLzixerrHxuf8_4.BjnSZ0.kZ.AAA.0.0.Bj02Px.AWWPXIVW9A8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675402995,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675402996,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674653526704%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674798193272%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
