@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706170707.288647,
+			"expirationDate": 1706367525.885804,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675239737,
+			"expirationDate": 1675436625,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -75,8 +75,20 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcW5xMTFpZnl2dTMiLCJ0aW1lIjoxNjc0MTQxMzM3fQ%3D%3D"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%7D%2C%22d%22%3A%22d89481a7-c15b-4340-b573-bc80611fbb47%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706170707.28869,
+			"expirationDate": 1706367525.885845,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,11 +97,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3Aa5MDAo-261phMg%3A2%3A1669665075%3A-1%3A5599%3A%3AAcWGVSenM59DIOKWn5wGbFOAJQRsjPbEkWcEfMYUQ4Q"
+			"value": "35%3Aa5MDAo-261phMg%3A2%3A1669665075%3A-1%3A5597%3A%3AAcXx9OX04mz7A3RqFNzMfXBdScdvm1vjX-PbltceiHY"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682410839.216734,
+			"expirationDate": 1682607671.169136,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0M1IygBQfzF4NecTb.AWXXOCaIDo-WsGHhiTdPEIOJOJQ.Bj0OXU.l9.AAA.0.0.Bj0OZY.AWUqHm1fbuk"
+			"value": "0s8cYRfeqjkehPmqG.AWUdV6ZkmSMzq3EEXJKwNNCOvSM.Bj0-al.l9.AAA.0.0.Bj0-c4.AWWsdBg_zh8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,8 +122,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674634934791%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674831801171%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.01.2023 15:00 D-07(mini)"
+	"lastEventDate": "27.01.2023 15:03 D-07(mini)"
 }
