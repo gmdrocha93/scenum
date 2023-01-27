@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.01.2023 04:43 petr d23",
+	"lastEventDate": "27.01.2023 04:44 petr d23",
 	"status": 2,
 	"id": "100088701016453",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "61",
 	"screenname": "Lūcija Baranovskis",
 	"birthdate": "1996 June 9",
 	"country": "Jurmala",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675273198,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMXl0eDk0ZTYxMCIsInRpbWUiOjE2NzQ2NjkzMjd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675399497,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675399497,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682444285.834702,
+			"expirationDate": 1682570598.149641,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qz8llY5IYrknjT3N.AWVbP1tLZblLo59i76f3uQ-T_hc.BjoKRe.3W.AAA.0.0.Bj0Wj-.AWWyGag_2KQ"
+			"value": "0qz8llY5IYrknjT3N.AWXsGhBxXXQi5MM7rRPwFeqSXFI.BjoKRe.3W.AAA.0.0.Bj01Zn.AWV0A9UDUkE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674668394660%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674794695529%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
