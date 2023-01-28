@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.01.2023 15:39 petr d24",
+	"lastEventDate": "28.01.2023 15:44 petr d24",
 	"status": 2,
 	"id": "100088788501790",
 	"name": "",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675029301,
+			"expirationDate": 1675525443,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +113,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675344148,
+			"expirationDate": 1675525443,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682515153.636831,
+			"expirationDate": 1682696408.442853,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SEuwEZ85annWABsY.AWWhDJuZsW3zb2i7He1-sKPzlu0.BjrCRT.4L.AAA.0.0.Bj0n3S.AWXeQVnIJMw"
+			"value": "0SEuwEZ85annWABsY.AWUVOwL3Rxd2ep2KGHVdjfJ6Rg8.BjrCRT.4L.AAA.0.0.Bj1UHZ.AWWDqZWSDew"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,19 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674739317913%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674920619223%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbeEhaws6WFBBMEFryU-sr3wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbGiqq9DBYAABV-HEwAABYAFtiKqr0MFgAAFh4A%22%2C%225%22%3A%22GSwVNBxMAAAWABbaiqq9DBYAABWAARxMAAAWABbaiqq9DBYAABYeAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbaiqq9DBYAABUEFTom2oqqvQwWAAAVBBU8JtqKqr0MFgAAFQQVUibaiqq9DBYAABUEFWAm2oqqvQwWAAAVBBViJtqKqr0MFgAAFQQVaibaiqq9DBYAABUEFW4m2oqqvQwWAAAVBBV0JtqKqr0MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674920620%22%7D%2C%22d%22%3A%22b121448d-0343-4925-9e70-463c587781d0%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
 	"funPages": [
