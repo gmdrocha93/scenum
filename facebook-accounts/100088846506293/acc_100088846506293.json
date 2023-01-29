@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "29.01.2023 02:43 petr d33",
+	"lastEventDate": "29.01.2023 02:45 petr d33",
 	"status": 2,
 	"id": "100088846506293",
 	"name": "",
-	"amountFriends": "96",
+	"amountFriends": "103",
 	"screenname": "Emīlija Serzheva",
 	"birthdate": "1996 May 14",
 	"country": "Daugavpils",
@@ -104,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675325903,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675325903,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682496989.523038,
+			"expirationDate": 1675565019,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675565149,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682736222.740757,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "085WAQwzEgnFujC8I.AWXixhnEXyC6WOjH3IUaTkGAj1s.Bjmjdb.Ia.AAA.0.0.Bj0jbd.AWX6htS3jkU"
+			"value": "085WAQwzEgnFujC8I.AWVw5tqOF3vAgx0C-bcxYewikCU.Bjmjdb.Ia.AAA.0.0.Bj1d1f.AWWd83Q5OpE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674721099663%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100086330601086%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674960344392%2C%22v%22%3A1%7D"
 		}
 	]
 }
