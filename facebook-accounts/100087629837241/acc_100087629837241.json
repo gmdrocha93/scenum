@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "29.01.2023 14:27 petr d33",
+	"lastEventDate": "29.01.2023 14:29 petr d33",
 	"status": 2,
 	"id": "100087629837241",
 	"name": "",
-	"amountFriends": "237",
+	"amountFriends": "258",
 	"screenname": "Damaris Shestakova",
 	"birthdate": "2002 July 27",
 	"country": "",
@@ -64,6 +64,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1675607381,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675607381,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -72,7 +98,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMXZnN2hvbmMzMiIsInRpbWUiOjE2NzQ2NjQ1Njd9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwNG9wczNveG4zMyIsInRpbWUiOjE2NzQ3OTU4MDh9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -84,37 +110,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "41%3A6XlF1DPru_Eg1g%3A2%3A1673430826%3A-1%3A1214%3A%3AAcVOb1S2l6NTZzSK-3LfaaPve6S4dALO0OPU4UkmZnA"
+			"value": "41%3A6XlF1DPru_Eg1g%3A2%3A1673430826%3A-1%3A1214%3A%3AAcWR7vOPE-bhfvO3kmLqOw1v7TKh5QZkan6vKlotHHw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675372481,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675372822,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682543880.151569,
+			"expirationDate": 1682778460.918448,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DbhCTShEjGO9UJrc.AWWAG_zdq8YIWSlOxxMSqY94Ylo.Bj0u0w.ir.AAA.0.0.Bj0u4J.AWUraGrRa3Q"
+			"value": "0bFRyCVE1ptRyGmai.AWUrR0Gy4dfNsgYZv7kDEQMGfRg.Bj1oJL.ir.AAA.0.0.Bj1oJd.AWVG9_x_VDY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22g.6228976337164542%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674767997202%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675002559265%2C%22v%22%3A1%7D"
 		}
 	]
 }
