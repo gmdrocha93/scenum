@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "29.01.2023 16:49 D-08(mini)(LV1)",
+	"lastEventDate": "29.01.2023 16:50 D-08(mini)(LV1)",
 	"status": 2,
 	"id": "100088989754088",
 	"name": "",
-	"amountFriends": "307",
+	"amountFriends": "308",
 	"screenname": "Sasha Zakatova",
 	"birthdate": "1997 July 14",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706358999.503064,
+			"expirationDate": 1706547014.317999,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675427872,
+			"expirationDate": 1675615852,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,8 +77,20 @@
 			"value": "1034x620"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%7D%2C%22d%22%3A%225a12fd35-98b4-4d70-a03d-64f149372f6b%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706358999.503204,
+			"expirationDate": 1706547014.318041,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3ADqQbdNiRe_so0Q%3A2%3A1671547057%3A-1%3A5599%3A%3AAcUETljPAbAQivrVUhv58UpcoNEszWL3ybPex_2Weus"
+			"value": "43%3ADqQbdNiRe_so0Q%3A2%3A1671547057%3A-1%3A5599%3A%3AAcXkf71eoNESBDT7maZkJPBfOJwLY5KgGylID2JQK4A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682598998.503287,
+			"expirationDate": 1682787013.318061,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BmalYJCE1CUg2beU.AWVyQxTJyMCBjeoHRlc18qAZhXE.Bj08VY.B3.AAA.0.0.Bj08VY.AWV0zoA3Y6o"
+			"value": "0FoxOeuiJI82dejvh.AWWOqdYjnuttNaui1abW7alqvpg.Bj1qPH.B3.AAA.0.0.Bj1qPH.AWWZqxQwy-Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674823048566%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100045502781813%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675011047764%2C%22v%22%3A1%7D"
 		}
 	]
 }
