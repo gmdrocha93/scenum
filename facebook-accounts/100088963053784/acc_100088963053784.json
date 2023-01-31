@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088963053784",
 	"custom": {},
-	"lastEventDate": "31.01.2023 23:26 petr d35",
+	"lastEventDate": "31.01.2023 23:28 petr d35",
 	"name": "",
-	"amountFriends": "143",
+	"amountFriends": "149",
 	"screenname": "Katarīna Jeanson",
 	"birthdate": "2004 April 16",
 	"country": "Latvia",
@@ -41,7 +41,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706607895.316967,
+			"expirationDate": 1706743274.632113,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -54,33 +54,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706607895.317023,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1%3A1NTWk7YRQwk8Qg%3A2%3A1674544121%3A-1%3A5583%3A%3AAcUlrEdX1CXcFZXyKpFi8AmWzPKxrzI9PKPPpppi2A"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYW40anJkd2J2ZyIsInRpbWUiOjE2NzUwNzM2ODN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675676839,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675676838,
+			"expirationDate": 1675812075,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -89,11 +75,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682847928.520265,
+			"expirationDate": 1675812515,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706743274.632149,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1%3A1NTWk7YRQwk8Qg%3A2%3A1674544121%3A-1%3A5583%3A%3AAcVekd-KqoIAoje1PPKX-NzbU8ZeE6_EDsvvjBjA6w"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682983619.983238,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -102,7 +114,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EHlS2xIz2JrwPj5U.AWVzv6uzuOBguiw33M4IVV0FODk.Bj15GX.Ca.AAA.0.0.Bj15G5.AWWAvz_h9BQ"
+			"value": "0CFkkVp5dq1Ljoqdv.AWX-ap_vv9dnM7W2aW4ZsVAfWT0.Bj2aJr.Ca.AAA.0.0.Bj2aPE.AWWYO2ywKok"
 		},
 		{
 			"domain": ".facebook.com",
@@ -114,7 +126,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675072033755%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675207711770%2C%22v%22%3A1%7D"
 		}
 	],
 	"adsToken": "EAABsbCS1iHgBAJcObCn71CGaXcqjG3SqCZCFjEsAbjdZAEZCq73YQ2vCjhqN5W4xSeRFEX8wjaRCFpLm3ERb4KogsaECZB3ZCNcKdPY0rAtCDZAGWJjfzhjn9ZCHRE6nxuVFAO57Si5MDNlHlFjoqY9hLWSx8BSBOpUCjapcm9TZAAZDZD"
