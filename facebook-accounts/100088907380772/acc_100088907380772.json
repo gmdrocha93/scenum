@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "31.01.2023 18:46 petr d30",
+	"lastEventDate": "31.01.2023 18:48 petr d30",
 	"status": 2,
 	"id": "100088907380772",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "10",
 	"screenname": "Tanya Mirina",
 	"birthdate": "1993 July 17",
 	"country": "Kazakhstan",
@@ -64,32 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675669249,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675669249,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1706600232.955203,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -103,7 +77,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682840249.535473,
+			"expirationDate": 1675795524,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675795701,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682966772.612455,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0E8iD27M4RaxvTXlm.AWUxn0cRgxCP8XKaOANutyj9o1Y.Bj13Op.q-.AAA.0.0.Bj13O6.AWXKNeItx1w"
+			"value": "0E8iD27M4RaxvTXlm.AWWVSB2hJ4D9-qAujVm_8B55CL4.Bj13Op.q-.AAA.0.0.Bj2WH1.AWXIbvRnsCU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675064419700%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675190898142%2C%22v%22%3A1%7D"
 		}
 	]
 }
