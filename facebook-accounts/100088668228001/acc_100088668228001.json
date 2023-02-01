@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.02.2023 08:38 D-09(mini)(LV)1",
+	"lastEventDate": "01.02.2023 22:02 New_fp1_LV1 No Reboot",
 	"status": 2,
 	"id": "100088668228001",
 	"name": "",
-	"amountFriends": "281",
+	"amountFriends": "288",
 	"screenname": "Mariana Polyakova",
 	"birthdate": "1998 April 22",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706775720.66435,
+			"expirationDate": 1706824795.764889,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675844520,
+			"expirationDate": 1675893745,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,19 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675239695782%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706775720.664431,
+			"expirationDate": 1706824795.764949,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AmdedJmWVktpkDA%3A2%3A1671548422%3A-1%3A5599%3A%3AAcXwpnNriL_2MaEMFJydkL2lzC4cwM3mKcuyfUDnD6g"
+			"value": "23%3AmdedJmWVktpkDA%3A2%3A1671548422%3A-1%3A5599%3A%3AAcURZ4vsnsKcDKfi-3gJMb0ZqP__u1XoendjbHsz3a4"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683015719.664475,
+			"expirationDate": 1683064801.325603,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +99,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0H4lLouUzdl6xGagJ.AWU7TtT0dDm5kzcbDyOoEC6scLw.Bj2iEo.-L.AAA.0.0.Bj2iEo.AWULImzlmOE"
+			"value": "0FMpUx34EtRbjehxo.AWWWIRErQ65WPMX4oimHD9mOYj4.Bj2uDc.-L.AAA.0.0.Bj2uDi.AWVFA4KsRAM"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675288920721%2C%22v%22%3A1%7D"
 		}
 	]
 }
