@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.02.2023 07:22 D-04 LV-2",
+	"lastEventDate": "01.02.2023 07:24 D-04 LV-2",
 	"status": 2,
 	"id": "100088886388443",
 	"name": "",
-	"amountFriends": "339",
+	"amountFriends": "342",
 	"screenname": "Ksenia Kovaleva",
 	"birthdate": "1998 February 7",
 	"country": "Skrunda",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706253707.38,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJveTdpZmVpNzJhMSIsInRpbWUiOjE2NzQ0OTM1NzV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706718638.823025,
+			"expirationDate": 1706772080.462067,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675787775,
+			"expirationDate": 1675841092,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706718638.823066,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZDJkdWoxeDd4cSIsInRpbWUiOjE2NzUxODY3NzB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706772080.462111,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3AeSDaVzLg1g7Plg%3A2%3A1672703064%3A-1%3A5599%3A%3AAcXdV7w_I-_IxPcwg7MlbrhafdfB8f6cqj50u7_Rxmg"
+			"value": "3%3AeSDaVzLg1g7Plg%3A2%3A1672703064%3A-1%3A5599%3A%3AAcX7mDKct5UFxOMTf7Xb7SHti-w6Tfoy5Wsm3IJxK9s"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682958872.16591,
+			"expirationDate": 1683012175.899986,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05TPh30FzSIAzhCkB.AWWYcNyHzTg_RUgHjhmJWxti-og.Bj2UIv.So.AAA.0.0.Bj2UMY.AWUnE_Hc2Yo"
+			"value": "0oouWZDo8sUKfclBs.AWVZJnAxpF2j6_3fQHoa6Ik28Kc.Bj2hLw.So.AAA.0.0.Bj2hNQ.AWUVhxX1JFI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086994122485%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675182971823%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675236289741%2C%22v%22%3A1%7D"
 		}
 	]
 }
