@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.02.2023 08:57 D-09(mini)(LV)1",
+	"lastEventDate": "01.02.2023 08:59 D-09(mini)(LV)1",
 	"status": 2,
 	"id": "100088933986137",
 	"name": "",
-	"amountFriends": "278",
+	"amountFriends": "283",
 	"screenname": "Dasha Zernova",
 	"birthdate": "2001 January 29",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706542207.089911,
+			"expirationDate": 1706777783.125762,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705146612.945,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvYXBqejFxMW4xejMiLCJ0aW1lIjoxNjczMzk3MjE1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675611111,
+			"expirationDate": 1675846762,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706542207.089953,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwOTg0dmphZ2x0cSIsInRpbWUiOjE2NzUwMDc1OTl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706777783.125804,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3A3N-RdT_vFOeScA%3A2%3A1671547080%3A-1%3A5599%3A%3AAcVrmR5NzAKKdqN0iR8As-hRxYiNP9QAVYTjs8Of9cc"
+			"value": "5%3A3N-RdT_vFOeScA%3A2%3A1671547080%3A-1%3A5599%3A%3AAcWtqlEXV954RuddvzZkZ27HAVeFcgfD1vxbRDHkoPU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682782208.559549,
+			"expirationDate": 1683017860.617011,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SssNFfpmOpvFCZeo.AWXKFUfjLENAuKL_6Csxkn3v0gs.Bj1pD_.sB.AAA.0.0.Bj1pEB.AWVET_x7YD8"
+			"value": "0rtOLohyFMtMG7yD2.AWXYstakT1aiHxQ0ey8DuH16ufI.Bj2ik3.sB.AAA.0.0.Bj2imF.AWWXmETbY7o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100010431405386%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22g.6259443154070150%22%7D%5D%2C%22utc3%22%3A1675006308150%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675241960030%2C%22v%22%3A1%7D"
 		}
 	]
 }
