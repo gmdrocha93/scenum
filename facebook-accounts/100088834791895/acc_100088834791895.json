@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.02.2023 07:30 D-04 LV-2",
+	"lastEventDate": "01.02.2023 07:33 D-04 LV-2",
 	"status": 2,
 	"id": "100088834791895",
 	"name": "",
-	"amountFriends": "317",
+	"amountFriends": "320",
 	"screenname": "Alicia Trofimova",
 	"birthdate": "2004 October 18",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706722903.152325,
+			"expirationDate": 1706726513.182196,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706253734.029,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvemFjMDNnejB6YyIsInRpbWUiOjE2NzQ1NDM4ODh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675792036,
+			"expirationDate": 1675841577,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706722903.152366,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZDU4eTFxbWtjNjUiLCJ0aW1lIjoxNjc1MTkwNDgyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706726513.182248,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3AZq6FrCZfOhQdVA%3A2%3A1672702890%3A-1%3A5599%3A%3AAcWW5OQ8TqgN2mYBf7MkEoW8QdV2pT9NBkRR7z1O618"
+			"value": "24%3AZq6FrCZfOhQdVA%3A2%3A1672702890%3A-1%3A5599%3A%3AAcWVD5KKMHHsC72jiPMCzXqxSVBohuWQ3jXjyWzwB-4"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682963130.626272,
+			"expirationDate": 1683012627.519213,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02I6YnrUjHSXOrijW.AWXmEgUxYoddHApK1ASlzkw7s6I.Bj2VLY.Sw.AAA.0.0.Bj2VO7.AWXW-KKfO3s"
+			"value": "0ta02iXaDB8iXufeQ.AWVgNc3FVdFkFKRWHSYLe8pitOw.Bj2WDy.Sw.AAA.0.0.Bj2hUU.AWWwRx7nCBc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.217817548247725%22%7D%5D%2C%22utc3%22%3A1675187232337%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675236754333%2C%22v%22%3A1%7D"
 		}
 	]
 }
