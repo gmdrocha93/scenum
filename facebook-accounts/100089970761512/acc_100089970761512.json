@@ -8,9 +8,22 @@
 	"amountFriends": "",
 	"screenname": "Juta Kravale",
 	"birthdate": "2003 January 5",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709886941.255828,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100089970761512%22%3A%22wQZguekc%22%7D"
+		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1709882727.719148,
@@ -102,20 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675927997,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675928022,
+			"expirationDate": 1675936743,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683099074.426164,
+			"expirationDate": 1675936743,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1040x687"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683107790.615264,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FvHvsX5YI7OsiC5g.AWVAnzy1lOeYLxY-lL9NMx0C-o4.Bj22ZN.VH.AAA.0.0.Bj22bD.AWVUd7ascW4"
+			"value": "0FvHvsX5YI7OsiC5g.AWXX58ldLmUmRUyJo6QPTMVVJrM.Bj22ZN.VH.AAA.0.0.Bj24jP.AWV27U54Q-Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675323201047%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675331921357%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.02.2023 09:56 2.0 petr d1",
+	"lastEventDate": "02.02.2023 09:59 2.0 petr d1",
 	"email": "bitmicano1989@hotmail.com",
 	"emailPassword": "uM8Obsm3aj",
 	"imapHost": "outlook.office365.com",
