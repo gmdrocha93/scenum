@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.02.2023 20:33 petr d27",
+	"lastEventDate": "02.02.2023 20:35 petr d27",
 	"status": 2,
 	"id": "100089275443464",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "112",
 	"screenname": "Eleonora Feldmanis",
 	"birthdate": "2003 September 20",
 	"country": "Latvia",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675775439,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzQzOGNra3B5aSIsInRpbWUiOjE2NzUzMjg5NDh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675415348,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675974210,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675775542,
+			"expirationDate": 1675974923,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682946642.396615,
+			"expirationDate": 1683146025.820997,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Doy0nGhFZTgXVaRM.AWUzJzYjGzB4bvJCbsVO_N74C38.Bjr8fc.SK.AAA.0.0.Bj2RNT.AWUqd45-JKs"
+			"value": "0Doy0nGhFZTgXVaRM.AWVvCX7mxDEnegzAKN3AvAn1ZSI.Bjr8fc.SK.AAA.0.0.Bj3B4q.AWXD-T5pl6E"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086940475708%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085788135908%22%7D%2C%7B%22i%22%3A%22u.100026833342831%22%7D%2C%7B%22i%22%3A%22u.1206489222%22%7D%5D%2C%22utc3%22%3A1675170738941%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100051954165831%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085788135908%22%7D%2C%7B%22i%22%3A%22u.100026833342831%22%7D%2C%7B%22i%22%3A%22u.1206489222%22%7D%2C%7B%22i%22%3A%22u.100086940475708%22%7D%5D%2C%22utc3%22%3A1675370119050%2C%22v%22%3A1%7D"
 		}
 	]
 }
