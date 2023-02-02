@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.02.2023 17:24 petr d21",
+	"lastEventDate": "02.02.2023 17:26 petr d21",
 	"status": 2,
 	"id": "100089442810377",
 	"name": "",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675761276,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZTgzc2t6NmUzeSIsInRpbWUiOjE2NzUyNDA4NDB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675963242,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675761276,
+			"expirationDate": 1675963595,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "830x526"
+			"value": "828x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682932370.421566,
+			"expirationDate": 1683134673.913292,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BXs8Qk8pbGMCYiug.AWXRL36qa5mfFISc164cXvbtsb8.BjtDE3.An.AAA.0.0.Bj2NuT.AWUbvxWyqcI"
+			"value": "0BXs8Qk8pbGMCYiug.AWVq4_Qg8TWDhrSSPY5BN7la0YA.BjtDE3.An.AAA.0.0.Bj2_HS.AWV-URD2gjo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100081291822490%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100086574123100%22%7D%2C%7B%22i%22%3A%22u.100025429154608%22%7D%2C%7B%22i%22%3A%22u.100010484351367%22%7D%2C%7B%22i%22%3A%22u.100081807023858%22%7D%5D%2C%22utc3%22%3A1675156473853%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100008159767337%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100086574123100%22%7D%2C%7B%22i%22%3A%22u.100025429154608%22%7D%2C%7B%22i%22%3A%22u.100010484351367%22%7D%2C%7B%22i%22%3A%22u.100081807023858%22%7D%2C%7B%22i%22%3A%22u.100081291822490%22%7D%5D%2C%22utc3%22%3A1675358792868%2C%22v%22%3A1%7D"
 		}
 	]
 }
