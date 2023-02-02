@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.02.2023 22:39 petr d27",
+	"lastEventDate": "02.02.2023 22:42 petr d27",
 	"status": 2,
 	"id": "100088952805166",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "4",
 	"screenname": "Ingrīda Miller",
 	"birthdate": "2002 November 20",
 	"country": "Latvia",
@@ -104,16 +104,16 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675780412,
+			"expirationDate": 1675414150,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,11 +125,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYnY0aWtkdGF4IiwidGltZSI6MTY3NTEzMDcwNn0%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzM1eTE4dmlwbDUiLCJ0aW1lIjoxNjc1MzI3NzUwfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675780412,
+			"expirationDate": 1675981995,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675982527,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682951478.42587,
+			"expirationDate": 1683153564.415521,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MegWcVk2pEqeFIxU.AWX2Y8QWURN5sJSt2OOh5cBWoY4.BjrHk0.gx.AAA.0.0.Bj2SY3.AWXtfeJQbKI"
+			"value": "0MegWcVk2pEqeFIxU.AWVDjX6-Iy8JyCB_HWqROMBFOC4.BjrHk0.gx.AAA.0.0.Bj3Dud.AWXomwyVkdo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675175589485%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675377696504%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
