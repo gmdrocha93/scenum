@@ -8,21 +8,21 @@
 	"amountFriends": "",
 	"screenname": "Biruta Lukina",
 	"birthdate": "2001 January 17",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675925969,
+			"expirationDate": 1709885858.479464,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "%7B%22100090012519233%22%3A%22dgfWYmR5%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675925969,
+			"expirationDate": 1675935241,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675935241,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +141,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683096995.823195,
+			"expirationDate": 1683106311.905207,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AuxK3sSHOBEMk8F5.AWUCj5lhc3S5h5S5Cf1VtPQLSYw.Bj214P.zO.AAA.0.0.Bj216k.AWV7jaJFkHw"
+			"value": "0AuxK3sSHOBEMk8F5.AWXaD7nq233BdDhhEsAq2OIfw0w.Bj214P.zO.AAA.0.0.Bj24MI.AWUV5EGt2TA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675321126675%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675330439254%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.02.2023 09:31 2.0 petr d1",
+	"lastEventDate": "02.02.2023 09:34 2.0 petr d1",
 	"email": "bolaverma1989@hotmail.com",
 	"emailPassword": "eAfKu4psnW",
 	"imapHost": "outlook.office365.com",
