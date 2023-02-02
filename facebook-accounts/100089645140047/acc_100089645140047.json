@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.02.2023 13:31 petr d12",
+	"lastEventDate": "02.02.2023 13:33 petr d12",
 	"status": 2,
 	"id": "100089645140047",
 	"name": "",
@@ -104,33 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675841049,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675841049,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1040x542"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683012136.405656,
+			"expirationDate": 1683120665.554075,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +113,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0e8PLbkBuE5VB90RI.AWXn-Gc7Me6a43S1cKPylRm6mDk.BjynCa.iy.AAA.0.0.Bj2hMp.AWXk-LT71lI"
+			"value": "0e8PLbkBuE5VB90RI.AWVUX2K1BtAfeu_BmpyTCPPnoWc.BjynCa.iy.AAA.0.0.Bj27sa.AWXVJ_2sbVo"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675949631,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "832x410"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675949549,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675236247386%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675344805777%2C%22v%22%3A1%7D"
 		}
 	]
 }
