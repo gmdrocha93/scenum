@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.02.2023 21:33 petr d27",
+	"lastEventDate": "02.02.2023 21:35 petr d27",
 	"status": 2,
 	"id": "100089000327666",
 	"name": "",
@@ -112,11 +112,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYnRrNnl4Mzc2MyIsInRpbWUiOjE2NzUxMjg2Nzh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzN0YTJiZnQ1YyIsInRpbWUiOjE2NzUzMjg1OTB9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675778220,
+			"expirationDate": 1675414990,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675978034,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -125,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675778220,
+			"expirationDate": 1675978534,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1302x706"
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682949280.052314,
+			"expirationDate": 1683149598.230939,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05BEN17ErKG4cdWLT.AWVmUz9b4Hp9Desxe92j-LUty4I.Bjssi3.EN.AAA.0.0.Bj2R2g.AWXJ4XzdK-s"
+			"value": "05BEN17ErKG4cdWLT.AWUvPA2Zy0LL_7eE_G9IzIIgYOw.Bjssi3.EN.AAA.0.0.Bj3Cwf.AWVi3qFCJvM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675173397448%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675373712063%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
