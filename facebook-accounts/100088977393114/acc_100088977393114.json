@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 16:11 petr d27",
+	"lastEventDate": "03.02.2023 16:13 petr d27",
 	"status": 2,
 	"id": "100088977393114",
 	"name": "",
-	"amountFriends": "82",
+	"amountFriends": "87",
 	"screenname": "Ligita Peterson",
 	"birthdate": "2000 February 24",
 	"country": "Latvia",
@@ -104,18 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMWZuODFya3d4YSIsInRpbWUiOjE2NzQ2NDQxODV9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1675564052,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675713064,
+			"expirationDate": 1676045592,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682884164.110042,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYmViazFmcjczaWciLCJ0aW1lIjoxNjc1MTA5MDM0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683216690.303327,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CTu44UjHvgR7LFtE.AWUQyGpMFJYYTy7gV5Ca0cvgMe4.BjnO0T.y2.AAA.0.0.Bj2B9F.AWWdqoefWkE"
+			"value": "0CTu44UjHvgR7LFtE.AWXmLB2Bfj-3C82ihTfVruHxFkw.BjnO0T.y2.AAA.0.0.Bj3TIz.AWWY1JIwKDE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675108260767%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675440789390%2C%22v%22%3A1%7D"
 		}
 	]
 }
