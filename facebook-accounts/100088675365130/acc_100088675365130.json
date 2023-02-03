@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 12:24 petr d27",
+	"lastEventDate": "03.02.2023 12:25 petr d27",
 	"status": 2,
 	"id": "100088675365130",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "91",
 	"screenname": "Elīza Pavlovska",
 	"birthdate": "1996 March 20",
 	"country": "Liepaja",
@@ -112,11 +112,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwNHIyYjFiam1xNiIsInRpbWUiOjE2NzQ3OTg4Nzd9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZ2RhM2t2MmFqOCIsInRpbWUiOjE2NzUzNDA4NTl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675697688,
+			"expirationDate": 1675427259,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676031844,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -125,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675697688,
+			"expirationDate": 1676031957,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682868792.08205,
+			"expirationDate": 1683203047.579476,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iH2dkPoovvPMpTy3.AWWkYTFGUi7ui2bJ9Yn0Tmoxnok.BjnSZ0.kZ.AAA.0.0.Bj1-M4.AWWN3HsUtlQ"
+			"value": "0iH2dkPoovvPMpTy3.AWVD2-75RaDEpy96ssLxOqr4z_Y.BjnSZ0.kZ.AAA.0.0.Bj3Pzo.AWWYYJSc1RE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675092886620%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675427152467%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
