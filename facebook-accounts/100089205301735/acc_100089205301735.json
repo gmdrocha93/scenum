@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 04:24 petr d27",
+	"lastEventDate": "03.02.2023 04:26 petr d27",
 	"status": 2,
 	"id": "100089205301735",
 	"name": "",
-	"amountFriends": "94",
+	"amountFriends": "100",
 	"screenname": "Milda Leimane",
 	"birthdate": "2000 April 7",
 	"country": "Latvia",
@@ -112,11 +112,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYzR4bjFpZ2J4eXciLCJ0aW1lIjoxNjc1MTQzNDE5fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzEydzFyNTdtN3EiLCJ0aW1lIjoxNjc1MzI1MDQ4fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675794376,
+			"expirationDate": 1675411448,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676003053,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675794522,
+			"expirationDate": 1676003182,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682965581.270802,
+			"expirationDate": 1683174259.65782,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HlBeRPDeC6DrA159.AWUbqiswXOwyu1dupG0xRq2jH4c.BjqFbt.WR.AAA.0.0.Bj2V1N.AWXdfggO6IU"
+			"value": "0HlBeRPDeC6DrA159.AWUAqVH3UsdKoWEB06IbWbCczbM.BjqFbt.WR.AAA.0.0.Bj3Ix0.AWVPPi66SF8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675189699153%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675398359332%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
