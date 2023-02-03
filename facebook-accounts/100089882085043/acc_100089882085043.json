@@ -13,16 +13,16 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675938478,
+			"expirationDate": 1709897589.041362,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "%7B%22100089882085043%22%3A%22GwVFBu2T%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675938478,
+			"expirationDate": 1676051524,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676052053,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +137,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683109506.488621,
+			"expirationDate": 1683223108.179818,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iVp3Z4CCmlaJs0SC.AWVpiozSfcZGpjSYZMC-jh2SyyY.Bj247n.Ya.AAA.0.0.Bj24-D.AWXmAAqVTFQ"
+			"value": "0iVp3Z4CCmlaJs0SC.AWWMWpSDIvomfxoHiJbQRZF1Dc8.Bj247n.Ya.AAA.0.0.Bj3UtF.AWWYbBfL4RQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675333635242%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675447229875%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 17:58 2.0 petr d1",
+	"lastEventDate": "03.02.2023 18:00 2.0 petr d1",
 	"email": "marpcarzaber1979@hotmail.com",
 	"emailPassword": "X0zZqRW6EO",
 	"imapHost": "outlook.office365.com",
