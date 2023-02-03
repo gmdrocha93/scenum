@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 03:13 petr d27",
+	"lastEventDate": "03.02.2023 03:15 petr d27",
 	"status": 2,
 	"id": "100089054919249",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"screenname": "Jolanta Petrovs",
 	"birthdate": "2003 June 10",
 	"country": "Latvia",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675744363,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzFoMTFuYzIyYjUiLCJ0aW1lIjoxNjc1MzI1NTU3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675411958,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675998827,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675791781,
+			"expirationDate": 1675998934,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1299x885"
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682962882.161447,
+			"expirationDate": 1683170032.576475,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zxMd9mdJYxgrRuCx.AWWehn8YHWgb51-UWnNwKkWwxrY.Bjqed-.c4.AAA.0.0.Bj2VLD.AWVXxmfWAY8"
+			"value": "0zxMd9mdJYxgrRuCx.AWWIVH9E4iJ_cKkhPp_1tTufgQc.Bjqed-.c4.AAA.0.0.Bj3Hvx.AWXILIUamq8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675186978628%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675394131027%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
