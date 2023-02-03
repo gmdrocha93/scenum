@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 05:23 petr d27",
+	"lastEventDate": "03.02.2023 05:25 petr d27",
 	"status": 2,
 	"id": "100088853566402",
 	"name": "",
@@ -112,24 +112,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYWlub3p2eGZzYiIsInRpbWUiOjE2NzUwNjc4OTJ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZzBvZTFpc2ExemsiLCJ0aW1lIjoxNjc1MzI0NTI2fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675796284,
+			"expirationDate": 1675410926,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675796147,
+			"expirationDate": 1676006588,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -142,7 +142,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682967349.391813,
+			"expirationDate": 1676006726,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683177790.837865,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0uCm9fPOXaRRcvxvA.AWUBX72TFS5fR9AVth_0QuS1fgg.BjqBt3.9P.AAA.0.0.Bj2WQ2.AWUf9ivigco"
+			"value": "0uCm9fPOXaRRcvxvA.AWV_B5CVZUmLMM62c8MjHLf5r8c.BjqBt3.9P.AAA.0.0.Bj3Jo_.AWWkP3Wv7uM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675191460971%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675401904071%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
