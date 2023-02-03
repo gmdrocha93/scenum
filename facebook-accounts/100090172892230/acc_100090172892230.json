@@ -8,21 +8,21 @@
 	"amountFriends": "",
 	"screenname": "Aleksandrīna Kalnins",
 	"birthdate": "2003 February 1",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675931918,
+			"expirationDate": 1709896914.128472,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "%7B%22100090172892230%22%3A%22QadwBsXz%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675931918,
+			"expirationDate": 1676048960,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676049325,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +137,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683102966.97225,
+			"expirationDate": 1683220352.317421,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0G36wQFIOsCQ6nDyv.AWVFQBULZciUPMq0UfupwDNoSVg.Bj23V2.3O.AAA.0.0.Bj23X3.AWWWtSUryl8"
+			"value": "0G36wQFIOsCQ6nDyv.AWVdItfhSFt6hJiRmtSU16nRyYE.Bj23V2.3O.AAA.0.0.Bj3UCB.AWWxGEreLtU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675327075792%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675444499861%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 17:12 2.0 petr d1",
+	"lastEventDate": "03.02.2023 17:15 2.0 petr d1",
 	"email": "ouvfihuvas1979@hotmail.com",
 	"emailPassword": "FaVMbFtlgQ",
 	"imapHost": "outlook.office365.com",
