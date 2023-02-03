@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 08:37 petr d27",
+	"lastEventDate": "03.02.2023 08:39 petr d27",
 	"status": 2,
 	"id": "100089002027683",
 	"name": "",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675115775,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZ2E5ZzFoc3Qxd2IiLCJ0aW1lIjoxNjc1MzM2OTQ4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675423348,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676018254,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675536999,
+			"expirationDate": 1676018394,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "523x291"
+			"value": "524x292"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682708045.659225,
+			"expirationDate": 1683189466.685486,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dO0e4DfLL7SuCSNs.AWVMiihT4EPzRJwAmIK1FhnetEs.BjpDry.ls.AAA.0.0.Bj1W9O.AWVEkD0gpu0"
+			"value": "0dO0e4DfLL7SuCSNs.AWX3vH-0Nho1AgW9aH2gDoxgc_E.BjpDry.ls.AAA.0.0.Bj3Mfb.AWUHKmMJwAo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674932196419%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675413589793%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
