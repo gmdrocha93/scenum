@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 11:10 petr d27",
+	"lastEventDate": "03.02.2023 11:12 petr d27",
 	"status": 2,
 	"id": "100088662889243",
 	"name": "",
-	"amountFriends": "64",
+	"amountFriends": "72",
 	"screenname": "Elena Baumanis",
 	"birthdate": "1999 January 10",
 	"country": "Daugavpils",
@@ -104,20 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705803154,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuaTFwaDFqY25taWMiLCJ0aW1lIjoxNjcyMDYwMDM1fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZ2JkYjFjMDgweWUiLCJ0aW1lIjoxNjc1MzM4MzgzfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675392639,
+			"expirationDate": 1675424783,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676027416,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675675922,
+			"expirationDate": 1676027527,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682847017.917411,
+			"expirationDate": 1683198623.343672,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EVK5fNHbetVYGOvU.AWX9K_D7xeIQCgRR_3XHAUwNXo8.BjoW42.1z.AAA.0.0.Bj144q.AWULNts_DUk"
+			"value": "0EVK5fNHbetVYGOvU.AWVqs0jO1FbJRD2TdumimFWwNY4.BjoW42.1z.AAA.0.0.Bj3Oug.AWVsf7GZkao"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675071115978%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675422725033%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
