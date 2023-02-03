@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 14:14 petr d17",
+	"lastEventDate": "03.02.2023 14:16 petr d17",
 	"status": 2,
 	"id": "100088800476284",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Zara Nastina",
 	"birthdate": "1996 June 16",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706718972.474805,
+			"expirationDate": 1706968743.420868,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706718972.474851,
+			"expirationDate": 1706968743.420923,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -61,11 +61,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3ArQ2zrEszOCVXPA%3A2%3A1672670656%3A-1%3A12835%3A%3AAcW8Ow_RGgyTH66sQ0sHJPbQqUK7c4ydFhSZnTVgoXo"
+			"value": "50%3ArQ2zrEszOCVXPA%3A2%3A1672670656%3A-1%3A12835%3A%3AAcU8OossCcL-Q-t7E5s1UkPV5_G0Eww8ZrIuRGScZJg"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%7D%2C%22d%22%3A%2283685338-ae1d-4ab6-9553-57511aa3106b%22%2C%22s%22%3A%221%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675787785,
+			"expirationDate": 1676038601,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675788558,
+			"expirationDate": 1676038601,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682959636.61136,
+			"expirationDate": 1683209694.959527,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09tqCIxoE3eMX6ZS0.AWVixwq4iQm96de34l3v7qrNTio.Bj2UN9.AZ.AAA.0.0.Bj2UYV.AWX1VdLwh9c"
+			"value": "0QuGInwaZyf9vq4eD.AWXBoPSHWOlh0ZsGxSYEaOxLLSU.Bj3RMo.AZ.AAA.0.0.Bj3Rbf.AWUd_3fs2pM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100053586257927%22%7D%2C%7B%22i%22%3A%22u.100084526693682%22%7D%5D%2C%22utc3%22%3A1675183755719%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100053586257927%22%7D%2C%7B%22i%22%3A%22u.100084526693682%22%7D%2C%7B%22i%22%3A%22u.256399545643%22%7D%5D%2C%22utc3%22%3A1675433798038%2C%22v%22%3A1%7D"
 		}
 	]
 }
