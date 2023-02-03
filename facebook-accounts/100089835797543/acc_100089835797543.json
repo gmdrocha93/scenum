@@ -8,21 +8,21 @@
 	"amountFriends": "",
 	"screenname": "Elga Zakis",
 	"birthdate": "1998 January 8",
-	"country": "",
+	"country": "Liepaja",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675933967,
+			"expirationDate": 1709897092.424343,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "%7B%22100089835797543%22%3A%22Odfsdqld%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675933967,
+			"expirationDate": 1676049600,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676049915,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +137,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683105007.016938,
+			"expirationDate": 1683220956.901401,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ffLi32uMP4rqCPus.AWXw_Ukrr3K-z_5jYT-0N_GckcA.Bj231q.F9.AAA.0.0.Bj233v.AWVn8Lj1P-o"
+			"value": "0ffLi32uMP4rqCPus.AWV7N7pFL70PKlNdydRZoZvo0wE.Bj231q.F9.AAA.0.0.Bj3ULd.AWVQzcsNA-8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675329124803%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675445088560%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 17:22 2.0 petr d1",
+	"lastEventDate": "03.02.2023 17:25 2.0 petr d1",
 	"email": "forcrupmujas1981@hotmail.com",
 	"emailPassword": "mQ4yFWK1am",
 	"imapHost": "outlook.office365.com",
