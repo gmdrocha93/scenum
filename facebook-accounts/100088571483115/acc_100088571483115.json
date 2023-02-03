@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 16:06 petr d24",
+	"lastEventDate": "03.02.2023 16:08 petr d24",
 	"status": 2,
 	"id": "100088571483115",
 	"name": "",
-	"amountFriends": "78",
+	"amountFriends": "88",
 	"screenname": "Katya Tutova",
 	"birthdate": "1994 June 21",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706798191.169776,
+			"expirationDate": 1706975810.8646,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,18 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088571483115"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYWpzazEzZGo5OXMiLCJ0aW1lIjoxNjc1MDY5Nzc5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -77,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675867140,
+			"expirationDate": 1676045332,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706798191.169813,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZXA2bDVzZTVlNCIsInRpbWUiOjE2NzUyNjMwMDF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706975810.864639,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "31%3AQ5RfC7gs8w4nGA%3A2%3A1671633587%3A-1%3A1842%3A%3AAcVkMiy4bPs6eTbLRUPBCPxfxm3cwhh22wLuUS9bQiQ"
+			"value": "31%3AQ5RfC7gs8w4nGA%3A2%3A1671633587%3A-1%3A1842%3A%3AAcUfWK_VoYB837804W115IGvh4qkp_ydGH4IxRYiSZc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683038225.264322,
+			"expirationDate": 1683216417.436705,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05j9mo4BVjAPGIi8r.AWWw53XtG7qV5XBiy-nduUIBVAI.Bj2njv.wl.AAA.0.0.Bj2nkR.AWWPDR38PNo"
+			"value": "0dy01EHrg2k4X6My3.AWUprK_ouJjTdh59smmMsn4IL_Y.Bj3S7D.wl.AAA.0.0.Bj3TEi.AWUDS7CpO_8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675262332598%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675440526744%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
