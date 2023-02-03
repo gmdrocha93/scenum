@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 16:47 petr d27",
+	"lastEventDate": "03.02.2023 16:49 petr d27",
 	"status": 2,
 	"id": "100088846506293",
 	"name": "",
-	"amountFriends": "112",
+	"amountFriends": "119",
 	"screenname": "Emīlija Serzheva",
 	"birthdate": "1996 May 14",
 	"country": "Daugavpils",
@@ -104,18 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwMWV5MTF5YWhldXciLCJ0aW1lIjoxNjc0NjQzMTc3fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1675565019,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675713408,
+			"expirationDate": 1676047783,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682884503.263491,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYmV1MWsycWNkNiIsInRpbWUiOjE2NzUxMDk1OTN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683218873.393288,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "085WAQwzEgnFujC8I.AWVskmVxy335UmubG6wGhzj7fG4.Bjmjdb.Ia.AAA.0.0.Bj2CCY.AWUcOYCk3h4"
+			"value": "085WAQwzEgnFujC8I.AWUCthnsJUPOov1OkiQzrGB5dJI.Bjmjdb.Ia.AAA.0.0.Bj3Tq6.AWU0tHYwkYI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086330601086%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675108605212%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675442978849%2C%22v%22%3A1%7D"
 		}
 	]
 }
