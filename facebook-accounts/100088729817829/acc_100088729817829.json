@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 08:15 petr d27",
+	"lastEventDate": "03.02.2023 08:17 petr d27",
 	"status": 2,
 	"id": "100088729817829",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Ance Markova",
 	"birthdate": "2004 July 4",
 	"country": "Jurmala",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675535662,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwZ2EydDFtNm83dnQiLCJ0aW1lIjoxNjc1MzM2NzA5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675423109,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676016944,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675535662,
+			"expirationDate": 1676017049,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682706701.72242,
+			"expirationDate": 1683188149.194454,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HeU2Rk8JkFT6llk6.AWV2Hd1x4rwVER3fpYNuQU9yK7Y.BjpElg.Af.AAA.0.0.Bj1WoO.AWUJL8lQmIA"
+			"value": "0HeU2Rk8JkFT6llk6.AWVGyGLjqT32o41yjKEbWKKZgLE.BjpElg.Af.AAA.0.0.Bj3MK2.AWUE8DKV7UU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674930838777%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675412246027%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
