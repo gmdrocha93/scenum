@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.02.2023 08:28 petr d27",
+	"lastEventDate": "04.02.2023 08:31 petr d27",
 	"status": 2,
 	"id": "100088819777189",
 	"name": "",
-	"amountFriends": "90",
+	"amountFriends": "96",
 	"screenname": "Diāna Solovzhova",
 	"birthdate": "2004 November 11",
 	"country": "Liepaja",
@@ -104,20 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705782858,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvb21nYThqczRobiIsInRpbWUiOjE2NzQwNDYzNzh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYmluODFyNHVwMmsiLCJ0aW1lIjoxNjc1MTE0NTMyfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675328732,
+			"expirationDate": 1676104267,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -126,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675718543,
+			"expirationDate": 1676104267,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682889581.95071,
+			"expirationDate": 1683275343.602635,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GOLQNuHs20AWSgjs.AWWgneB2OPipcMrd_m0TUSATOo4.Bjmd1w.tP.AAA.0.0.Bj2DRu.AWX5E3K_l4M"
+			"value": "0GOLQNuHs20AWSgjs.AWUT3mI_PdJE-ywxStjuq9TNTps.Bjmd1w.tP.AAA.0.0.Bj3hdQ.AWVExGOGNUg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100053333828337%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675113695330%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675499442426%2C%22v%22%3A1%7D"
 		}
 	]
 }
