@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.02.2023 09:24 petr d13",
+	"lastEventDate": "04.02.2023 09:26 petr d13",
 	"status": 2,
 	"id": "100089652699566",
 	"name": "",
@@ -104,7 +104,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683123730.149987,
+			"expirationDate": 1676107609,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676107609,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "660x398"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683278658.515237,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DAxQMVylfFphXfwj.AWWeDIoFdbZqfMzf8s7XidND_wE.BjykXE.14.AAA.0.0.Bj28cS.AWXuD_nq3SM"
+			"value": "0DAxQMVylfFphXfwj.AWVu7-Ut0M1AKxC2TXm_6JZb1Ok.BjykXE.14.AAA.0.0.Bj3iRD.AWVBPVZ2IIE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,33 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675347859795%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675952683,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "661x397"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675952681,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675502786688%2C%22v%22%3A1%7D"
 		}
 	]
 }
