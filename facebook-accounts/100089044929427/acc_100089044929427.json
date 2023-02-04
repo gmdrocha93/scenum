@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.02.2023 17:38 petr d22",
+	"lastEventDate": "04.02.2023 17:40 petr d22",
 	"status": 2,
 	"id": "100089044929427",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "73",
 	"screenname": "Olga Simonova",
 	"birthdate": "1986 April 20",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706720092.040498,
+			"expirationDate": 1707067699.541208,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706720092.040538,
+			"expirationDate": 1707067699.541253,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -61,11 +61,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3AbIbNk3M6wbEWpQ%3A2%3A1672057280%3A-1%3A355%3A%3AAcV2YXhxwHTOqcB8xkChseBelu2OxXYgMtHMT79ebVY"
+			"value": "9%3AbIbNk3M6wbEWpQ%3A2%3A1672057280%3A-1%3A355%3A%3AAcUsC0i8NA3y-ReiX7I2HnZtoRW6d2YJ9QuBK-WKw6g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675789235,
+			"expirationDate": 1676137208,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676137208,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682960315.45851,
+			"expirationDate": 1683308304.652704,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VtRQrNCVvmVLtv16.AWXjLihr85jOHKZMawacXGHpbGo.Bj2Ufc.cN.AAA.0.0.Bj2Ui8.AWV4gd_txzg"
+			"value": "0UvFOQnC1MaqX3cIE.AWVFkY0k5-xpxa5vohNeSwiOV7Q.Bj3pW0.cN.AAA.0.0.Bj3pgR.AWVTZypce6Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089481137953%22%7D%5D%2C%22utc3%22%3A1675184427526%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100078507031607%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100089481137953%22%7D%5D%2C%22utc3%22%3A1675532403732%2C%22v%22%3A1%7D"
 		}
 	]
 }
