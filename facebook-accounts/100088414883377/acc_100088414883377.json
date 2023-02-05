@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.02.2023 19:51 petr d30",
+	"lastEventDate": "05.02.2023 19:53 petr d30",
 	"status": 2,
 	"id": "100088414883377",
 	"name": "",
-	"amountFriends": "165",
+	"amountFriends": "174",
 	"screenname": "Edīte Miller",
 	"birthdate": "2002 March 30",
 	"country": "Latvia",
@@ -117,19 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676054417,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +129,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683225492.222404,
+			"expirationDate": 1676231621,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676231621,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683402716.666241,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Tdv0eb6o3gZs5ytn.AWXuwu1uFvgAaxFaTQ_kxPZ7k6Q.Bjme7X.lV.AAA.0.0.Bj3VSV.AWXqVn8Pgn4"
+			"value": "0Tdv0eb6o3gZs5ytn.AWUMpdRYI8HGKEdbRo-jPz9gSB8.Bjme7X.lV.AAA.0.0.Bj4Ajd.AWWYYftawjg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675449612711%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100071165936848%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100042341687769%22%7D%2C%7B%22i%22%3A%22u.100082869587632%22%7D%5D%2C%22utc3%22%3A1675626817862%2C%22v%22%3A1%7D"
 		}
 	]
 }
