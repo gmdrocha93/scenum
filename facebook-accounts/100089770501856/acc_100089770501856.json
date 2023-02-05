@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.02.2023 19:56 petr d12",
+	"lastEventDate": "05.02.2023 19:58 petr d12",
 	"status": 2,
 	"id": "100089770501856",
 	"name": "",
-	"amountFriends": "5",
+	"amountFriends": "7",
 	"screenname": "Kristiāna Linde",
 	"birthdate": "1997 January 16",
 	"country": "Liepaja",
@@ -104,7 +104,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675996011,
+			"expirationDate": 1676231909,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676231909,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683167111.767995,
+			"expirationDate": 1683402993.50082,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xlnXAuUCcMFkY4wb.AWWog6A_WyMt2K0zaY_prevQpEk.BjxXJR.oR.AAA.0.0.Bj3HCI.AWWsI0ky7LM"
+			"value": "0xlnXAuUCcMFkY4wb.AWX_zhgpuP0xhm9c7uMjgfwumvg.BjxXJR.oR.AAA.0.0.Bj4Any.AWUiWFoHpyA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.19827608162%22%7D%5D%2C%22utc3%22%3A1675391207833%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675627103849%2C%22v%22%3A1%7D"
 		}
 	]
 }
