@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.02.2023 19:41 petr d30",
+	"lastEventDate": "05.02.2023 19:43 petr d30",
 	"status": 2,
 	"id": "100088573035804",
 	"name": "",
-	"amountFriends": "137",
+	"amountFriends": "144",
 	"screenname": "Diāna Sudden",
 	"birthdate": "2002 March 16",
 	"country": "Liepaja",
@@ -116,7 +116,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676053413,
+			"expirationDate": 1676231001,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676231000,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683224515.546659,
+			"expirationDate": 1683402098.500938,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0P0rqPAarpcRORIoi.AWUOISD6aq7rpWDS1Z3Mdmv4-Wc.BjmdXY.nK.AAA.0.0.Bj3VDE.AWX50PVmCBY"
+			"value": "0P0rqPAarpcRORIoi.AWWzqJ-sAmKxHvUcd2VAE77qE8U.BjmdXY.nK.AAA.0.0.Bj4AZz.AWUdSCGD6ZM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675448611233%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100079075343005%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100002059819095%22%7D%2C%7B%22i%22%3A%22u.100065257331926%22%7D%5D%2C%22utc3%22%3A1675626195990%2C%22v%22%3A1%7D"
 		}
 	]
 }
