@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.02.2023 17:39 petr d15",
+	"lastEventDate": "06.02.2023 17:44 petr d15",
 	"status": 2,
 	"id": "100089487915898",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Ērika Wiltshire",
 	"birthdate": "1998 January 6",
 	"country": "Latvia",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676157731,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676157731,
+			"expirationDate": 1676310285,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +113,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1298x884"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683328780.235148,
+			"expirationDate": 1676309791,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683481195.313138,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "078KZFcO9c2XmMCam.AWU_qazjx1QXdkY51jnfnZdy0Sw.Bjymlj.rX.AAA.0.0.Bj3ugN.AWUKYBWUk9Q"
+			"value": "078KZFcO9c2XmMCam.AWUoEJ2xG9XaAKOItWi7mnp84b0.Bjymlj.rX.AAA.0.0.Bj4Tts.AWXtzllczBY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675552928651%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675705463063%2C%22v%22%3A1%7D"
 		}
 	]
 }
