@@ -1,19 +1,32 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.02.2023 19:46 petr d33",
+	"lastEventDate": "06.02.2023 19:49 petr d33",
 	"status": 2,
 	"id": "100088502274218",
 	"name": "people/Maria-Gablina/100088502274218",
-	"amountFriends": "91",
+	"amountFriends": "100",
 	"screenname": "Maria Gablina",
-	"birthdate": "1995 June 13",
-	"country": "Kazakhstan",
+	"birthdate": "",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705737209,
+			"expirationDate": 1709797572.04459,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100088502274218%22%3A%22dXktNObz%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709797542.914612,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -26,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705737209,
+			"expirationDate": 1709141687.143764,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "datr",
@@ -39,7 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706007895.041545,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJveHJqNzFqcmY2YmIiLCJ0aW1lIjoxNjc0NDczMTY2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707248784.935458,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705737209,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvcXYzNXd2ZmRzeCIsInRpbWUiOjE2NzQxNTA5ODd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675077144,
+			"expirationDate": 1676316916,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675077144,
+			"expirationDate": 1676317758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706007895.041628,
+			"expirationDate": 1707248784.935512,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "4%3ASBXZJOngLQIJ2Q%3A2%3A1671433841%3A-1%3A7595%3A%3AAcW8sIkpEiA2GbO2kDRQZeQouiUrmR5XpG0o8od3hIg"
+			"value": "28%3AcA-IKVWRJzLbAA%3A2%3A1675237539%3A-1%3A7595%3A%3AAcWY3aFvBnbVXFqpdf5YdrUrVN6TKVdqHkocaniX2Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682248193.735246,
+			"expirationDate": 1683488829.040678,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mICXTxryXFQclOEn.AWVnO6tF0lyua4nCwErsbEG7UkY.BjzmnX.Lm.AAA.0.0.BjzmsC.AWWU1nJ76ho"
+			"value": "0cC8PpVmeZGLa9xLG.AWVH78geOObGm06uYBhAF42wV3A.Bj4VkR.Lm.AAA.0.0.Bj4Vk9.AWX2CaB2vT0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100082365907760%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100083688109311%22%7D%5D%2C%22utc3%22%3A1674472334344%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675712933548%2C%22v%22%3A1%7D"
 		}
 	],
 	"adsToken": "EAABsbCS1iHgBAJ9x83zAGFHZCQLcohj7tTJmFj5jMcSMf7SNYZBYo3CsrLZAhqB3fZC2sQiM2xwdDWZCQcLZABdhcVYLeiY2CmU06qi4iI2a4PfJwVZBZCkjdb9NYSIFEPB0UJMc1jPC7F4bPgUFDqVOU6RrAA91aNB5TeXg66QKdjuFDzEHCScR"
