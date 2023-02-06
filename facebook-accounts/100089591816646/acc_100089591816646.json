@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676054032,
+			"expirationDate": 1676297667,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676297667,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683225101.482035,
+			"expirationDate": 1683468686.923212,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xxIOgdayk2fBw6S2.AWWA52ypILQn3KKcy1OvJLTg840.Bj2tlp.zq.AAA.0.0.Bj3VMO.AWXVappSXsw"
+			"value": "0xxIOgdayk2fBw6S2.AWXbomIt-PV-kOsWPZor7uKQZHE.Bj2tlp.zq.AAA.0.0.Bj4QqP.AWVmhNgU668"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675449204548%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675692844178%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.02.2023 14:11 2.0 petr d2",
+	"lastEventDate": "06.02.2023 14:14 2.0 petr d2",
 	"email": "cadipesu1989@hotmail.com",
 	"emailPassword": "EWkNUuXli3",
 	"imapHost": "outlook.office365.com",
