@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088556058194",
 	"custom": {},
-	"lastEventDate": "06.02.2023 15:06 petr d38",
+	"lastEventDate": "06.02.2023 15:07 petr d38",
 	"name": "",
-	"amountFriends": "155",
+	"amountFriends": "164",
 	"screenname": "Inita Zvirbule",
 	"birthdate": "1999 December 14",
 	"country": "Daugavpils",
@@ -41,7 +41,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707059112.449053,
+			"expirationDate": 1707231706.79152,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,7 +66,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676127394,
+			"expirationDate": 1707231706.791557,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "42%3AmX3A5J3sKgo3Rg%3A2%3A1674555695%3A-1%3A3722%3A%3AAcWKm7hClfbKhQA92pHyHjlfgGdliMcoblhpfu85OhI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683471968.876518,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0V4cfmJV36QzexJP3.AWXEjdDLxpiyqTW7Xw_6L327Tdg.Bj4RZb.SW.AAA.0.0.Bj4Rdh.AWVlCpkQGw0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676300877,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "832x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676300816,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -79,45 +118,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676128042,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1040x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707059112.449088,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "42%3AmX3A5J3sKgo3Rg%3A2%3A1674555695%3A-1%3A3722%3A%3AAcW2ceur15mrMa2OPlDs6YBIzue39IuRDlOLQxIOTP0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683299139.601015,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0f7Qkjp2x1xys9jVz.AWUTIP2sXN_mILKTjKFO2iGVnWI.Bj3nQp.SW.AAA.0.0.Bj3nRE.AWWrMIMVABs"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675523238095%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675696073401%2C%22v%22%3A1%7D"
 		}
 	],
 	"adsToken": "EAABsbCS1iHgBADGZAQvF1d9dr6h2VYs57gZAk1ZAQeKiMiUmoj0aGHP58QJbOqu00oHZAnrO2NZATGrFAAuKCAj85fNeLuUeRiHdmOZBZAOczkiNsRIvO8s0X48nYq9phajmt8JuZC8AgzNE8vwV1v2VY8y2FzAPJymp7L2seACodAZDZD"
