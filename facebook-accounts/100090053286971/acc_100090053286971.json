@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676053898,
+			"expirationDate": 1676297425,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676297425,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683224931.693424,
+			"expirationDate": 1683468491.15529,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MhW19oxUTHc6sdFc.AWVex7xaFjZSnpqpI2CBE0Y3PPc.Bj2uCe.6X.AAA.0.0.Bj3VJk.AWX6A6qU-y4"
+			"value": "0MhW19oxUTHc6sdFc.AWVTCB7u1-t99a9XGY73UEWvhGs.Bj2uCe.6X.AAA.0.0.Bj4QnM.AWVOLPucX4g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675449072090%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675692601543%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.02.2023 14:08 2.0 petr d2",
+	"lastEventDate": "06.02.2023 14:10 2.0 petr d2",
 	"email": "loalisigbio1976@hotmail.com",
 	"emailPassword": "UUdVyrooRu",
 	"imapHost": "outlook.office365.com",
