@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.02.2023 10:55 petr d15",
+	"lastEventDate": "07.02.2023 10:58 petr d15",
 	"status": 2,
 	"id": "100087563360399",
 	"name": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707141784.941704,
+			"expirationDate": 1707302901.194773,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676210779,
+			"expirationDate": 1676372320,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676372320,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707141784.941741,
+			"expirationDate": 1707302901.194818,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AhwYj_S5mM6tqjw%3A2%3A1673346952%3A-1%3A-1%3A%3AAcULup4AHncpeg-ck4EufEKpYPByUkGHPGame_hMQB8"
+			"value": "19%3AhwYj_S5mM6tqjw%3A2%3A1673346952%3A-1%3A-1%3A%3AAcUg-bkpCzWnHXwfkQ-SXduK2eFXfRF6ntpr1P48ROw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683381817.743359,
+			"expirationDate": 1683543363.718314,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jh149AxHjBsMk0ye.AWU8tWrFLMBIByNxjsSNEuwhQz8.Bj37cZ.oj.AAA.0.0.Bj37c6.AWXaDFa4tks"
+			"value": "0hksZSkc6mIX7NB6g.AWXwwmVify8yAZPt_t0g3EA11iw.Bj4ixx.oj.AAA.0.0.Bj4i5E.AWXB2sOGCfM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675605955191%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675767497071%2C%22v%22%3A1%7D"
 		}
 	]
 }
