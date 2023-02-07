@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.02.2023 04:20 petr d31",
+	"lastEventDate": "07.02.2023 04:21 petr d31",
 	"status": 2,
 	"id": "100088701016453",
 	"name": "",
-	"amountFriends": "84",
+	"amountFriends": "94",
 	"screenname": "Lūcija Baranovskis",
 	"birthdate": "1996 June 9",
 	"country": "Jurmala",
@@ -104,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676216967,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,7 +116,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676216967,
+			"expirationDate": 1676348262,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676348503,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "828x526"
+			"value": "827x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683388070.543201,
+			"expirationDate": 1683519610.711307,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qz8llY5IYrknjT3N.AWXxLqwKpsyTnkTOX3b9a6BrwWI.BjoKRe.3W.AAA.0.0.Bj38-n.AWWcvhfPCzQ"
+			"value": "0qz8llY5IYrknjT3N.AWXiI26eIy24DhSCrUJ-R94Vl-8.BjoKRe.3W.AAA.0.0.Bj4dF7.AWWjV1fD5qk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089429504747%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675612165525%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675743702019%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
