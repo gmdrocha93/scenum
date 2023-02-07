@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.02.2023 03:23 petr d31",
+	"lastEventDate": "07.02.2023 03:25 petr d31",
 	"status": 2,
 	"id": "100089098321111",
 	"name": "",
@@ -100,19 +100,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676212855,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -124,8 +111,33 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYXVwcTE4d2oxNTEiLCJ0aW1lIjoxNjc1MDgzNTE4fQ%3D%3D"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaAFBbA2MaeAhMEFq7ztfL5wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbGlP69DBYAABV-HEwAABYAFtCU_r0MFgAAFiAA%22%2C%225%22%3A%22GSwVNBxMAAAWABbSlP69DBYAABWAARxMAAAWABbSlP69DBYAABYgAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbSlP69DBYAABUEFTom0pT-vQwWAAAVBBU8JtSU_r0MFgAAFQQVUibUlP69DBYAABUEFWAm1JT-vQwWAAAVBBViJtKU_r0MFgAAFQQVaibSlP69DBYAABUEFW4m1JT-vQwWAAAVBBV0JtKU_r0MFgAAFhwRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221675609384%22%7D%2C%22d%22%3A%22fd0588e9-039d-4168-85e3-9ae04802aef6%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676212810,
+			"expirationDate": 1676344904,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676345130,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -134,11 +146,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x686"
+			"value": "1039x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683383929.432764,
+			"expirationDate": 1683516197.850385,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -147,7 +159,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Rhjxn16g9L9Swq41.AWWT_v57SRBSmSB-JmQNyIWiBxs.BjoUqJ.Xi.AAA.0.0.Bj3796.AWU0ToVfkf8"
+			"value": "0Rhjxn16g9L9Swq41.AWXxb9OFdSPEGTB2LMRs6yFLvZI.BjoUqJ.Xi.AAA.0.0.Bj4cQm.AWVTKrMcGK4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -159,22 +171,14 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675608013098%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbgExb-wcbZCxMEFq7ztfL5wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaS__29DBYAABV-HEwAABYAFpz__b0MFgAAFiAA%22%2C%225%22%3A%22GSwVNBxMAAAWABac__29DBYAABWAARxMAAAWABac__29DBYAABYgAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCac__29DBYAABUEFTomnP_9vQwWAAAVBBU8Jp7__b0MFgAAFQQVUiae__29DBYAABUEFWAmnv_9vQwWAAAVBBViJpz__b0MFgAAFQQVaiac__29DBYAABUEFW4mnv_9vQwWAAAVBBV0Jpz__b0MFgAAFhwRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221675608014%22%7D%2C%22d%22%3A%22fd0588e9-039d-4168-85e3-9ae04802aef6%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675740307458%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100089856247481"
-	]
+	],
+	"screenname": "Annija Germacane",
+	"birthdate": "2004 July 4",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
