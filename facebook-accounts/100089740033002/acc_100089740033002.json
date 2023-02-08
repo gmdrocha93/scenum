@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676262843,
+			"expirationDate": 1676486008,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676262843,
+			"expirationDate": 1683657063.865372,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0DZivAPbynGP9eoD2.AWVd_CErOHLXg626nalXkNO6OJU.Bj0iNh.ls.AAA.0.0.Bj4-po.AWW8dkXKMuI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676486008,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683433916.492629,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0DZivAPbynGP9eoD2.AWW8_EzXrJBc_Xn2x53t-kjwFec.Bj0iNh.ls.AAA.0.0.Bj4IK9.AWWqL0-4TNI"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675658039342%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675881184193%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.02.2023 18:30 petr d5",
+	"lastEventDate": "08.02.2023 18:33 petr d5",
 	"email": "bolitesal1978@hotmail.com",
 	"emailPassword": "Y5uoWpZugI",
 	"imapHost": "outlook.office365.com",
