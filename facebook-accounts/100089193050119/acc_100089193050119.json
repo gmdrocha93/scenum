@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.02.2023 18:18 petr d13",
+	"lastEventDate": "08.02.2023 18:20 petr d13",
 	"status": 2,
 	"id": "100089193050119",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "4",
 	"screenname": "Inguna Zhekabsone",
 	"birthdate": "2005 January 1",
 	"country": "Malaysia",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676260806,
+			"expirationDate": 1676485213,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,11 +113,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683431914.498478,
+			"expirationDate": 1676485213,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683656315.152871,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gJm0knd05dFidFXY.AWVpEWMApqTp6NrPRDK6yLODtQc.Bjv7bi.Go.AAA.0.0.Bj4Hrr.AWWHzKXwnBc"
+			"value": "0gJm0knd05dFidFXY.AWUuz0MFMFMwPWRusogxRmfw9IA.Bjv7bi.Go.AAA.0.0.Bj4-d8.AWXg89MF9Rs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100053314927096%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675656003396%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100053314927096%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675880409776%2C%22v%22%3A1%7D"
 		}
 	]
 }
