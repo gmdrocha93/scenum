@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "09.02.2023 07:32 petr d23",
+	"lastEventDate": "09.02.2023 07:34 petr d23",
 	"status": 2,
 	"id": "100089041061647",
 	"name": "",
-	"amountFriends": "79",
+	"amountFriends": "86",
 	"screenname": "Broņislava Dreimane",
 	"birthdate": "1997 December 2",
 	"country": "Daugavpils",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676306155,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwbzNxeDFjcXZ3NHMiLCJ0aW1lIjoxNjc1NzAyMTI2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676532875,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676306155,
+			"expirationDate": 1676532875,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683477247.850349,
+			"expirationDate": 1683703942.300767,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OBfpiMDebtHENT8O.AWU0-pVWyR1JWrXWcMlR3kK1xdg.BjrKIt.Wx.AAA.0.0.Bj4SwA.AWW7-9kCjMA"
+			"value": "0OBfpiMDebtHENT8O.AWUV8Jrqn0SDkFCwZYU1GZmAuRI.BjrKIt.Wx.AAA.0.0.Bj5KGH.AWVgdL1h9zg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089006946881%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100064968608741%22%7D%5D%2C%22utc3%22%3A1675701352559%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675928071870%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
