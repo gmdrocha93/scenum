@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "09.02.2023 06:01 petr d23",
+	"lastEventDate": "09.02.2023 06:03 petr d23",
 	"status": 2,
 	"id": "100089334335945",
 	"name": "",
-	"amountFriends": "94",
+	"amountFriends": "102",
 	"screenname": "Elīza Volkova",
 	"birthdate": "2004 January 2",
 	"country": "Daugavpils",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676269643,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwbmJrejFwN2hxd2kiLCJ0aW1lIjoxNjc1NjY1NjE1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676527312,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676269643,
+			"expirationDate": 1676527417,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "830x526"
+			"value": "828x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683440743.85053,
+			"expirationDate": 1683698517.941293,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Egri3QCJIwGGcwtH.AWUVzz2A869HMjBG0luelc7HEIs.BjtqFS.W2.AAA.0.0.Bj4J1o.AWUOQ7vfIDM"
+			"value": "0Egri3QCJIwGGcwtH.AWWkzjqtbxPgab97cbjH0d2VQnA.BjtqFS.W2.AAA.0.0.Bj5IxW.AWU2NNkinIA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675664837030%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675922615967%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
