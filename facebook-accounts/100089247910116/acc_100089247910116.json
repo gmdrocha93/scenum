@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "09.02.2023 05:25 petr d23",
+	"lastEventDate": "09.02.2023 11:00 login",
 	"status": 2,
 	"id": "100089247910116",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Alvīna Steinbergs",
-	"birthdate": "1998 January 2",
-	"country": "Latvia",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -104,45 +100,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676524351,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676524447,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683695553.067575,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0iEW17yb1Tud0CkWA.AWVhOoUKwSMn8fErdGRF1JrhJuo.BjttJ9.au.AAA.0.0.Bj5IDB.AWXEOEa_U0g"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -151,7 +108,46 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3J0bmJkc2FpaiIsInRpbWUiOjE2NzU5MTk1Nzl9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3J0bmJkc2FpaiIsInRpbWUiOjE2NzU5MjAxOTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676544212,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676544218,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683715300.112151,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0iEW17yb1Tud0CkWA.AWXRbCaUIQ1H4Cd6JWP2qckRQb0.BjttJ9.au.AAA.0.0.Bj5M3k.AWWDessNARs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675919645855%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675939415256%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
