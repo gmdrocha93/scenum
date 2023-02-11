@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.02.2023 23:05 petr d20",
+	"lastEventDate": "11.02.2023 23:06 petr d20",
 	"status": 2,
 	"id": "100088051710858",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "3",
 	"screenname": "Holly Brown",
 	"birthdate": "1999 September 22",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707627317.764715,
+			"expirationDate": 1707692109.36953,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707627317.7648,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "3%3ABC_SO5puM68KmA%3A2%3A1673346998%3A-1%3A10348%3A%3AAcXdKS8fU11yrhCVnTae4uVXNW-j132SBoWfFaG_Evk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676696121,
+			"expirationDate": 1676697257,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676696798,
+			"expirationDate": 1676761606,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,7 +91,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683867904.016306,
+			"expirationDate": 1707692109.369577,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "3%3ABC_SO5puM68KmA%3A2%3A1673346998%3A-1%3A10348%3A%3AAcUuUutPujcXdBp0oqBRypSVzpBa8sR3L0fH1HOXP5I"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683932707.608675,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VSwKcza1AR5AXUC0.AWWHAOsecJjJMRGZDYVbghqwlZc.Bj5x-2.Z5.AAA.0.0.Bj5yIA.AWUJnu-cutg"
+			"value": "0h8DN32TlH2dpnNJV.AWXSBCVrXKqxJJdVlJLwJpJ6MjM.Bj6BzO.Z5.AAA.0.0.Bj6B8k.AWUQ5c6uXP0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.49507049030%22%7D%5D%2C%22utc3%22%3A1676091995734%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.49507049030%22%7D%5D%2C%22utc3%22%3A1676156803144%2C%22v%22%3A1%7D"
 		}
 	]
 }
