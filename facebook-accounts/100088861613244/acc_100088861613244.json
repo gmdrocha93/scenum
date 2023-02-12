@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 21:27 petr d26",
+	"lastEventDate": "12.02.2023 21:28 petr d26",
 	"status": 2,
 	"id": "100088861613244",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "61",
 	"screenname": "Ginta Chickpeas",
 	"birthdate": "2001 January 1",
 	"country": "Jurmala",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707541581,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwbGlubnprOWtiayIsInRpbWUiOjE2NzU1ODExMzN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676661077,
+			"expirationDate": 1676662080,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676661178,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdnB5dnF1YXBpZCIsInRpbWUiOjE2NzYwNTcxNDN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676842136,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683832280.338593,
+			"expirationDate": 1684013246.280004,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YRxhyLTRrH05wiFj.AWU_ZOH7uXmUidnlJXfzUu3YIHg.Bjsvr9.Gk.AAA.0.0.Bj5pbZ.AWXs7bWuKmU"
+			"value": "0YRxhyLTRrH05wiFj.AWU6b51QYvY67wrKg2vK2mM-x1k.Bjsvr9.Gk.AAA.0.0.Bj6Vm-.AWW_tZsF9eQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676056376077%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676237334307%2C%22v%22%3A1%7D"
 		}
 	]
 }
