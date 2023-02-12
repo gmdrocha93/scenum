@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088976358447",
 	"custom": {},
-	"lastEventDate": "12.02.2023 09:09 login",
+	"lastEventDate": "12.02.2023 11:11 vygruz",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Modrīte Zaitseva",
@@ -132,7 +132,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676756433,
+			"expirationDate": 1683976197.796669,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0DGEM2JtS6W7q3vpU.AWX5K9zZvW8PlBfYf-ga1uoJDK8.Bjsv8Z.Hv.AAA.0.0.Bj6MkG.AWXogx7cgq4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676805110,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676805100,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -145,32 +171,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676757049,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683928128.030475,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0DGEM2JtS6W7q3vpU.AWUoinkz3UFu1ho6aQm7Dd3bLeg.Bjsv8Z.Hv.AAA.0.0.Bj6A1A.AWWEoKDWtLE"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -179,7 +179,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676152245934%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100060900596871%22%7D%5D%2C%22utc3%22%3A1676200308170%2C%22v%22%3A1%7D"
 		}
 	]
 }
