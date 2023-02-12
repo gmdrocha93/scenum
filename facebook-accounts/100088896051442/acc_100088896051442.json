@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088896051442",
 	"custom": {},
-	"lastEventDate": "12.02.2023 09:16 login",
+	"lastEventDate": "12.02.2023 11:30 vygruz",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Dzintra Kuznetsovs",
@@ -119,7 +119,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707533745,
+			"expirationDate": 1683977333.298707,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Uz9tje5oYp25HhR9.AWUrqLcrbJ0xN_3mpmooNMCUmjI.BjstPm.Cz.AAA.0.0.Bj6M12.AWWrZPWGCAY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676806157,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -132,7 +145,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676765295,
+			"expirationDate": 1676806225,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -145,19 +158,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683936364.243905,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Uz9tje5oYp25HhR9.AWWdkPCsIQgIpQuOrKVY64Jendc.BjstPm.Cz.AAA.0.0.Bj6C1t.AWX_4xHXST8"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -166,7 +166,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676160472671%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676201423292%2C%22v%22%3A1%7D"
 		}
 	]
 }
