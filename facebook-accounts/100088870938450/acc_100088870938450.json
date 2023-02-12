@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088870938450",
 	"custom": {},
-	"lastEventDate": "12.02.2023 09:16 login",
+	"lastEventDate": "12.02.2023 11:29 vygruz",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Lūcija Silins",
@@ -132,7 +132,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707532345,
+			"expirationDate": 1683977271.373189,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0OC8t7dtg3cMin2Dg.AWVy8D23AURdZ0e7A-Hn3TgasLI.BjrFWp.ma.AAA.0.0.Bj6M04.AWUxxhsWXfw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676806095,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -145,7 +158,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676766336,
+			"expirationDate": 1676806183,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -158,19 +171,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683937372.584449,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0OC8t7dtg3cMin2Dg.AWU-02h1CfEdsPOlPKCwiIg6GNM.BjrFWp.ma.AAA.0.0.Bj6DFd.AWVv5-DVYMA"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -179,7 +179,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676161510122%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676201381536%2C%22v%22%3A1%7D"
 		}
 	]
 }
