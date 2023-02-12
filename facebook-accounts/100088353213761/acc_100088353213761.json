@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 10:27 login",
+	"lastEventDate": "12.02.2023 14:09 vygruz",
 	"status": 2,
 	"id": "100088353213761",
 	"name": "",
-	"amountFriends": "198",
+	"amountFriends": "206",
 	"screenname": "Стефания Панина",
 	"birthdate": "1997 November 26",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707665271.494464,
+			"expirationDate": 1707746864.760033,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676733579,
+			"expirationDate": 1707746864.760095,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3AtikBTcWNdjqGvg%3A2%3A1673772955%3A-1%3A6997%3A%3AAcV5OLod1-ogyR3NswnR1bp8W0ieqILwNT1-xj6j9hI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676815667,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676734212,
+			"expirationDate": 1676815782,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707665271.494575,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "50%3AtikBTcWNdjqGvg%3A2%3A1673772955%3A-1%3A6997%3A%3AAcVLMLbxrbV4vSbqGhWbzs_9eCRRwyUAFSJn18HAWag"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683905305.62005,
+			"expirationDate": 1683986874.154064,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HivOKQXg6xdtOffB.AWWe_bNHc30RIM8pOOOLcpa7OV4.Bj57P4.Rc.AAA.0.0.Bj57Qa.AWU5i2puPe4"
+			"value": "0rqNc3ZMSmyqD6OUZ.AWXmwKfn5Q2LhGg9w9GCU_m9Nx4.Bj6PKx.Rc.AAA.0.0.Bj6PK7.AWU4YExIzIQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676129418699%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676210973024%2C%22v%22%3A1%7D"
 		}
 	]
 }
