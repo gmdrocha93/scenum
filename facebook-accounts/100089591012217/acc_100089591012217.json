@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 22:39 petr d26",
+	"lastEventDate": "12.02.2023 22:42 petr d26",
 	"status": 2,
 	"id": "100089591012217",
 	"name": "",
-	"amountFriends": "107",
+	"amountFriends": "115",
 	"screenname": "Katrīna Kuzmins",
 	"birthdate": "2003 January 6",
 	"country": "Latvia",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707478314,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwbG50aDFjcHh3c2giLCJ0aW1lIjoxNjc1NTg3ODIzfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676667775,
+			"expirationDate": 1676669283,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676668171,
+			"expirationDate": 1676846567,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683839276.233549,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdnZrMGgxYzF5cyIsInRpbWUiOjE2NzYwNjQzODR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684017590.579566,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NnOb53Abyh2GYq4C.AWUl-0Fsro42vGVI5QCJj5Vfkoc.BjvJBS.2Y.AAA.0.0.Bj5rIt.AWXmcoQfh30"
+			"value": "0NnOb53Abyh2GYq4C.AWXgur6bq_9_X19BWll4vnhIkiM.BjvJBS.2Y.AAA.0.0.Bj6Wq3.AWWbppOYgQY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676063367804%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676241763108%2C%22v%22%3A1%7D"
 		}
 	]
 }
