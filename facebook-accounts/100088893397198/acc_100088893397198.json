@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 17:31 petr d35",
+	"lastEventDate": "12.02.2023 17:33 petr d35",
 	"status": 2,
 	"id": "100088893397198",
 	"name": "",
-	"amountFriends": "109",
+	"amountFriends": "118",
 	"screenname": "Liene Putnina",
 	"birthdate": "2000 November 18",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707665228.496165,
+			"expirationDate": 1707758915.107609,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707665228.496229,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "9%3AtI3_MioEBSKymA%3A2%3A1674542678%3A-1%3A7620%3A%3AAcUP4Dcdf1xUVnyyNmQPWR5j2YO_CWILrFuQZEzA4eA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676734032,
+			"expirationDate": 1676827987,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676734853,
+			"expirationDate": 1676827987,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,11 +87,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683905934.253335,
+			"expirationDate": 1707758915.10767,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AtI3_MioEBSKymA%3A2%3A1674542678%3A-1%3A7620%3A%3AAcU2S4l4DlfJtHrkowcpE8VVv3YB6dYEaYmKCctQkBY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683999092.078125,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FSkmEMsNVf3KHEZK.AWX9mauwkna0JjF4kcyFrpuHLsw.Bj57PN.q2.AAA.0.0.Bj57aP.AWV85mjLTgU"
+			"value": "0KNL5EPdlyF03fzO9.AWWBkC8SOoo9u0eUmGczbBTXB8U.Bj6SHD.q2.AAA.0.0.Bj6SJ0.AWVaKW-O27g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088434904688%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676130049882%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100009979359522%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100088434904688%22%7D%5D%2C%22utc3%22%3A1676223184134%2C%22v%22%3A1%7D"
 		}
 	]
 }
