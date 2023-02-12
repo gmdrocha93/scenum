@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 10:26 login",
+	"lastEventDate": "12.02.2023 14:07 vygruz",
 	"status": 2,
 	"id": "100087803096966",
 	"name": "",
-	"amountFriends": "152",
+	"amountFriends": "159",
 	"screenname": "Романа Киреева",
 	"birthdate": "1998 November 26",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707663632.453428,
+			"expirationDate": 1707746715.76061,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -91,7 +91,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676731912,
+			"expirationDate": 1707746715.760674,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "19%3A6uyZt9KrdpB_NA%3A2%3A1673773732%3A-1%3A1369%3A%3AAcVVN0PSVFoYpJFoluVhiK9TvThyNfm0iqsgyjgunSc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676815519,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -104,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676732483,
+			"expirationDate": 1676815620,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +130,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683903562.926032,
+			"expirationDate": 1683986721.454017,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,20 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0J2fSOodOvASogXLe.AWUploQ7fw4PapR9VM5bVWCXvL0.Bj2gEL.ye.AAA.0.0.Bj561L.AWV5oQLYkrw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707663632.453492,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3A6uyZt9KrdpB_NA%3A2%3A1673773732%3A-1%3A1369%3A%3AAcXPll2jcoSQELrxxKJVyjefxwSFIlOgxKytmueRxdA"
+			"value": "0J2fSOodOvASogXLe.AWWgMJjGuVlViziUzlGHr4xid9M.Bj2gEL.ye.AAA.0.0.Bj6PIi.AWUn7rQVZi4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676127680615%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100086487870530%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676210815909%2C%22v%22%3A1%7D"
 		}
 	]
 }
