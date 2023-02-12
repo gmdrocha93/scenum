@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 21:17 petr d26",
+	"lastEventDate": "12.02.2023 21:19 petr d26",
 	"status": 2,
 	"id": "100089442810377",
 	"name": "",
-	"amountFriends": "107",
+	"amountFriends": "116",
 	"screenname": "Klaudija Aleksezhevs",
 	"birthdate": "1999 January 2",
 	"country": "Daugavpils",
@@ -104,33 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707541591,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwbGh4cjF2bm93aXAiLCJ0aW1lIjoxNjc1NTgwMjAwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676660958,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676660957,
+			"expirationDate": 1676841588,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,11 +113,36 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1299x885"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683832058.858103,
+			"expirationDate": 1676662324,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdnE1azFpMnFscnQiLCJ0aW1lIjoxNjc2MDU3Mzg0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684012680.622769,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BXs8Qk8pbGMCYiug.AWXqw-iUxzcpV9Mza_aALw6SBXs.BjtDE3.An.AAA.0.0.Bj5pX7.AWXEV0HJmbE"
+			"value": "0BXs8Qk8pbGMCYiug.AWXQ7lyn56IFH57dCB_HpBBCVw0.BjtDE3.An.AAA.0.0.Bj6VeJ.AWVBTBtExwM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676056154913%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676236786569%2C%22v%22%3A1%7D"
 		}
 	]
 }
