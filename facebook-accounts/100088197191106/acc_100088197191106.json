@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 10:26 login",
+	"lastEventDate": "12.02.2023 14:07 vygruz",
 	"status": 2,
 	"id": "100088197191106",
 	"name": "",
-	"amountFriends": "105",
+	"amountFriends": "115",
 	"screenname": "Глория Карпова",
 	"birthdate": "1995 November 27",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707663903.426448,
+			"expirationDate": 1707746717.677102,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676732268,
+			"expirationDate": 1707746717.677177,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "32%3AOU2dL70w3jT7yA%3A2%3A1673773021%3A-1%3A8575%3A%3AAcWG0N9k6ExDi700cM5MPbSXofl6PdcA9PO5YiBDxEI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676815520,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676732852,
+			"expirationDate": 1676815650,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707663903.426515,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "32%3AOU2dL70w3jT7yA%3A2%3A1673773021%3A-1%3A8575%3A%3AAcVJ2FhS9TgwOvzPgpT4gv4mcEoEW1zIpCl1XnZXaGI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683903933.398272,
+			"expirationDate": 1683986724.448116,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iUBu1wXuUynZc1VL.AWUMkUwVijFvqnUr5jPdZoBNvpc.Bj566g.Sk.AAA.0.0.Bj566-.AWUoNhWzxmI"
+			"value": "0xvoY4jNZ6tF35gTD.AWV9CZL9ghWLBKbWJmgaaf49Tco.Bj6PIe.Sk.AAA.0.0.Bj6PIl.AWV3nZd-9Kg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100085022442600%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100059903977717%22%7D%5D%2C%22utc3%22%3A1676128028693%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100085022442600%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100059903977717%22%7D%5D%2C%22utc3%22%3A1676210824719%2C%22v%22%3A1%7D"
 		}
 	]
 }
