@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.02.2023 10:24 login",
+	"lastEventDate": "12.02.2023 14:02 vygruz",
 	"status": 2,
 	"id": "100088373615825",
 	"name": "",
-	"amountFriends": "199",
+	"amountFriends": "208",
 	"screenname": "Таня Урусова",
 	"birthdate": "1998 November 29",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707660456.318617,
+			"expirationDate": 1707746382.773988,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676728761,
+			"expirationDate": 1707746382.774057,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "37%3Av2EYqxRX7NFBqw%3A2%3A1673774261%3A-1%3A5548%3A%3AAcXVv9Wzj5FHxbv5_OoCLEmvmMkVdx6T1vzeZDcbLNU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676815184,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -91,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676729433,
+			"expirationDate": 1676815357,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,20 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707660456.318679,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "37%3Av2EYqxRX7NFBqw%3A2%3A1673774261%3A-1%3A5548%3A%3AAcWK46L0xJpfvFJvxDekE2Xs5cvjIHjk2ARA-tN-Goo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683900494.796603,
+			"expirationDate": 1683986388.018361,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lKZt5tLI1F3FIWCf.AWU56libHffTDyrreVnM_y_W27Y.Bj56Ep.UG.AAA.0.0.Bj56FP.AWVYcPaRieM"
+			"value": "0aL7cyzCurq5wRqSA.AWXvCpoYyucnXAGAiuBB1YHiQ34.Bj6PDP.UG.AAA.0.0.Bj6PDU.AWW_aXRz0XE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22g.4826592920799259%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100056566248485%22%7D%5D%2C%22utc3%22%3A1676124607255%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22g.4826592920799259%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100056566248485%22%7D%5D%2C%22utc3%22%3A1676210534971%2C%22v%22%3A1%7D"
 		}
 	]
 }
