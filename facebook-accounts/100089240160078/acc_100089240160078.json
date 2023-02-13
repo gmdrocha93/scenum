@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089240160078",
 	"custom": {},
-	"lastEventDate": "13.02.2023 18:40 petr d35",
+	"lastEventDate": "13.02.2023 18:43 petr d35",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Elga Zhegorova",
@@ -106,20 +106,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707542748,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwb2w3M3d1Z2hnaiIsInRpbWUiOjE2NzU3MjQzNjd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676838880,
+			"expirationDate": 1676918586,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -132,7 +119,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676838880,
+			"expirationDate": 1676918586,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -145,7 +132,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684009943.548227,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJweml6c2J5a3N2biIsInRpbWUiOjE2NzYyMzQ3Mjh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684089648.333341,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -154,19 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FZfbfIyNdvn9Miqt.AWWDnxXbFjq_9AT18zB7JoXNzSI.BjqF4D.4J.AAA.0.0.Bj6UzY.AWVpukXj5AM"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676234056898%2C%22v%22%3A1%7D"
+			"value": "0FZfbfIyNdvn9Miqt.AWXLfWoKovll7lqDlwTDJX9NS2w.BjqF4D.4J.AAA.0.0.Bj6oQx.AWXJtv2blHY"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -178,7 +165,19 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaWFRbi4_m5DhMEFpyd2Pn6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaGtcq-DBYAABV-HEwAABYAFpK1yr4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaUtcq-DBYAABWAARxMAAAWABaUtcq-DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaYtcq-DBYAABUEFTommLXKvgwWAAAVBBU8Jpi1yr4MFgAAFQQVUiaatcq-DBYAABUEFWAmmrXKvgwWAAAVBBViJpS1yr4MFgAAFQQVaiaWtcq-DBYAABUEFW4mmrXKvgwWAAAVBBV0Jpa1yr4MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676234057%22%7D%2C%22d%22%3A%2200592223-66a8-4280-9431-b4389fddf6d4%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaIFhbqqsi2ARMEFpyd2Pn6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaSktS-DBYAABV-HEwAABYAFpiS1L4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABacktS-DBYAABWAARxMAAAWABacktS-DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCagktS-DBYAABUEFTomoJLUvgwWAAAVBBU8JqCS1L4MFgAAFQQVUiaiktS-DBYAABUEFWAmopLUvgwWAAAVBBViJpyS1L4MFgAAFQQVaiaektS-DBYAABUEFW4mpJLUvgwWAAAVBBV0JpyS1L4MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676313740%22%7D%2C%22d%22%3A%2200592223-66a8-4280-9431-b4389fddf6d4%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676313784342%2C%22v%22%3A1%7D"
 		}
 	]
 }
