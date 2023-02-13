@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.02.2023 00:57 D-08(mini)(LV1)",
+	"lastEventDate": "13.02.2023 13:12 New_fp1_LV1 No Reboot",
 	"status": 2,
 	"id": "100088989754088",
 	"name": "",
-	"amountFriends": "316",
+	"amountFriends": "321",
 	"screenname": "Sasha Zakatova",
 	"birthdate": "1997 July 14",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707610460.994524,
+			"expirationDate": 1707829828.53803,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676679330,
+			"expirationDate": 1676898737,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -62,18 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1034x620"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwOWJ0M3A3anhlZiIsInRpbWUiOjE2NzUwMTIzNTl9"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -89,7 +77,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707610460.994575,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdzU4ZzEzOXkxN2EiLCJ0aW1lIjoxNjc2MDc2OTI4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707829828.538072,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3ADqQbdNiRe_so0Q%3A2%3A1671547057%3A-1%3A5599%3A%3AAcU6Xu03LphrCKcShpMiNShTM1xMVzm7rKVcAASq8YA"
+			"value": "43%3ADqQbdNiRe_so0Q%3A2%3A1671547057%3A-1%3A5599%3A%3AAcU6A2hyhscUI_VN0Pr_wtwtUXBqHZPA532jfI-yGoo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683850459.994599,
+			"expirationDate": 1684069826.538092,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Xzipyf4nZTiL76w6.AWV7QxC4SWu2zptC5Q2igPYwB0o.Bj5t3d.B3.AAA.0.0.Bj5t3d.AWVzyuJGN64"
+			"value": "0FAj3UYOp5u21HjMo.AWWcjmdjjL6JfKZ1EVXgLlxqbJw.Bj6jbF.B3.AAA.0.0.Bj6jbF.AWUBt7DPpm4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100085467753546%22%7D%5D%2C%22utc3%22%3A1676074526251%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676293913443%2C%22v%22%3A1%7D"
 		}
 	]
 }
