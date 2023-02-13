@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "10.02.2023 08:11 D-08(mini)(LV1)",
+	"lastEventDate": "13.02.2023 11:07 New_fp1_LV1 No Reboot",
 	"status": 2,
 	"id": "100088251972976",
 	"name": "",
-	"amountFriends": "166",
+	"amountFriends": "171",
 	"screenname": "Vasilisa Tsvetkova",
 	"birthdate": "1996 July 19",
 	"country": "Latvia",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676619797,
+			"expirationDate": 1676891240,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -75,18 +75,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1034x620"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwODc5cDE4dGlhciIsInRpbWUiOjE2NzQ5NTk4MjF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -103,7 +91,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683790900.327233,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdXVvcDEzdGZ5ejYiLCJ0aW1lIjoxNjc2MDE2NjAxfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684062346.321674,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VPKroi2ZcfqfRZjp.AWVPekGCNBEfSAE-XwwMRup3_OU.Bj5fU2.y1.AAA.0.0.Bj5fU2.AWUUctfwKVc"
+			"value": "0VPKroi2ZcfqfRZjp.AWX3pDbh3UVEYZiUHk4WnV_Oak8.Bj5fU2.y1.AAA.0.0.Bj6hmL.AWW06-BfB9g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100070624541940%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.329949444375869%22%7D%5D%2C%22utc3%22%3A1676014993620%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100070624541940%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.329949444375869%22%7D%5D%2C%22utc3%22%3A1676286444885%2C%22v%22%3A1%7D"
 		}
 	]
 }
