@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 21:36 petr d23",
+	"lastEventDate": "14.02.2023 21:38 petr d23",
 	"status": 2,
 	"id": "100086741561376",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "104",
 	"screenname": "Jennifer Morgan",
 	"birthdate": "1999 March 14",
-	"country": "Egypt",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707842173.581959,
+			"expirationDate": 1707946439.356042,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676701344,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMTJzczE4MTIwczkiLCJ0aW1lIjoxNjc2MzA3NDI1fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676911448,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707842173.582033,
+			"expirationDate": 1707946439.356121,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "4%3AUYOaEoe6C8WDWw%3A2%3A1673347220%3A-1%3A11529%3A%3AAcVmwX8QZDpCKH2xdBooS6nWSC6qqPFaAGfFZjMQIWQ"
+			"value": "4%3AUYOaEoe6C8WDWw%3A2%3A1673347220%3A-1%3A11529%3A%3AAcVLdljmHSGYJKkYjztfUVJPwn85kKOEXLfOn8xAMHM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684082550.68324,
+			"expirationDate": 1677015521,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677015521,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684186603.344572,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Cdzo2VDqxA9xvh71.AWUcOHgYjFPu7RK-gPjgliuTOVw.Bj6mb-.3o.AAA.0.0.Bj6mh3.AWXMuLCjVDk"
+			"value": "0YIqvqWdi3V5JdIB5.AWWmdlBWifxB_l_6Yirih8RyN9M.Bj6_5I.3o.AAA.0.0.Bj6_7s.AWWXgDg6BAc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100055063830105%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100083213853120%22%7D%2C%7B%22i%22%3A%22u.100089049942270%22%7D%5D%2C%22utc3%22%3A1676306644144%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676410698161%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
