@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 10:41 petr d27",
+	"lastEventDate": "14.02.2023 10:43 petr d27",
 	"status": 2,
 	"id": "100089195712475",
 	"name": "",
-	"amountFriends": "61",
+	"amountFriends": "71",
 	"screenname": "Rota Ozolins",
 	"birthdate": "2000 January 3",
 	"country": "Latvia",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707543404,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3RkemxqcXE4NiIsInRpbWUiOjE2NzU5MjE2MzR9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676819128,
+			"expirationDate": 1676976215,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676819128,
+			"expirationDate": 1676976215,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683990225.541587,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejNpajFrdGU0Ym0iLCJ0aW1lIjoxNjc2MjE0NjY3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684147310.521071,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YxUL7pRMX5YXyj0p.AWUDt8TVyQeAKr22VBNp0o815Po.BjtrXk.GI.AAA.0.0.Bj6P_S.AWWVletKpfc"
+			"value": "0YxUL7pRMX5YXyj0p.AWUalzwksVsrn-banSJjmg2nV-o.BjtrXk.GI.AAA.0.0.Bj62Vv.AWVZbziO4i0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100062746110830%22%7D%5D%2C%22utc3%22%3A1676214324118%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676371410269%2C%22v%22%3A1%7D"
 		}
 	]
 }
