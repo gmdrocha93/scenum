@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 12:30 petr d27",
+	"lastEventDate": "14.02.2023 12:33 petr d27",
 	"status": 2,
 	"id": "100089205881833",
 	"name": "",
@@ -112,20 +112,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707512298,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3c2enlrajNpNSIsInRpbWUiOjE2NzU5MjUyNzF9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676822769,
+			"expirationDate": 1676982781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -138,7 +125,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676822769,
+			"expirationDate": 1676982781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -151,7 +138,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683993835.98721,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejY5aDF5NjFocmsiLCJ0aW1lIjoxNjc2MjE4MjI5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684153842.787168,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -160,7 +159,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Yg8CHcW1BtKsAOZN.AWXFmLsIipV_KSRVdxCXavHSmN0.BjtnHx.US.AAA.0.0.Bj6Q3s.AWWuDobAsu4"
+			"value": "0Yg8CHcW1BtKsAOZN.AWW7RV_5qyHAMSVcG7wm67o-lV8.BjtnHx.US.AAA.0.0.Bj637z.AWX1oqcTbTg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -172,7 +171,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676217946580%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676377957825%2C%22v%22%3A1%7D"
 		}
 	],
 	"amountFriends": "",
