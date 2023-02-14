@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 10:13 petr d27",
+	"lastEventDate": "14.02.2023 10:14 petr d27",
 	"status": 2,
 	"id": "100088887534794",
 	"name": "",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707504041,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3J5bXo5YzRrdSIsInRpbWUiOjE2NzU5MjA0MDN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676817889,
+			"expirationDate": 1676974491,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676817895,
+			"expirationDate": 1676974491,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683988999.950351,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejJrZTEya2ZsejAiLCJ0aW1lIjoxNjc2MjEzNDM4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684145594.221425,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TGZ6O3flr53MfGI8.AWXXWGOw2ttgUDTMKXI_lYb9hW4.BjtsUW.gR.AAA.0.0.Bj6PsI.AWVj1Hhl9Wc"
+			"value": "0TGZ6O3flr53MfGI8.AWU4jqJmUkrbVI0XxcVkrhqm9S8.BjtsUW.gR.AAA.0.0.Bj6167.AWUh8VLkiTk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676213092495%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676369687792%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -176,7 +175,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaqEhag04_BCBMEFpSTs6n4wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbA7ce-DBYAABV-HEwAABYAFsrtx74MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAsrtx74MJAAgFsrtx74MAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVBBViJsztx74MFgAAFQAVajYAABUAFW42AAAVABV0NgAAFhwA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676213093%22%7D%2C%22d%22%3A%22d81a0bd4-e7f9-4e37-a010-5bb49e607343%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbcFBbI_-PaDBMEFpSTs6n4wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABam_Nq-DBYAABV-HEwAABYAFrD82r4MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQmfoQKGikxc6QwfKw6AVA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVBBViJrL82r4MFgAAFQAVajYAABUAFW42AAAVBBV0JrT82r4MFgAAFhwA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676369688%22%7D%2C%22d%22%3A%22d81a0bd4-e7f9-4e37-a010-5bb49e607343%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
