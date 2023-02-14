@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 09:42 petr d35",
+	"lastEventDate": "14.02.2023 09:44 petr d35",
 	"status": 2,
 	"id": "100087928284393",
 	"name": "",
-	"amountFriends": "202",
+	"amountFriends": "210",
 	"screenname": "Иоанна Соболева",
 	"birthdate": "1997 November 27",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707824476.076599,
+			"expirationDate": 1707903775.144788,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707455083,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcG9xczFsb2hmYjAiLCJ0aW1lIjoxNjc1Nzc1NjIwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676893667,
+			"expirationDate": 1676972695,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676893667,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMHBqcWtnYnhwMyIsInRpbWUiOjE2NzYyODk4Nzh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676972695,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "830x526"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707824476.076674,
+			"expirationDate": 1707903775.144857,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "47%3ANp8oS488vXa1hQ%3A2%3A1675158224%3A-1%3A6993%3A%3AAcVYYarpxDagMWWWsRp9J-47SWsKXss4KNU7u1UwGoE"
+			"value": "47%3ANp8oS488vXa1hQ%3A2%3A1675158224%3A-1%3A6993%3A%3AAcU3gbadBF27U13qRbXqVT2s2Juw8J0rAsL0QtCrSxQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684064716.393583,
+			"expirationDate": 1684143773.1449,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0B4N3vWEkWhMTAvMu.AWV5haIBGV3C31Sp5RSZ5KK6ACQ.Bj6iHc.-1.AAA.0.0.Bj6iLN.AWWWy_mzun0"
+			"value": "0JWJikvH9xFxqWT4e.AWXF0cM2wWOI0-Eb8U2_d0erjms.Bj61eg.-1.AAA.0.0.Bj61eg.AWUkmsrvE5M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676288843059%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100077582765533%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676367871007%2C%22v%22%3A1%7D"
 		}
 	]
 }
