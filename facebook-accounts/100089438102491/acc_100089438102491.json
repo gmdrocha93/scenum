@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 11:42 petr d27",
+	"lastEventDate": "14.02.2023 11:44 petr d27",
 	"status": 2,
 	"id": "100089438102491",
 	"name": "",
-	"amountFriends": "111",
+	"amountFriends": "118",
 	"screenname": "Ingrīda Voivods",
 	"birthdate": "2002 January 3",
 	"country": "Jurmala",
@@ -104,33 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707509751,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3YwZTFvcWVwenIiLCJ0aW1lIjoxNjc1OTIzNzM2fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejR1bDNobzBhdyIsInRpbWUiOjE2NzYyMTY1Mzh9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676820945,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676820945,
+			"expirationDate": 1676979751,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -139,11 +125,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683992046.181331,
+			"expirationDate": 1676979867,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684150954.451166,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tUexd18XZo8dOdi7.AWWl4Biz0BUEfi-KcE7E3k0ON3s.BjtpQa.az.AAA.0.0.Bj6Qbv.AWVLLH9quHo"
+			"value": "0tUexd18XZo8dOdi7.AWWXbW1kS3w_E99-lKzir3bUe0A.BjtpQa.az.AAA.0.0.Bj63Or.AWXIdEiV3Ts"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100025573807782%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676216141425%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676375071457%2C%22v%22%3A1%7D"
 		}
 	]
 }
