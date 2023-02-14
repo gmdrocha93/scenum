@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 09:25 petr d35",
+	"lastEventDate": "14.02.2023 09:27 petr d35",
 	"status": 2,
 	"id": "100088289077596",
 	"name": "",
-	"amountFriends": "210",
+	"amountFriends": "219",
 	"screenname": "Таира Третьякова",
 	"birthdate": "1997 November 27",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707823161.097039,
+			"expirationDate": 1707902466.015297,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707454653,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcG9iNjcwa2M0dyIsInRpbWUiOjE2NzU3NzUxNzV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676892233,
+			"expirationDate": 1676971640,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676892239,
+			"expirationDate": 1676971640,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -104,7 +91,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707823161.097104,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMG9qY3piczFuYyIsInRpbWUiOjE2NzYyODg2MzR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707902466.015365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -113,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "15%3AG21hMFoPWXNJ7A%3A2%3A1675158654%3A-1%3A7114%3A%3AAcVS2ghexkvYX3U-rVsJLHZynI3jMtpbq0ZZIqogdW4"
+			"value": "15%3AG21hMFoPWXNJ7A%3A2%3A1675158654%3A-1%3A7114%3A%3AAcUDIzeytB3PjWX7PotnbZk8A1wtDyj-0hlhG8vL4Jc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684063346.508407,
+			"expirationDate": 1684142742.555387,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "042XeTQYA87cVFpxx.AWXcYduF1IKWns0tZQH5UiYi9EI.Bj6hy5.eV.AAA.0.0.Bj6h1z.AWXMrEnRufY"
+			"value": "0ad5IA1LP7COKvptf.AWUX4guCnhCvPrUz25XvajN5ZD0.Bj61KC.eV.AAA.0.0.Bj61OX.AWX7208jtPI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089112081245%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100013179552463%22%7D%5D%2C%22utc3%22%3A1676287438350%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100076045459980%22%7D%5D%2C%22utc3%22%3A1676366835775%2C%22v%22%3A1%7D"
 		}
 	]
 }
