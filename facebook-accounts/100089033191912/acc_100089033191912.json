@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089033191912",
 	"custom": {},
-	"lastEventDate": "14.02.2023 08:59 petr d26",
+	"lastEventDate": "14.02.2023 09:01 petr d26",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Асли Калиева",
@@ -106,7 +106,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676905828,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMHlzNzc2amI4ZiIsInRpbWUiOjE2NzYzMDE4NDd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676970079,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -119,7 +131,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676905823,
+			"expirationDate": 1676970079,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -132,19 +144,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwemV0ZjFpcjE2bWIiLCJ0aW1lIjoxNjc2MjI5MzQyfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684076932.117364,
+			"expirationDate": 1684141149.625713,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0g0YfFltnJbure93m.AWUEX6I3avrhLp3qGSiEIiqOJ2A.Bjng2u.sY.AAA.0.0.Bj6lKE.AWUeSYRaASs"
+			"value": "0g0YfFltnJbure93m.AWVKlExae8-606OsRGrYnkbku_o.Bjng2u.sY.AAA.0.0.Bj601e.AWVuDjV1ruI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676301000608%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676365274771%2C%22v%22%3A1%7D"
 		}
 	]
 }
