@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 11:55 petr d23",
+	"lastEventDate": "14.02.2023 11:57 petr d23",
 	"status": 2,
 	"id": "100089295202807",
 	"name": "",
-	"amountFriends": "74",
+	"amountFriends": "83",
 	"screenname": "Natālija Rosenthal",
 	"birthdate": "2003 January 18",
 	"country": "Latvia",
@@ -104,20 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676837150,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwemhpNzFzanEyeXYiLCJ0aW1lIjoxNjc2MjMzMTYyfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676837150,
+			"expirationDate": 1676980532,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -126,11 +125,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684008257.320906,
+			"expirationDate": 1676980638,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684151735.532475,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OQQxLTT9kRrSS7b6.AWXFmwtVXHWkQHEat-l6Ah6kG6Q.BjyaV7.Lz.AAA.0.0.Bj6UZC.AWVnjMYChlA"
+			"value": "0OQQxLTT9kRrSS7b6.AWWOvrzoBbUfVQSs8jZEVM_t7Go.BjyaV7.Lz.AAA.0.0.Bj63a4.AWVQHzIwX38"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100042735603627%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100089569569991%22%7D%2C%7B%22i%22%3A%22u.100070930398774%22%7D%5D%2C%22utc3%22%3A1676232346914%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676375834199%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
