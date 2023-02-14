@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 13:00 petr d23",
+	"lastEventDate": "14.02.2023 13:03 petr d23",
 	"status": 2,
 	"id": "100087401251514",
 	"name": "",
-	"amountFriends": "87",
+	"amountFriends": "98",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707774947.114273,
+			"expirationDate": 1707915718.913698,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676844001,
+			"expirationDate": 1676984620,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707774947.114321,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwem12cnA1bW9qZiIsInRpbWUiOjE2NzYyNDAxMzF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707915718.913765,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -96,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "34%3AUd1coEbTCZd9Mg%3A2%3A1673449191%3A-1%3A10307%3A%3AAcUxTLtoKlrXgbTIeh6VaNhk9owhvArueyu24euAJKo"
+			"value": "34%3AUd1coEbTCZd9Mg%3A2%3A1673449191%3A-1%3A10307%3A%3AAcUgTHyHyX36NodUhE2ggMd7CI2tEbrh-jnia7qy1sM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684015103.440085,
+			"expirationDate": 1684155717.913803,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Rwghju43Y0cMzmA3.AWWQ0rzJfPIdfkjrfGZiQUSjNk8.Bj6WBk.oZ.AAA.0.0.Bj6WEA.AWXnAymVw9I"
+			"value": "08jluTz5HAYMCE2XW.AWUZqHCzp6I3IKxKiDu2NaTxYpk.Bj64ZH.oZ.AAA.0.0.Bj64ZH.AWVcmexNEOU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,10 +133,14 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087855057430%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100066844036260%22%7D%2C%7B%22i%22%3A%22u.100057082549356%22%7D%2C%7B%22i%22%3A%22u.100076713241321%22%7D%5D%2C%22utc3%22%3A1676239197646%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100063488826101%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100057082549356%22%7D%2C%7B%22i%22%3A%22u.100066844036260%22%7D%2C%7B%22i%22%3A%22u.100076713241321%22%7D%2C%7B%22i%22%3A%22u.100005635967073%22%7D%2C%7B%22i%22%3A%22u.100087855057430%22%7D%5D%2C%22utc3%22%3A1676379817167%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100089973833278"
-	]
+	],
+	"screenname": "Margaret Graham",
+	"birthdate": "1998 July 20",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
