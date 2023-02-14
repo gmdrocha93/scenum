@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 06:24 petr d35",
+	"lastEventDate": "14.02.2023 06:26 petr d35",
 	"status": 2,
 	"id": "100088046840316",
 	"name": "",
-	"amountFriends": "140",
+	"amountFriends": "150",
 	"screenname": "Альфия Смирнова",
 	"birthdate": "1994 November 29",
 	"country": "Kazakhstan",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706688230,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvZ3cxcjFmdm9tcXQiLCJ0aW1lIjoxNjczNjg1Nzg0fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707810706.832401,
+			"expirationDate": 1707891758.566128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676879975,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMGV0eDEyaTZjeXkiLCJ0aW1lIjoxNjc2Mjc1OTg5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676960553,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -74,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676879975,
+			"expirationDate": 1676960785,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707810706.832464,
+			"expirationDate": 1707891758.566187,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3A1V03ucIBn8nI4g%3A2%3A1673774724%3A-1%3A2613%3A%3AAcWnB_RpH7GbEjM4-drQqmV1qKblaqndyyQWR1I8nh4"
+			"value": "13%3A1V03ucIBn8nI4g%3A2%3A1673774724%3A-1%3A2613%3A%3AAcV4RJ45R3n1iNguuek0i0LqhxT1AWm3WR51AabCrno"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684051077.239232,
+			"expirationDate": 1684131900.078604,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0waICQMNM5gF42rtG.AWWtz2-MkNTkddSXwxfZD1_Wj0I.Bj6ewP.8P.AAA.0.0.Bj6e2G.AWVsRL93fUo"
+			"value": "0gLZ8oj2lfQYfPIhw.AWUeznuy40hN6Ao68xAtNuAFO7Q.Bj6yiu.8P.AAA.0.0.Bj6yk8.AWVOHDM0y34"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100023902335185%22%7D%2C%7B%22i%22%3A%22u.100034362334053%22%7D%2C%7B%22i%22%3A%22u.100058817273129%22%7D%5D%2C%22utc3%22%3A1676275171262%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100023902335185%22%7D%2C%7B%22i%22%3A%22u.100034362334053%22%7D%2C%7B%22i%22%3A%22u.100058817273129%22%7D%5D%2C%22utc3%22%3A1676355988887%2C%22v%22%3A1%7D"
 		}
 	]
 }
