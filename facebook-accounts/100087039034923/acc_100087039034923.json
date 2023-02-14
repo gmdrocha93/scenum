@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 23:45 petr d23",
+	"lastEventDate": "14.02.2023 23:46 petr d23",
 	"status": 2,
 	"id": "100087039034923",
 	"name": "",
-	"amountFriends": "64",
+	"amountFriends": "69",
 	"screenname": "Elizabeth Dean",
 	"birthdate": "1996 June 3",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707857496.370352,
+			"expirationDate": 1707954065.679039,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676926587,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMWVmeGhidHd5NiIsInRpbWUiOjE2NzYzMjI1MTN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676926587,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707857496.370433,
+			"expirationDate": 1707954065.679094,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3ARcWtU5W6kjNm1g%3A2%3A1673446575%3A-1%3A7244%3A%3AAcWXCVm6tHQpdHEnfSiWuGz4XKi-lfpyc4Q_TQtE8Bw"
+			"value": "29%3ARcWtU5W6kjNm1g%3A2%3A1673446575%3A-1%3A7244%3A%3AAcUiDJpqhdMK4tl5LxDg7foa0v9hw2aYZ21W6oYxhig"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684097696.441753,
+			"expirationDate": 1677022868,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677023201,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684194308.192596,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03YkJD3ccJJqiGIGd.AWVkEyUSJ6J1ROs5bPlVrS5eQW0.Bj6qLZ._r.AAA.0.0.Bj6qOh.AWWHkeQz-5M"
+			"value": "0ja0qooQqvQGcusDr.AWVbHC9qEmE4h7M8nAe1lWyA91M.Bj7BwS._r.AAA.0.0.Bj7B0F.AWXgJayEbXI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.749302771865633%22%7D%5D%2C%22utc3%22%3A1676321785694%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100070547434183%22%7D%2C%7B%22i%22%3A%22u.100002195851744%22%7D%5D%2C%22utc3%22%3A1676418397675%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
