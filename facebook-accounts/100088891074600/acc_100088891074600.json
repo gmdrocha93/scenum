@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 11:56 petr d27",
+	"lastEventDate": "14.02.2023 11:58 petr d27",
 	"status": 2,
 	"id": "100088891074600",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "67",
 	"screenname": "Keita Anderson",
 	"birthdate": "1998 January 1",
 	"country": "",
@@ -104,33 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707511267,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3ZreWk0bnpubSIsInRpbWUiOjE2NzU5MjQ0NzZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejVuajFiMW5waDIiLCJ0aW1lIjoxNjc2MjE3NDM5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676821948,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676821948,
+			"expirationDate": 1676980578,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -139,11 +125,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683992986.999546,
+			"expirationDate": 1676980704,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684151780.516442,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04pcKcEBK3fqw3mCP.AWXphVHvyLAhXaa5b6NilVGjHNY.Bjtoft.Um.AAA.0.0.Bj6Qqb.AWVmISrTyf8"
+			"value": "04pcKcEBK3fqw3mCP.AWV6Y3eOQAe7Q53qjZNBK5S-LSM.Bjtoft.Um.AAA.0.0.Bj63bl.AWWI40D87Iw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676217103915%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676375880166%2C%22v%22%3A1%7D"
 		}
 	]
 }
