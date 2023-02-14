@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 04:39 petr d27",
+	"lastEventDate": "14.02.2023 04:42 petr d27",
 	"status": 2,
 	"id": "100088869172907",
 	"name": "",
-	"amountFriends": "11",
+	"amountFriends": "15",
 	"screenname": "Aleksandra Solovzhovs",
 	"birthdate": "2000 January 2",
 	"country": "Jurmala",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdm96dDE3c20zenMiLCJ0aW1lIjoxNjc2MDU1ODgxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676840469,
+			"expirationDate": 1676841408,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676840807,
+			"expirationDate": 1676954549,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684011862.080146,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwems3YnI3c3RsZSIsInRpbWUiOjE2NzYyMzYyOTV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684125583.373523,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wgt6bt80o9yoShcx.AWVntJ9CmD5vN7KVFS4wSbXGHV4.BjsxEV.r-.AAA.0.0.Bj6VRW.AWWLx7epViQ"
+			"value": "0wgt6bt80o9yoShcx.AWUq-PSgiBRpT3GoocLUlKU8jJQ.BjsxEV.r-.AAA.0.0.Bj6xCQ.AWXD_ZDeHrU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676235983107%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676349726334%2C%22v%22%3A1%7D"
 		}
 	]
 }
