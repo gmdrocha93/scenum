@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.02.2023 11:26 petr d27",
+	"lastEventDate": "14.02.2023 11:28 petr d27",
 	"status": 2,
 	"id": "100089334335945",
 	"name": "",
-	"amountFriends": "127",
+	"amountFriends": "134",
 	"screenname": "Elīza Volkova",
 	"birthdate": "2004 January 2",
 	"country": "Daugavpils",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707508221,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwc3VseXJldDJ0cCIsInRpbWUiOjE2NzU5MjMyMDZ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676820661,
+			"expirationDate": 1676978913,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676820661,
+			"expirationDate": 1676978913,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -143,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683991766.234157,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwejRxZ2JlcHlhZiIsInRpbWUiOjE2NzYyMTYyNDh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684150017.207814,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Egri3QCJIwGGcwtH.AWX9yvot2dY3S8Hu2x85HTbe75k.BjtqFS.W2.AAA.0.0.Bj6QXX.AWV6kxHF4_c"
+			"value": "0Egri3QCJIwGGcwtH.AWVr_YEUg3tqAXbtCwfzUJFAIJU.BjtqFS.W2.AAA.0.0.Bj63AB.AWUzN4ByVwM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087649458718%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100083827137225%22%7D%5D%2C%22utc3%22%3A1676215858214%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100076067143724%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676374110714%2C%22v%22%3A1%7D"
 		}
 	]
 }
