@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.02.2023 10:40 petr d30",
+	"lastEventDate": "15.02.2023 10:42 petr d30",
 	"status": 2,
 	"id": "100088988191213",
 	"name": "",
-	"amountFriends": "82",
+	"amountFriends": "90",
 	"screenname": "Адеми Абильдаева",
 	"birthdate": "1998 October 14",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707975046.752646,
+			"expirationDate": 1707993306.51053,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676727952,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677044470,
+			"expirationDate": 1677062537,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707975046.752712,
+			"expirationDate": 1677062537,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707993306.510602,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3A7tXENUk82AKM6Q%3A2%3A1671117115%3A-1%3A16343%3A%3AAcUFKpMeMBDphbL_SsMs5erqLDBIoTytME57T73MnFU"
+			"value": "28%3A7tXENUk82AKM6Q%3A2%3A1671117115%3A-1%3A16343%3A%3AAcXohsdID415IINL32ylsiifqPtYA3SsMoVWXINCWrQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684215561.821162,
+			"expirationDate": 1684233618.509755,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00Gkyh0hyDOFyT40B.AWW09EGW1IWLMkm6axpoUAhbMBw.Bj7G4H.hr.AAA.0.0.Bj7HAK.AWWe3tg6xVs"
+			"value": "0nWdcFk09nRX5vsA7.AWVZk0mZZ1vGazWZpj5Ksqme1jM.Bj7LVb.hr.AAA.0.0.Bj7LaT.AWU07TVcQyk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100010449519942%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676439666737%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100010449519942%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100005596154759%22%7D%5D%2C%22utc3%22%3A1676457730407%2C%22v%22%3A1%7D"
 		}
 	]
 }
