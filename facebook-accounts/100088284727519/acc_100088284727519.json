@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.02.2023 22:49 petr d36",
+	"lastEventDate": "15.02.2023 22:52 petr d36",
 	"status": 2,
 	"id": "100088284727519",
 	"name": "",
-	"amountFriends": "203",
+	"amountFriends": "212",
 	"screenname": "Мариша Крутилина",
 	"birthdate": "1996 November 27",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707901385.387154,
+			"expirationDate": 1708037102.364992,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,32 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676970250,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676970245,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,24 +86,37 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMG44OTkxYnVsdSIsInRpbWUiOjE2NzYyODY4NzN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMmM0dW81N2thZCIsInRpbWUiOjE2NzYzNjYxNzJ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684141240.546125,
+			"expirationDate": 1677105902,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WyHHbWVf6alLgys1.AWVWUYk3y3edBKSePOzQOL-F41U.Bj2gw9.w4.AAA.0.0.Bj6025.AWUG2THk_8A"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707901385.387219,
+			"expirationDate": 1677106305,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1299x885"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708037102.365069,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -138,7 +125,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "25%3AYIMbqqZOPMxlGw%3A2%3A1673768481%3A-1%3A5596%3A%3AAcViLk0Ik7BlYvsHfDy-1Ctwbx7Y8Ch1VuUBmWg3ndQ"
+			"value": "25%3AYIMbqqZOPMxlGw%3A2%3A1673768481%3A-1%3A5596%3A%3AAcVsB8JThS7Cj2rAj32yKQYfqc4dzoEh6R2qo2PAU_g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684277394.776497,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0WyHHbWVf6alLgys1.AWULph-6zKjzroCuI2jhEbt7u94.Bj2gw9.w4.AAA.0.0.Bj7WGT.AWWF7s-zZzM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676365449622%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676501508046%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
