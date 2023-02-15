@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088503591855",
 	"custom": {},
-	"lastEventDate": "15.02.2023 18:37 petr d36",
+	"lastEventDate": "15.02.2023 18:41 petr d36",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Lienīte Putnins",
@@ -106,19 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707446316,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcDZhc3U4aHJqMSIsInRpbWUiOjE2NzU3NTE3MTZ9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1676948883,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -132,7 +119,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676948989,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMXZ0emlrdGJjMiIsInRpbWUiOjE2NzYzNDUwNTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677091294,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "661x396"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684120085.751122,
+			"expirationDate": 1684262272.298996,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -154,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0720k57Y5k7BzzehI.AWUcjd2PHz7-dlfAXLA1jBlZ7Mo.BjnNHa.8T.AAA.0.0.Bj6vsW.AWVgAXLuJwc"
+			"value": "0720k57Y5k7BzzehI.AWW6VcrpJNdRLE5e7yc8ie1raSs.BjnNHa.8T.AAA.0.0.Bj7SaB.AWVDrBgzvpY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -166,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089995562444%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676344186227%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676486444323%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
