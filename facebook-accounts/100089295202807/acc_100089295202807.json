@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.02.2023 08:16 petr d25",
+	"lastEventDate": "15.02.2023 08:18 petr d25",
 	"status": 2,
 	"id": "100089295202807",
 	"name": "",
-	"amountFriends": "83",
+	"amountFriends": "90",
 	"screenname": "Natālija Rosenthal",
 	"birthdate": "2003 January 18",
 	"country": "Latvia",
@@ -104,32 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwemhpNzFzanEyeXYiLCJ0aW1lIjoxNjc2MjMzMTYyfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676980532,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676980638,
+			"expirationDate": 1677053927,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +113,36 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684151735.532475,
+			"expirationDate": 1677053927,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMmtlbzF0eHBqazAiLCJ0aW1lIjoxNjc2Mzc2NTU5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684224995.655762,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OQQxLTT9kRrSS7b6.AWWOvrzoBbUfVQSs8jZEVM_t7Go.BjyaV7.Lz.AAA.0.0.Bj63a4.AWVQHzIwX38"
+			"value": "0OQQxLTT9kRrSS7b6.AWU1aeZLzrw5YqlzSpf0DhAEZkA.BjyaV7.Lz.AAA.0.0.Bj7JTk.AWVv76cGKmc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676375834199%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676449136717%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
