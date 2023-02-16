@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.02.2023 13:28 petr d26",
+	"lastEventDate": "16.02.2023 13:30 petr d26",
 	"status": 2,
 	"id": "100086959518841",
 	"name": "",
-	"amountFriends": "121",
+	"amountFriends": "128",
 	"screenname": "Barbara Flowers",
 	"birthdate": "2000 December 20",
 	"country": "Latvia",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707993655.917157,
+			"expirationDate": 1708089882.454512,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677062850,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNGJ6bHRwOXc4YyIsInRpbWUiOjE2NzY0NTg5Mjl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677062850,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707993655.917221,
+			"expirationDate": 1708089882.454579,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -113,11 +99,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3AR9n09KQFPpi4Mw%3A2%3A1674122337%3A-1%3A432%3A%3AAcWWPPFYjde6zoj6v6LBV0U86RxbCkGnECLT16thYsg"
+			"value": "24%3AR9n09KQFPpi4Mw%3A2%3A1674122337%3A-1%3A432%3A%3AAcVV3Dlnc4md2ErGYMO2bX16kw3tAJ995g1zWlcvz9w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684233954.372312,
+			"expirationDate": 1677158685,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677159002,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684330103.295241,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0e1qkYgkLwnykUILZ.AWWVNJJoteEGS3s_EBA9vZ_a-iQ.Bj7La4.Vv.AAA.0.0.Bj7Lfj.AWUs-2usS_M"
+			"value": "03XKSkfVF2x4KqB8G.AWWO0i5YyX-s6-3FC_p_mmZrBzw.Bj7i6b.Vv.AAA.0.0.Bj7i94.AWXPEbUO3eY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100049995698528%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676458046622%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100011110740508%22%7D%5D%2C%22utc3%22%3A1676554197921%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
