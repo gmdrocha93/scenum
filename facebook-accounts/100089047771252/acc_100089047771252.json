@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.02.2023 17:13 petr d38",
+	"lastEventDate": "16.02.2023 17:14 petr d38",
 	"status": 2,
 	"id": "100089047771252",
 	"name": "",
-	"amountFriends": "90",
+	"amountFriends": "97",
 	"screenname": "Justīne Balodis",
 	"birthdate": "1998 March 2",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707979451.878546,
+			"expirationDate": 1708103358.008596,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677048813,
+			"expirationDate": 1708103358.00866,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "14%3AYFWPFlKzex9Hdw%3A2%3A1674557760%3A-1%3A7462%3A%3AAcUXkvyGaEtJfCuE2vBC-yCvuBeWUN9l4vP54L3BTC0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677172489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677048813,
+			"expirationDate": 1677172489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707979451.878607,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "14%3AYFWPFlKzex9Hdw%3A2%3A1674557760%3A-1%3A7462%3A%3AAcVN29aPs3tnBdadmKriCeb0jK0nqSbHSk_-dJan-mk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684219916.39259,
+			"expirationDate": 1684343588.366405,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0l47RVTE1CBzY9rlQ.AWWq62gMYaCi5awqdnPjVW8ko6c.Bj7H88.Zi.AAA.0.0.Bj7IEN.AWXr4-x4WQo"
+			"value": "0AC7vD8U0TMXYAKiS.AWXzfeKsWtUgyyW8-oQQeQpIJck.Bj7mM-.Zi.AAA.0.0.Bj7mQl.AWWwG3RNFvs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676444010892%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100083394519428%22%7D%5D%2C%22utc3%22%3A1676567687390%2C%22v%22%3A1%7D"
 		}
 	]
 }
