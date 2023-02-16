@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088647913801",
 	"custom": {},
-	"lastEventDate": "16.02.2023 21:09 petr d37",
+	"lastEventDate": "16.02.2023 21:10 petr d37",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "62",
 	"screenname": "Inna Petrova",
 	"birthdate": "2000 October 28",
 	"country": "Jurmala",
@@ -106,32 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676953151,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677094587,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -144,7 +118,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684265690.540912,
+			"expirationDate": 1677186656,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677186656,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684357763.022942,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SCWqr5d8ugbtSFZN.AWV58vJNbE4zzN7wBJ9HO00t9jI.BjmkZ2.vE.AAA.0.0.Bj7TPb.AWVq8UBrdf4"
+			"value": "0SCWqr5d8ugbtSFZN.AWV4pftu9npPZp0GYSs8TAr-Ygk.BjmkZ2.vE.AAA.0.0.Bj7puD.AWXNrTk4too"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676489783361%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100067700302546%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676581852253%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -177,7 +177,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKIxa8j9ThCRMEFpLF8MT2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbk0Om-DBYAABV-HEwAABYAFvDQ6b4MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUGAAAWABby0Om-DBYAABWAARwcGAAYABUGAAAWABby0Om-DBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAvDQ6b4MJAAgFvDQ6b4MAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQAVDDYAABUAFTo2AAAVABU8NgAAFQAVUjYAABUAFWA2AAAVBBViJvLQ6b4MFgAAFQQVaiby0Om-DBYAABUAFW42AAAVBBV0JvLQ6b4MFgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676489784%22%7D%2C%22d%22%3A%223358fc3a-a4e6-47fe-a4fb-67fc6efbf8be%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABa2JBbWxvrGAxMEFpLF8MT2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABau7_S-DBYAABV-HEwAABYAFrjv9L4MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGArjv9L4MJAAgFrjv9L4MAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQQVdCa67_S-DBYAABUAFWo2AAAVBBViJrrv9L4MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676581852%22%7D%2C%22d%22%3A%223358fc3a-a4e6-47fe-a4fb-67fc6efbf8be%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
 	"funPages": [
