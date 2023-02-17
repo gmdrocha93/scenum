@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.02.2023 03:18 petr d37",
+	"lastEventDate": "17.02.2023 03:21 petr d37",
 	"status": 2,
 	"id": "100087995689305",
 	"name": "",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708032860.609751,
+			"expirationDate": 1708139409.091986,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,19 +74,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677102094,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -99,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708032860.609821,
+			"expirationDate": 1708139409.092035,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -108,11 +95,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AEKwRQovieSsMqg%3A2%3A1673772915%3A-1%3A-1%3A%3AAcXyPmOrR6RgURbsGr_9sMEi1-FRCUXALqcGvfMScIg"
+			"value": "18%3AEKwRQovieSsMqg%3A2%3A1673772915%3A-1%3A-1%3A%3AAcWWr0dzBotHgnEK7RcEzp-TIsTo9wYB_qPGVklUVXU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677102037,
+			"expirationDate": 1677208214,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677208900,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -121,11 +121,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1626x926"
+			"value": "1300x718"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684273131.714291,
+			"expirationDate": 1684379916.253958,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -134,7 +134,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qRz3VlxlOJDsxs3y.AWVzaBVx6cS8FcvIbXQ7ht_Rudg.Bj2gTv.fS.AAA.0.0.Bj7VDs.AWUzTShRh-A"
+			"value": "0qRz3VlxlOJDsxs3y.AWXURthlqDgGF9QluqUfjyzK-Pc.Bj2gTv.fS.AAA.0.0.Bj7vIN.AWWqJFwlGYk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -146,10 +146,14 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676497198798%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676604064769%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100090519962898"
-	]
+	],
+	"screenname": "Винетта Баженова",
+	"birthdate": "1994 November 27",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
