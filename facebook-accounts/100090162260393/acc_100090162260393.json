@@ -13,7 +13,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677265139,
+			"expirationDate": 1677265359,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677265139,
+			"expirationDate": 1677265359,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,8 +127,20 @@
 			"value": "1038x686"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFsLokscDEwQW0qaJ6YHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABb2uP6-DBYAABV-HEwAABYAFoq5_r4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaKuf6-DBYAABWAARxMAAAWABaKuf6-DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaMuf6-DBYAABUEFWomjLn-vgwWAAAVBBViJoq5_r4MFgAAFQQVbiaQuf6-DBYAABUEFTomjrn-vgwWAAAVBBUMJo65_r4MFgAAFQQVPCaOuf6-DBYAABUEFWAmkLn-vgwWAAAVBBVSJpC5_r4MFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676660293%22%7D%2C%22d%22%3A%2228ad6ddf-4a3f-4942-93d8-b5d9a1b056db%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684436201.695106,
+			"expirationDate": 1684436345.653167,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DCXC18IphacyQoMi.AWWKOcV0McCxFHPZYPcKO9M5buU.Bj783o.vY.AAA.0.0.Bj783o.AWVzOK-grBs"
+			"value": "0DCXC18IphacyQoMi.AWU22PdfumFrGARmjoPF-UUc4gs.Bj783o.vY.AAA.0.0.Bj7856.AWUybemEftA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,20 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676660292117%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFsLokscDEwQW0qaJ6YHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABb2uP6-DBYAABV-HEwAABYAFoq5_r4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaKuf6-DBYAABWAARxMAAAWABaKuf6-DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaMuf6-DBYAABUEFWomjLn-vgwWAAAVBBViJoq5_r4MFgAAFQQVbiaQuf6-DBYAABUEFTomjrn-vgwWAAAVBBUMJo65_r4MFgAAFQQVPCaOuf6-DBYAABUEFWAmkLn-vgwWAAAVBBVSJpC5_r4MFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676660293%22%7D%2C%22d%22%3A%2228ad6ddf-4a3f-4942-93d8-b5d9a1b056db%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676660515850%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.02.2023 18:59 registration LV1"
+	"lastEventDate": "17.02.2023 19:02 registration LV1"
 }
