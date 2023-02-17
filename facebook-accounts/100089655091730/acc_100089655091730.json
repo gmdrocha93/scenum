@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.02.2023 22:43 petr d23",
+	"lastEventDate": "17.02.2023 22:46 petr d23",
 	"status": 2,
 	"id": "100089655091730",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "64",
 	"screenname": "Elvīra Kalina",
 	"birthdate": "2000 January 8",
 	"country": "Liepaja",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677217021,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxN21wbTEzdjB5am4iLCJ0aW1lIjoxNjc2NjEzMTU4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677278636,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677217119,
+			"expirationDate": 1677278787,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684388223.765285,
+			"expirationDate": 1684449840.34238,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07pZAiJ0k8U0jgEV8.AWWFaTWsjyZKNndOfLD6w84OrrM.Bjv-k3.gS.AAA.0.0.Bj7xKA.AWXDtJMXsUw"
+			"value": "07pZAiJ0k8U0jgEV8.AWUiAdsKnqMUBj1zFCM9hydrwnA.Bjv-k3.gS.AAA.0.0.Bj8AMx.AWVnDbaTQnE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100074831530800%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100075175062679%22%7D%2C%7B%22i%22%3A%22u.100085550168164%22%7D%5D%2C%22utc3%22%3A1676612316073%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676673964323%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
