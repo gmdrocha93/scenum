@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100088687713327",
 	"name": "",
-	"amountFriends": "276",
+	"amountFriends": "275",
 	"screenname": "Veronika Gracheva",
 	"birthdate": "1999 August 24",
 	"country": "Latvia",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708103631.755122,
+			"expirationDate": 1708205391.9427,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677172581,
+			"expirationDate": 1677274335,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,19 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwdXdycWxxam41OCIsInRpbWUiOjE2NzYwMTkzMDJ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708103631.755184,
+			"expirationDate": 1708205391.942741,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,23 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "25%3AiePVAL76uLyN-Q%3A2%3A1670826742%3A-1%3A5597%3A%3AAcVVFJwBCY3YTy_113ilfDRJ7OAQ0iF84Zb1xwsDDlI"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbErAIWpIb49QMTBBbe8Orq9sEtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABbwkvC-DBYAABV-HEwAABYAFoKT8L4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaEk_C-DBYAABWAARxMAAAWABaEk_C-DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaIk_C-DBYAABUEFWomjJPwvgwWAAAVBBViJoaT8L4MFgAAFQQVbiaQk_C-DBYAABUEFTomjpPwvgwWAAAVBBUMJo6T8L4MFgAAFQQVPCaOk_C-DBYAABUEFWAmkJPwvgwWAAAVBBVSJo6T8L4MFgAAFpgBEQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676543169%22%7D%2C%22d%22%3A%22fdcc45f6-2be6-49b4-8095-06b5e8545096%22%2C%22s%22%3A%221%22%7D"
+			"value": "25%3AiePVAL76uLyN-Q%3A2%3A1670826742%3A-1%3A5597%3A%3AAcXzyQJBXCvAdRpLqgSTZatbbUc_NO2ejoWWkU8mPGI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684343637.331182,
+			"expirationDate": 1684445398.237019,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +86,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "01sPieIMqI4rnbX5y.AWWlGIKDDog-oSu__-fv1AiV0HU.Bj7mRQ.6p.AAA.0.0.Bj7mRW.AWVaVw2QDxo"
+			"value": "0hvtDRUiKD7I0dj94.AWXviGr76BY17Ac-2uXZKrvpplo.Bj7_HQ.6p.AAA.0.0.Bj7_HX.AWXmP80yioM"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOHVlb2Fyd2YxMCIsInRpbWUiOjE2NzY2Njk0MjR9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,10 +110,22 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100003235840576%22%7D%5D%2C%22utc3%22%3A1676567778677%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676669511577%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaerQIWyNDj8w8TBBbe8Orq9sEtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABaEyf--DBYAABV-HEwAABYAFpDJ_74MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaSyf--DBYAABWAARxMAAAWABaSyf--DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaWyf--DBYAABUEFWommMn_vgwWAAAVBBViJpTJ_74MFgAAFQQVbiaeyf--DBYAABUEFTomnMn_vgwWAAAVBBUMJprJ_74MFgAAFQQVPCacyf--DBYAABUEFWAmnsn_vgwWAAAVBBVSJpzJ_74MFgAAFpgBEQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676669512%22%7D%2C%22d%22%3A%22fdcc45f6-2be6-49b4-8095-06b5e8545096%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"lastEventDate": "16.02.2023 17:25 New_fp1_LV1 No Reboot",
+	"lastEventDate": "17.02.2023 21:32 New_fp1_LV1 No Reboot",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100090005422443",
 		"https://www.facebook.com/profile.php?id=100090629281165"
