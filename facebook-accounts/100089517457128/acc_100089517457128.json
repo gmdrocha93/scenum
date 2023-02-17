@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.02.2023 23:01 petr d23",
+	"lastEventDate": "17.02.2023 23:02 petr d23",
 	"status": 2,
 	"id": "100089517457128",
 	"name": "",
-	"amountFriends": "66",
+	"amountFriends": "76",
 	"screenname": "Egija Zakis",
 	"birthdate": "1998 January 11",
 	"country": "Liepaja",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677218997,
+			"expirationDate": 1677279776,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677218997,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxN28zdTF4anIwZ2kiLCJ0aW1lIjoxNjc2NjE1MDU3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677279776,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "830x526"
+			"value": "826x523"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684390100.601233,
+			"expirationDate": 1684450879.944617,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YWVIdBOotlYnDKuq.AWWDYcDIGXjFodpgSIeW-MI8oDA.Bjv9rF.0Z.AAA.0.0.Bj7xnV.AWVXiw5uTZc"
+			"value": "0YWVIdBOotlYnDKuq.AWWCZXZmWh6JbNsm42cSpm63kb8.Bjv9rF.0Z.AAA.0.0.Bj8AdA.AWXEEKKjIBs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676614193260%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676674972264%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
