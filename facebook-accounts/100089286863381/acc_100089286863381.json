@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.02.2023 16:31 petr d23",
+	"lastEventDate": "17.02.2023 16:33 petr d23",
 	"status": 2,
 	"id": "100089286863381",
 	"name": "",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677143358,
+			"expirationDate": 1677256430,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -109,11 +109,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677143814,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNjIxeTFuNXY5OXEiLCJ0aW1lIjoxNjc2NTM5NzQyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677256430,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -122,11 +134,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "828x526"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684314878.278345,
+			"expirationDate": 1684427494.560075,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +147,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0quvh3QEsgDp5pMGa.AWX3mpBB9-Pd9LefVG2RHsNuWXU.BjyjY7.QB.AAA.0.0.Bj7fP_.AWX6fMHzsyE"
+			"value": "0quvh3QEsgDp5pMGa.AWUo3nUoTjnr16HH5YyV0nc30xc.BjyjY7.QB.AAA.0.0.Bj76vn.AWVE8NM-2kM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676538991282%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676651606992%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Andžela Pavlova",
