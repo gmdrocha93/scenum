@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.02.2023 03:53 petr d37",
+	"lastEventDate": "17.02.2023 03:56 petr d37",
 	"status": 2,
 	"id": "100088052326948",
 	"name": "",
-	"amountFriends": "246",
+	"amountFriends": "253",
 	"screenname": "Любомила Суворова",
 	"birthdate": "1994 November 27",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708034646.638559,
+			"expirationDate": 1708141745.938483,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,19 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677103943,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -103,20 +90,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708034646.638621,
+			"expirationDate": 1677210546,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
+			"httpOnly": false,
+			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "6%3A5Znv6JIf-DGy-w%3A2%3A1673772683%3A-1%3A5599%3A%3AAcV9r5MXl8G3QY_elcno9VdP8OGtA4UGTsDN5QXU87Y"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677103943,
+			"expirationDate": 1677210967,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,11 +112,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "830x526"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684275040.736534,
+			"expirationDate": 1708141745.93853,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "6%3A5Znv6JIf-DGy-w%3A2%3A1673772683%3A-1%3A5599%3A%3AAcVoJHwzKwlHKDXBht4N46B0q54ZzLECxkFvbOalkfI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684382029.930277,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MxbrcZhNvFDDmPz6.AWV8-U1JgiSNmP2mhvgW-ekP_bM.Bjw76w.Na.AAA.0.0.Bj7Vhh.AWXu7fe47Ps"
+			"value": "0MxbrcZhNvFDDmPz6.AWXhjyjOpyXRV7xfJycZv3slExE.Bjw76w.Na.AAA.0.0.Bj7vpO.AWUwssJhRvQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676499139181%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676606143754%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
