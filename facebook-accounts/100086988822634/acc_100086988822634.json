@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.02.2023 00:00 petr d27",
+	"lastEventDate": "18.02.2023 00:05 petr d27",
 	"status": 2,
 	"id": "100086988822634",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Wilma Smith",
 	"birthdate": "1997 April 7",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708109317.816693,
+			"expirationDate": 1708213983.767198,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,32 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100086988822634"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677178560,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677178560,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
@@ -103,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708109317.81674,
+			"expirationDate": 1708213983.767251,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "11%3ASvXg0v738xKhfA%3A2%3A1673348173%3A-1%3A-1%3A%3AAcVtph5s-ENx9vG-ixNvRK7s7he_2lWiG-A0vSZbXAI"
+			"value": "11%3ASvXg0v738xKhfA%3A2%3A1673348173%3A-1%3A-1%3A%3AAcVXTwFnHDsO38o--5Q1JfFDgxdcCBbMKeO0PVmTOao"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684349604.873953,
+			"expirationDate": 1677282785,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677283501,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684454519.569662,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WQo1BX7Q7VBhyeUW.AWXL85jHsN6lqGewZ8rUbIFT-SU.Bj7nqG.DI.AAA.0.0.Bj7nul.AWUglQW8VAo"
+			"value": "0h6eL9ECBsZrjxteR.AWUfAIMzsgyqcmiUE6eS5izn7jY.Bj8BNg.DI.AAA.0.0.Bj8BV4.AWVVgO4S3K4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676573716976%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676678657584%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
