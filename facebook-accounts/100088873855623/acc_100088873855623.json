@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.02.2023 11:11 petr d31",
+	"lastEventDate": "18.02.2023 11:13 petr d31",
 	"status": 2,
 	"id": "100088873855623",
 	"name": "",
@@ -112,11 +112,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNDJkNXhiZXU2aiIsInRpbWUiOjE2NzY0NDY0NTd9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOHJyNTZjcHhleCIsInRpbWUiOjE2NzY2NjU5ODV9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677270375,
+			"expirationDate": 1676752385,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677323597,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -125,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677270492,
+			"expirationDate": 1677323597,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684441577.555174,
+			"expirationDate": 1684494677.207007,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ePDfjMyZUfd9W02p.AWVCPeXOzVnr8GoHmi61EphtgOE.Bjtpqw.R-.AAA.0.0.Bj7-Lq.AWUNfx4rWKg"
+			"value": "0ePDfjMyZUfd9W02p.AWU4RuPaE0Uss6zM-TvUHJnTUYU.Bjtpqw.R-.AAA.0.0.Bj8LJW.AWWPwue6CtQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676665690379%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676718795659%2C%22v%22%3A1%7D"
 		}
 	]
 }
