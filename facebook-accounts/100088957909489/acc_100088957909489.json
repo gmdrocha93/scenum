@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.02.2023 23:01 petr d31",
+	"lastEventDate": "18.02.2023 23:03 petr d31",
 	"status": 2,
 	"id": "100088957909489",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Jūlija Orlova",
 	"birthdate": "1998 January 2",
 	"country": "Latvia",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677103548,
+			"expirationDate": 1677366220,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -114,19 +114,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677103548,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
@@ -142,7 +129,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684274642.926247,
+			"expirationDate": 1677366220,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684537316.207814,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03csAwSQNUvqmsgtp.AWUv3uLsjHc4eaLIchLfn_f2D1M.Bjszq9.rE.AAA.0.0.Bj7VbT.AWXk8UFpRpE"
+			"value": "03csAwSQNUvqmsgtp.AWWWWFZ3EbbNHp87unHHO-9XbnI.Bjszq9.rE.AAA.0.0.Bj8Vjl.AWXRsP8QA30"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676498742341%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089051607879%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676761413205%2C%22v%22%3A1%7D"
 		}
 	]
 }
