@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.02.2023 05:33 petr d31",
+	"lastEventDate": "19.02.2023 05:34 petr d31",
 	"status": 2,
 	"id": "100088272038404",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "61",
 	"screenname": "Маша Полякова",
 	"birthdate": "1997 November 28",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708244517.549888,
+			"expirationDate": 1708320638.900506,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,31 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088272038404"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707453717,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "oo",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "v1"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMmJwMzE3OHN3cngiLCJ0aW1lIjoxNjc2MzY1NjE1fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -103,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677313602,
+			"expirationDate": 1677389695,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +91,45 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708244517.549932,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXAzYmtvMnR0YSIsInRpbWUiOjE2NzY3MDkxOTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676795591,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711269195.910965,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "oo",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "v1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708320638.900578,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3A_dFTPfFG8H4n0A%3A2%3A1673772427%3A-1%3A8332%3A%3AAcV4I7BHJjy3OrmMj8XoLepAL-PJXvdVZpdi1Rw6MVY"
+			"value": "27%3A_dFTPfFG8H4n0A%3A2%3A1673772427%3A-1%3A8332%3A%3AAcU4CBZ-8bjFL0uRxpOU0GhwbPcXjDeUVrRir3FT3W0"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -137,11 +150,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbQNBaQ0P2KARMEFoiotd7zwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa8k_i-DBYAABV-HEwAABYAFtCT-L4MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbSk_i-DBYAABWAARxMAAAWABbSk_i-DBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuQnJqjKGikxeSU2PMw6AVA_QC9LPVKw%22%2C%2216%22%3A%22FQQVCBmcFQQVdCbUk_i-DBYAABUEFWom1JP4vgwWAAAVBBViJtKT-L4MFgAAFQQVbibak_i-DBYAABUEFTom2JP4vgwWAAAVBBUMJtaT-L4MFgAAFQQVPCbYk_i-DBYAABUEFWAm2JP4vgwWAAAVBBVSJtiT-L4MFgAAFh4RAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676608744%22%7D%2C%22d%22%3A%22aee1d80f-534d-4c1e-af62-c4f20fcd1a78%22%2C%22s%22%3A%221%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbGNxbkqf3eDxMEFoiotd7zwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbIqoS_DBYAABV-HEwAABYAFtqqhL8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbcqoS_DBYAABWAARxMAAAWABbcqoS_DBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyIRAQAbBEYC2qqEvwwk2qqEvwwA2qqEvwwg2qqEvwwW2qqEvwwA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCbcqoS_DBYAABUEFWom3qqEvwwWAAAVBBViJtyqhL8MFgAAFQQVbibkqoS_DBYAABUEFTom4KqEvwwWAAAVBBUMJuCqhL8MFgAAFQQVPCbgqoS_DBYAABUEFWAm5KqEvwwWAAAVBBVSJuKqhL8MFgAAFh4RAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676708525%22%7D%2C%22d%22%3A%22aee1d80f-534d-4c1e-af62-c4f20fcd1a78%22%2C%22s%22%3A%221%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684484703.342981,
+			"expirationDate": 1684560792.315156,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xZw6AcPr6hG8rIQ9.AWUwcJDeA-TA6JpiitDc81BwmNA.Bjw72M.vI.AAA.0.0.Bj8Itg.AWUoGsF-X5E"
+			"value": "0FBDfhjQqi21rWyqV.AWUqHteYJ8zgez5WuM2JmdoPPA0.Bj8bP7.vI.AAA.0.0.Bj8bSZ.AWUed9A8QXA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +175,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676708799369%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676784891238%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
