@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.02.2023 04:07 petr d31",
+	"lastEventDate": "19.02.2023 04:10 petr d31",
 	"status": 2,
 	"id": "100088125647393",
 	"name": "",
-	"amountFriends": "229",
+	"amountFriends": "245",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708240554.883623,
+			"expirationDate": 1708315650.581701,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -45,18 +45,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088125647393"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMjdzcDFjdml1YzIiLCJ0aW1lIjoxNjc2MzYwNTk1fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -73,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677309600,
+			"expirationDate": 1677384603,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,7 +74,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708240554.883684,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOW1obmIwb3hrYyIsInRpbWUiOjE2NzY3MDU4MTl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676792219,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708315650.581777,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -95,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3A0iYVrtpEBjGv4w%3A2%3A1673851660%3A-1%3A1039%3A%3AAcWKzEDOnRt2lOu_s4GAXvbuAxCMYzpk7lpGUqiVk2Q"
+			"value": "49%3A0iYVrtpEBjGv4w%3A2%3A1673851660%3A-1%3A1039%3A%3AAcWkycl9hUVmxnmg9n7e2PdrDNsLQ3p_V5u1MvFdHLE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684480731.486013,
+			"expirationDate": 1684555676.836415,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -108,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08F7YnD3LSwi84UN1.AWXkWR6p0A9-vxHlrsZy-53alUc.Bj8Hsr.6B.AAA.0.0.Bj8Hvc.AWWx_2AEh-I"
+			"value": "0aIFAuJgmqWXfCE3e.AWWDMAR6ZILfXR4KU-VJOBtY5s8.Bj8aCD.6B.AAA.0.0.Bj8aCd.AWV5Jz4jQYE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -120,10 +133,14 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100069876743660%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100075860583993%22%7D%2C%7B%22i%22%3A%22u.100030601457137%22%7D%2C%7B%22i%22%3A%22u.100007771336874%22%7D%2C%7B%22i%22%3A%22u.100084220555661%22%7D%2C%7B%22i%22%3A%22u.100061476305929%22%7D%2C%7B%22i%22%3A%22u.100007808463086%22%7D%2C%7B%22i%22%3A%22u.100037229381025%22%7D%5D%2C%22utc3%22%3A1676704764374%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676779778437%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100090463264668"
-	]
+	],
+	"screenname": "Гражина Тагирова",
+	"birthdate": "1994 November 29",
+	"country": "",
+	"isAvatarExists": false
 }
