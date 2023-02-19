@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.02.2023 03:20 petr d24",
+	"lastEventDate": "19.02.2023 03:23 petr d24",
 	"status": 2,
 	"id": "100089309300840",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "67",
 	"screenname": "Amanda Smilga",
 	"birthdate": "2000 January 7",
 	"country": "Latvia",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677268167,
+			"expirationDate": 1677268686,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,20 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677268167,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,11 +125,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNnUzcTFjbmY0aTEiLCJ0aW1lIjoxNjc2NTc2MDgxfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOHE1dWI4ejl4NiIsInRpbWUiOjE2NzY2NjM5NTB9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684439230.678484,
+			"expirationDate": 1677381795,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684552902.25992,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0utmTVTbLpAaZuZR9.AWXwrvovjQtipSdOJba4m4agEbY.Bjx_sR.fr.AAA.0.0.Bj79m_.AWXMHiPePVM"
+			"value": "0utmTVTbLpAaZuZR9.AWVItQliK6C52g6XuYSf69A2-_Y.Bjx_sR.fr.AAA.0.0.Bj8ZXH.AWUsHathb_o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676663343982%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676776991774%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
