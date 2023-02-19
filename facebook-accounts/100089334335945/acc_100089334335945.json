@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.02.2023 09:39 petr d32",
+	"lastEventDate": "19.02.2023 09:43 petr d32",
 	"status": 2,
 	"id": "100089334335945",
 	"name": "",
-	"amountFriends": "168",
+	"amountFriends": "176",
 	"screenname": "Elīza Volkova",
 	"birthdate": "2004 January 2",
 	"country": "Daugavpils",
@@ -104,32 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOHJyZzE3NjZodGQiLCJ0aW1lIjoxNjc2NjY1OTk2fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676752396,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677323310,
+			"expirationDate": 1677404589,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -142,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677323310,
+			"expirationDate": 1677404589,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -155,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684494408.4935,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXdqczltMXEzMCIsInRpbWUiOjE2NzY3MTg4NTZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684575589.203414,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Egri3QCJIwGGcwtH.AWVhXB29joh3ALLuxjD8QZEm4Wc.BjtqFS.W2.AAA.0.0.Bj8LFJ.AWUkqbpSKv8"
+			"value": "0Egri3QCJIwGGcwtH.AWW-kvjwstpuE0GQciXamO4IF_k.BjtqFS.W2.AAA.0.0.Bj8e5m.AWUsOTCnuTY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676718507599%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676799784266%2C%22v%22%3A1%7D"
 		}
 	]
 }
