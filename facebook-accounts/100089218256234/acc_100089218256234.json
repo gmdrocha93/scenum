@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.02.2023 12:15 petr d29",
+	"lastEventDate": "19.02.2023 12:18 petr d29",
 	"status": 2,
 	"id": "100089218256234",
 	"name": "",
@@ -99,7 +99,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677329748,
+			"expirationDate": 1677413886,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -109,19 +109,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677329748,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +123,33 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNjYzczZpY3AzYiIsInRpbWUiOjE2NzY1NDQ2MTZ9"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbAEha474bOChMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaQtYa_DBYAABV-HEwAABYAFpi1hr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaYtYa_DBYAABWAARxMAAAWABaYtYa_DBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWVpM0UFFJ5-lxRQdD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaatYa_DBYAABUEFWommrWGvwwWAAAVBBViJpi1hr8MFgAAFQQVbiaetYa_DBYAABUEFTomnLWGvwwWAAAVBBUMJpy1hr8MFgAAFQQVPCactYa_DBYAABUEFWAmnrWGvwwWAAAVBBVSJp61hr8MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676725580%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684500849.402558,
+			"expirationDate": 1677413886,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684584962.688358,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -146,7 +158,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zeRku2wdVuAEi8jq.AWVkKNfumSfnila2AW4uK_xwtYY.BjybTq.Ch.AAA.0.0.Bj8Mpy.AWVw-Jfzsk0"
+			"value": "0zeRku2wdVuAEi8jq.AWWqBlzXqtIUaCZg2-bizBJq47o.BjybTq.Ch.AAA.0.0.Bj8hMD.AWUyPiFYkrI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -158,22 +170,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676724944808%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaeERb2ru3YChMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaYq4a_DBYAABV-HEwAABYAFqKrhr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUGAAAWABakq4a_DBYAABWAARwcGAAYABUGAAAWABakq4a_DBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWVosGUJFJ5-lxZIhD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQQVdCakq4a_DBYAABUEFWompKuGvwwWAAAVBBViJqSrhr8MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676724945%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676809061793%2C%22v%22%3A1%7D"
 		}
 	],
-	"amountFriends": "8",
+	"amountFriends": "16",
 	"screenname": "Eleonora Rubins",
 	"birthdate": "2002 January 1",
 	"country": "Daugavpils",
