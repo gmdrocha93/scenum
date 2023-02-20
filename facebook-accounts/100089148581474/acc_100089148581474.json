@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 13:52 petr d32",
+	"lastEventDate": "20.02.2023 13:54 petr d32",
 	"status": 2,
 	"id": "100089148581474",
 	"name": "",
-	"amountFriends": "168",
+	"amountFriends": "175",
 	"screenname": "Ance Kovalenko",
 	"birthdate": "1998 January 2",
 	"country": "Daugavpils",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677365475,
+			"expirationDate": 1677506070,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,19 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNGxxYjFkaW9qYTciLCJ0aW1lIjoxNjc2NDcxNTU1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677365475,
+			"expirationDate": 1677506065,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684536575.217316,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYXQzczE0YjhtMTciLCJ0aW1lIjoxNjc2NzYxMDQ4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684677176.174308,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03m5zpbA3lRolGXAl.AWVy2x1-q_yGpcFKlXCSBNcPOjc.BjszNq.-d.AAA.0.0.Bj8VYA.AWWHa2JAUVA"
+			"value": "03m5zpbA3lRolGXAl.AWVyp6esefg2JVsf4ivAKYCqPM8.BjszNq.-d.AAA.0.0.Bj83s4.AWV8yCCVblE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100085177552396%22%7D%5D%2C%22utc3%22%3A1676760679490%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676901269711%2C%22v%22%3A1%7D"
 		}
 	]
 }
