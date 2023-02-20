@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100089182532555",
 	"custom": {},
-	"lastEventDate": "20.02.2023 16:34 petr d32",
+	"lastEventDate": "20.02.2023 16:36 petr d32",
 	"name": "",
-	"amountFriends": "73",
+	"amountFriends": "81",
 	"screenname": "Antoņina Pavlovs",
 	"birthdate": "1998 October 31",
 	"country": "Latvia",
@@ -106,7 +106,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677286648,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYWYyZWc1ZmQzeSIsInRpbWUiOjE2NzY3NDI4Nzl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677515658,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -119,7 +131,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677347448,
+			"expirationDate": 1677515758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,36 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "826x524"
+			"value": "827x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOTRlbDFmZm9vb2EiLCJ0aW1lIjoxNjc2NjgyMzgxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676768783,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684518552.533605,
+			"expirationDate": 1684686860.739733,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -166,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MlJWGZejcY4YLLdf.AWUG-FcxsyVoQjuQyHrmoImpop0.Bjp-ZF.fA.AAA.0.0.Bj8Q-Z.AWW7rXjNOf0"
+			"value": "0MlJWGZejcY4YLLdf.AWUDxiflm7N3-ojqgL3W_kelFTY.Bjp-ZF.fA.AAA.0.0.Bj86EN.AWVWveI2L_8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -178,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676742644658%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089650032982%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676910956764%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
