@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 14:15 petr d32",
+	"lastEventDate": "20.02.2023 14:17 petr d32",
 	"status": 2,
 	"id": "100089275443464",
 	"name": "",
-	"amountFriends": "193",
+	"amountFriends": "200",
 	"screenname": "Eleonora Feldmanis",
 	"birthdate": "2003 September 20",
 	"country": "Latvia",
@@ -107,19 +107,6 @@
 			"expirationDate": 1707478369,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcmxpMzFwMnUyOWEiLCJ0aW1lIjoxNjc1ODY0NzMxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707478369,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -130,20 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684539636.369128,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "0Doy0nGhFZTgXVaRM.AWW8XcaeKMwvPEIU4o3rTIiEKTE.Bjr8fc.SK.AAA.0.0.Bj8WH1.AWVa6PmdKN4"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYXZjbTFvNjY4ZWkiLCJ0aW1lIjoxNjc2NzYzOTg0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677368537,
+			"expirationDate": 1677507466,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -152,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677368575,
+			"expirationDate": 1677507466,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -165,7 +151,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "829x525"
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684678563.220788,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Doy0nGhFZTgXVaRM.AWX2DOk6kYvQ71-mc3f4eRTfU_c.Bjr8fc.SK.AAA.0.0.Bj84Ck.AWU90KqeV5s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -177,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100085167894048%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100030560690379%22%7D%2C%7B%22i%22%3A%22u.100023261473144%22%7D%2C%7B%22i%22%3A%22u.100009884174497%22%7D%5D%2C%22utc3%22%3A1676763770933%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676902660966%2C%22v%22%3A1%7D"
 		}
 	]
 }
