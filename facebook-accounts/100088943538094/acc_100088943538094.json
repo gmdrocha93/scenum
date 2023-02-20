@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 14:36 petr d32",
+	"lastEventDate": "20.02.2023 14:37 petr d32",
 	"status": 2,
 	"id": "100088943538094",
 	"name": "",
-	"amountFriends": "79",
+	"amountFriends": "85",
 	"screenname": "Dana Brox",
 	"birthdate": "2001 December 8",
 	"country": "Liepaja",
@@ -107,19 +107,6 @@
 			"expirationDate": 1707478998,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcm1jcGh5d3psbSIsInRpbWUiOjE2NzU4NjU4MzN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707478998,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -130,7 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677369852,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYXdteDFudmtmcXAiLCJ0aW1lIjoxNjc2NzY1NzI0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677508658,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -139,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677370178,
+			"expirationDate": 1677508653,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -152,11 +151,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684541283.839489,
+			"expirationDate": 1684679767.599274,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -165,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ahwao8AMptLSrkq0.AWWxlu-XVJRqUbtorL2zQYCJFhE.Bjr8yx.yK.AAA.0.0.Bj8Whk.AWUPIMXGHUE"
+			"value": "0Ahwao8AMptLSrkq0.AWV7I2iHQsQnF3XNOmdSx-QoSpQ.Bjr8yx.yK.AAA.0.0.Bj84VY.AWXgr5ISNFI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -177,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100064810492301%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100089452752813%22%7D%2C%7B%22i%22%3A%22u.100089497604747%22%7D%5D%2C%22utc3%22%3A1676765375539%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100039553030560%22%7D%5D%2C%22utc3%22%3A1676903857495%2C%22v%22%3A1%7D"
 		}
 	]
 }
