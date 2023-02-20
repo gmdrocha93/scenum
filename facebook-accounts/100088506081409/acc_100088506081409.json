@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 19:58 petr d32",
+	"lastEventDate": "20.02.2023 20:00 petr d32",
 	"status": 2,
 	"id": "100088506081409",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Evija Rudyte",
 	"birthdate": "1998 March 30",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708333830.867344,
+			"expirationDate": 1708458946.153805,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,33 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677402902,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677402902,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYm0yNXByNHRtZCIsInRpbWUiOjE2NzY3OTg1NzN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708333830.867408,
+			"expirationDate": 1708458946.153867,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "41%3AMZW6zATOQ5tUcQ%3A2%3A1674557037%3A-1%3A16327%3A%3AAcVJvFmL2Ds_1AWNx394i_cQQgiMlO0oL5tCD2k-UvQ"
+			"value": "41%3AMZW6zATOQ5tUcQ%3A2%3A1674557037%3A-1%3A16327%3A%3AAcWTh6vihsG6vXjKb0pwitb7-ugnuEJkNAeB5rY0FOU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684573998.06954,
+			"expirationDate": 1677527751,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677528038,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684699142.857261,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Oq42AflAkbK6DcC5.AWWDYg-S-03qVg2DDgORD7T3PKM.Bj8eeH.My.AAA.0.0.Bj8egu.AWWxRbK_9-4"
+			"value": "0nZcLLH5zmnJlA3ZH.AWUPiQCWhQZLX9ZxV5aRj_2juQ0.Bj89BD.My.AAA.0.0.Bj89EH.AWXpiyLmgYU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100065248853111%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100076811082215%22%7D%2C%7B%22i%22%3A%22u.100063679326373%22%7D%5D%2C%22utc3%22%3A1676798097971%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676923236745%2C%22v%22%3A1%7D"
 		}
 	]
 }
