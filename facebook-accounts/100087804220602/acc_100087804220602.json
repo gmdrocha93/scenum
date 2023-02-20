@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 16:57 petr d30",
+	"lastEventDate": "20.02.2023 17:00 petr d30",
 	"status": 2,
 	"id": "100087804220602",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "4",
 	"screenname": "Kim Marsh",
 	"birthdate": "1999 February 10",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708286079.63904,
+			"expirationDate": 1708447958.952844,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,32 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677355462,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677355462,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,11 +86,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNG9wZjE5cGtkbzEiLCJ0aW1lIjoxNjc2NDc1NDExfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYWxhcm5kM253ZSIsInRpbWUiOjE2NzY3NTA5MzF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708286079.639083,
+			"expirationDate": 1677356158,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708447958.952887,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +112,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3AqugOye0oPqtFCw%3A2%3A1673347058%3A-1%3A1842%3A%3AAcV0ndGn6tFgG0W0OD8cltchL9XhtHF6kyJjGJcvWkw"
+			"value": "29%3AqugOye0oPqtFCw%3A2%3A1673347058%3A-1%3A1842%3A%3AAcV4ExAHlOnZwscjKKEFhgBpoh0c94Ad2rdQd1pb7aw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684526530.374082,
+			"expirationDate": 1677517216,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684688280.534132,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Qk7w1VG6EwKTuwwf.AWVNo3XAkOzealGB74Ec95XeuGk.Bj8S0A.y6.AAA.0.0.Bj8S7D.AWX-RMbRGuY"
+			"value": "0yTivviL8u2oBcr3V.AWV1d71aIacTfAnX1hQQSXc5d0A.Bj86VX.y6.AAA.0.0.Bj86aZ.AWXDIfxXHe0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676750639211%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676912393225%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
