@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 20:15 petr d32",
+	"lastEventDate": "20.02.2023 20:16 petr d32",
 	"status": 2,
 	"id": "100088561217648",
 	"name": "",
-	"amountFriends": "170",
+	"amountFriends": "178",
 	"screenname": "Dagnija Feldmann",
 	"birthdate": "2003 November 7",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708336110.451044,
+			"expirationDate": 1708459858.872151,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,46 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707502417,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYjNsdnM2aWc1YyIsInRpbWUiOjE2NzUwOTUwNDN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYm5sNTkxdDAzMCIsInRpbWUiOjE2NzY4MDA1NTN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677405029,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677405029,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708336110.451102,
+			"expirationDate": 1708459858.872227,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AeDARN0ZkvSVgYg%3A2%3A1674557345%3A-1%3A5950%3A%3AAcUCR1NOHbu_ccfdShIe5HrNRYNHpaLzFPsCgDq0GGg"
+			"value": "18%3AeDARN0ZkvSVgYg%3A2%3A1674557345%3A-1%3A5950%3A%3AAcUKCLSqChNGnjBAYAndXwFL7c6CjdN1mQdZle7eBXU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684576134.673826,
+			"expirationDate": 1677528662,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677529002,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684700109.096995,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KpJCkyTHvia3NcAo.AWVWCgg_BYAQkpk-DyYFRA_oDSA.Bj8fBv.8j.AAA.0.0.Bj8fCH.AWXTGH1udQI"
+			"value": "0fPlZ3KpbJcpShV1V.AWVeVboKj7RalkGwwIk0Fsx6sWE.Bj89PT.8j.AAA.0.0.Bj89TN.AWX_Y0-O8Jk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100080236076229%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100004046485774%22%7D%2C%7B%22i%22%3A%22u.100003039943777%22%7D%2C%7B%22i%22%3A%22u.100081047432785%22%7D%5D%2C%22utc3%22%3A1676800224849%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676924199808%2C%22v%22%3A1%7D"
 		}
 	]
 }
