@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.02.2023 21:48 petr d32",
+	"lastEventDate": "20.02.2023 21:50 petr d32",
 	"status": 2,
 	"id": "100088384855367",
 	"name": "",
-	"amountFriends": "113",
+	"amountFriends": "118",
 	"screenname": "Egita Barkane",
 	"birthdate": "2001 January 22",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708345223.166382,
+			"expirationDate": 1708465466.89459,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677414070,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYnVtcDE3Z2k3YzEiLCJ0aW1lIjoxNjc2ODA5NjgxfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677414070,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708345223.166447,
+			"expirationDate": 1708465466.894636,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +86,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3AX-Tj9KOUeoaJgw%3A2%3A1674559260%3A-1%3A3949%3A%3AAcWOPeZbpJMmS7VueQL_dO7GX3l9a2dfdYEoFKcuGUA"
+			"value": "35%3AX-Tj9KOUeoaJgw%3A2%3A1674559260%3A-1%3A3949%3A%3AAcXCS4iMfQiPlPMc6Kfdg370FLv9kMIIgg4yaTfde20"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684585222.166487,
+			"expirationDate": 1677534269,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677534634,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684705738.495595,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F8lvJ9EKH3FJkSDB.AWVOD0KBAawK7V98-17tAJ385UY.Bj8hQH.-S.AAA.0.0.Bj8hQH.AWVN0sdEDsQ"
+			"value": "0hIRkPcxp5TmEgpaZ.AWUJo-nyjChWtS4QW0ChEoRJAKc.Bj8-m7.-S.AAA.0.0.Bj8-rL.AWXaUPU9m1Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100001521775785%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100022689015518%22%7D%2C%7B%22i%22%3A%22u.100060441730619%22%7D%2C%7B%22i%22%3A%22u.100089460882824%22%7D%5D%2C%22utc3%22%3A1676809224543%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676929831656%2C%22v%22%3A1%7D"
 		}
 	]
 }
