@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 20:03 2.0 petr d15",
+	"lastEventDate": "21.02.2023 20:05 2.0 petr d15",
 	"status": 2,
 	"id": "100089856942305",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Regīna Kruse",
 	"birthdate": "2004 January 12",
 	"country": "Daugavpils",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677416670,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677519555,
+			"expirationDate": 1677614721,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +113,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x718"
+			"value": "1302x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684690622.028161,
+			"expirationDate": 1677614721,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684785824.84656,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NWp9AwOeYC7LOXSW.AWUR2Ezv-zhHfk6WabQxUrvR65M.Bj12Cz.Mk.AAA.0.0.Bj86--.AWX5lHabdJw"
+			"value": "0NWp9AwOeYC7LOXSW.AWV3hiaS3RaaZ0O6kS6Z8OO_wh8.Bj12Cz.Mk.AAA.0.0.Bj9SOh.AWUwm-UjzPk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676914732407%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677009919461%2C%22v%22%3A1%7D"
 		}
 	]
 }
