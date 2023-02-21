@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 12:43 petr d31",
+	"lastEventDate": "21.02.2023 12:45 petr d31",
 	"status": 2,
 	"id": "100086992608994",
 	"name": "",
-	"amountFriends": "119",
+	"amountFriends": "127",
 	"screenname": "Charlotte Chambers",
 	"birthdate": "1994 June 3",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708438702.806449,
+			"expirationDate": 1708519078.004575,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,32 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYTdqbTFqdGdhbmgiLCJ0aW1lIjoxNjc2NzMzMTA2fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708438702.806523,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "36%3AIfKRNJf6iOmBRg%3A2%3A1673503058%3A-1%3A1829%3A%3AAcV1BzFP-aXdicLj43wODRC3MGf1YADPexWnvkqr15Y"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677507789,
+			"expirationDate": 1677588350,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -90,20 +65,45 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677507789,
+			"expirationDate": 1677043282,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684678886.84722,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZjA3bDF1Z2NlNCIsInRpbWUiOjE2NzY5NTY4ODF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708519078.004658,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "36%3AIfKRNJf6iOmBRg%3A2%3A1673503058%3A-1%3A1829%3A%3AAcWZaStEzmLeXib4Dz_ts_mVI0DLRLtqvQEJu_lReTc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684759441.294041,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0z2rk6vuZsM2LLp1y.AWUyhVSEVF-_00svdp4uquQkYCU.Bj84Ev.qg.AAA.0.0.Bj84Hm.AWUooW2K8vg"
+			"value": "0ChuIuhCzql49Cc9V.AWUFARYYl4RpwrNuVYP63ISQ9ho.Bj9Lsm.qg.AAA.0.0.Bj9LyS.AWXPHrCLH3w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100085799688551%22%7D%5D%2C%22utc3%22%3A1676902986343%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676983545258%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677588350,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "830x526"
 		}
 	],
 	"funPages": [
