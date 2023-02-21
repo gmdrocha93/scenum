@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 16:42 petr d33",
+	"lastEventDate": "21.02.2023 16:43 petr d33",
 	"status": 2,
 	"id": "100088965579144",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "63",
 	"screenname": "Airita Kovalenko",
 	"birthdate": "1996 August 5",
 	"country": "Liepaja",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708441484.405512,
+			"expirationDate": 1708533333.264077,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708441484.405555,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "12%3Adc5IcNyNXHNkTg%3A2%3A1674551753%3A-1%3A-1%3A%3AAcVDU0VwpSnk1aCtR69kQ814CaPKzmf_Eaw-iRod120"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677510601,
+			"expirationDate": 1677602637,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677510601,
+			"expirationDate": 1677602637,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684681706.026455,
+			"expirationDate": 1708533333.264148,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "12%3Adc5IcNyNXHNkTg%3A2%3A1674551753%3A-1%3A-1%3A%3AAcW33eVT2er-p33FvSnAN1Uv04qcBoSomggienOY4c8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684773741.038939,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0w7m8Gpmj3wx4IKLP.AWVUL2xLYFllIG2fl1-HFLbEJ1Y.Bj84wN.uF.AAA.0.0.Bj84zq.AWVPq2sU4X8"
+			"value": "021m6GBVkwSvFMERt.AWUA1VKPsunNxPzhHdwszD3a6cw.Bj9PLW.uF.AAA.0.0.Bj9PRt.AWW9KOrG_dE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100054732414121%22%7D%5D%2C%22utc3%22%3A1676905797965%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100054732414121%22%7D%5D%2C%22utc3%22%3A1676997832911%2C%22v%22%3A1%7D"
 		}
 	]
 }
