@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 13:07 D-11(mini)LV_1",
+	"lastEventDate": "21.02.2023 13:09 D-11(mini)LV_1",
 	"status": 2,
 	"id": "100088261014602",
 	"name": "",
-	"amountFriends": "192",
+	"amountFriends": "197",
 	"screenname": "Marina Nikolaeva",
 	"birthdate": "2000 March 27",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708393177.658818,
+			"expirationDate": 1708520485.718308,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677462323,
+			"expirationDate": 1677589777,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -62,32 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1034x620"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708393177.658859,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "27%3AMsxL5wnT8sfX6A%3A2%3A1670826463%3A-1%3A5599%3A%3AAcWkmXsm-_s0H5Q6fyk-TQcdCPwKQuiZycaGSToFvv8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684633416.25466,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Uu2UaL3Q9uMnB07D.AWUNMX6epKgtWFTiyWQZ51qdFWs.Bj8s9a.zs.AAA.0.0.Bj8tBJ.AWWKgevWWFo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -103,15 +77,16 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1708520485.71835,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676857518252%2C%22v%22%3A1%7D"
+			"value": "27%3AMsxL5wnT8sfX6A%3A2%3A1670826463%3A-1%3A5599%3A%3AAcWrd0SZyJqVtXAyIXMKJddgfa8eEehYnW0uwSC13tc"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -123,7 +98,32 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbgkAEWtNmj0AsTBBaU0fPT88EtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABbcwpa_DBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%2226%22%3A%22dummy_cursor%22%7D%2C%22d%22%3A%2255a362bd-3f8a-4992-83bc-a31227e685b4%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaukQEWqriWlQ0TBBaU0fPT88EtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABbaz5a_DBYAABV-HEwAABYAFuDPlr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbiz5a_DBYAABWAARxMAAAWABbiz5a_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCbkz5a_DBYAABUEFWom5M-WvwwWAAAVBBViJuLPlr8MFgAAFQQVbibqz5a_DBYAABUEFTom6M-WvwwWAAAVBBUMJubPlr8MFgAAFQQVPCboz5a_DBYAABUEFWAm6s-WvwwWAAAVBBVSJujPlr8MFgAAFs4BEQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676858352%22%7D%2C%22d%22%3A%2255a362bd-3f8a-4992-83bc-a31227e685b4%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684760835.116275,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0zlqfU83ArMZPdnqL.AWXEd9kS-DIgNlSKc3gUkMAqHHE.Bj9MCm.zs.AAA.0.0.Bj9MIE.AWWoFSFStFI"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676984952750%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
