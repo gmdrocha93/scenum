@@ -13,19 +13,6 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677275287,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1739742493.433791,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -115,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677552935,
+			"expirationDate": 1677577493,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677577493,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684723980.315498,
+			"expirationDate": 1684748473.277683,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0d8ynDF15dpQQlA4O.AWXbJLcWKve325xk0trzEaXXP50.Bj7_cI.0B.AAA.0.0.Bj9DIN.AWUfVbG5ktk"
+			"value": "0d8ynDF15dpQQlA4O.AWU5YkGPQK26s3V3SCnXrZvzbTE.Bj7_cI.0B.AAA.0.0.Bj9JG6.AWVc10Uv0jI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676948112886%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676972691268%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 09:40 2.0 petr d2",
+	"lastEventDate": "21.02.2023 09:44 2.0 petr d2",
 	"email": "amyarmstrong1922@magenmail.com",
 	"emailPassword": "ocqvelht6886",
 	"imapHost": "imap.firstmail.ltd",
