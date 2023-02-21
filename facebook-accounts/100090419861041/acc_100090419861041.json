@@ -13,19 +13,6 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677286980,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1739754187.903056,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -115,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677555248,
+			"expirationDate": 1677579576,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677579576,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684726333.05569,
+			"expirationDate": 1684750625.944828,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0M5PIZJgYJC5qIgzf.AWXUIsuAIQ_r0WmOg2NlbVte4oo.Bj8CTx.et.AAA.0.0.Bj9Ds9.AWWL7gqfluc"
+			"value": "0M5PIZJgYJC5qIgzf.AWVlbpuaeMSAYazmaoV8nePMNPw.Bj8CTx.et.AAA.0.0.Bj9Joi.AWU5IzZiplQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676950446613%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676974753444%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 10:17 2.0 petr d2",
+	"lastEventDate": "21.02.2023 10:19 2.0 petr d2",
 	"email": "jeffreyrobinson1953@magenmail.com",
 	"emailPassword": "achwnbdq6594",
 	"imapHost": "imap.firstmail.ltd",
