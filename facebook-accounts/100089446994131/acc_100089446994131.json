@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 06:05 petr d25",
+	"lastEventDate": "21.02.2023 06:07 petr d25",
 	"status": 2,
 	"id": "100089446994131",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Ilze Vitols",
-	"birthdate": "2005 January 5",
-	"country": "Liepaja",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -104,32 +100,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677052277,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677392676,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +112,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684563744.484626,
+			"expirationDate": 1677564442,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677564435,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684735539.478144,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +147,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WulOsW71SDs0UIXb.AWUktPAcGSiD8xPoQ-Z_GjYOi4o.BjxSCI.x3.AAA.0.0.Bj8cAh.AWXXmu79PgI"
+			"value": "0WulOsW71SDs0UIXb.AWWgE1XiLbHTMgHCWNcBQoGXTB0.BjxSCI.x3.AAA.0.0.Bj9F80.AWWvK6iGoAw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676787853213%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676959640269%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
