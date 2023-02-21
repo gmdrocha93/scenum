@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.02.2023 10:11 petr d31",
+	"lastEventDate": "21.02.2023 10:13 petr d31",
 	"status": 2,
 	"id": "100089336451518",
 	"name": "",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXltZDZwZmR4aSIsInRpbWUiOjE2NzY3MjE1NDF9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677501961,
+			"expirationDate": 1677579209,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677501961,
+			"expirationDate": 1677579209,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684673028.649319,
+			"expirationDate": 1677042406,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZXpqOWJydGZuZyIsInRpbWUiOjE2NzY5NTYwMDV9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684750273.450547,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Me6Ltuhs56TMGGLA.AWXanQ8ZnEb9Bq_1QjzaFmjkR90.Bjyls7.PB.AAA.0.0.Bj82sF.AWUaEDmTZcs"
+			"value": "0Me6Ltuhs56TMGGLA.AWW-Z-S9b79cFwmQ66BadWPAoi0.Bjyls7.PB.AAA.0.0.Bj9JjB.AWVc8Cz2BQo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676897138166%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676974386276%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
