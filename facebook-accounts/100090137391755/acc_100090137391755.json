@@ -98,7 +98,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677552103,
+			"expirationDate": 1677577071,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677577071,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -107,11 +120,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684723113.657071,
+			"expirationDate": 1684748162.276676,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -120,7 +133,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0fok1EUX8xUE0yZ7t.AWWMsD0l_K8YVBzo_DFPXwHp6EE.Bj7-gZ.B-.AAA.0.0.Bj9C6q.AWVgkC635Qs"
+			"value": "0fok1EUX8xUE0yZ7t.AWULosMwheP-ORr0UeqKNoN1FFI.Bj7-gZ.B-.AAA.0.0.Bj9JCD.AWXg9fSUTJQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -132,10 +145,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676947309417%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676972270867%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 09:35 2.0 petr d2",
+	"lastEventDate": "21.02.2023 09:37 2.0 petr d2",
 	"email": "timothymooneyhan1907@magenmail.com",
 	"emailPassword": "mctfwkkz2280",
 	"imapHost": "imap.firstmail.ltd",
@@ -152,5 +165,9 @@
 		"80269984",
 		"81646325",
 		"82824322"
-	]
+	],
+	"screenname": "Elizabete Acorns",
+	"birthdate": "1998 February 10",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
