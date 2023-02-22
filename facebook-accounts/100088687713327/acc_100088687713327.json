@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100088687713327",
 	"name": "",
-	"amountFriends": "274",
+	"amountFriends": "281",
 	"screenname": "Veronika Gracheva",
 	"birthdate": "1999 August 24",
 	"country": "Latvia",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708428079.799212,
+			"expirationDate": 1708573724.599543,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677497162,
+			"expirationDate": 1677642830,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -61,32 +61,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1034x620"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708428079.799253,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "25%3AiePVAL76uLyN-Q%3A2%3A1670826742%3A-1%3A5597%3A%3AAcUI8g8BYy3WJinmTNKbNve8Hu0H9-TJTPfLicWpWJM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684668228.327665,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0HYaDUk3byQ3XhcAU.AWWfj1opNN2uM0l0tGm3i5HJRuk.Bj81ew.6p.AAA.0.0.Bj81hF.AWUIDr-cG-c"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,15 +76,16 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1708573724.599609,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
+			"httpOnly": true,
+			"name": "xs",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676892338323%2C%22v%22%3A1%7D"
+			"value": "25%3AiePVAL76uLyN-Q%3A2%3A1670826742%3A-1%3A5597%3A%3AAcWX3ed3XYupyLTusTCK49UMCjoRtUuqa58_Q2OhN-I"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -122,10 +97,35 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbsrQIWyO3ahgsTBBbe8Orq9sEtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABbk4pq_DBYAABV-HEwAABYAFujimr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbs4pq_DBYAABWAARxMAAAWABbs4pq_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCby4pq_DBYAABUEFWom9OKavwwWAAAVBBViJvDimr8MFgAAFQQVbib64pq_DBYAABUEFTom-OKavwwWAAAVBBUMJvbimr8MFgAAFQQVPCb44pq_DBYAABUEFWAm-uKavwwWAAAVBBVSJvjimr8MFgAAFqwBEQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676892340%22%7D%2C%22d%22%3A%22fdcc45f6-2be6-49b4-8095-06b5e8545096%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbQrgIWsquttw4TBBbe8Orq9sEtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABbc8Jq_DBYAABV-HEwAABYAFujwmr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbq8Jq_DBYAABWAARxMAAAWABbq8Jq_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCb08Jq_DBYAABUEFWom9vCavwwWAAAVBBViJvLwmr8MFgAAFQQVbib88Jq_DBYAABUEFTom-PCavwwWAAAVBBUMJvjwmr8MFgAAFQQVPCb68Jq_DBYAABUEFWAm_PCavwwWAAAVBBVSJvrwmr8MFgAAFqwBEQA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676893236%22%7D%2C%22d%22%3A%22fdcc45f6-2be6-49b4-8095-06b5e8545096%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684813923.981893,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "01tXPwiw7IeVtVEGx.AWU-5WfUGfYKhEzmLQVIeRUcrfs.Bj9ZCd.6p.AAA.0.0.Bj9ZFk.AWV8mQNefsg"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100076124831755%22%7D%2C%7B%22i%22%3A%22u.100003235840576%22%7D%5D%2C%22utc3%22%3A1677038026282%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 03:51 D-11(mini)",
+	"lastEventDate": "22.02.2023 03:53 D-11(mini)",
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100090005422443",
 		"https://www.facebook.com/profile.php?id=100090629281165",
