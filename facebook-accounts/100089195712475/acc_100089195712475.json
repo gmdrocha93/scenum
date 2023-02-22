@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.02.2023 18:31 petr d34",
+	"lastEventDate": "22.02.2023 18:33 petr d34",
 	"status": 2,
 	"id": "100089195712475",
 	"name": "",
-	"amountFriends": "120",
+	"amountFriends": "128",
 	"screenname": "Rota Ozolins",
 	"birthdate": "2000 January 3",
 	"country": "Latvia",
@@ -104,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677562985,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677562985,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684734090.792653,
+			"expirationDate": 1677695288,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677695594,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684866696.43972,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YxUL7pRMX5YXyj0p.AWVsocMQH_Y5qjX5sX1nA2yqiiM.BjtrXk.GI.AAA.0.0.Bj9FmL.AWX9A5LXF5I"
+			"value": "0YxUL7pRMX5YXyj0p.AWXNZ4f4BS_7X1XOR3L-JqWXxKw.BjtrXk.GI.AAA.0.0.Bj9l-I.AWXWIyVXQsc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100082955658441%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100037052773278%22%7D%2C%7B%22i%22%3A%22u.100087882383999%22%7D%2C%7B%22i%22%3A%22u.100011899787022%22%7D%2C%7B%22i%22%3A%22u.100013184563142%22%7D%2C%7B%22i%22%3A%22u.100050269186206%22%7D%5D%2C%22utc3%22%3A1676958182034%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100024883275107%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100037052773278%22%7D%2C%7B%22i%22%3A%22u.100087882383999%22%7D%2C%7B%22i%22%3A%22u.100011899787022%22%7D%2C%7B%22i%22%3A%22u.100013184563142%22%7D%2C%7B%22i%22%3A%22u.100050269186206%22%7D%2C%7B%22i%22%3A%22u.100088493012781%22%7D%2C%7B%22i%22%3A%22u.100082955658441%22%7D%5D%2C%22utc3%22%3A1677090797913%2C%22v%22%3A1%7D"
 		}
 	]
 }
