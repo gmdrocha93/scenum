@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.02.2023 07:44 petr d32",
+	"lastEventDate": "22.02.2023 07:46 petr d32",
 	"status": 2,
 	"id": "100089218256234",
 	"name": "",
@@ -99,45 +99,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677581876,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677581876,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677042685,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -146,11 +107,37 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZXpyMHZkazlxeSIsInRpbWUiOjE2NzY5NTYyODR9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZmczdDNqeW44MyIsInRpbWUiOjE2NzY5Nzc0ODF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684752981.624394,
+			"expirationDate": 1677656672,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677656773,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684827875.842951,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -159,7 +146,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zeRku2wdVuAEi8jq.AWWioOjZUruPbIxtEOcGKiRSAuc.BjybTq.Ch.AAA.0.0.Bj9KNW.AWWhgqIKnME"
+			"value": "0zeRku2wdVuAEi8jq.AWVhSUA8qjeW_cvmqhUWFe4fPFk.BjybTq.Ch.AAA.0.0.Bj9cfk.AWULClW6k0Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -171,7 +158,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676977072423%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677051970115%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -183,10 +170,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKGRaojp7aBRMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbWjqW_DBYAABV-HEwAABYAFuKOpb8MFgAAFigA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWYzEUENFJ5_FSAw1D4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQQVdCbkjqW_DBYAABUEFWom5I6lvwwWAAAVBBViJuKOpb8MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676977073%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbKGxaM0uD9ChMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb6oK6_DBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_Sa4tyLVAAAzAQTuWZwIYUFFJ5_FiRAWD4NWA_QC9LPVK77uelA%22%2C%2216%22%3A%22FQIVCBmcFQQVdCaIoa6_DBYAABUAFWo2AAAVBBViJoahrr8MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677051970%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"amountFriends": "32",
+	"amountFriends": "40",
 	"screenname": "Eleonora Rubins",
 	"birthdate": "2002 January 1",
 	"country": "Daugavpils",
