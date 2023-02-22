@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.02.2023 12:12 petr d27",
+	"lastEventDate": "22.02.2023 12:13 petr d27",
 	"status": 2,
 	"id": "100089296192841",
 	"name": "",
-	"amountFriends": "77",
+	"amountFriends": "83",
 	"screenname": "Irīna Lebedevs",
 	"birthdate": "2003 January 8",
 	"country": "Latvia",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZWwwejI2ZHd0cSIsInRpbWUiOjE2NzY5MzcyMDN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677628863,
+			"expirationDate": 1677672832,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,20 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684799928.272409,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "0ZgMSpwvOkhNwSpMa.AWVyTceGw0LAV_cyNu5FXEqO-vU.Bjyc7W.lY.AAA.0.0.Bj9Vq5.AWWiM0ip6z8"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZ2c5amVpdXlybCIsInRpbWUiOjE2NzcwMjQzNDN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677628863,
+			"expirationDate": 1677672832,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -151,7 +138,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "830x526"
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684843932.160133,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ZgMSpwvOkhNwSpMa.AWWFzGb4I3gGN-PNxb6-j3hTngo.Bjyc7W.lY.AAA.0.0.Bj9gad.AWXgSCXe8FI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677024040587%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677068026078%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
