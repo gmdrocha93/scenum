@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.02.2023 06:14 petr d26",
+	"lastEventDate": "22.02.2023 06:17 petr d26",
 	"status": 2,
 	"id": "100089286863381",
 	"name": "",
@@ -100,18 +100,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOGgyenRlcmoxdCIsInRpbWUiOjE2NzY2NTIxODB9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1677360351,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -125,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677537364,
+			"expirationDate": 1677651422,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,7 +126,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684708428.090996,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZWh3YjFkdXFidzciLCJ0aW1lIjoxNjc2OTMzMjk4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684822490.276382,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -147,7 +147,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0quvh3QEsgDp5pMGa.AWUaPuGxdE8WnLohI8Y6dTtU8Sw.BjyjY7.QB.AAA.0.0.Bj8_VM.AWWuY8wq6Tw"
+			"value": "0quvh3QEsgDp5pMGa.AWWg7Js1aY3zRmrDVrocnVBMMD0.BjyjY7.QB.AAA.0.0.Bj9bLb.AWVGeLFaxYA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -159,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676932540738%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677046599355%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Andžela Pavlova",
