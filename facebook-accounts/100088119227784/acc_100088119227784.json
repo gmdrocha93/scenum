@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.02.2023 06:58 petr d33",
+	"lastEventDate": "22.02.2023 07:00 petr d33",
 	"status": 2,
 	"id": "100088119227784",
 	"name": "",
-	"amountFriends": "245",
+	"amountFriends": "250",
 	"screenname": "Настёна Попова",
 	"birthdate": "1998 November 29",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708466795.662522,
+			"expirationDate": 1708584889.270323,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,32 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088119227784"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677202102,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677535975,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -103,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708466795.662605,
+			"expirationDate": 1677654058,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708584889.270394,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +99,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "31%3Ap6x7mSSkO5RdMQ%3A2%3A1669915223%3A-1%3A6411%3A%3AAcW9MgUpTPcpmC_aSxr0I6-KZsmf6SpUI-Y6rJOpa20"
+			"value": "31%3Ap6x7mSSkO5RdMQ%3A2%3A1669915223%3A-1%3A6411%3A%3AAcWFEpMuputM9Bdev3kwawuyt5XzjsQKziR1jW2vLaE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684707057.547817,
+			"expirationDate": 1677654058,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684825135.675469,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02sT8QFTHd6U13uz1.AWVKhx9i0yNN3GpiFmWj658dsPQ.Bj8ZrX.sC.AAA.0.0.Bj8-_y.AWUF8szVRzY"
+			"value": "02sT8QFTHd6U13uz1.AWVBsvCojidLg0hK-ptpUWzOR4M.Bj8ZrX.sC.AAA.0.0.Bj9b0w.AWV_B4ulvs0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676931178801%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677049233921%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
