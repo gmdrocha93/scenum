@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088861969299",
 	"custom": {},
-	"lastEventDate": "22.02.2023 21:11 petr d34",
+	"lastEventDate": "22.02.2023 21:13 petr d34",
 	"name": "",
-	"amountFriends": "100",
+	"amountFriends": "106",
 	"screenname": "Laima Skudra",
 	"birthdate": "1998 February 25",
 	"country": "Latvia",
@@ -118,7 +118,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677573203,
+			"expirationDate": 1684876315.826364,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Xm0lag577Fvm671B.AWVVt29f40x4HiSHIgXemlGUrGs.BjrLes.Af.AAA.0.0.Bj9oUc.AWVz4AxzrL4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677705225,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1298x884"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677705225,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -131,32 +157,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677573203,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684744275.180802,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Xm0lag577Fvm671B.AWVBacerxiwtaPbvfa0-Pz-OTIg.BjrLes.Af.AAA.0.0.Bj9IFU.AWVkxm54SbU"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100002754960540%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100006040214391%22%7D%2C%7B%22i%22%3A%22u.100004605972199%22%7D%5D%2C%22utc3%22%3A1676968396779%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100083678995166%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100006040214391%22%7D%2C%7B%22i%22%3A%22u.100004605972199%22%7D%2C%7B%22i%22%3A%22u.100003196524754%22%7D%2C%7B%22i%22%3A%22u.100002754960540%22%7D%5D%2C%22utc3%22%3A1677100421772%2C%22v%22%3A1%7D"
 		}
 	]
 }
