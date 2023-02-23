@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "23.02.2023 08:52 petr d34",
+	"lastEventDate": "23.02.2023 08:54 petr d34",
 	"status": 2,
 	"id": "100088704371340",
 	"name": "",
-	"amountFriends": "195",
+	"amountFriends": "202",
 	"screenname": "Lelde Karpova",
 	"birthdate": "2001 March 1",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708572118.181135,
+			"expirationDate": 1708677959.017796,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677641282,
+			"expirationDate": 1677747280,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -77,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677641282,
+			"expirationDate": 1708677959.017864,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1%3APnYowDUYj8zSmA%3A2%3A1674558592%3A-1%3A5550%3A%3AAcXI0DAYq-4ND5lt7111zEKKMz5-LEePEVyUNZJKJlM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677747280,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708572118.181197,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1%3APnYowDUYj8zSmA%3A2%3A1674558592%3A-1%3A5550%3A%3AAcV4N9steCJHR5IcWU3_-fWi1CMMSifR_LaiyE1fJcY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684812371.838462,
+			"expirationDate": 1684918373.02871,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qrLzgT3VnJVYJ6fr.AWVkI3OaM3Y0jFiEQ9vb_z55HHk.Bj9YpX.5P.AAA.0.0.Bj9YtU.AWW91IS_bpI"
+			"value": "0klcbmrLMUCaqE2Da.AWXH0_vef6io2ncNDabscYCumtU.Bj9yfH.5P.AAA.0.0.Bj9yll.AWVZdHpVnzo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100011070253946%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100079895487720%22%7D%5D%2C%22utc3%22%3A1677036478254%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677142476195%2C%22v%22%3A1%7D"
 		}
 	]
 }
