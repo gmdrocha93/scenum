@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "23.02.2023 19:03 petr d28",
+	"lastEventDate": "23.02.2023 19:05 petr d28",
 	"status": 2,
 	"id": "100089517457128",
 	"name": "",
-	"amountFriends": "108",
+	"amountFriends": "117",
 	"screenname": "Egija Zakis",
 	"birthdate": "1998 January 11",
 	"country": "Liepaja",
@@ -117,32 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677649445,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677661633,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "660x396"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -155,7 +129,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684832733.300135,
+			"expirationDate": 1677783927,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "662x398"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677783927,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684954990.794401,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YWVIdBOotlYnDKuq.AWV0QJxfZNcRgHsYoQNd0A_gKY8.Bjv9rF.0Z.AAA.0.0.Bj9dre.AWU-lBgfe-w"
+			"value": "0YWVIdBOotlYnDKuq.AWUMPklQ7ER-mVDhLqYn_Ushpg0.Bjv9rF.0Z.AAA.0.0.Bj97hv.AWVQk-AU3u4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677056829167%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677179104339%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
