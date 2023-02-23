@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "23.02.2023 22:31 petr d34",
+	"lastEventDate": "23.02.2023 22:32 petr d34",
 	"status": 2,
 	"id": "100087911633039",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "63",
 	"screenname": "Лика Рязанова",
 	"birthdate": "1997 November 28",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708596394.885007,
+			"expirationDate": 1708727259.214994,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,32 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100087911633039"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677107287,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677665675,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708596394.885054,
+			"expirationDate": 1708727259.215065,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3A3YqhpivZmBKS_g%3A2%3A1675157750%3A-1%3A-1%3A%3AAcVUZ3H8rJkLcosFGD5if_C4v9YjlX9tS6724kYv-L8"
+			"value": "7%3A3YqhpivZmBKS_g%3A2%3A1675157750%3A-1%3A-1%3A%3AAcWZpPp7oPH2-diCQpwj_pMc-EZl7rC4GKY3ABUPUYg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684836776.985397,
+			"expirationDate": 1677796062,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677796375,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684967474.974375,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AP6dmMDr3XoACjRU.AWWvfGZa6wS9r3bzo1UTLPypDh8.Bj9ekr.OQ.AAA.0.0.Bj9eqp.AWUKEAhR2cs"
+			"value": "0K2fBO45y30smCVPz.AWXxBdxsm_M1vbySDevUY4eabmQ.Bj9-hb.OQ.AAA.0.0.Bj9-kz.AWXU-OxV3ac"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677060872340%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677191571546%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
