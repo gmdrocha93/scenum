@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089240160078",
 	"custom": {},
-	"lastEventDate": "23.02.2023 02:14 petr d34",
+	"lastEventDate": "23.02.2023 02:17 petr d34",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Elga Zhegorova",
@@ -117,8 +117,20 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYWF3cTJzM3o2MCIsInRpbWUiOjE2NzY3Mzc0OTJ9"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbCGhb89d6xARMEFpyd2Pn6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABau-qa_DBYAABV-HEwAABYAFrT6pr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABa2-qa_DBYAABWAARxMAAAWABa2-qa_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCa2-qa_DBYAABUEFWomuPqmvwwWAAAVBBViJrb6pr8MFgAAFQQVbia8-qa_DBYAABUEFTomuvqmvwwWAAAVBBUMJrj6pr8MFgAAFQQVPCa6-qa_DBYAABUEFWAmvPqmvwwWAAAVBBVSJrr6pr8MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676992154%22%7D%2C%22d%22%3A%2200592223-66a8-4280-9431-b4389fddf6d4%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677596143,
+			"expirationDate": 1677723115,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,11 +139,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677596143,
+			"expirationDate": 1677723446,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -140,11 +152,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1302x706"
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684767205.718268,
+			"expirationDate": 1684894504.948024,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +165,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FZfbfIyNdvn9Miqt.AWXbpnOeU0SQLc7Edg8gkgZQYRA.BjqF4D.4J.AAA.0.0.Bj9Nrm.AWVAaiP7wT0"
+			"value": "0FZfbfIyNdvn9Miqt.AWVRP7WJ_CYtFjF1FJkhDKssI0A.BjqF4D.4J.AAA.0.0.Bj9swp.AWU7z2IyG38"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,19 +177,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676991319477%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbwGRaE9KbWBRMEFpyd2Pn6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABau7aa_DBYAABV-HEwAABYAFrTtpr8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABa27aa_DBYAABWAARxMAAAWABa27aa_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCa27aa_DBYAABUEFWomuO2mvwwWAAAVBBViJrbtpr8MFgAAFQQVbia87aa_DBYAABUEFTomuu2mvwwWAAAVBBUMJrjtpr8MFgAAFQQVPCa67aa_DBYAABUEFWAmvO2mvwwWAAAVBBVSJrztpr8MFgAAFhoRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221676991322%22%7D%2C%22d%22%3A%2200592223-66a8-4280-9431-b4389fddf6d4%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677118621268%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
