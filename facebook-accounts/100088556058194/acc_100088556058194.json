@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "23.02.2023 05:51 petr d34",
+	"lastEventDate": "23.02.2023 05:53 petr d34",
 	"status": 2,
 	"id": "100088556058194",
 	"name": "",
-	"amountFriends": "221",
+	"amountFriends": "228",
 	"screenname": "Inita Zvirbule",
 	"birthdate": "1999 December 14",
 	"country": "Daugavpils",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708561292.603441,
+			"expirationDate": 1708667240.450748,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,32 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088556058194"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677397989,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677630621,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708561292.6035,
+			"expirationDate": 1708667240.450793,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AmX3A5J3sKgo3Rg%3A2%3A1674555695%3A-1%3A3722%3A%3AAcUD-2nEeDczeqML1NKs7yUdKTYlbWehmSI3cpO5uqE"
+			"value": "42%3AmX3A5J3sKgo3Rg%3A2%3A1674555695%3A-1%3A3722%3A%3AAcUEJs_8XpChZcFuEhRjt5sRVLkw4HomY0NJZJqPo-U"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684801724.690302,
+			"expirationDate": 1677736397,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677736397,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684907484.026581,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08hrWHX8DSg7xUH9r.AWWt2HkLwXpA6jYuV9Ay4eKZwMU.Bj9WAN.SW.AAA.0.0.Bj9WG9.AWXYBPII0Fs"
+			"value": "0d6MGuY0QtkRjhf79.AWUxcA-j5pGNAoVxUcJqI-lSKe0.Bj9v3p.SW.AAA.0.0.Bj9v7c.AWUIEo-dSh8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088161482861%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677025817624%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677131592536%2C%22v%22%3A1%7D"
 		}
 	]
 }
