@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088870264721",
 	"custom": {},
-	"lastEventDate": "22.02.2023 06:22 petr d33",
+	"lastEventDate": "23.02.2023 06:44 vygruz cookie",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Beāte Drozdova",
 	"birthdate": "2004 April 9",
 	"country": "Latvia",
@@ -106,32 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677379846,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677650977,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -144,28 +118,16 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684822046.611064,
+			"expirationDate": 1677739462,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vMSjj7U2Dbmk9Hxb.AWXiMfbulnaTJr1vV0ycKfUP5Zk.BjmfZw.t_.AAA.0.0.Bj9bEf.AWUgQC-b628"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677046154355%2C%22v%22%3A1%7D"
+			"value": "1.25"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -177,7 +139,45 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABasIBaqvYSOChMEFqL-9pj4wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaUxq2_DBYAABV-HEwAABYAFprGrb8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABacxq2_DBYAABWAARxMAAAWABacxq2_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCacxq2_DBYAABUEFWomnMatvwwWAAAVBBViJpzGrb8MFgAAFQQVbiagxq2_DBYAABUEFTomnsatvwwWAAAVBBUMJpzGrb8MFgAAFQQVPCaexq2_DBYAABUEFWAmoMatvwwWAAAVBBVSJqDGrb8MFgAAFjQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677046157%22%7D%2C%22d%22%3A%222bb9c882-e149-47bb-b990-cc0ffa398b76%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaCIRagwYDXCBMEFqL-9pj4wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaE0a2_DBYAABV-HEwAABYAForRrb8MFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABaM0a2_DBYAABWAARxMAAAWABaM0a2_DBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmcFQQVdCaM0a2_DBYAABUEFWomjNGtvwwWAAAVBBViJorRrb8MFgAAFQQVbiaQ0a2_DBYAABUEFTomjtGtvwwWAAAVBBUMJozRrb8MFgAAFQQVPCaQ0a2_DBYAABUEFWAmkNGtvwwWAAAVBBVSJpDRrb8MFgAAFjQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677046853%22%7D%2C%22d%22%3A%222bb9c882-e149-47bb-b990-cc0ffa398b76%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677739462,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684910559.063175,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0vMSjj7U2Dbmk9Hxb.AWUdzN_zwGUZoCoOINRH6J0_28s.BjmfZw.t_.AAA.0.0.Bj9wrf.AWW7IDRrZWI"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677134658222%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
