@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 02:09 petr d35",
+	"lastEventDate": "24.02.2023 02:11 petr d35",
 	"status": 2,
 	"id": "100088861613244",
 	"name": "",
-	"amountFriends": "124",
+	"amountFriends": "131",
 	"screenname": "Ginta Chickpeas",
 	"birthdate": "2001 January 1",
 	"country": "Jurmala",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYW51bTFsN2ZpdXQiLCJ0aW1lIjoxNjc2NzU0MjM4fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677703065,
+			"expirationDate": 1677703981,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -125,11 +113,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677703065,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTF6ZWsxMHpuNyIsInRpbWUiOjE2NzcwOTkxNDZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677809465,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x542"
+			"value": "1302x705"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684874169.4032,
+			"expirationDate": 1684980569.463191,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YRxhyLTRrH05wiFj.AWUMH9P-mcFK0u2EwrLIObL6e8s.Bjsvr9.Gk.AAA.0.0.Bj9ny5.AWVA2u9Y7bE"
+			"value": "0YRxhyLTRrH05wiFj.AWWzA436kD3t2eTZKaBJ59ItlLU.Bjsvr9.Gk.AAA.0.0.Bj-Bxa.AWXOLEEeQgc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100088862469925%22%7D%5D%2C%22utc3%22%3A1677098261714%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677204662733%2C%22v%22%3A1%7D"
 		}
 	]
 }
