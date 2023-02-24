@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 17:26 petr d35",
+	"lastEventDate": "24.02.2023 17:29 petr d35",
 	"status": 2,
 	"id": "100088891074600",
 	"name": "",
-	"amountFriends": "130",
+	"amountFriends": "137",
 	"screenname": "Keita Anderson",
 	"birthdate": "1998 January 1",
 	"country": "",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXhpMzFuY29jNmQiLCJ0aW1lIjoxNjc2NzIwMDkxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677699613,
+			"expirationDate": 1677864576,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677699613,
+			"expirationDate": 1677864576,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684870692.166003,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaHplZTY5YTdybCIsInRpbWUiOjE2NzcwOTU3OTh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685035616.35755,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04pcKcEBK3fqw3mCP.AWUJe8jx92ZRhNBvdQa5YFT367E.Bjtoft.Um.AAA.0.0.Bj9m8k.AWVeR9Hl7So"
+			"value": "04pcKcEBK3fqw3mCP.AWX1ETas4N3vImvwIP84gWFw8Ww.Bjtoft.Um.AAA.0.0.Bj-PNh.AWXoTrY3J1g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677094790961%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677259731759%2C%22v%22%3A1%7D"
 		}
 	]
 }
