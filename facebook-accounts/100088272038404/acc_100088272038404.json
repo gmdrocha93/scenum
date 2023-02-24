@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 14:59 petr d35",
+	"lastEventDate": "24.02.2023 15:00 petr d35",
 	"status": 2,
 	"id": "100088272038404",
 	"name": "",
-	"amountFriends": "82",
+	"amountFriends": "88",
 	"screenname": "Маша Полякова",
 	"birthdate": "1997 November 28",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708724446.278178,
+			"expirationDate": 1708786509.894224,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,31 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088272038404"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677793363,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1299x885"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXAzYmtvMnR0YSIsInRpbWUiOjE2NzY3MDkxOTF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +90,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684964399.374109,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "0FBDfhjQqi21rWyqV.AWUnrE-iPPzhhGAuOZHoQtdwTdY.Bj8bP7.vI.AAA.0.0.Bj990w.AWUBWEocsm4"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxanpybWxkeXNqciIsInRpbWUiOjE2NzcxODk1ODZ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708724446.278223,
+			"expirationDate": 1708786509.89429,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -137,7 +111,46 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3A_dFTPfFG8H4n0A%3A2%3A1673772427%3A-1%3A8332%3A%3AAcU01D9b9B8IDsJFVBzlmynI8NEaIgdPNDVSMtYueU8"
+			"value": "27%3A_dFTPfFG8H4n0A%3A2%3A1673772427%3A-1%3A8332%3A%3AAcUsGr6uOZ_rnNH7ZeklCHRJQf5tMmw2bLtAHv_tQIY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677855650,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677855650,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685026748.918869,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0FBDfhjQqi21rWyqV.AWWdN13H38tkEOhJbcEDvI5l15Y.Bj8bP7.vI.AAA.0.0.Bj-NC9.AWWbuGqNswQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100084301525772%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100053998231719%22%7D%5D%2C%22utc3%22%3A1677188560208%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677250847360%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
