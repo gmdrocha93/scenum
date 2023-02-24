@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 03:30 petr d35",
+	"lastEventDate": "24.02.2023 03:32 petr d35",
 	"status": 2,
 	"id": "100088957909489",
 	"name": "",
-	"amountFriends": "93",
+	"amountFriends": "101",
 	"screenname": "Jūlija Orlova",
 	"birthdate": "1998 January 2",
 	"country": "Latvia",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYXRvdjFucmo3azMiLCJ0aW1lIjoxNjc2NzYxODA3fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677708236,
+			"expirationDate": 1677709601,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677708589,
+			"expirationDate": 1677814338,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684879693.762417,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTY4bWhjajRzOSIsInRpbWUiOjE2NzcxMDQ2NjJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684985438.863028,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03csAwSQNUvqmsgtp.AWWpvPgaI0fnQQfBXGvKL2F-0R4.Bjszq9.rE.AAA.0.0.Bj9pJO.AWWJCH8VEWo"
+			"value": "03csAwSQNUvqmsgtp.AWVJ4LapWnGg7Z1AyNDuNYUjDis.Bjszq9.rE.AAA.0.0.Bj-C9f.AWUI63NxcYo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677103785796%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677209534902%2C%22v%22%3A1%7D"
 		}
 	]
 }
