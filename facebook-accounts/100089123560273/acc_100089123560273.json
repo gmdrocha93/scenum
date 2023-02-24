@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 03:53 petr d35",
+	"lastEventDate": "24.02.2023 03:54 petr d35",
 	"status": 2,
 	"id": "100089123560273",
 	"name": "",
-	"amountFriends": "112",
+	"amountFriends": "120",
 	"screenname": "Dace Petrovska",
 	"birthdate": "1998 November 28",
 	"country": "Latvia",
@@ -107,19 +107,6 @@
 			"expirationDate": 1707478086,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwcmxhMTFlcDJuaHAiLCJ0aW1lIjoxNjc1ODY0NDQxfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707478086,
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "cppo",
 			"path": "/",
 			"sameSite": "unspecified",
@@ -130,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677709591,
+			"expirationDate": 1677711000,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -143,7 +130,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677710019,
+			"expirationDate": 1677815693,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -156,7 +143,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684881114.325855,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTdianlndmpyMyIsInRpbWUiOjE2NzcxMDYwNjN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684986790.146897,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -165,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iD6vo2rSQiM0ti8q.AWUspBBW_jCOPtr_QnhjwrxP9sc.Bjr8XA.KB.AAA.0.0.Bj9pfb.AWWe1m0vhek"
+			"value": "0iD6vo2rSQiM0ti8q.AWXH-ABbvOwrd2MYWRGWgIkoFtU.Bjr8XA.KB.AAA.0.0.Bj-DSn.AWX8AUyJkmA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -177,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089069470755%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100004283055266%22%7D%5D%2C%22utc3%22%3A1677105215553%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677210889294%2C%22v%22%3A1%7D"
 		}
 	]
 }
