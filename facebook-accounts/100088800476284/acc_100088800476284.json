@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 12:12 petr d29",
+	"lastEventDate": "24.02.2023 12:14 petr d29",
 	"status": 2,
 	"id": "100088800476284",
 	"name": "",
-	"amountFriends": "131",
+	"amountFriends": "133",
 	"screenname": "Zara Nastina",
 	"birthdate": "1996 June 16",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708079458.595454,
+			"expirationDate": 1708775849.96793,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677149006,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNjY0YjFpYThrb3EiLCJ0aW1lIjoxNjc2NTQ0NjM1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708775849.967998,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3ArQ2zrEszOCVXPA%3A2%3A1672670656%3A-1%3A12835%3A%3AAcWT2R2PHpjE1iMUDQmsjFrbcfUw1m1yD_7Fg9V7pX4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677845655,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677149006,
+			"expirationDate": 1677845655,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,32 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxMnlsdGZnaXQxOCIsInRpbWUiOjE2NzYzOTQ5Mjl9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708079458.595523,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "50%3ArQ2zrEszOCVXPA%3A2%3A1672670656%3A-1%3A12835%3A%3AAcWBcqDK5jepU0YKNPqYYAJNj4guC1IviFzvynDFHRY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684320068.971029,
+			"expirationDate": 1685016746.673264,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0olmYgATsnO0VMXQG.AWVVLwg0PYorbrqN8s-Y7otsgNA.Bj7gXj.AZ.AAA.0.0.Bj7ghF.AWVOS75xMOg"
+			"value": "0LFgFBXDjAVkFtyD8.AWX4Fjffv5xx7y7NjTMvRGhkfmg.Bj-KYq.AZ.AAA.0.0.Bj-Kmp.AWWGkdtYG1Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100067691840145%22%7D%2C%7B%22i%22%3A%22u.100007947765116%22%7D%2C%7B%22i%22%3A%22u.100085238922542%22%7D%2C%7B%22i%22%3A%22u.100013189295101%22%7D%5D%2C%22utc3%22%3A1676544194542%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677240850269%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
