@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 11:21 petr d32",
+	"lastEventDate": "24.02.2023 11:23 petr d32",
 	"status": 2,
 	"id": "100089009196508",
 	"name": "",
-	"amountFriends": "79",
+	"amountFriends": "89",
 	"screenname": "Katya Klyeva",
 	"birthdate": "1993 June 15",
 	"country": "Kazakhstan",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708091161.561609,
+			"expirationDate": 1708773488.330163,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677160561,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNmV2bXR2MGNzeiIsInRpbWUiOjE2NzY1NTYyMjN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708773488.33023,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "49%3A5eLGeO0yP-M8bQ%3A2%3A1672809049%3A-1%3A10336%3A%3AAcUuLLtUPe7pPBQrOTKqsg6VMiZmPCn8_8fiYsrkJnQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677842632,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,19 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNDR2Nmk1dHk5biIsInRpbWUiOjE2NzY0NDk2OTh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677160561,
+			"expirationDate": 1677842632,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,20 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708091161.561668,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "49%3A5eLGeO0yP-M8bQ%3A2%3A1672809049%3A-1%3A10336%3A%3AAcXUr2MWqxZQ7_PlH7DtG9MmlbNflUD1so7jwFkXA9M"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684331608.510065,
+			"expirationDate": 1685013726.245426,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vqsGSUXtCl651dc0.AWWHTSplk9EjSYnfbstdhuUIG4s.Bj7jOZ.i7.AAA.0.0.Bj7jVZ.AWVNO-3XZ1A"
+			"value": "0y1NRB4pWv9voMpv2.AWXuvXNp0_cyL7UcA7vLaO_L_L8.Bj-Jzw.i7.AAA.0.0.Bj-J3f.AWXHHDWB6wQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676555736259%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677237826644%2C%22v%22%3A1%7D"
 		}
 	]
 }
