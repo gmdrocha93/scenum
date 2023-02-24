@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 06:44 petr d35",
+	"lastEventDate": "24.02.2023 06:47 petr d35",
 	"status": 2,
 	"id": "100088899431076",
 	"name": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708651555.930838,
+			"expirationDate": 1708756909.738775,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677380327,
+			"expirationDate": 1677826022,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -61,24 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677720710,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708651555.930902,
+			"expirationDate": 1708756909.738819,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AEZS3WhROIZie5w%3A2%3A1674549831%3A-1%3A-1%3A%3AAcV7S_an5AwIs9JWOsfo82P2-oNlagEye59to3a2jnA"
+			"value": "17%3AEZS3WhROIZie5w%3A2%3A1674549831%3A-1%3A-1%3A%3AAcX6vK1nENQmMVQDMQ7W_B3X-s7xvbt2gYprBXUq5mg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684891754.652221,
+			"expirationDate": 1684997087.814986,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KOjGsEMgQIvN1T2H.AWWqDNF5zYw4phZfYRq3h20wA98.Bj9sCk.zM.AAA.0.0.Bj9sFr.AWU4-XfuUiU"
+			"value": "0ZxYW8rEsP6G3fbmu.AWWy3oGr8blfHHkaFHVs4XOd3Kk.Bj-Fwu.zM.AAA.0.0.Bj-Fzg.AWUAcXrs8ng"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +99,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677115867269%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677221197870%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677826022,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
 		}
 	]
 }
