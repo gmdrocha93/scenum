@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 13:53 petr d35",
+	"lastEventDate": "24.02.2023 13:54 petr d35",
 	"status": 2,
 	"id": "100088347296449",
 	"name": "",
-	"amountFriends": "105",
+	"amountFriends": "111",
 	"screenname": "Gunta Bull",
 	"birthdate": "1999 August 20",
 	"country": "Liepaja",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708687527.208947,
+			"expirationDate": 1708782493.401123,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,46 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707509065,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwYmd6ZjF2dHc0MG8iLCJ0aW1lIjoxNjc1MTEyNTE0fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxajdjaXhuaWkydCIsInRpbWUiOjE2NzcxNTI3NTR9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677756329,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677756800,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708687527.209013,
+			"expirationDate": 1708782493.401182,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3AoF32OQ57QxJMLA%3A2%3A1674560818%3A-1%3A8370%3A%3AAcVfsqjM_xPaPLsxf8mclK5YDauYBIuAXDqawvCQw9U"
+			"value": "5%3AoF32OQ57QxJMLA%3A2%3A1674560818%3A-1%3A8370%3A%3AAcVzF8dmU87xSOgmQwogx4SXpyCXFAtbKX_Mkr7gw-k"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684927892.380454,
+			"expirationDate": 1677851692,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677851692,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685022796.506732,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0grOZcITaLOld1CgE.AWV5sRR82-waydY-uzx6Ej6aGYE.Bj900o.ds.AAA.0.0.Bj906V.AWWwDLyDrQM"
+			"value": "0OK3k4zwzE2ZtKtx0.AWWhLDz89snO7ESunEoiP2kWPrk.Bj-MAe.ds.AAA.0.0.Bj-MFN.AWXqwZ4PCZw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100044915770264%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100058450367701%22%7D%2C%7B%22i%22%3A%22u.100041825065530%22%7D%5D%2C%22utc3%22%3A1677151997114%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100044915770264%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100058450367701%22%7D%2C%7B%22i%22%3A%22u.100041825065530%22%7D%5D%2C%22utc3%22%3A1677246889287%2C%22v%22%3A1%7D"
 		}
 	]
 }
