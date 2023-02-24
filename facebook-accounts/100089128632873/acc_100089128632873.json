@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 02:24 petr d35",
+	"lastEventDate": "24.02.2023 02:26 petr d35",
 	"status": 2,
 	"id": "100089128632873",
 	"name": "",
-	"amountFriends": "139",
+	"amountFriends": "145",
 	"screenname": "Austra Solovzhovs",
 	"birthdate": "2000 January 1",
 	"country": "Latvia",
@@ -104,44 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYW9zdHo5MzAxMCIsInRpbWUiOjE2NzY3NTU0Njl9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684874719.012717,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Ttkm5VEKIRz3l8xK.AWXNfA9UpfNlh0WBv__jBOE0LgY.BjtCoj.PB.AAA.0.0.Bj9n7f.AWV_X8-Kumg"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087954750340%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100034141793003%22%7D%5D%2C%22utc3%22%3A1677098810618%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677703613,
+			"expirationDate": 1677810364,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -164,6 +127,43 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTJja3J0cjI1NSIsInRpbWUiOjE2NzcwOTk2MjB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684981470.168091,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Ttkm5VEKIRz3l8xK.AWXalNinq_yhVe73vbM-qtv4R2I.BjtCoj.PB.AAA.0.0.Bj-B_f.AWU0kGWjuOM"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677205559555%2C%22v%22%3A1%7D"
 		}
 	]
 }
