@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 17:40 petr d35",
+	"lastEventDate": "24.02.2023 17:42 petr d35",
 	"status": 2,
 	"id": "100089260899390",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "63",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -100,32 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxOXk5YnJrMzUxbSIsInRpbWUiOjE2NzY3MjExNzJ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677700970,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677700970,
+			"expirationDate": 1677865363,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -138,7 +113,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684871962.044608,
+			"expirationDate": 1677865363,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTBreXFhZmQ0ZyIsInRpbWUiOjE2NzcwOTczMzB9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685036465.061952,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -147,7 +147,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DXQbFEFZTM6YU56L.AWWfVsaxNnco113mqELJRQec-Ig.Bjttpa.r9.AAA.0.0.Bj9nQa.AWX4iquzdCM"
+			"value": "0DXQbFEFZTM6YU56L.AWVeWK3X2y8GPftnyZ_-Zqe2We8.Bjttpa.r9.AAA.0.0.Bj-Pax.AWUS8Xkkxfw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -159,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100084159915232%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100009125161945%22%7D%5D%2C%22utc3%22%3A1677096134972%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677260559667%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Andžela Matvezheva",
