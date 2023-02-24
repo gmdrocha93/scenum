@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 04:30 petr d35",
+	"lastEventDate": "24.02.2023 04:32 petr d35",
 	"status": 2,
 	"id": "100088943538094",
 	"name": "",
-	"amountFriends": "100",
+	"amountFriends": "107",
 	"screenname": "Dana Brox",
 	"birthdate": "2001 December 8",
 	"country": "Liepaja",
@@ -117,19 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYXdteDFudmtmcXAiLCJ0aW1lIjoxNjc2NzY1NzI0fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677711714,
+			"expirationDate": 1677713067,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -142,7 +130,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677712053,
+			"expirationDate": 1677817943,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -155,7 +143,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684883157.609662,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTh3eTFnbDJpaDMiLCJ0aW1lIjoxNjc3MTA4MTMwfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684989047.418596,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ahwao8AMptLSrkq0.AWXCBR7Rg-eqG65mwO8DQfB9oPE.Bjr8yx.yK.AAA.0.0.Bj9p_W.AWXF7bTs8zA"
+			"value": "0Ahwao8AMptLSrkq0.AWVFGwzH4L4_P36_IetxdYMTIok.Bjr8yx.yK.AAA.0.0.Bj-D14.AWWtxjZqR0k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100025886406677%22%7D%2C%7B%22i%22%3A%22u.1840526093%22%7D%2C%7B%22i%22%3A%22u.100039553030560%22%7D%5D%2C%22utc3%22%3A1677107250056%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677213140199%2C%22v%22%3A1%7D"
 		}
 	]
 }
