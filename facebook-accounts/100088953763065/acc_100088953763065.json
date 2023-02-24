@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.02.2023 08:03 petr d32",
+	"lastEventDate": "24.02.2023 08:06 petr d32",
 	"status": 2,
 	"id": "100088953763065",
 	"name": "",
-	"amountFriends": "109",
+	"amountFriends": "112",
 	"screenname": "Olya Asina",
 	"birthdate": "1996 March 20",
 	"country": "Kazakhstan",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708071002.892538,
+			"expirationDate": 1708761658.201408,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677140384,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNXpnbmhnd2NqOSIsInRpbWUiOjE2NzY1MzYwMDd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708761658.201469,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "6%3AOMELfjsfBgdD5g%3A2%3A1672060734%3A-1%3A5613%3A%3AAcV1qy0IcALE8UiqgWlStyGZy5tLoGJtgvGw_8NlTj0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677830758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -65,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677140384,
+			"expirationDate": 1677830758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,32 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNDAxajEyM3pqZjAiLCJ0aW1lIjoxNjc2NDQzNDQ3fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708071002.8926,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "6%3AOMELfjsfBgdD5g%3A2%3A1672060734%3A-1%3A5613%3A%3AAcUt9UuI93dIgepNRxnEvU24JyZoD0B_2InM1S1cZNU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684311441.078834,
+			"expirationDate": 1685001840.125758,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ag0Lv6wA1ZsiiTO2.AWX1pLqF9FmrrvuwLwFBHJl3ECk.Bj7eTb.RA.AAA.0.0.Bj7eaR.AWXUb6E5CXA"
+			"value": "0oI5n5ipR1karS27w.AWVnzOtgM-M7b4UELLKThDnQVBE.Bj-G67.RA.AAA.0.0.Bj-G9w.AWVTi80KpKk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089103621182%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100042359885498%22%7D%5D%2C%22utc3%22%3A1676535576059%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677225952194%2C%22v%22%3A1%7D"
 		}
 	]
 }
