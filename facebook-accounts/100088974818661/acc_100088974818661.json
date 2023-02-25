@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 18:50 petr d36",
+	"lastEventDate": "25.02.2023 18:51 petr d36",
 	"status": 2,
 	"id": "100088974818661",
 	"name": "",
-	"amountFriends": "64",
+	"amountFriends": "73",
 	"screenname": "Helēna Freimane",
 	"birthdate": "1997 August 22",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708754508.431682,
+			"expirationDate": 1708886803.731405,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,33 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677609455,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxa21vaDR6Y2hpNiIsInRpbWUiOjE2NzcyMTk3MDV9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677823615,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708754508.431736,
+			"expirationDate": 1708886803.731448,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3A-ovMRlpMog47NA%3A2%3A1674550623%3A-1%3A10610%3A%3AAcXoxbAbpHhtpx2cS8LDFbLgKGFWZR2TtL-wsWf4RVo"
+			"value": "19%3A-ovMRlpMog47NA%3A2%3A1674550623%3A-1%3A10610%3A%3AAcV2D_4QhYpv3oF51gAqtuLsU6QnfR_qd0ytEYfHMRU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684994719.933894,
+			"expirationDate": 1677955903,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677955903,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x763"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685127006.426652,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05dqenatpxkxrASPs.AWVvtViefVl_zPXTRsyXWKzifi4.Bj-FLN.dT.AAA.0.0.Bj-FOg.AWVhAK0GpeM"
+			"value": "0rJUHSiS75r1sB4lA.AWWdC346-Ms-rlubZ2hPR3V8wpg.Bj-leU.dT.AAA.0.0.Bj-lhf.AWUjFrPLW-I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100076414770740%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677218812521%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677351100356%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
