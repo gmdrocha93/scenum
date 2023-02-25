@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 23:37 petr d35",
+	"lastEventDate": "25.02.2023 23:39 petr d35",
 	"status": 2,
 	"id": "100088527529539",
 	"name": "",
-	"amountFriends": "77",
+	"amountFriends": "86",
 	"screenname": "Dina Zhefimova",
 	"birthdate": "2000 May 6",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708775505.579571,
+			"expirationDate": 1708904095.111463,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677844683,
+			"expirationDate": 1708904095.111528,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "42%3ADxEdZuEeaVwqig%3A2%3A1674557657%3A-1%3A16292%3A%3AAcUgiG80MqGmjNd1Pq-B0Bc41FdIEqPnwn37FgyWOG0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677972897,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -61,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677844683,
+			"expirationDate": 1677973146,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -86,24 +99,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaXhhazFld2tjdHYiLCJ0aW1lIjoxNjc3MTM5NzI0fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxbnRsNDFnbTEzYTYiLCJ0aW1lIjoxNjc3MzY4MjAwfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708775505.579641,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "42%3ADxEdZuEeaVwqig%3A2%3A1674557657%3A-1%3A16292%3A%3AAcWhECUdl1Oa5Nt5LoeiAmk-KFK76qeTfdJCp09jS3s"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685015744.43553,
+			"expirationDate": 1685144245.081701,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "01xASnFG9Y19KWpZU.AWX7O2EXPQJRUDvgUaxqkJhNS80.Bj-KTS.Uk.AAA.0.0.Bj-KXB.AWWVqIXqUks"
+			"value": "07ZhE78Dn7RmI1hgu.AWVhvo9AZI1rs4w07sC6LsfU-DE.Bj-psf.Uk.AAA.0.0.Bj-pu1.AWVtVWD8e48"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677239860258%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677368342793%2C%22v%22%3A1%7D"
 		}
 	]
 }
