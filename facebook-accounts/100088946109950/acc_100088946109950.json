@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088946109950",
 	"custom": {},
-	"lastEventDate": "25.02.2023 19:30 petr d36",
+	"lastEventDate": "25.02.2023 19:32 petr d36",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Ingrīda Lazdina",
@@ -106,19 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677893393,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -131,7 +118,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677893393,
+			"expirationDate": 1677958252,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677958347,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -140,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x542"
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685064461.516212,
+			"expirationDate": 1685129454.611546,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0q22GoR7nkFYTPYWL.AWWITaDMeMdQAP2TT8aBPbI-jO4.BjpDG_.Z9.AAA.0.0.Bj-WQO.AWVXl0AbbdI"
+			"value": "0q22GoR7nkFYTPYWL.AWXy3oj5L0_vW3ISdVZdtOm9uDI.BjpDG_.Z9.AAA.0.0.Bj-mHv.AWXDh-h5uGw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677288570262%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677353543967%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
