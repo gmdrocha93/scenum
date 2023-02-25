@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 12:31 petr d30",
+	"lastEventDate": "25.02.2023 12:33 petr d30",
 	"status": 2,
 	"id": "100088550155270",
 	"name": "",
-	"amountFriends": "83",
+	"amountFriends": "90",
 	"screenname": "Tanya Murina",
 	"birthdate": "2000 December 22",
 	"country": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708106336.678076,
+			"expirationDate": 1708863925.420721,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708106336.678197,
+			"expirationDate": 1677933207,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708863925.420806,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3AGimUAdAg_W_iwg%3A2%3A1671701949%3A-1%3A12176%3A%3AAcUlelta5TWBT4ZWBirV-6bxoe_BdUbYwFPw-ZbPWFw"
+			"value": "36%3AGimUAdAg_W_iwg%3A2%3A1671701949%3A-1%3A12176%3A%3AAcU0sjrJgz22zVEFio8f93IEoqLfYElSxHAUk5ba1-A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684347244.553112,
+			"expirationDate": 1685104280.575091,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tMiWCHlHBkeZ9brs.AWWONeOQMZX01FcQis5XIbfkixw.Bj7m7h.CV.AAA.0.0.Bj7nJt.AWVEQzIIDgI"
+			"value": "051PVLawY6JOErMjd.AWXQcO6v7SXbUesrIfjm2Bq6TMk.Bj-f42.CV.AAA.0.0.Bj-f-Z.AWWD1qughFQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,33 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676571382444%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677176210,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1299x762"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677176210,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100065618022839%22%7D%5D%2C%22utc3%22%3A1677328381229%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
