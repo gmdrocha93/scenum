@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 18:55 petr d36",
+	"lastEventDate": "25.02.2023 18:57 petr d36",
 	"status": 2,
 	"id": "100088970409076",
 	"name": "",
-	"amountFriends": "164",
+	"amountFriends": "171",
 	"screenname": "Madara Gross",
 	"birthdate": "1998 May 19",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708755130.333006,
+			"expirationDate": 1708887275.353551,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708755130.333052,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxa241YzF2ZHdyc2YiLCJ0aW1lIjoxNjc3MjIwMjg2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708887275.353615,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,24 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AwOjR42CisNSdRA%3A2%3A1674550385%3A-1%3A9605%3A%3AAcU292Upav4xUTLgRNq-j97yHLLb80-O17WTAtPi4Oo"
+			"value": "2%3AwOjR42CisNSdRA%3A2%3A1674550385%3A-1%3A9605%3A%3AAcXhOkfWGWEVvGaWKjje7q0dCu4mAVWxKzJ__tCtvsM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684995214.6816,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0rsfQZU8v4mO3ZsX0.AWWHEk8f1X7F1oQrg7zWrmjMPms.Bj-FU7.7P.AAA.0.0.Bj-FWP.AWU5WdsyYhE"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677824109,
+			"expirationDate": 1677956255,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +99,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x685"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685127358.975184,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0b7tU0LN9AAuUeXb7.AWXc7JbPInBy2Cly9fG_tn9LMEQ.Bj-lls.7P.AAA.0.0.Bj-lm_.AWWHR0JS9jw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677219305925%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100050965004397%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677351452232%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
