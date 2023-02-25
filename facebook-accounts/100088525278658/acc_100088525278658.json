@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 08:50 petr d35",
+	"lastEventDate": "25.02.2023 08:52 petr d35",
 	"status": 2,
 	"id": "100088525278658",
 	"name": "",
-	"amountFriends": "243",
+	"amountFriends": "246",
 	"screenname": "Aivita Reuben",
 	"birthdate": "2002 September 5",
 	"country": "Latvia",
@@ -78,19 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1756269164,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYjJsbDFtZDBhdmUiLCJ0aW1lIjoxNjc2NzczMzc5fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1707449516,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -117,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677748650,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxajE4ZzFhdzc4cSIsInRpbWUiOjE2NzcxNDQ4MzJ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677919661,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -126,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677748650,
+			"expirationDate": 1677919931,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x676"
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684919749.806028,
+			"expirationDate": 1685091035.35812,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0hH7EQAgvCQHwPkM5.AWVJEiS4w-0-pS7Wlb5XcLmppyw.BjmihQ.5H.AAA.0.0.Bj9y7G.AWUh9Bz7EtU"
+			"value": "0hH7EQAgvCQHwPkM5.AWXSlubeuzPM-IYuf4a4iJt5gYI.BjmihQ.5H.AAA.0.0.Bj-cvc.AWXHE_NXjQk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.1531702888%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100084100233439%22%7D%2C%7B%22i%22%3A%22u.100059507665168%22%7D%2C%7B%22i%22%3A%22u.100040960902084%22%7D%5D%2C%22utc3%22%3A1677143846488%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089296540711%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677315126242%2C%22v%22%3A1%7D"
 		}
 	]
 }
