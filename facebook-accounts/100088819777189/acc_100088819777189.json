@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 09:18 petr d35",
+	"lastEventDate": "25.02.2023 09:20 petr d35",
 	"status": 2,
 	"id": "100088819777189",
 	"name": "",
-	"amountFriends": "182",
+	"amountFriends": "189",
 	"screenname": "Diāna Solovzhova",
 	"birthdate": "2004 November 11",
 	"country": "Liepaja",
@@ -78,19 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1756269164,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYjNrY2VuM296MiIsInRpbWUiOjE2NzY3NzQ2MzF9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1707449659,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -130,7 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677753439,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxajUwdGZleHR6eCIsInRpbWUiOjE2NzcxNDk3NDF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677921633,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684924546.285057,
+			"expirationDate": 1685092732.492981,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GOLQNuHs20AWSgjs.AWXKpJXfGwuWxSX6XvGWMi831Pc.Bjmd1w.tP.AAA.0.0.Bj90GD.AWX2x_YRqH8"
+			"value": "0GOLQNuHs20AWSgjs.AWXHHLFToJWMPsXIYtLkrY6N5ec.Bjmd1w.tP.AAA.0.0.Bj-dJ9.AWXzKJb9eZ4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100010888145721%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100054738107869%22%7D%2C%7B%22i%22%3A%22u.100064609924722%22%7D%2C%7B%22i%22%3A%22u.100077756563926%22%7D%5D%2C%22utc3%22%3A1677148637056%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677316827647%2C%22v%22%3A1%7D"
 		}
 	]
 }
