@@ -1,42 +1,16 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 08:08 petr d35",
+	"lastEventDate": "25.02.2023 08:10 petr d35",
 	"status": 2,
 	"id": "100088641793824",
 	"name": "",
-	"amountFriends": "132",
+	"amountFriends": "139",
 	"screenname": "Dagmāra Litis",
 	"birthdate": "1996 August 5",
 	"country": "Jurmala",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707448686,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677745984,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1707448686,
@@ -65,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1756269164,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxYjB3MmJrM3d3NyIsInRpbWUiOjE2NzY3NzExNjZ9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1707448686,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -88,6 +49,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "VD6aYzQBz9VEL3cMduUK2FXF"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707448686,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_pixel_ratio",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
@@ -130,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677745984,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaXpjNzFidjYwdTEiLCJ0aW1lIjoxNjc3MTQyMzc1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677917431,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -143,7 +129,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684917042.11833,
+			"expirationDate": 1677917431,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685088519.447229,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -152,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0U5rfkLZv2bP6uOQm.AWXzrVhJ2zZnEkgERDhXy_9MLEU.Bjmj7Z.7w.AAA.0.0.Bj9yQy.AWVxMcSI-2A"
+			"value": "0U5rfkLZv2bP6uOQm.AWUqEH_RKqb2tisWhVuFu2s5HNU.Bjmj7Z.7w.AAA.0.0.Bj-cII.AWXdWExukWQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677141192210%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677312608638%2C%22v%22%3A1%7D"
 		}
 	]
 }
