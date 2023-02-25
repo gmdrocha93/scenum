@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 13:23 petr d35",
+	"lastEventDate": "25.02.2023 13:25 petr d35",
 	"status": 2,
 	"id": "100089218256234",
 	"name": "",
@@ -99,18 +99,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZmczdDNqeW44MyIsInRpbWUiOjE2NzY5Nzc0ODF9"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1677656672,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -124,7 +112,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677798296,
+			"expirationDate": 1677936324,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +125,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684969401.18991,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxazNsaHZlZzM5IiwidGltZSI6MTY3NzE5NDU0OX0%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685107427.085942,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -146,7 +146,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zeRku2wdVuAEi8jq.AWUCDxXMZXvnPjvD5GPAexXmdcU.BjybTq.Ch.AAA.0.0.Bj9_C6.AWX6_264zFI"
+			"value": "0zeRku2wdVuAEi8jq.AWUPOHAIH8fQbiHQilME9cYh5i0.BjybTq.Ch.AAA.0.0.Bj-gvj.AWUuhzNlCs4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -158,7 +158,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100001394752089%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100050061310945%22%7D%2C%7B%22i%22%3A%22u.100031135570075%22%7D%5D%2C%22utc3%22%3A1677193493793%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677331520245%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -170,10 +170,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaeIhbcmNCBCxMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaixL-_DBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWbIMMaGik8-SZYjJw6AVA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmcFQQVdCauxL-_DBYAABUAFWo2AAAVBBViJqzEv78MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677193494%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbkJRbq06f-DhMEFtS15uT6wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb2sNC_DBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAoCx0L8MJAAgFoCx0L8MAAP0AvSz1Ss%22%2C%2216%22%3A%22FQIVCBmcFQQVdCaEsdC_DBYAABUAFWo2AAAVBBViJoKx0L8MFgAAFQAVbjYAABUAFTo2AAAVABUMNgAAFQAVPDYAABUAFWA2AAAVABVSNgAAFhoA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677331520%22%7D%2C%22d%22%3A%228b63e5fd-3220-4281-a2f1-03e45a5c5cac%22%2C%22s%22%3A%220%22%7D"
 		}
 	],
-	"amountFriends": "55",
+	"amountFriends": "63",
 	"screenname": "Eleonora Rubins",
 	"birthdate": "2002 January 1",
 	"country": "Daugavpils",
