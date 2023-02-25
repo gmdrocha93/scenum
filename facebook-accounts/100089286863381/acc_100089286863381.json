@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 09:32 petr d29",
+	"lastEventDate": "25.02.2023 09:35 petr d29",
 	"status": 2,
 	"id": "100089286863381",
 	"name": "",
@@ -100,19 +100,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677743427,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -121,11 +108,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZ3hueWczNDlxbyIsInRpbWUiOjE2NzcwNDY4OTR9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaXducjR1aWFoayIsInRpbWUiOjE2NzcxMzg5MDN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677743427,
+			"expirationDate": 1677922379,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677922515,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -134,11 +134,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1042x688"
+			"value": "1040x687"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684914483.859537,
+			"expirationDate": 1685093583.070453,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -147,7 +147,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0quvh3QEsgDp5pMGa.AWU0axeSwF6OKSr_nTgwvN4nwFI.BjyjY7.QB.AAA.0.0.Bj9xo0.AWX-4wKl2LE"
+			"value": "0quvh3QEsgDp5pMGa.AWWiYqNOHm10PZfaua2fZ1VNq7Y.BjyjY7.QB.AAA.0.0.Bj-dXP.AWWY9K-c7ZM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -159,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677138603691%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677317692156%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Andžela Pavlova",
