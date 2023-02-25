@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.02.2023 19:36 petr d36",
+	"lastEventDate": "25.02.2023 19:37 petr d36",
 	"status": 2,
 	"id": "100088870630260",
 	"name": "",
-	"amountFriends": "91",
+	"amountFriends": "97",
 	"screenname": "Klaudija Denisova",
 	"birthdate": "1999 December 5",
 	"country": "Liepaja",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708758511.398373,
+			"expirationDate": 1708889586.231531,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,33 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677827701,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "dpr",
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxa3ByMDFodzJoa3IiLCJ0aW1lIjoxNjc3MjIzNjI2fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677827701,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708758511.398448,
+			"expirationDate": 1708889586.231576,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +73,37 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "4%3Ae53eCWpXWDaB1A%3A2%3A1674548352%3A-1%3A10594%3A%3AAcWS4vcggUjETTP8n5HEAUApR3-jiwXQ1Tyo3jtHS6I"
+			"value": "4%3Ae53eCWpXWDaB1A%3A2%3A1674548352%3A-1%3A10594%3A%3AAcUiUkWQoKW8VZ5Y4urukObp1_A8vFUKEAybxoq1qoU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684998806.199189,
+			"expirationDate": 1677958387,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677958660,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685129768.078144,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03pYXvw2Ys7qf7PNo.AWVlX7paTF6TxcT4TC7zfmTz4JA.Bj-GJw.6P.AAA.0.0.Bj-GOX.AWVahhRuwao"
+			"value": "0K8Mf63hA0fmigUBC.AWVv3YgeoV9jKhESHGxoO25AGT8.Bj-mJy.6P.AAA.0.0.Bj-mMo.AWWzeBEPnvQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100024638596387%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100089796552647%22%7D%2C%7B%22i%22%3A%22u.100010971936336%22%7D%2C%7B%22i%22%3A%22u.100089381927452%22%7D%2C%7B%22i%22%3A%22u.100089548693795%22%7D%2C%7B%22i%22%3A%22u.100059447859550%22%7D%2C%7B%22i%22%3A%22u.100016277405593%22%7D%5D%2C%22utc3%22%3A1677222899644%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677353856860%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
