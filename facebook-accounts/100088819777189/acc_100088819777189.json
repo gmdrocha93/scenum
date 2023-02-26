@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.02.2023 11:48 petr d36",
+	"lastEventDate": "26.02.2023 11:50 petr d36",
 	"status": 2,
 	"id": "100088819777189",
 	"name": "",
-	"amountFriends": "189",
+	"amountFriends": "197",
 	"screenname": "Diāna Solovzhova",
 	"birthdate": "2004 November 11",
 	"country": "Liepaja",
@@ -104,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677752945,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,7 +116,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677921633,
+			"expirationDate": 1678017017,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678017017,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685092732.492981,
+			"expirationDate": 1685188120.198593,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GOLQNuHs20AWSgjs.AWXHHLFToJWMPsXIYtLkrY6N5ec.Bjmd1w.tP.AAA.0.0.Bj-dJ9.AWXzKJb9eZ4"
+			"value": "0GOLQNuHs20AWSgjs.AWWlL2nA-GyxkB-BaccDopQN7Gw.Bjmd1w.tP.AAA.0.0.Bj-0cZ.AWUP3EkaLI4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677316827647%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087665132873%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100010888145721%22%7D%5D%2C%22utc3%22%3A1677412213761%2C%22v%22%3A1%7D"
 		}
 	]
 }
