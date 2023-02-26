@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.02.2023 19:59 petr d34",
+	"lastEventDate": "26.02.2023 20:01 petr d34",
 	"status": 2,
 	"id": "100088959908423",
 	"name": "",
-	"amountFriends": "104",
+	"amountFriends": "113",
 	"screenname": "Katya Narina",
 	"birthdate": "1994 February 23",
-	"country": "Balyana",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708890730.161511,
+			"expirationDate": 1708976812.94858,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708890730.161558,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "48%3AZn0xrvYbeEMsng%3A2%3A1671635534%3A-1%3A7862%3A%3AAcVf-NGkfUjP3eOvimqddaVYwCuM_OM1JG-lQU0VODA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677959533,
+			"expirationDate": 1677961139,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -90,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677960150,
+			"expirationDate": 1678046512,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +90,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685131238.967913,
+			"expirationDate": 1708976812.948623,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "48%3AZn0xrvYbeEMsng%3A2%3A1671635534%3A-1%3A7862%3A%3AAcVAga1P5_uOBz7i_SUy3vEagGnmpO-1o4TCgH62tY0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685217575.998226,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ag0bhcjO1ygIpAsS.AWWx8H5n7Uz8MSAg0stN7qozd4s.Bj-mbr.9n.AAA.0.0.Bj-mjn.AWXU7OklxHQ"
+			"value": "0LN8HiST2LOlCbMwq.AWVEjsQarUjPOAMfajUrJpU6uh4.Bj-7co.9n.AAA.0.0.Bj-7oo.AWW4fBot-F8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100067795692479%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677355345484%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677441684249%2C%22v%22%3A1%7D"
 		}
 	]
 }
