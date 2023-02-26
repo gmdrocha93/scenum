@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.02.2023 02:05 petr d29",
+	"lastEventDate": "26.02.2023 02:06 petr d29",
 	"status": 2,
 	"id": "100089423444622",
 	"name": "",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxZ3Rwd3l6cXZ2MyIsInRpbWUiOjE2NzcwNDE3ODB9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxam1pZjZmcHFpaCIsInRpbWUiOjE2NzcxNzI0MDd9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677776916,
+			"expirationDate": 1677981604,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -125,11 +125,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947980.04147,
+			"expirationDate": 1677982015,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1520x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685153114.098608,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00H8c5rEo03MS4I8z.AWVKpn2qWUo8T2wkM8VVbxHP1Qg.BjxUUD.bl.AAA.0.0.Bj950M.AWXn9igcDkA"
+			"value": "00H8c5rEo03MS4I8z.AWX8cnjGBspgxzyDYufLyYRu-NM.BjxUUD.bl.AAA.0.0.Bj-r5b.AWUvSGvaREs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,20 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677172092502%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677776919,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1631x926"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677377213226%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
