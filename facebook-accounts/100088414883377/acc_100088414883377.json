@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.02.2023 10:18 petr d35",
+	"lastEventDate": "26.02.2023 10:22 crgr",
 	"status": 2,
 	"id": "100088414883377",
 	"name": "",
-	"amountFriends": "259",
+	"amountFriends": "267",
 	"screenname": "Edīte Miller",
 	"birthdate": "2002 March 30",
 	"country": "Latvia",
@@ -29,6 +29,19 @@
 			"expirationDate": 1707449703,
 			"hostOnly": false,
 			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088414883377"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449703,
+			"hostOnly": false,
+			"httpOnly": false,
 			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
@@ -36,6 +49,32 @@
 			"session": false,
 			"storeId": "0",
 			"value": "45%3A04hRgjP0YcSoEQ%3A2%3A1671032371%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449703,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "4u2ZY3ThCuTFSDtPiEuKWbsU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449703,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088414883377"
 		},
 		{
 			"domain": ".facebook.com",
@@ -78,45 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707449703,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088414883377"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707449703,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "4u2ZY3ThCuTFSDtPiEuKWbsU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707449703,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088414883377"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,20 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677916113,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677915985,
+			"expirationDate": 1678011749,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -151,11 +138,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685087191.234564,
+			"expirationDate": 1678011749,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x676"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685182852.106674,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Tdv0eb6o3gZs5ytn.AWWVpppKMj6r0A_LYZ_WbGTx3c0.Bjme7X.lV.AAA.0.0.Bj-bzY.AWU96NxYAsI"
+			"value": "0Tdv0eb6o3gZs5ytn.AWUhiqnKrdsh-BRzL4VkqzbHdfI.Bjme7X.lV.AAA.0.0.Bj-zKF.AWWleHp8S6s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677311308884%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22g.5841782762555747%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100027111855881%22%7D%2C%7B%22i%22%3A%22u.100081280702574%22%7D%5D%2C%22utc3%22%3A1677406945812%2C%22v%22%3A1%7D"
 		}
 	]
 }
