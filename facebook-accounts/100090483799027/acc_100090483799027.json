@@ -7,7 +7,7 @@
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Genovefa Lukina",
-	"birthdate": "1997 February 25",
+	"birthdate": "",
 	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678131987,
+			"expirationDate": 1685303196.726249,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0y5jCUsjzzcOCkX31.AWW2hEe4IiFx-C5Bsyuq8yQQl-A.Bj_Qgd.U8.AAA.0.0.Bj_Qid.AWVofxGRikY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678132112,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685303073.608154,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0y5jCUsjzzcOCkX31.AWWpFnzoXRq0BRuN69zyCQvF4k4.Bj_Qgd.U8.AAA.0.0.Bj_Qgd.AWWnZZzV_kE"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677527143867%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677527289162%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.02.2023 19:46 registration LV2"
+	"lastEventDate": "27.02.2023 19:48 registration LV2"
 }
