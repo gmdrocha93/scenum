@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.02.2023 15:25 petr d30",
+	"lastEventDate": "27.02.2023 15:27 petr d30",
 	"status": 2,
 	"id": "100089323880216",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Rasa Tirulis",
 	"birthdate": "2001 January 4",
 	"country": "Latvia",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677757991,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxbmU3ZzFpNTh3b3QiLCJ0aW1lIjoxNjc3MzQ4MjY4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678116336,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677952416,
+			"expirationDate": 1678116474,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,19 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxajhlczFraTNoZzUiLCJ0aW1lIjoxNjc3MTU0MTMyfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685123480.333226,
+			"expirationDate": 1685287537.776824,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UqBidV3BKnZ7OWpY.AWUDMb4RW6Sx_QJd95Cp7HnJUNE.Bjx-HQ.Za.AAA.0.0.Bj-kqZ.AWVJA5TcLxg"
+			"value": "0UqBidV3BKnZ7OWpY.AWW91TOr9WbI8hBDriOxA2o8I0A.Bjx-HQ.Za.AAA.0.0.Bj_Mty.AWVImSDBO_4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677347592724%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677511651518%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
