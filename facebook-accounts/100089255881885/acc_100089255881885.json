@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089255881885",
 	"custom": {},
-	"lastEventDate": "28.02.2023 11:51 petr d37",
+	"lastEventDate": "28.02.2023 11:53 petr d37",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Agnese Zimelis",
@@ -106,32 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677588613,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677944605,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "828x524"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -144,7 +118,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685115666.552887,
+			"expirationDate": 1678190024,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678190024,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "830x526"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685361087.511202,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mBCqUPoNlqWTMY8t.AWWzvA_7UMd77X0N8eV430Z6UWA.BjrD2y.ec.AAA.0.0.Bj-iwT.AWVYz9dH6E8"
+			"value": "0mBCqUPoNlqWTMY8t.AWU1xVddhNuthuDZw2DZhhE4wZw.BjrD2y.ec.AAA.0.0.Bj_erA.AWUML2vbCIo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677339781525%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677585201021%2C%22v%22%3A1%7D"
 		}
 	]
 }
