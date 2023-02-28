@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 23:55 petr d31",
+	"lastEventDate": "28.02.2023 23:57 petr d31",
 	"status": 2,
 	"id": "100089309300840",
 	"name": "",
-	"amountFriends": "116",
+	"amountFriends": "124",
 	"screenname": "Amanda Smilga",
 	"birthdate": "2000 January 7",
 	"country": "Latvia",
@@ -104,6 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1677686028,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,24 +125,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxajlqeDE2MzhmcnQiLCJ0aW1lIjoxNjc3MTU1NjEzfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3M1bzFlYXFwMzIiLCJ0aW1lIjoxNjc3NTk5NjI4fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678117851,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1299x885"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677957012,
+			"expirationDate": 1678233322,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -142,7 +142,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685288958.382564,
+			"expirationDate": 1678233421,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685404524.309192,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0utmTVTbLpAaZuZR9.AWWqInmH9PpH20gb2U_oLivfTKc.Bjx_sR.fr.AAA.0.0.Bj_ND_.AWXVIurGLg0"
+			"value": "0utmTVTbLpAaZuZR9.AWVAnSTVsLQIUZeHmSQIPKsPafA.Bjx_sR.fr.AAA.0.0.Bj_pRt.AWV3aL0ugQA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677513047429%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677628619765%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
