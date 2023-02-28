@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ērika Muiznyt",
 	"birthdate": "2001 January 10",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,20 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685290928.132618,
+			"expirationDate": 1678184990,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Zxaz95wkzzLA7oN6.AWXJP3PsK4jSEj9NCYK9cDz9-9A.Bj_Ng3.zK.AAA.0.0.Bj_Niw.AWW7FqScC_g"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678119872,
+			"expirationDate": 1678185151,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,7 +124,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x932"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685356195.304836,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Zxaz95wkzzLA7oN6.AWXyUMR-G23luMGcnSRnMivMQ-c.Bj_Ng3.zK.AAA.0.0.Bj_dek.AWVYPn5K-7M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677515030082%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677580327959%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.02.2023 10:29 2.0 petr d1",
+	"lastEventDate": "28.02.2023 10:32 2.0 petr d1",
 	"code2fa": "AMIFLZ7LQZNFGFLANTFCWJ36C7L24TYA",
 	"recoveryCodes": [
 		"15275590",
