@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 19:54 petr d35",
+	"lastEventDate": "28.02.2023 19:57 petr d35",
 	"status": 2,
 	"id": "100088920251246",
 	"name": "",
-	"amountFriends": "88",
+	"amountFriends": "98",
 	"screenname": "Katya Loginova",
 	"birthdate": "1995 April 10",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708980502.525609,
+			"expirationDate": 1709149906.802602,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,18 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088920251246"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNmoybjFmcjhuOHQiLCJ0aW1lIjoxNjc2NTYxNTc5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678049995,
+			"expirationDate": 1678219025,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +91,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708980502.525669,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxcGhzeDE1eXlkemUiLCJ0aW1lIjoxNjc3NDQ2MjQxfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709149906.802685,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "46%3ALtRdUxLxZX0TYw%3A2%3A1671776387%3A-1%3A10599%3A%3AAcWw2pCWoFCueWAZ0HN8sUI-zyP-Hcei8IDPs12BnZ0"
+			"value": "46%3ALtRdUxLxZX0TYw%3A2%3A1671776387%3A-1%3A10599%3A%3AAcVoh15LCNikekYY7CGF4do68QxKQbjYv26GqhQhDNc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685221073.029881,
+			"expirationDate": 1685390075.732027,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LfcNDlAlNlpRVTdf.AWUDzShnss3Yq73VpqT03ukPYQI.Bj-8WX.4T.AAA.0.0.Bj-8fR.AWV_srQMNLQ"
+			"value": "0Ifs0pY3wXthn5hlo.AWWyUot4x6YyE6-jY0VbCueV7o4.Bj_ltT.4T.AAA.0.0.Bj_lv8.AWXZ-4YaMxc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100052377076555%22%7D%5D%2C%22utc3%22%3A1677445171810%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677614197811%2C%22v%22%3A1%7D"
 		}
 	]
 }
