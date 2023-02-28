@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 06:55 petr d37",
+	"lastEventDate": "28.02.2023 06:56 petr d37",
 	"status": 2,
 	"id": "100087124922925",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "88",
 	"screenname": "Joanne Scott",
 	"birthdate": "1996 September 4",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708988715.33817,
+			"expirationDate": 1709102703.408927,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677965279,
+			"expirationDate": 1709102703.408974,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1%3A7tVErhxRqVMIrQ%3A2%3A1673448970%3A-1%3A10638%3A%3AAcVCaASslBs0LjG5fd_bgR_5baNuR6vJ0oV01dNQl6g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685343321.726428,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0nZnRPGA5WEllJAFJ.AWXPPVf3FVQO0rfTBZpMkrV1Kjw.Bj_aLw.b-.AAA.0.0.Bj_aVa.AWWPLjK3t8Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678172215,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "528x295"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678172207,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -90,45 +129,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678057848,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "660x396"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708988715.338227,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1%3A7tVErhxRqVMIrQ%3A2%3A1673448970%3A-1%3A10638%3A%3AAcWDMnQypyuGampmw9tNQ0ljf9WglL2VsnzklDuWWhQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685228955.073166,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ginKLbkx2h2TvpMG.AWVHDGEQKxJYeREOxPB696cg36Y.Bj--Ws.b-.AAA.0.0.Bj--ab.AWUukpCaz44"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677453045194%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677567411520%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
