@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 15:20 petr d32",
+	"lastEventDate": "28.02.2023 15:22 petr d32",
 	"status": 2,
 	"id": "100088907380772",
 	"name": "",
-	"amountFriends": "97",
+	"amountFriends": "105",
 	"screenname": "Tanya Mirina",
 	"birthdate": "1993 July 17",
 	"country": "Kazakhstan",
@@ -13,7 +13,20 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707413969,
+			"expirationDate": 1712157599.651109,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100088907380772%22%3A%22QS1SiZ65%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1712157584.441179,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -39,7 +52,58 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708960754.842874,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxcDF5eTFsa2RveTEiLCJ0aW1lIjoxNjc3NDI1ODc4fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678202538,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678202538,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678202310.481187,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "en_US"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709133579.441302,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,32 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678030173,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxbXN3cHZzcmp4ZiIsInRpbWUiOjE2NzczMjA2NjV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708960754.84293,
+			"expirationDate": 1709133579.441354,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3AVJtYkpDWhSIprg%3A2%3A1671698786%3A-1%3A1806%3A%3AAcVjAYuwOF60MYydTINcn97vcf9BrZ7k1orzjhntHgY"
+			"value": "12%3A-HzlDI8Jw9MOHA%3A2%3A1677597580%3A-1%3A1806"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685201269.570608,
+			"expirationDate": 1685373623.846349,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZMEC4Uwn0g4tKDaK.AWXvavQmU9DJ68RVdDisBf8pF8o.Bj-3hz.q-.AAA.0.0.Bj-3p2.AWXqhIjCtFo"
+			"value": "070nnkwI5pFBhwiIF.AWV5oVT9doYDuqiMye6YPIsb4BA.Bj_hsO.q-.AAA.0.0.Bj_hu4.AWWRAooO_l0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100008269564769%22%7D%5D%2C%22utc3%22%3A1677425370640%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677597730002%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
