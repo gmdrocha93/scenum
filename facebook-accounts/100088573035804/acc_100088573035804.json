@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 15:55 petr d37",
+	"lastEventDate": "28.02.2023 15:57 petr d37",
 	"status": 2,
 	"id": "100088573035804",
 	"name": "",
-	"amountFriends": "249",
+	"amountFriends": "258",
 	"screenname": "Diāna Sudden",
 	"birthdate": "2002 March 16",
 	"country": "Liepaja",
@@ -29,20 +29,20 @@
 			"expirationDate": 1707449615,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "m_pixel_ratio",
+			"name": "xs",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "2%3A39WqCX_rWn0oCw%3A2%3A1671025977%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1707449615,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "m_page_voice",
+			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
@@ -68,13 +68,26 @@
 			"expirationDate": 1707449615,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "c_user",
+			"name": "m_page_voice",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
 			"value": "100088573035804"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449615,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_pixel_ratio",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
@@ -91,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707449615,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2%3A39WqCX_rWn0oCw%3A2%3A1671025977%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678022504,
+			"expirationDate": 1678204639,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678022504,
+			"expirationDate": 1678203900,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x676"
+			"value": "1536x720"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685193603.52588,
+			"expirationDate": 1685375728.444352,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0P0rqPAarpcRORIoi.AWUVDgJQ9dF2XC0NOxJVyhUvXM4.BjmdXY.nK.AAA.0.0.Bj-1yE.AWU9QaJQPhw"
+			"value": "0P0rqPAarpcRORIoi.AWXTv-4LCeMiHHbUczxkE0ZYMh0.BjmdXY.nK.AAA.0.0.Bj_iPx.AWXiANlK758"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100024036890077%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011462114199%22%7D%5D%2C%22utc3%22%3A1677417707899%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100071464540245%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011462114199%22%7D%2C%7B%22i%22%3A%22u.100007490131546%22%7D%2C%7B%22i%22%3A%22u.100070271464204%22%7D%2C%7B%22i%22%3A%22u.100024036890077%22%7D%5D%2C%22utc3%22%3A1677599837105%2C%22v%22%3A1%7D"
 		}
 	]
 }
