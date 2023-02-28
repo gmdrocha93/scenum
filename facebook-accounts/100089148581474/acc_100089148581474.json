@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.02.2023 00:18 petr d37",
+	"lastEventDate": "28.02.2023 15:50 vygruz cookie",
 	"status": 2,
 	"id": "100089148581474",
 	"name": "",
-	"amountFriends": "215",
+	"amountFriends": "222",
 	"screenname": "Ance Kovalenko",
 	"birthdate": "1998 January 2",
 	"country": "Daugavpils",
@@ -104,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677708699,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678061104,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685232206.909815,
+			"expirationDate": 1678204211,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678204211,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685375305.536429,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03m5zpbA3lRolGXAl.AWW4M7ajHSzfHG09Fap8CKs1Uuk.BjszNq.-d.AAA.0.0.Bj-_NP.AWVwD-2rLEI"
+			"value": "03m5zpbA3lRolGXAl.AWUPe8LG_Zj-J7-3RcD3EypZ2EQ.BjszNq.-d.AAA.0.0.Bj_iJK.AWUAmz0ykkI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100073729501651%22%7D%5D%2C%22utc3%22%3A1677456300955%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100073729501651%22%7D%5D%2C%22utc3%22%3A1677599414891%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
