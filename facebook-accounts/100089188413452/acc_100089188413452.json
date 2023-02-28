@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.02.2023 14:04 petr d35",
+	"lastEventDate": "28.02.2023 14:06 petr d35",
 	"status": 2,
 	"id": "100089188413452",
 	"name": "",
-	"amountFriends": "66",
+	"amountFriends": "76",
 	"screenname": "Lera Tarova",
 	"birthdate": "1994 May 16",
 	"country": "Kazakhstan",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708953427.04791,
+			"expirationDate": 1709128930.417602,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,18 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100089188413452"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxNjFrN210bzZsZiIsInRpbWUiOjE2NzY1Mzg3Mjd9"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -89,20 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708953427.047958,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "4%3Ad9TuX-YOoB2R4Q%3A2%3A1672061061%3A-1%3A-1%3A%3AAcUG4jaOxHcIAcK5aQN6Cr7_Qk-Ql8mI_dDJvfRgbs4"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678022934,
+			"expirationDate": 1678024052,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -111,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678022934,
+			"expirationDate": 1678198019,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +99,36 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1040x687"
+			"value": "1302x887"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685194029.440391,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxb3d1cDFwNXRnZXYiLCJ0aW1lIjoxNjc3NDE5MDg5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709128930.417673,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "4%3Ad9TuX-YOoB2R4Q%3A2%3A1672061061%3A-1%3A-1%3A%3AAcXw-wjRsFxcACKnpvhZw8OC_UpmgsisFtRUVBla7JE"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685369072.743734,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0x7ogV53N2kPk8R6x.AWVjIewG6eoIbDs2Us7TJWKjq1s.Bj-1vT.C0.AAA.0.0.Bj-14u.AWUdErrMh-k"
+			"value": "0tRMM7BPwHVwjcSje.AWVx06ulpuukijgIhaOR8wOnp3A.Bj_glj.C0.AAA.0.0.Bj_gnu.AWV-84Z6Rec"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677418128416%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677593216032%2C%22v%22%3A1%7D"
 		}
 	]
 }
