@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 04:05 petr d31",
+	"lastEventDate": "01.03.2023 04:06 petr d31",
 	"status": 2,
 	"id": "100089534166910",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "65",
 	"screenname": "Margita Vanaga",
 	"birthdate": "2000 January 12",
-	"country": "",
+	"country": "Latvia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -104,6 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1677686833,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,11 +125,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxanJocnlmODM5cSIsInRpbWUiOjE2NzcxNzg4NjN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3NzMW1idXh4byIsInRpbWUiOjE2Nzc2MDA0MzN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677992205,
+			"expirationDate": 1678248129,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678130931,
+			"expirationDate": 1678248402,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685302019.890166,
+			"expirationDate": 1685419507.80539,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SGLnTlpW4N2v722P.AWWn_eNnHbUZUC6svuuyyq4D0G8.Bjv-Ig.-X.AAA.0.0.Bj_QQE.AWU6Xb1ZwT0"
+			"value": "0SGLnTlpW4N2v722P.AWVj66irn_DvaMpGrdI-RDljzcM.Bjv-Ig.-X.AAA.0.0.Bj_s70.AWX4F9eexsg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677526109721%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677643598633%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
