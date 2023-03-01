@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100089187399871",
 	"custom": {},
-	"lastEventDate": "01.03.2023 21:11 petr d38",
+	"lastEventDate": "01.03.2023 21:13 petr d38",
 	"name": "",
-	"amountFriends": "131",
+	"amountFriends": "139",
 	"screenname": "Katarīna Lasmane",
 	"birthdate": "2000 January 1",
 	"country": "Daugavpils",
@@ -106,19 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677706710,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -131,7 +118,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678173131,
+			"expirationDate": 1678310002,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678310002,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -140,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "828x524"
+			"value": "830x526"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685344230.23434,
+			"expirationDate": 1685481102.094107,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VkJPaI6YFS9JsSNr.AWUD9ISsXXmLqRwoM3PxQWwUGpQ.BjsvfJ.FE.AAA.0.0.Bj_ajn.AWXLKNOw0B8"
+			"value": "0VkJPaI6YFS9JsSNr.AWUnzvLM0pWjH1uaGppY-6xgc4U.BjsvfJ.FE.AAA.0.0.Bj_7-P.AWVwN0GN32w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100088332117467%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100087128487610%22%7D%5D%2C%22utc3%22%3A1677568329124%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677705197846%2C%22v%22%3A1%7D"
 		}
 	]
 }
