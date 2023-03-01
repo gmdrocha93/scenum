@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 03:11 petr d31",
+	"lastEventDate": "01.03.2023 03:13 petr d31",
 	"status": 2,
 	"id": "100089764891909",
 	"name": "",
@@ -104,6 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1677686672,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,11 +125,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxam15dnRicm1raCIsInRpbWUiOjE2NzcxNzMxNTl9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3Nua25tNm9xOCIsInRpbWUiOjE2Nzc2MDAyNzJ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677984819,
+			"expirationDate": 1678244630,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678127758,
+			"expirationDate": 1678245200,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685298840.649068,
+			"expirationDate": 1685416304.083205,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZjF0TCLnawauYQVn.AWX2YWfOWVY5WDAK-74O-GqNuow.BjxUwU.Pe.AAA.0.0.Bj_PeZ.AWU06yWG2wY"
+			"value": "0ZjF0TCLnawauYQVn.AWVgoHHPl1oYc52d5zkMGt0hqyQ.BjxUwU.Pe.AAA.0.0.Bj_sJw.AWUMCsUDSRc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100086903509256%22%7D%5D%2C%22utc3%22%3A1677522934234%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677640396880%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
