@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 04:01 petr d31",
+	"lastEventDate": "01.03.2023 04:03 petr d31",
 	"status": 2,
 	"id": "100089655091730",
 	"name": "",
-	"amountFriends": "120",
+	"amountFriends": "128",
 	"screenname": "Elvīra Kalina",
 	"birthdate": "2000 January 8",
 	"country": "Liepaja",
@@ -104,6 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1677686808,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -112,24 +125,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxanIzejF2M21zbnUiLCJ0aW1lIjoxNjc3MTc4MzY3fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3NyYzEzc2tyNmEiLCJ0aW1lIjoxNjc3NjAwNDA4fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677990478,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678130656,
+			"expirationDate": 1678248209,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +142,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685301610.716511,
+			"expirationDate": 1678247881,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685419310.47283,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07pZAiJ0k8U0jgEV8.AWXUPqEvO5sOLwNfvW45MCBJDOw.Bjv-k3.gS.AAA.0.0.Bj_QJr.AWWvz8tZKVs"
+			"value": "07pZAiJ0k8U0jgEV8.AWWdRagE2hO46xYwFhmmfbxatow.Bjv-k3.gS.AAA.0.0.Bj_s4v.AWWnK_oQYTo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677525852566%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677643406125%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
