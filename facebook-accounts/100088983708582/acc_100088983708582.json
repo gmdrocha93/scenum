@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088983708582",
 	"custom": {},
-	"lastEventDate": "01.03.2023 22:29 petr d38",
+	"lastEventDate": "01.03.2023 22:31 petr d38",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Evelīna Straume",
@@ -106,32 +106,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677709620,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678177537,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -144,7 +118,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685348600.713855,
+			"expirationDate": 1678314693,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678314693,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685485797.080439,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09BesblSyhScaEOYt.AWVAq1LeczCRNKl3InBtKOXJ-Ao.Bjswiy.HO.AAA.0.0.Bj_bn5.AWXjjBs76UI"
+			"value": "09BesblSyhScaEOYt.AWWWX5S41kUAt8E1HKuGcobeY1E.Bjswiy.HO.AAA.0.0.Bj_9Hl.AWWUGAeGtKk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677572714253%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677709890888%2C%22v%22%3A1%7D"
 		}
 	]
 }
