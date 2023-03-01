@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 04:08 petr d31",
+	"lastEventDate": "01.03.2023 04:10 petr d31",
 	"status": 2,
 	"id": "100089517457128",
 	"name": "",
-	"amountFriends": "131",
+	"amountFriends": "139",
 	"screenname": "Egija Zakis",
 	"birthdate": "1998 January 11",
 	"country": "Liepaja",
@@ -117,6 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1677686855,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -125,24 +138,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxanJ2ejh0c3Z5biIsInRpbWUiOjE2NzcxNzkzNzV9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3NzbjFsdGRuaG0iLCJ0aW1lIjoxNjc3NjAwNDU1fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677992043,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678131283,
+			"expirationDate": 1678248637,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -155,7 +155,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685302392.750746,
+			"expirationDate": 1678248158,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685419743.404023,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +177,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YWVIdBOotlYnDKuq.AWUkga2ENw0s2KxkS7IOKiY5xJQ.Bjv9rF.0Z.AAA.0.0.Bj_QV5.AWVXVXjlmiY"
+			"value": "0YWVIdBOotlYnDKuq.AWW02sOt26w8v_4KK3E9EsV0y3w.Bjv9rF.0Z.AAA.0.0.Bj_s_g.AWWW7uLchUk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +189,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089942753154%22%7D%5D%2C%22utc3%22%3A1677526480532%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677643834822%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
