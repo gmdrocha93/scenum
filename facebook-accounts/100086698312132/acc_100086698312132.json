@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 11:21 petr d38",
+	"lastEventDate": "01.03.2023 11:22 petr d38",
 	"status": 2,
 	"id": "100086698312132",
 	"name": "",
-	"amountFriends": "186",
+	"amountFriends": "200",
 	"screenname": "Tammy Lewis",
 	"birthdate": "1998 April 27",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709078723.774141,
+			"expirationDate": 1709205508.347849,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,32 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100086698312132"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708978832,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678147952,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "828x524"
 		},
 		{
 			"domain": ".facebook.com",
@@ -91,7 +65,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709078723.7742,
+			"expirationDate": 1678274568,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678274568,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "830x526"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709205508.347923,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3AWaCJci5h3OVNJQ%3A2%3A1673684034%3A-1%3A2768%3A%3AAcUt0SepMZjQuHDJYhhnGp-9_NNMO0WNvwOiQHvdrqM"
+			"value": "10%3AWaCJci5h3OVNJQ%3A2%3A1673684034%3A-1%3A2768%3A%3AAcWUHxUlT5mu3slvAeyUG3I5FGH0r8m8B_FvyCZAsqE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685319036.906844,
+			"expirationDate": 1685445670.137863,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lZmeSUaCGLxXd27X.AWVJ7Ytb4rHzHNeAT6aNghFVUwE.Bj_UVE.vW.AAA.0.0.Bj_UZ9.AWUvqA65Xz0"
+			"value": "06xXXm2fXxv7QhjT0.AWX1lKf1LsbLUb1SpZMdbeUNp_Q.Bj_zSF.vW.AAA.0.0.Bj_zUn.AWUktFzQlMs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100086225905331%22%7D%5D%2C%22utc3%22%3A1677543149124%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100013517020454%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677669764634%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
