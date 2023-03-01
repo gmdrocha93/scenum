@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 00:48 petr d31",
+	"lastEventDate": "01.03.2023 00:50 petr d31",
 	"status": 2,
 	"id": "100089236764310",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "3",
 	"screenname": "Aija Lypins",
 	"birthdate": "2001 January 14",
 	"country": "Daugavpils",
@@ -104,25 +104,12 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678120879,
+			"expirationDate": 1677686269,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1299x885"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677692340,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -138,11 +125,37 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxamN3dWcybm5kZyIsInRpbWUiOjE2NzcxNTk5NjZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxc3NjZDJ3MDNreiIsInRpbWUiOjE2Nzc1OTk4Njl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685291921.965609,
+			"expirationDate": 1678236371,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678236642,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685407703.177846,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JNUNR41018xsT0Lj.AWUZmF0pdusjY5Z_LRNCMXm7TAw.BjyCTB.7B.AAA.0.0.Bj_NyS.AWVHG_ATR9Y"
+			"value": "0JNUNR41018xsT0Lj.AWX3c68GeLJZbFViBalqAcauuT4.BjyCTB.7B.AAA.0.0.Bj_qDY.AWWNaUO1Y5s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677516034106%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677631818873%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
