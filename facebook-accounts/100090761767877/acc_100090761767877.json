@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678176714,
+			"expirationDate": 1678352631,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678352142,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x720"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685347689.765989,
+			"expirationDate": 1685523678.769629,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0J8uJIc9SufTlBTS8.AWWb5c-QkAYZDC6XDAp63sUfemg.Bj_Q_Y.7j.AAA.0.0.Bj_bZq.AWUInf-E8FE"
+			"value": "0J8uJIc9SufTlBTS8.AWX6_RNYaxn1y-j4WPj8I-mdWR4.Bj_Q_Y.7j.AAA.0.0.BkAGXf.AWVZX1vRVIA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677571890692%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677747809265%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.03.2023 09:01 2.0 petr d2",
+	"lastEventDate": "02.03.2023 09:03 2.0 petr d2",
 	"email": "roycepair1909@magenmail.com",
 	"emailPassword": "wkvbbimx8336",
 	"imapHost": "imap.firstmail.ltd",
