@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.03.2023 20:55 petr d31",
+	"lastEventDate": "02.03.2023 20:57 petr d31",
 	"status": 2,
 	"id": "100089489985537",
 	"name": "",
@@ -104,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677658914,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678249326,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685420406.949204,
+			"expirationDate": 1678395464,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678395464,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685566533.079906,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09mZq2cfSAqaU1Zwo.AWVIkKWMu7vemE_IoqDMfLOWcn8.BjyXql.CC.AAA.0.0.Bj_tJ3.AWUvFGO6H94"
+			"value": "09mZq2cfSAqaU1Zwo.AWUE63bDHSJEGXQ4C-aohXX6agw.BjyXql.CC.AAA.0.0.BkAQ1F.AWWxnxvy75Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100084751587583%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100077518839962%22%7D%2C%7B%22i%22%3A%22u.1118557328%22%7D%5D%2C%22utc3%22%3A1677644503486%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089056508165%22%7D%5D%2C%22utc3%22%3A1677790642024%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
