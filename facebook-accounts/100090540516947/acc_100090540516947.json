@@ -102,32 +102,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677696397,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678043777,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -140,7 +114,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685214817.362378,
+			"expirationDate": 1678372184,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678372184,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685543226.152696,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UHLxnZxipuxW01cz.AWUfM_fhQk_f05HOI0iJ0fxBuT0.Bj8QWX.yG.AAA.0.0.Bj-69i.AWUF4c5vIFI"
+			"value": "0UHLxnZxipuxW01cz.AWXQEvkTLJArIVEbalQX3LZzpyc.Bj8QWX.yG.AAA.0.0.BkALI7.AWW4GgpDEaI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,10 +161,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677438953491%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677767360962%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.03.2023 14:27 2.0 petr d7",
+	"lastEventDate": "02.03.2023 14:29 2.0 petr d7",
 	"email": "annemadrid2003@magenmail.com",
 	"emailPassword": "jzrsjozn3185",
 	"imapHost": "imap.firstmail.ltd",
