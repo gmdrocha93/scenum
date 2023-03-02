@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088558915086",
 	"custom": {},
-	"lastEventDate": "02.03.2023 09:33 petr d38",
+	"lastEventDate": "02.03.2023 09:35 petr d38",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "70",
 	"screenname": "Kristīna Feldmann",
 	"birthdate": "2001 November 22",
 	"country": "Jurmala",
@@ -118,7 +118,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678217445,
+			"expirationDate": 1678354525,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678354525,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1216x541"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685388550.269865,
+			"expirationDate": 1685525627.369764,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -140,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0k1urfgrL0xH3msat.AWWl9xR0-XRtYWXEAcUBbHlzvMA.BjpFhp.zV.AAA.0.0.Bj_lYH.AWXvHnCIR1U"
+			"value": "0k1urfgrL0xH3msat.AWU6sH7Mo-yvrYJ5LpIkhdUCSA4.BjpFhp.zV.AAA.0.0.BkAG18.AWUplwluXEk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -152,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100003524426940%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677612642083%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100088688499498%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100003524426940%22%7D%5D%2C%22utc3%22%3A1677749722224%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
