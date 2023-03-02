@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678175737,
+			"expirationDate": 1678351758,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678351758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685346783.374816,
+			"expirationDate": 1685522801.782458,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07ixXnRWQQaoITP6r.AWV0jhhZuVoI-ajvEiQVFp46aZ8.Bj_RhI.53.AAA.0.0.Bj_bLg.AWU_CkOaM7A"
+			"value": "07ixXnRWQQaoITP6r.AWVYc5vs1rQANM4zwF6PCGk7OPg.Bj_RhI.53.AAA.0.0.BkAGJy.AWUQIHEq9dY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677570913558%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677746935079%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.03.2023 08:46 2.0 petr d2",
+	"lastEventDate": "02.03.2023 08:49 2.0 petr d2",
 	"email": "aprilmartin1920@magenmail.com",
 	"emailPassword": "uoufqwae4120",
 	"imapHost": "imap.firstmail.ltd",
