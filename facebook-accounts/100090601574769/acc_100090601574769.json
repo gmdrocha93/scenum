@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678183017,
+			"expirationDate": 1678358807,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678358807,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685354062.825349,
+			"expirationDate": 1685529874.139152,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XFzEe3hUbaqNVhFR.AWWf24uBTBaaOEln9JQQ256ej9w.Bj_OtN.sH.AAA.0.0.Bj_c9P.AWWPi4uMatk"
+			"value": "0XFzEe3hUbaqNVhFR.AWWF7_pDTrVkwTDUBRN6vZgIquY.Bj_OtN.sH.AAA.0.0.BkAH4T.AWV1H_PILGQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677578196102%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677753984012%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.03.2023 10:44 2.0 petr d2",
+	"lastEventDate": "02.03.2023 10:46 2.0 petr d2",
 	"email": "kendracunningham1981@magenmail.com",
 	"emailPassword": "kyfkitwx1259",
 	"imapHost": "imap.firstmail.ltd",
