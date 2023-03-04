@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.03.2023 18:59 petr d40",
+	"lastEventDate": "04.03.2023 19:01 petr d40",
 	"status": 2,
 	"id": "100089254059750",
 	"name": "",
-	"amountFriends": "140",
+	"amountFriends": "144",
 	"screenname": "Laima Reuben",
 	"birthdate": "2002 January 1",
 	"country": "Latvia",
@@ -104,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678450741,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678450741,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685621836.330176,
+			"expirationDate": 1678560786,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678561295,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685732393.50782,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03YbzxjfApNgifoe6.AWVeILb1IJyl90OmbzZWDznki3c.Bjtr7j.ks.AAA.0.0.BkAeVN.AWXtVn0UTcc"
+			"value": "03YbzxjfApNgifoe6.AWU-G37goJJEf9Cx88IQ6QegPts.Bjtr7j.ks.AAA.0.0.BkA5Uq.AWXZ6Y3kx0Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677845938969%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100088596204034%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100083541696013%22%7D%2C%7B%22i%22%3A%22u.100087771195231%22%7D%5D%2C%22utc3%22%3A1677956492128%2C%22v%22%3A1%7D"
 		}
 	]
 }
