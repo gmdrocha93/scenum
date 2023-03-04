@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.03.2023 18:35 petr d40",
+	"lastEventDate": "04.03.2023 18:37 petr d40",
 	"status": 2,
 	"id": "100088887534794",
 	"name": "",
-	"amountFriends": "136",
+	"amountFriends": "146",
 	"screenname": "Inga Dreimanis",
 	"birthdate": "2004 January 4",
 	"country": "Jurmala",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678449306,
+			"expirationDate": 1678559835,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678449306,
+			"expirationDate": 1678559835,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677930385,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMGU2NTFzaThqejUiLCJ0aW1lIjoxNjc3OTU0NzQ5fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678041149,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -143,19 +155,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxeTBwYzF5ZzM0ZzAiLCJ0aW1lIjoxNjc3ODQzOTg0fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685620404.194449,
+			"expirationDate": 1685730929.654045,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -164,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TGZ6O3flr53MfGI8.AWVG-wFVNXyDA4ZpL0ulNm_6xg8.BjtsUW.gR.AAA.0.0.BkAd-0.AWWozBkp0hk"
+			"value": "0TGZ6O3flr53MfGI8.AWW2JhyOcIATQt_7KCO-e5ODYgE.BjtsUW.gR.AAA.0.0.BkA49y.AWWGoozgYfg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677844503336%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677955026918%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -188,7 +188,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwRAAAWmDoWkralnwoTBBaUk7Op-MEtAA%22%2C%222%22%3A%22GSwVQBxMAAAWABakgI_ADBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%7D%2C%22d%22%3A%22d81a0bd4-e7f9-4e37-a010-5bb49e607343%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABa0PRaa69GfDxMEFpSTs6n4wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABacv5zADBYAABV-HBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%225%22%3A%22GSwVNBwcGAAYABUEAAAWARYAFgAAFYABHBwYABgAFQQAABYBFgAWAAAWKAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWnxkSUJFJ6_FR5YkD4NWA_QC9LPVKw%22%2C%2216%22%3A%22FQIVCBmsFQAVdDYAABUAFWo2AAAVABViNgAAFQAVhgE2AAAVABVuNgAAFQAVOjYAABUAFQw2AAAVABU8NgAAFQAVYDYAABUAFVI2AAAWLAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221677955028%22%7D%2C%22d%22%3A%22d81a0bd4-e7f9-4e37-a010-5bb49e607343%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
