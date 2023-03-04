@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088857349149",
 	"custom": {},
-	"lastEventDate": "04.03.2023 23:45 petr d40",
+	"lastEventDate": "04.03.2023 23:47 petr d40",
 	"name": "",
 	"amountFriends": "",
 	"cookie": [
@@ -114,7 +114,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678469343,
+			"expirationDate": 1678578452,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1299x885"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678469884,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,20 +140,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678469443,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685640548.139937,
+			"expirationDate": 1685749514.755517,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09dsWDUtnYgBTFLRk.AWWCIqxkxTtz8kUGKfztrjYhCe0.BjrF9Q.7m.AAA.0.0.BkAi5l.AWXYv63QL3A"
+			"value": "09dsWDUtnYgBTFLRk.AWUghK4YlKSCHqHv_1s2ms8x1dI.BjrF9Q.7m.AAA.0.0.BkA9gL.AWXunY96mpc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,7 +161,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677864639933%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677973629146%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Dita Andrezheva",
