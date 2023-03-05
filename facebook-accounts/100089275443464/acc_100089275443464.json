@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.03.2023 20:07 petr d34",
+	"lastEventDate": "05.03.2023 20:09 petr d34",
 	"status": 2,
 	"id": "100089275443464",
 	"name": "",
-	"amountFriends": "258",
+	"amountFriends": "270",
 	"screenname": "Eleonora Feldmanis",
 	"birthdate": "2003 September 20",
 	"country": "Latvia",
@@ -117,19 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678632009,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +129,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685803066.57581,
+			"expirationDate": 1678651512,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678651768,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685822868.705305,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Doy0nGhFZTgXVaRM.AWVu1Luk6493XPA06NfUFCSpKvc.Bjr8fc.SK.AAA.0.0.BkBKk7.AWVGmrRRf6c"
+			"value": "0Doy0nGhFZTgXVaRM.AWWwFcIrq34iC2OB-JWad1WZrQk.Bjr8fc.SK.AAA.0.0.BkBPaV.AWX7LKMVjWg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100082540855587%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100017533861156%22%7D%5D%2C%22utc3%22%3A1678027201662%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100013976647232%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100014533002765%22%7D%2C%7B%22i%22%3A%22u.100017533861156%22%7D%2C%7B%22i%22%3A%22u.100082540855587%22%7D%5D%2C%22utc3%22%3A1678046964977%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
