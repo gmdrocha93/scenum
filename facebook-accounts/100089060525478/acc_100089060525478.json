@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.03.2023 03:20 petr d38",
+	"lastEventDate": "07.03.2023 10:49 vygruz cookie",
 	"status": 2,
 	"id": "100089060525478",
 	"name": "",
@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709175233.444836,
+			"expirationDate": 1709722017.037179,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677714332,
+			"expirationDate": 1678790943,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -57,11 +57,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678244505,
+			"expirationDate": 1678790943,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -70,7 +70,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709722017.037252,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "19%3A1GrLrMndRd42xw%3A2%3A1674552069%3A-1%3A6430%3A%3AAcXctcsPpu8rhtJT1RjhZDDXX5IT0iPQasbLLnh9lpU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685962019.570069,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0UrtIJZs3G2PWFvEI.AWVd6yQt6Ze1zkFwSBKTCyRW0kM.BkBxYh.Xn.AAA.0.0.BkBxYk.AWWG4PNLbRQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -82,33 +108,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxa2pod2ZybW9leCIsInRpbWUiOjE2NzcyMTU1MTh9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1709175233.444896,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3A1GrLrMndRd42xw%3A2%3A1674552069%3A-1%3A7565%3A%3AAcVGEWnA7s2mK2AE1-jRmIHtMW1ykJldUUz63hIcGjk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685415565.340346,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0DRf6stSMDEOag4XF.AWWtB4UT2ZUZi-z61UPNbbOjIkY.Bj_r5C.Xn.AAA.0.0.Bj_r-O.AWXHIpy1RJA"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNWNuN2FwNm01OSIsInRpbWUiOjE2NzgxODYwODR9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -120,7 +120,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677639681832%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678186140362%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Agate Zhegorovsk",
