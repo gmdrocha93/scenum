@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.03.2023 10:50 vygruz cookie",
+	"lastEventDate": "07.03.2023 12:47 vygruz cookie",
 	"status": 2,
 	"id": "100088945002539",
 	"name": "",
@@ -116,7 +116,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678791040,
+			"expirationDate": 1685969099.368291,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0r1HUX34JWUKVTWxn.AWUNzeTenE7oYQwQrtzTcqKeF28.Bjp-dY.z_.AAA.0.0.BkBzHL.AWX3BjSoEUM"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678193220878%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678798041,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +154,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678791040,
+			"expirationDate": 1678798041,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -139,31 +164,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685962095.672889,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0r1HUX34JWUKVTWxn.AWUQJgDYH1eIuSUcWGnF0toCKy4.Bjp-dY.z_.AAA.0.0.BkBxZw.AWW650-Qauo"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678186216838%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
