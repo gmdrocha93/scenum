@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.03.2023 13:14 petr d38",
+	"lastEventDate": "07.03.2023 13:17 petr d38",
 	"status": 2,
 	"id": "100088958311306",
 	"name": "",
@@ -16,26 +16,13 @@
 			"expirationDate": 1707449592,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "sb",
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "jwqaY8N5WXW5k_KqieFGxVgj"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707449592,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "18%3AAYmQZn9xM6XyKQ%3A2%3A1671039646%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -68,6 +55,32 @@
 			"expirationDate": 1707449592,
 			"hostOnly": false,
 			"httpOnly": false,
+			"name": "m_pixel_ratio",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449592,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "jwqaY8N5WXW5k_KqieFGxVgj"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707449592,
+			"hostOnly": false,
+			"httpOnly": false,
 			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
@@ -75,19 +88,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100088958311306"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707449592,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "18%3AAYmQZn9xM6XyKQ%3A2%3A1671039646%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678656073,
+			"expirationDate": 1678799840,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,11 +113,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678656375,
+			"expirationDate": 1678799840,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685827458.407328,
+			"expirationDate": 1685970890.452988,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05MiYePEjApSBvO4t.AWXgljMV6n0BZN-N_izO-UxNrHY.BjmgtN.PS.AAA.0.0.BkBQiD.AWX2y97Y9JA"
+			"value": "05MiYePEjApSBvO4t.AWVVh0qFZBBhRSDJ1R5fDzPpZxQ.BjmgtN.PS.AAA.0.0.BkBzjL.AWUjNtuWI-0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMmdtZmF1aG42YyIsInRpbWUiOjE2NzgwNTE1MTh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNWo5ZTFxajdjNXkiLCJ0aW1lIjoxNjc4MTk0OTU0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100072446627190%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100088576953089%22%7D%2C%7B%22i%22%3A%22u.100013803801803%22%7D%2C%7B%22i%22%3A%22u.100081634307192%22%7D%2C%7B%22i%22%3A%22u.100011198679400%22%7D%2C%7B%22i%22%3A%22u.100033822631846%22%7D%2C%7B%22i%22%3A%22u.100068980599276%22%7D%2C%7B%22i%22%3A%22u.100004702265821%22%7D%5D%2C%22utc3%22%3A1678051573078%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100012539824361%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100001414136546%22%7D%2C%7B%22i%22%3A%22u.100068932062919%22%7D%2C%7B%22i%22%3A%22u.100088576953089%22%7D%2C%7B%22i%22%3A%22u.100013803801803%22%7D%2C%7B%22i%22%3A%22u.100081634307192%22%7D%2C%7B%22i%22%3A%22u.100011198679400%22%7D%2C%7B%22i%22%3A%22u.100033822631846%22%7D%2C%7B%22i%22%3A%22u.100068980599276%22%7D%2C%7B%22i%22%3A%22u.100004702265821%22%7D%2C%7B%22i%22%3A%22u.100072446627190%22%7D%5D%2C%22utc3%22%3A1678195018843%2C%22v%22%3A1%7D"
 		}
 	]
 }
