@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088985864120",
 	"custom": {},
-	"lastEventDate": "08.03.2023 18:26 petr d32",
+	"lastEventDate": "08.03.2023 18:28 petr d32",
 	"name": "",
-	"amountFriends": "226",
+	"amountFriends": "235",
 	"screenname": "Andra Abel",
 	"birthdate": "1997 April 18",
 	"country": "Jurmala",
@@ -114,11 +114,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaTY4eDFycWI3MW4iLCJ0aW1lIjoxNjc3MTA0NjczfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMnFiZjFxNjVmYzkiLCJ0aW1lIjoxNjc4MDYzODAzfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678463950,
+			"expirationDate": 1678904880,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678904772,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -131,20 +144,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678668178,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685839278.235491,
+			"expirationDate": 1686075976.087501,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BKRAmN8ZLGdOvO2A.AWUef83TloqQeGHryRz34QF-ox8.BjrJqk.ZA.AAA.0.0.BkBTav.AWUN88H-zyQ"
+			"value": "0BKRAmN8ZLGdOvO2A.AWUerk3Dh2g2o03CrEB5_qKYErA.BjrJqk.ZA.AAA.0.0.BkCNNI.AWUaksV8FX0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100072097105681%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100028192667881%22%7D%2C%7B%22i%22%3A%22u.314197722000030%22%7D%2C%7B%22i%22%3A%22u.100088914827081%22%7D%2C%7B%22i%22%3A%22u.100010408620483%22%7D%5D%2C%22utc3%22%3A1678063375349%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678300076422%2C%22v%22%3A1%7D"
 		}
 	]
 }
