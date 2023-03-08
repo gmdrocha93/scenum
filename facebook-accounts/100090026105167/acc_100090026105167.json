@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.03.2023 09:08 2.0 petr d26",
+	"lastEventDate": "08.03.2023 09:10 2.0 petr d26",
 	"status": 2,
 	"id": "100090026105167",
 	"name": "",
@@ -100,20 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678670836,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678670932,
+			"expirationDate": 1678871425,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -122,11 +109,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685842038.535895,
+			"expirationDate": 1678871425,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686042532.847152,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Unn2zzTd5FTAn7SA.AWUvM20k3m8PAjsYS7-JPJ7H72w.Bj14rJ.Rs.AAA.0.0.BkBUF3.AWVXosbxa0w"
+			"value": "0Unn2zzTd5FTAn7SA.AWXvpcNRou4xMjQwssWU5qiRKoA.Bj14rJ.Rs.AAA.0.0.BkCFCl.AWVTdxIfwm8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,7 +147,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMnMyYm9rYml5eCIsInRpbWUiOjE2NzgwNjYwNjd9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNzJyajFlcTJncWgiLCJ0aW1lIjoxNjc4MjY2NTkwfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -159,7 +159,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678066130744%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678266623788%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Patrīcija Rosenthal",
