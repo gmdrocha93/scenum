@@ -13,19 +13,6 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678789473,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1740856030.542836,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -115,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678789473,
+			"expirationDate": 1678905499,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678905724,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685960537.778385,
+			"expirationDate": 1686076702.289213,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zuJFOZ2EJ7997pfq.AWV7vmo56tMP6FSfbRBNOPaFB54.BkAPTU.2e.AAA.0.0.BkBxBa.AWXgBW7U9gY"
+			"value": "0zuJFOZ2EJ7997pfq.AWXdUJ4NeOvBvPq5kvMMgcCguxE.BkAPTU.2e.AAA.0.0.BkCNYf.AWW7lUXBZWE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678184649543%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678300893812%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.03.2023 18:38 2.0 petr d4",
+	"lastEventDate": "08.03.2023 18:42 2.0 petr d4",
 	"email": "tobyspring2014@magenmail.com",
 	"emailPassword": "sqntqmvm4992",
 	"imapHost": "imap.firstmail.ltd",
