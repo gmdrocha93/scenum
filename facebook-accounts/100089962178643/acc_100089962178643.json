@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.03.2023 09:41 2.0 petr d26",
+	"lastEventDate": "08.03.2023 09:43 2.0 petr d26",
 	"status": 2,
 	"id": "100089962178643",
 	"name": "",
@@ -104,20 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678674286,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678673824,
+			"expirationDate": 1678873428,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -126,11 +113,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685845393.112295,
+			"expirationDate": 1678873428,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686044518.224608,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09ro9k5cLDkOiOc3B.AWVCFvk9FAk1Tzef8o_L0LbpcRM.Bj19wX.6u.AAA.0.0.BkBU6S.AWWJFS4ADcI"
+			"value": "09ro9k5cLDkOiOc3B.AWVCEIU4VWsWFl4TZb74orP7gnQ.Bj19wX.6u.AAA.0.0.BkCFhn.AWXc0Tno5q0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMnVuaTE4cDMweGIiLCJ0aW1lIjoxNjc4MDY5NDIyfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNzRhcTEwY3U3ZnEiLCJ0aW1lIjoxNjc4MjY4NTgwfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.107249432656233%22%7D%5D%2C%22utc3%22%3A1678069484797%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.107249432656233%22%7D%5D%2C%22utc3%22%3A1678268623986%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
