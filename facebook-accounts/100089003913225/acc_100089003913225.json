@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "10.03.2023 16:09 petr d33",
+	"lastEventDate": "10.03.2023 16:11 petr d33",
 	"status": 2,
 	"id": "100089003913225",
 	"name": "",
 	"amountFriends": "221",
-	"screenname": "Klaudija Krumina",
-	"birthdate": "2000 June 2",
-	"country": "Jurmala",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -39,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709874420.348377,
+			"expirationDate": 1710000707.127093,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +60,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709874420.348446,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3AvOyq1JRjGJpGmA%3A2%3A1674555417%3A-1%3A1080%3A%3AAcXrFFQAgGsUUjajaUJKv3ye0PHJkdrweRnCosBwpYY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678943404,
+			"expirationDate": 1679069200,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -86,11 +69,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678943404,
+			"expirationDate": 1679069505,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,20 +82,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686114507.294805,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0odqS2KmOQD6Axn54.AWW9bmKyRyI7mwcjbE5vX2YDn14.BkCWl1.xs.AAA.0.0.BkCWnM.AWXm8BMn_9I"
+			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +94,33 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086218162242%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100051316637099%22%7D%2C%7B%22i%22%3A%22u.100008853973942%22%7D%2C%7B%22i%22%3A%22u.100004999694467%22%7D%2C%7B%22i%22%3A%22u.100003389515349%22%7D%2C%7B%22i%22%3A%22u.100046347124267%22%7D%2C%7B%22i%22%3A%22u.100081937182223%22%7D%2C%7B%22i%22%3A%22u.100029836028416%22%7D%2C%7B%22i%22%3A%22u.100083062630198%22%7D%2C%7B%22i%22%3A%22u.100010388179209%22%7D%2C%7B%22i%22%3A%22u.100002503010940%22%7D%5D%2C%22utc3%22%3A1678338602524%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100086218162242%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100051316637099%22%7D%2C%7B%22i%22%3A%22u.100008853973942%22%7D%2C%7B%22i%22%3A%22u.100004999694467%22%7D%2C%7B%22i%22%3A%22u.100003389515349%22%7D%2C%7B%22i%22%3A%22u.100046347124267%22%7D%2C%7B%22i%22%3A%22u.100081937182223%22%7D%2C%7B%22i%22%3A%22u.100029836028416%22%7D%2C%7B%22i%22%3A%22u.100083062630198%22%7D%2C%7B%22i%22%3A%22u.100010388179209%22%7D%2C%7B%22i%22%3A%22u.100002503010940%22%7D%5D%2C%22utc3%22%3A1678464658384%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1710000707.12716,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "40%3AvOyq1JRjGJpGmA%3A2%3A1674555417%3A-1%3A1080%3A%3AAcVLx-3yg2v5-iZgUtlZPZULX4_D-vSRYEBc4uACXt8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686240705.127191,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0mEF3Ql8sI2MeNVr9.AWW2M7tyVyrtSLiiNu5k9zgJzmA.BkC1bE.xs.AAA.0.0.BkC1bE.AWXEhyK3Lj4"
 		}
 	],
 	"funPages": [
