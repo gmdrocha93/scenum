@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "10.03.2023 12:11 petr d29",
+	"lastEventDate": "10.03.2023 12:13 petr d29",
 	"status": 2,
 	"id": "100089623402322",
 	"name": "",
@@ -104,7 +104,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686150311.032071,
+			"expirationDate": 1679055118,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679055225,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "829x525"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686226318.792701,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s25NeuHKvcKFjorw.AWUOPx5QufQlBRhy3NY1EMd5LMU.Bj15Nc.uE.AAA.0.0.BkCfWn.AWUIWCw_GPI"
+			"value": "0s25NeuHKvcKFjorw.AWWE8cDP_AXHSYmD6Pf80iDw6eE.Bj15Nc.uE.AAA.0.0.BkCx6P.AWXf3JFOkhs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyOWR4anF3a3lwcCIsInRpbWUiOjE2NzgzNzQzODN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyYjBrcTFhazRqdTkiLCJ0aW1lIjoxNjc4NDUwMzc5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,33 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678374421515%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678979228,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1298x884"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678979228,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678450420196%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
