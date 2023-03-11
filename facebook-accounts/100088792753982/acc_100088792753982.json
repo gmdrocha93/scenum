@@ -5,9 +5,9 @@
 	"status": 2,
 	"id": "100088792753982",
 	"custom": {},
-	"lastEventDate": "11.03.2023 13:46 petr d36",
+	"lastEventDate": "11.03.2023 13:48 petr d36",
 	"name": "",
-	"amountFriends": "116",
+	"amountFriends": "127",
 	"screenname": "Ligita Kravale",
 	"birthdate": "2001 June 10",
 	"country": "Latvia",
@@ -106,7 +106,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678605943,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyYW5kMjFxczR6OGciLCJ0aW1lIjoxNjc4NDMzMjIyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679147183,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -119,7 +131,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679036821,
+			"expirationDate": 1679147299,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,23 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1039x685"
+			"value": "1040x685"
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyM25mMzE1OGQwcjYiLCJ0aW1lIjoxNjc4MTA2NzAzfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686207923.926802,
+			"expirationDate": 1686318387.636694,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -153,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03nXGxCiNPpm3TTHh.AWUHNDIkkYvVX1c35Cu-o6deuDM.BjoVis.fl.AAA.0.0.BkCta0.AWWv4HUmapE"
+			"value": "03nXGxCiNPpm3TTHh.AWVHHfc9iCZFAZFOMD4tn7VHJCo.BjoVis.fl.AAA.0.0.BkDIY0.AWV2sk4C2u0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -165,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678432017738%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678542495761%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
