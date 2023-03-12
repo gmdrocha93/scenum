@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.03.2023 22:08 petr d31",
+	"lastEventDate": "12.03.2023 22:10 petr d31",
 	"status": 2,
 	"id": "100090006246320",
 	"name": "",
@@ -104,20 +104,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679057437,
+			"expirationDate": 1678707454,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "cppo",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "unspecified",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678914101,
+			"expirationDate": 1679263400,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -130,7 +130,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686228508.401354,
+			"expirationDate": 1679263805,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686434911.522815,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +152,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nVvrJvsoryPU7mNd.AWVItGlUEtN5vRzB8SCPOlbcGSg.Bj19Kw.Bl.AAA.0.0.BkCycd.AWX8hXgOVK4"
+			"value": "0nVvrJvsoryPU7mNd.AWU5q23fi5HzJSR8G8i5pFEQqaw.Bj19Kw.Bl.AAA.0.0.BkDk1g.AWXArQuzruM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyYjI5eWJveXl5NyIsInRpbWUiOjE2Nzg0NTI1OTZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZmhqMTN1cDFhOSIsInRpbWUiOjE2Nzg2NTg5NDF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678452633612%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678659003296%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
