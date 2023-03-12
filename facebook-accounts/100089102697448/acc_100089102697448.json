@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "Emesyma23s@outlook.com",
 	"password": "AyUkdXCB",
-	"lastEventDate": "12.03.2023 15:31 2.0 petr d4",
+	"lastEventDate": "12.03.2023 15:34 2.0 petr d4",
 	"status": 2,
 	"id": "100089102697448",
 	"name": "",
@@ -53,7 +53,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710067976.828331,
+			"expirationDate": 1710171097.955497,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,7 +66,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679136776,
+			"expirationDate": 1679240072,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -79,19 +79,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678531808679%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710067976.828382,
+			"expirationDate": 1710171097.955745,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +88,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3AgN1pwoTgToltxA%3A2%3A1678461050%3A-1%3A-1%3A%3AAcUlfcCIcm2osuFCiWRKvqeiCj4emSUnhnNnU3GcFw"
+			"value": "35%3AgN1pwoTgToltxA%3A2%3A1678461050%3A-1%3A-1%3A%3AAcWlNRNDKcmeWcE_vfmUUyyMu4uYvLQ04Jhw00gjQw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686307975.828406,
+			"expirationDate": 1686411108.723676,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +101,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OAUggcwFBPbYxTMg.AWWyVaqx0RFlly494d_g4MwRf1Y.BkDF2J.At.AAA.0.0.BkDF2J.AWX0-Qhv4iA"
+			"value": "06PF8jLDLWxXXAzMv.AWW0xeu_ylcuuyKr1RiIxDOm6lc.BkDfBa.At.AAA.0.0.BkDfBl.AWW96U75p1c"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678635248960%2C%22v%22%3A1%7D"
 		}
 	]
 }
