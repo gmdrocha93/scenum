@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100089275770804",
 	"custom": {},
-	"lastEventDate": "13.03.2023 18:22 petr d37",
+	"lastEventDate": "13.03.2023 18:24 petr d37",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Klaudija Abolina",
@@ -106,7 +106,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679131876,
+			"expirationDate": 1679336695,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,8 +130,20 @@
 			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyYmYyaGR2bDJvciIsInRpbWUiOjE2Nzg0NjkxMjl9"
 		},
 		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaYJRbup7rnCBMEFuie05v7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbEquLADBYAABV-HEwAABYAFs6q4sAMFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbQquLADBYAABWAARxMAAAWABbQquLADBYAABYoAA%22%2C%227%22%3A%22KLUv_SK4tyLVAAAzAQTuWtT4iKGik9eixkfMw6AVA_QC9LPVKw%22%2C%2216%22%3A%22FQQVCBmsFQQVdCbSquLADBYAABUEFWom0qriwAwWAAAVBBViJtCq4sAMFgAAFQQVhgEm1KriwAwWAAAVBBVuJtiq4sAMFgAAFQQVOibWquLADBYAABUEFQwm1KriwAwWAAAVBBU8Jtaq4sAMFgAAFQQVYCbYquLADBYAABUEFVIm2KriwAwWAAAWWhEA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221678527143%22%7D%2C%22d%22%3A%22b7befa22-5a62-43bc-9d69-188b824cc319%22%2C%22s%22%3A%220%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686302930.419057,
+			"expirationDate": 1686507757.07122,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -140,7 +152,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OgUdshXfCg7OuRfz.AWVDBVc4OzFtwbwtN8yhLHorhfE.BjrC3K.Ly.AAA.0.0.BkDEnT.AWW4Cfabn3c"
+			"value": "0OgUdshXfCg7OuRfz.AWXX4PbAc7AWCxNj2eFPJiO7BX0.BjrC3K.Ly.AAA.0.0.BkD2nt.AWW0s85hIyg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -152,19 +164,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678527064253%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": "www.facebook.com",
-			"hostOnly": true,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "strict",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbsJBay4sXCBxMEFuie05v7wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaUqeLADBYAABV-HEwAABYAFrKp4sAMFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABa0qeLADBYAABWAARxMAAAWABa0qeLADBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmsFQQVdCa0qeLADBYAABUEFWomtqniwAwWAAAVBBViJrSp4sAMFgAAFQQVhgEmtqniwAwWAAAVBBVuJryp4sAMFgAAFQQVOia4qeLADBYAABUEFQwmuKniwAwWAAAVBBU8Jrqp4sAMFgAAFQQVYCa6qeLADBYAABUEFVImuqniwAwWAAAWWhEA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221678527065%22%7D%2C%22d%22%3A%22b7befa22-5a62-43bc-9d69-188b824cc319%22%2C%22s%22%3A%220%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678731872383%2C%22v%22%3A1%7D"
 		}
 	]
 }
