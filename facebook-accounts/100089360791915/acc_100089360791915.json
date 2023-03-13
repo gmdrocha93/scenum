@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 08:20 petr d38",
+	"lastEventDate": "13.03.2023 08:22 petr d38",
 	"status": 2,
 	"id": "100089360791915",
 	"name": "",
@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710057820.085985,
+			"expirationDate": 1710231064.176345,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678877281,
+			"expirationDate": 1679129694,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -61,7 +61,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679127031,
+			"expirationDate": 1710231064.176416,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "15%3AdHG6Qf-tshwEOQ%3A2%3A1672671031%3A-1%3A6716%3A%3AAcXz3ClH9RhhTQMFgskoKkD8ygWTVk2Ofa75krr-cdk"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679300557,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,20 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710057820.08606,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "15%3AdHG6Qf-tshwEOQ%3A2%3A1672671031%3A-1%3A6716%3A%3AAcVq-kOc4DkKGa-AmD8EtndgpcL7DXuIHiYV5J8iz70"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686298080.45323,
+			"expirationDate": 1686471634.817588,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xPP2twW2J8Ym192w.AWULBeekzclICbm1LHgcW-DJO8w.BkDDXc.Ss.AAA.0.0.BkDDbh.AWURuGE3HJc"
+			"value": "0pUcCDDs1AXkGGTOL.AWW7u8TRZWiWdxirbX12YKS_8FI.BkDtqY.Ss.AAA.0.0.BkDtzT.AWWZEyBCj6U"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,7 +108,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyY2p5NTFkcXdheXMiLCJ0aW1lIjoxNjc4NTIyMTQ5fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZzl2NDFlbGF2b3AiLCJ0aW1lIjoxNjc4Njk1Njk3fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -120,7 +120,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100058131053566%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678522209713%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100084373451608%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100058376923955%22%7D%2C%7B%22i%22%3A%22u.100058131053566%22%7D%5D%2C%22utc3%22%3A1678695751855%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
@@ -128,7 +128,7 @@
 	],
 	"screenname": "Anastasia Masina",
 	"birthdate": "1996 January 29",
-	"country": "",
+	"country": "France",
 	"isAvatarExists": false,
 	"businessManagers": [
 		"1 go to nature"
