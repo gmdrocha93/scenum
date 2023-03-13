@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 04:52 petr d35",
+	"lastEventDate": "13.03.2023 04:54 petr d35",
 	"status": 2,
 	"id": "100088584196909",
 	"name": "",
-	"amountFriends": "78",
+	"amountFriends": "88",
 	"screenname": "Jadviga Reuben",
 	"birthdate": "2002 July 5",
 	"country": "Liepaja",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710153300.73463,
+			"expirationDate": 1710218969.945888,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,11 +60,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaXdqOTFlMWN4enYiLCJ0aW1lIjoxNjc3MTM4NzQxfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZW0xemFhZnpjeCIsInRpbWUiOjE2Nzg2MTgxNTF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678949520,
+			"expirationDate": 1710218969.945967,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "17%3AMmYiE76dUwYE0A%3A2%3A1674557511%3A-1%3A15748%3A%3AAcXGO7BRWpnEBNCl3Yy53Pmevt5Ju7GSXqxGF2OnX9k"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679287772,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -77,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679222173,
+			"expirationDate": 1679288059,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710153300.734676,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "17%3AMmYiE76dUwYE0A%3A2%3A1674557511%3A-1%3A15748%3A%3AAcVg_YQAaTyCd3iOcfEWrh20RzRUn9SZOTxJ6aDdqSE"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686393299.7347,
+			"expirationDate": 1686459158.775268,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IdxU4I64j5Ndxbum.AWVqx76lnXHdX-FRXDj3y3i1aZw.BkDarV.in.AAA.0.0.BkDarV.AWVmuVRx4f0"
+			"value": "0HesrjAV8lNaPI7i8.AWWPNGrIYHks7ZmmYHwYCP51_bo.BkDqta.in.AAA.0.0.BkDqwX.AWWss0H4Slk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678617370236%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678683255549%2C%22v%22%3A1%7D"
 		}
 	]
 }
