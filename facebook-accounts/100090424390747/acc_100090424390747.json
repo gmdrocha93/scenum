@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679335972,
+			"expirationDate": 1679419183,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679419183,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1629x910"
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686507032.231047,
+			"expirationDate": 1686590250.575031,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FsDsOGDimWNMUrw3.AWXpf9S1OeGUHDRu_3qCEGBAM6U.Bj7_6x.bl.AAA.0.0.BkD2cZ.AWVflYXJc4M"
+			"value": "0FsDsOGDimWNMUrw3.AWV7nNt-ps7PNZXWjupJqaZtauI.Bj7_6x.bl.AAA.0.0.BkEKwr.AWV0w2GeIFU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678731148812%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678814360912%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 17:17 2.0 petr d13",
+	"lastEventDate": "14.03.2023 17:19 2.0 petr d13",
 	"email": "pedrokim2002@magenmail.com",
 	"emailPassword": "piaznldj6353",
 	"imapHost": "imap.firstmail.ltd",
