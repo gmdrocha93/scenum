@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.03.2023 13:24 petr d39",
+	"lastEventDate": "15.03.2023 13:26 petr d39",
 	"status": 2,
 	"id": "100088831340080",
 	"name": "",
-	"amountFriends": "6",
+	"amountFriends": "8",
 	"screenname": "Masha Kakova",
 	"birthdate": "1993 April 12",
 	"country": "Kazakhstan",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710221085.941221,
+			"expirationDate": 1710422178.662219,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -91,46 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710221085.941266,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "49%3AtlpjTDGVMizuwg%3A2%3A1672223129%3A-1%3A15733%3A%3AAcW6F_WNiOY0mNikFi4gcHNQCkh5QCLwqdcv2tmaGDc"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686461924.203204,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0xRTRGAMAwXS5M6ML.AWX9k-R5wUQqYOJCu3jbyOOR49U.BkDrOe.Ci.AAA.0.0.BkDrbl.AWW4KboDDTg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679290838,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679290838,
+			"expirationDate": 1679291864,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -139,7 +100,46 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679491585,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1036x684"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1710422178.662307,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "49%3AtlpjTDGVMizuwg%3A2%3A1672223129%3A-1%3A15733%3A%3AAcWXDGonP5NG5EiBR8-30myHUyQ4qZ1iomZ8jq2WGYM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686662660.371903,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0kgooFadxX1QvZuwg.AWXbLr-xcjeOZEZXDta-3EmgmVk.BkEcUj.Ci.AAA.0.0.BkEccF.AWX7D4H8b1M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678686033173%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678886777401%2C%22v%22%3A1%7D"
 		}
 	]
 }
