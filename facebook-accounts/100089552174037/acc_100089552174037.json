@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.03.2023 03:21 petr d32",
+	"lastEventDate": "15.03.2023 03:22 petr d32",
 	"status": 2,
 	"id": "100089552174037",
 	"name": "",
-	"amountFriends": "69",
+	"amountFriends": "78",
 	"screenname": "Amanda Jankovskis",
 	"birthdate": "1997 January 14",
 	"country": "Daugavpils",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNWRmbDF2ZjUxZHUiLCJ0aW1lIjoxNjc4MTg3MDczfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679315413,
+			"expirationDate": 1679455369,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686486519.98182,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZ2xuOWkyN284eiIsInRpbWUiOjE2Nzg3MTA5MzN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686626473.308312,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0x4NAKQTcxN6iSm4i.AWW1LK7i0VdOR-CW9by2_68gsfU.Bjyk2X.40.AAA.0.0.BkDxb4.AWVfquRpoJQ"
+			"value": "0x4NAKQTcxN6iSm4i.AWU3qL_NLaXojIkJsOy2I-RQm3g.Bjyk2X.40.AAA.0.0.BkETmq.AWWcNIxsq1o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100085368282698%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100007643143991%22%7D%5D%2C%22utc3%22%3A1678710611708%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678850565438%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
