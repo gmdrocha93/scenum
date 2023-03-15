@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.03.2023 01:21 petr d32",
+	"lastEventDate": "15.03.2023 01:23 petr d32",
 	"status": 2,
 	"id": "100086838344123",
 	"name": "",
-	"amountFriends": "171",
+	"amountFriends": "179",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710230150.164654,
+			"expirationDate": 1710379283.483226,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,32 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxeHBjOTN5eWk3ZSIsInRpbWUiOjE2Nzc4MjkyNTd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678700493,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679298949,
+			"expirationDate": 1679448194,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,17 +76,17 @@
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100036577322383%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100075924892823%22%7D%2C%7B%22i%22%3A%22u.100003120917367%22%7D%2C%7B%22i%22%3A%22u.100055057457063%22%7D%5D%2C%22utc3%22%3A1678694074185%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZzh4a29ueXlpayIsInRpbWUiOjE2Nzg2OTQ0NTZ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710230150.164726,
+			"expirationDate": 1710379283.48329,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -120,11 +95,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3Av4edXJURIK-apg%3A2%3A1673448771%3A-1%3A6764%3A%3AAcUZ6JVg2Lj1mcv0y4rOmAK84wjVUd5Od6wF-vLSfgc"
+			"value": "1%3Av4edXJURIK-apg%3A2%3A1673448771%3A-1%3A6764%3A%3AAcXQ8QQkJHu0U9OW6vB6TTZfwc6R7oTG34af6oQrfx8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686470149.164767,
+			"expirationDate": 1686619297.481953,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -133,10 +108,26 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UgtTsBEYD1oltG6D.AWUeu05037ftVu619905RfHZ0wM.BkDtcG.Q8.AAA.0.0.BkDtcG.AWVaSa0-mdw"
+			"value": "0ZKmCLm7uq5S6JNHZ.AWWTR-AbRwrEfOVwEaYMEhRHpgs.BkER2U.Q8.AAA.0.0.BkER2i.AWWX_NNvo-4"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678843390473%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100089942451176"
-	]
+	],
+	"screenname": "Josephine Cummings",
+	"birthdate": "1996 June 18",
+	"country": "Latvia",
+	"isAvatarExists": false
 }
