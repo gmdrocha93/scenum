@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.03.2023 14:01 petr d33",
+	"lastEventDate": "16.03.2023 14:03 petr d33",
 	"status": 2,
 	"id": "100089128632873",
 	"name": "",
-	"amountFriends": "233",
+	"amountFriends": "243",
 	"screenname": "Austra Solovzhovs",
 	"birthdate": "2000 January 1",
 	"country": "Latvia",
@@ -104,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679454678,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1300x704"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686625780.599218,
+			"expirationDate": 1679579687,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679580206,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686751358.153768,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ttkm5VEKIRz3l8xK.AWVNXkCySc23bCeRlVHN3h-iNo4.BjtCoj.PB.AAA.0.0.BkETb1.AWXH4XT9Nrk"
+			"value": "0Ttkm5VEKIRz3l8xK.AWUKy66vTK0upwKCYJrfv4Yfgto.BjtCoj.PB.AAA.0.0.BkEyF_.AWWWUQagdz0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089828889072%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100044475021160%22%7D%5D%2C%22utc3%22%3A1678849874757%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089828889072%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100078249770906%22%7D%2C%7B%22i%22%3A%22u.100044475021160%22%7D%5D%2C%22utc3%22%3A1678975401615%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
