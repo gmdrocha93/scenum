@@ -102,32 +102,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678922170,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679445507,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1679445284.188305,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -141,7 +115,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686616547.976492,
+			"expirationDate": 1679658638,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679658638,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1302x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686829736.656012,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0o0kbwx6MRxmpp7mB.AWVhZQjplWWcE06G4TRsc2KDI4Q.BkA1n8.od.AAA.0.0.BkERLk.AWUdp3Zr1pc"
+			"value": "0o0kbwx6MRxmpp7mB.AWWtuJI_sc5KC50G1r2etOCmcn8.BkA1n8.od.AAA.0.0.BkFFOp.AWV-LMtwnao"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,10 +162,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678840684080%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679053815378%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.03.2023 11:47 2.0 petr d14",
+	"lastEventDate": "17.03.2023 11:50 2.0 petr d14",
 	"email": "robyntarrant1921@magenmail.com",
 	"emailPassword": "oxhlskpc1569",
 	"imapHost": "imap.firstmail.ltd",
