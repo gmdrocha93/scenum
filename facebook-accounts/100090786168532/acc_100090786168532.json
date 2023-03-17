@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "fmeujbvu@outlook.com",
 	"password": "J7JxO7fN",
-	"lastEventDate": "17.03.2023 02:02 2.0 petr d10",
+	"lastEventDate": "17.03.2023 02:06 2.0 petr d10",
 	"status": 2,
 	"id": "100090786168532",
 	"name": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710378954.127676,
+			"expirationDate": 1710554670.680206,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710378954.127732,
+			"expirationDate": 1679623419,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1710554670.680285,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -62,24 +75,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3Ae-VhdmZsbJbHaA%3A2%3A1678640276%3A-1%3A-1%3A%3AAcXZKs3Fz0KBBKHIVSQPkUk8QVuhn2svcLIeP8AQMA"
+			"value": "5%3Ae-VhdmZsbJbHaA%3A2%3A1678640276%3A-1%3A-1%3A%3AAcX5hVjhOMM1XVxuXCiKAsXY7FBprZrW80SIpYQHlw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679448327,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686619371.09343,
+			"expirationDate": 1686794669.680318,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -88,7 +88,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AAdc0D32UrlChQ0R.AWXxLREwxXS7ZcbNUTviyUqRqQ8.BkERxL.VA.AAA.0.0.BkER3s.AWWuEaiyp80"
+			"value": "0EN4DdYBss3HPcuXA.AWU_XzDBRbrRcM4knV2I52S4PD8.BkE8qv.VA.AAA.0.0.BkE8qv.AWVwBKugzrw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679623572,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x932"
 		},
 		{
 			"domain": ".facebook.com",
@@ -100,7 +113,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678843503755%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679018745307%2C%22v%22%3A1%7D"
 		}
 	]
 }
