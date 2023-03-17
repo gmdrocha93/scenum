@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "Curegak@outlook.lv",
 	"password": "%1#nE9R2P45VH",
-	"lastEventDate": "17.03.2023 01:22 2.0 petr d10",
+	"lastEventDate": "17.03.2023 01:25 2.0 petr d10",
 	"status": 2,
 	"id": "100089163505542",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "4",
 	"screenname": "Sherri Jones",
 	"birthdate": "1998 July 5",
 	"country": "Latvia",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710375663.07801,
+			"expirationDate": 1710552113.277717,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,20 +53,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710375663.07807,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "49%3AnlBD33XyriE_Bw%3A2%3A1678488139%3A-1%3A-1%3A%3AAcXhbYFpj1S22gZ6I3gK1f_S6lh3fbuV8A6zQiCkhjI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679445142,
+			"expirationDate": 1679621106,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -75,11 +62,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x932"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686616211.372922,
+			"expirationDate": 1710552113.277772,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "49%3AnlBD33XyriE_Bw%3A2%3A1678488139%3A-1%3A6770%3A%3AAcUeicVBuH1FF4jyEF_qFVS0vk8yGe52e7GtTFqGyP4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686792219.603847,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -88,7 +88,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GKHyojdeKMlXFDCJ.AWXqlupIX2pvkpfvCx9mXwVyblU.BkEQ9v.Dq.AAA.0.0.BkERGU.AWVRiwfO6do"
+			"value": "0LaJ82TATzfTmngIp.AWViiXYHNpYFTIQxHm2dbWa7QP0.BkE8Cy.Dq.AAA.0.0.BkE8Ec.AWUeRPX378g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678840338747%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679016282721%2C%22v%22%3A1%7D"
 		}
 	]
 }
