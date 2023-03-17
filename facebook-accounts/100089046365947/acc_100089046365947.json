@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "17.03.2023 14:24 petr d37",
+	"lastEventDate": "17.03.2023 14:26 petr d37",
 	"status": 2,
 	"id": "100089046365947",
 	"name": "",
-	"amountFriends": "94",
+	"amountFriends": "105",
 	"screenname": "Astra Volkova",
 	"birthdate": "2004 February 5",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710380745.933554,
+			"expirationDate": 1710599030.75808,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,19 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100089046365947"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679449831,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
 		},
 		{
 			"domain": ".facebook.com",
@@ -77,7 +64,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710380745.933616,
+			"expirationDate": 1679668001,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679668001,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1710599030.758153,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3Ah2-3XQSFbUFuCA%3A2%3A1674551570%3A-1%3A10560%3A%3AAcUX-7dmmsfMXTN7oCLA_V2Nrm080_SE9NETwtZmjwc"
+			"value": "10%3Ah2-3XQSFbUFuCA%3A2%3A1674551570%3A-1%3A10560%3A%3AAcXwFfjL12AjziSw9Y27PD7gqv6PJmKK-KKiIMHllq0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686620936.423671,
+			"expirationDate": 1686839118.419958,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XbuZMqJaxY7ahd7q.AWU3XT-AS3CFszYnlA2pRvyjXRc.BkESNK.G2.AAA.0.0.BkESQJ.AWXJdLpEflY"
+			"value": "024QUlWkeat8HdiYy.AWUiuzQhMfI-rAjhYQ2-BvfNMH8.BkFHf3.G2.AAA.0.0.BkFHhP.AWX1RLhurRs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678845029403%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679063177330%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
