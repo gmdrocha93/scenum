@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.03.2023 09:03 petr d31",
+	"lastEventDate": "18.03.2023 09:05 petr d31",
 	"status": 2,
 	"id": "100088965464638",
 	"name": "",
-	"amountFriends": "179",
+	"amountFriends": "190",
 	"screenname": "Estere Lukina",
 	"birthdate": "1999 January 24",
 	"country": "",
@@ -117,19 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679591807,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +129,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686762941.728095,
+			"expirationDate": 1679735150,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679735150,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686906282.319562,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QiNoVvO70nWLNi5e.AWWSfuEMHHGerQ1Ctm8rckotUUE.BjrI96.lz.AAA.0.0.BkE06-.AWW0kKPO6rI"
+			"value": "0QiNoVvO70nWLNi5e.AWWjf6vyO7dm3M2tdI_7jkZgvZI.BjrI96.lz.AAA.0.0.BkFX6r.AWVNBRmVSEk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678986983310%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100072855854556%22%7D%2C%7B%22i%22%3A%22u.100008709229405%22%7D%5D%2C%22utc3%22%3A1679130327951%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
