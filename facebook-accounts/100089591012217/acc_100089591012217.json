@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.03.2023 07:50 petr d31",
+	"lastEventDate": "18.03.2023 07:52 petr d31",
 	"status": 2,
 	"id": "100089591012217",
 	"name": "",
-	"amountFriends": "269",
+	"amountFriends": "278",
 	"screenname": "Katrīna Kuzmins",
 	"birthdate": "2003 January 6",
 	"country": "Latvia",
@@ -104,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679588226,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,7 +116,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686759379.300035,
+			"expirationDate": 1679730742,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679730742,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686901893.689236,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NnOb53Abyh2GYq4C.AWXS_VTuXc4YB7Vs0tEa_RwLz5w.BjvJBS.2Y.AAA.0.0.BkE0DU.AWV1nlBz9kw"
+			"value": "0NnOb53Abyh2GYq4C.AWXuRV4NU2IYSaX2S9Q29TCGCbk.BjvJBS.2Y.AAA.0.0.BkFW2G.AWU0-eyni4w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22g.5916154348512489%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678983422791%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22g.5916154348512489%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100072562414664%22%7D%5D%2C%22utc3%22%3A1679125938050%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
