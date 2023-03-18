@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.03.2023 07:59 petr d31",
+	"lastEventDate": "18.03.2023 08:02 petr d31",
 	"status": 2,
 	"id": "100088763362727",
 	"name": "",
-	"amountFriends": "81",
+	"amountFriends": "88",
 	"screenname": "Otīlija Timofezheva",
 	"birthdate": "1996 January 22",
 	"country": "Liepaja",
@@ -117,19 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679588559,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1036x684"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -142,7 +129,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686759715.433415,
+			"expirationDate": 1679731350,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679731350,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686902505.545653,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +164,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F2vvhoRGHE4drIwB.AWX_7TVQ0q4x4HhtDkFRmIHABoo.BjrKwN.4l.AAA.0.0.BkE0Ik.AWWOsAGyixg"
+			"value": "0F2vvhoRGHE4drIwB.AWUQthiKBu5__3nyOqQlXSvI20w.BjrKwN.4l.AAA.0.0.BkFW_q.AWVztFxgGcY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +176,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100090658031495%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678983754983%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100090658031495%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679126546267%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
