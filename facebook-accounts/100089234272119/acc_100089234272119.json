@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "Wiwifig@outlook.com",
 	"password": "DcVxvKuZ",
-	"lastEventDate": "19.03.2023 13:22 2.0 petr d13",
+	"lastEventDate": "19.03.2023 13:24 2.0 petr d13",
 	"status": 2,
 	"id": "100089234272119",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Barbara Smith",
 	"birthdate": "2000 May 19",
 	"country": "Latvia",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710655782.688435,
+			"expirationDate": 1710768100.378407,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,20 +66,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710655782.688489,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "46%3AcZMzbOga8_IJuQ%3A2%3A1678284729%3A-1%3A10350%3A%3AAcWj-Ano6QAARruP0KAerbYiTE6HOHoRWijgAJV1_78"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679725446,
+			"expirationDate": 1679837080,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,11 +75,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x932"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686896558.404232,
+			"expirationDate": 1710768100.378463,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "46%3AcZMzbOga8_IJuQ%3A2%3A1678284729%3A-1%3A10350%3A%3AAcU4UgV4FWEM_oHaE6zAnbAuRwFfC6BnfLlMIloDne8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687008193.815771,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tWzkvbaMR1PvznRn.AWVg4VsaeudsirZvOL3cN0mUzwo.BkFVWn.qY.AAA.0.0.BkFViv.AWVB4ezidVI"
+			"value": "022LKRsuseCFop5gK.AWW08jSuj5WUF9AXn9ZiNpY1OGo.BkFwxk.qY.AAA.0.0.BkFwzC.AWVQ4fQQ_LI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679120622979%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679232256540%2C%22v%22%3A1%7D"
 		}
 	]
 }
