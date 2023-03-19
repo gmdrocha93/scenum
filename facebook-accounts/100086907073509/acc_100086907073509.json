@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.03.2023 12:36 2.0 petr d32",
+	"lastEventDate": "19.03.2023 12:39 2.0 petr d32",
 	"status": 2,
 	"id": "100086907073509",
 	"name": "",
-	"amountFriends": "166",
+	"amountFriends": "175",
 	"screenname": "Betty Roberson",
 	"birthdate": "1995 April 19",
 	"country": "Latvia",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710631244.263061,
+			"expirationDate": 1710765175.541593,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -49,18 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100086907073509"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyMzF0cjEzaGU4eW4iLCJ0aW1lIjoxNjc4MDc4NzE5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -77,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679700042,
+			"expirationDate": 1679834349,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710631244.263131,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyb3VnYjFicGp1cjMiLCJ0aW1lIjoxNjc5MDk1NTk1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1710765175.541667,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "46%3AkEDi12DIGWr7Xw%3A2%3A1673683845%3A-1%3A5596%3A%3AAcWGK31bi-sN0kstgwDqAHpT6zLFtmSG5xvmw4XgV-o"
+			"value": "46%3AkEDi12DIGWr7Xw%3A2%3A1673683845%3A-1%3A5596%3A%3AAcUitNba-tQxla_5dI5mpVLcgNFw6P8VgBfJNssBo_8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686871243.263176,
+			"expirationDate": 1687005456.182507,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0kqrokgtzcAe7HdVl.AWWEl940unOYKbEhvOilj_9Oabw.BkFPXM.QQ.AAA.0.0.BkFPXM.AWUpBBPysNk"
+			"value": "0XuUr5FXNDIgfvzze.AWV54l60AbLW-S9UlDheQlmuTww.BkFwD4.QQ.AAA.0.0.BkFwIR.AWV90dxgzgw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089432538404%22%7D%5D%2C%22utc3%22%3A1679095249768%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679229524660%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
