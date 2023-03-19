@@ -102,7 +102,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679408015,
+			"expirationDate": 1686998950.238997,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0xT7Z3l756SQ1geod.AWUI2Yky-aYNqkDprdyVEKwj218.BkCDM3.my.AAA.0.0.BkFuin.AWXC18xe0lU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679827830,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x932"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679827801,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,32 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679708381,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686879515.550883,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0xT7Z3l756SQ1geod.AWUVrTKhEYesEw-sFe1dbinQjjg.BkCDM3.my.AAA.0.0.BkFRYc.AWWbOhQXbAU"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679103584934%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679223006393%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.03.2023 10:47 2.0 petr d13",
+	"lastEventDate": "19.03.2023 10:50 2.0 petr d13",
 	"email": "catherinehirt1965@magenmail.com",
 	"emailPassword": "nhxlllaw4617",
 	"imapHost": "imap.firstmail.ltd",
