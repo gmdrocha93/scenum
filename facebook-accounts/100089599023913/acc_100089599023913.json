@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "Poxisudim@outlook.lv",
 	"password": "6417#3B%&8$W",
-	"lastEventDate": "20.03.2023 17:58 2.0 petr d14",
+	"lastEventDate": "20.03.2023 18:02 2.0 petr d14",
 	"status": 2,
 	"id": "100089599023913",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Mary Johnson",
 	"birthdate": "1997 April 22",
 	"country": "Latvia",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710766868.104335,
+			"expirationDate": 1710871222.424025,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,20 +66,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710766868.104382,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "19%3AS-9LCdqlwUsaxw%3A2%3A1678313187%3A-1%3A13411%3A%3AAcUgoNbAVnHz8a4hVOVeKhY_mxN1c5orVqk7-QevAr0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679835985,
+			"expirationDate": 1679940154,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,11 +75,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x932"
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687007102.467142,
+			"expirationDate": 1710871222.424082,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "19%3AS-9LCdqlwUsaxw%3A2%3A1678313187%3A-1%3A13411%3A%3AAcXVDpZA89hgYklFTQpY8OgGSeI72QXXDH4oAeaHpzI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687111238.51833,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04pAikDYTMVfjd6WA.AWVJ7gQ01mdy_Hx9ogG0rfGTK0E.BkFweU.Q_.AAA.0.0.BkFwh_.AWWrE6pPVHg"
+			"value": "0gMXfBZelhO41AC8q.AWXm9qw5Il_syAGj86n9JJmew6c.BkGJ83.Q_.AAA.0.0.BkGJ9H.AWWcerGA7ZE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679231161838%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679335360155%2C%22v%22%3A1%7D"
 		}
 	]
 }
