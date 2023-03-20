@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679579113,
+			"expirationDate": 1679581689,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679909956,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1299x885"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686750223.603912,
+			"expirationDate": 1687081072.998345,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VTZphHijLrb8y3a1.AWVQgB9_VMQOJCZ9i9B1Sbe7qrY.Bj77bW.jL.AAA.0.0.BkEx0Q.AWWQLZYEnt4"
+			"value": "0VTZphHijLrb8y3a1.AWVpW7B1oK3fD3TUjwU-JOIw8Vg.Bj77bW.jL.AAA.0.0.BkGClx.AWUhT7XewO4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678974306189%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679305133663%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.03.2023 09:36 2.0 petr d15",
+	"lastEventDate": "20.03.2023 09:39 2.0 petr d15",
 	"email": "johnhunt2007@magenmail.com",
 	"emailPassword": "lxqxjvjy6792",
 	"imapHost": "imap.firstmail.ltd",
