@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.03.2023 19:06 petr d35",
+	"lastEventDate": "20.03.2023 19:08 petr d35",
 	"status": 2,
 	"id": "100089578639155",
 	"name": "",
@@ -116,33 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686910767.590805,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "08EG1opCSplNSDUQu.AWVnvGba-FrwnauGBSvNItTqOz0.Bj0Sqa.Sn.AAA.0.0.BkFZAw.AWW1o6Gj_68"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679739705,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "830x526"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679739705,
+			"expirationDate": 1679943979,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -151,7 +125,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679944091,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "828x524"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687115246.351799,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "08EG1opCSplNSDUQu.AWWYyACl0akMZvTNegrMC7t6hyI.Bj0Sqa.Sn.AAA.0.0.BkGK7v.AWXbUfcgrP4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679134902619%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679339289434%2C%22v%22%3A1%7D"
 		}
 	]
 }
