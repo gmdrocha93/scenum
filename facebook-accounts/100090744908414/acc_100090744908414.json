@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679823574,
+			"expirationDate": 1679911346,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679911346,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686994671.587562,
+			"expirationDate": 1687082418.392553,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XiqF6nC7VLvjrLvi.AWWmp6JU-L2DLOBasXvOVyyDHwY.Bj_Mb9.oy.AAA.0.0.BkFtfw.AWWNCmBvfx8"
+			"value": "0XiqF6nC7VLvjrLvi.AWVlA6OHsthgz_AYPuwHxZJLEz0.Bj_Mb9.oy.AAA.0.0.BkGC6z.AWVcaM-3xh8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679218752531%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679306520159%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.03.2023 09:58 2.0 petr d14",
+	"lastEventDate": "20.03.2023 10:02 2.0 petr d14",
 	"email": "brendaflores1979@magenmail.com",
 	"emailPassword": "ccgyenoi2709",
 	"imapHost": "imap.firstmail.ltd",
