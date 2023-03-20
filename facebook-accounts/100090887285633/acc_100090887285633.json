@@ -98,7 +98,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679632262,
+			"expirationDate": 1679933244,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679933244,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -107,11 +120,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686803397.436171,
+			"expirationDate": 1687104380.145843,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -120,7 +133,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JzDoIfPYJ2pRG9vV.AWUOBQsMtJ2I52l9lQlwlk0574U.BkAP5C.3M.AAA.0.0.BkE-zG.AWV3Msbuo1g"
+			"value": "0JzDoIfPYJ2pRG9vV.AWUivrhljFn0EJHZsFUxOzhM-GA.BkAP5C.3M.AAA.0.0.BkGIR9.AWWOeQPm38g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -132,10 +145,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.135884429769034%22%7D%5D%2C%22utc3%22%3A1679027458379%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.135884429769034%22%7D%5D%2C%22utc3%22%3A1679328441806%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.03.2023 16:05 2.0 petr d15",
+	"lastEventDate": "20.03.2023 16:07 2.0 petr d15",
 	"email": "conniemelancon1923@magenmail.com",
 	"emailPassword": "nqtwwgkh6360",
 	"imapHost": "imap.firstmail.ltd",
