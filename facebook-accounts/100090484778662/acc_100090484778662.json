@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679618490,
+			"expirationDate": 1679926282,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679926282,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686789568.983045,
+			"expirationDate": 1687097405.629569,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zZLuTtmWCdMxAx6H.AWWXS-lWRImm_SNDVhjV9Kr4dr0.Bj8NRb.l7.AAA.0.0.BkE7bB.AWWC8w_byPY"
+			"value": "0zZLuTtmWCdMxAx6H.AWU5CefXZm8dsfvYHsMNX2QJLTw.Bj8NRb.l7.AAA.0.0.BkGGk-.AWU0m7Viyu8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.131892360177567%22%7D%5D%2C%22utc3%22%3A1679013648301%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.131892360177567%22%7D%5D%2C%22utc3%22%3A1679321476258%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.03.2023 14:08 2.0 petr d15",
+	"lastEventDate": "20.03.2023 14:11 2.0 petr d15",
 	"email": "lewisruark2009@magenmail.com",
 	"emailPassword": "wtbxbrqw5089",
 	"imapHost": "imap.firstmail.ltd",
