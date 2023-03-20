@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.03.2023 20:00 2.0 petr d33",
+	"lastEventDate": "20.03.2023 20:02 2.0 petr d33",
 	"status": 2,
 	"id": "100089051520920",
 	"name": "",
-	"amountFriends": "152",
+	"amountFriends": "159",
 	"screenname": "Paulīna Hit",
 	"birthdate": "2002 January 11",
 	"country": "Daugavpils",
@@ -104,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679827855,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -129,7 +116,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679827855,
+			"expirationDate": 1679946947,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679947329,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "663x398"
+			"value": "828x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686998998.802815,
+			"expirationDate": 1687118478.982652,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0b7qgFqSWRqRr90Sr.AWUqNcIcQft1nPkqC-QwiE_olwY.BjnrRT.WT.AAA.0.0.BkFujX.AWVgfaq-Qhw"
+			"value": "0b7qgFqSWRqRr90Sr.AWWSxlVLnyAoxVDM-4x7X2Khdfw.BjnrRT.WT.AAA.0.0.BkGLuP.AWXUcqh_a4o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679223050447%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679342524971%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
