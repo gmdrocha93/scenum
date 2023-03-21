@@ -6,10 +6,6 @@
 	"id": "100090263457815",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Amālija Medvedev",
-	"birthdate": "2004 January 1",
-	"country": "Latvia",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +98,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679338015,
+			"expirationDate": 1679687775,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679903582,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +124,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686509061.219867,
+			"expirationDate": 1687074721.525041,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +133,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "01NfrLCLK8xqEIeJF.AWUDMe4HGSmhQiCPvUA0CuugoS0.Bj_S-B.qx.AAA.0.0.BkD28G.AWWScyfYexM"
+			"value": "01NfrLCLK8xqEIeJF.AWX-2ipWDx9g4cRrjn_eoP8KTVU.Bj_S-B.qx.AAA.0.0.BkGBCi.AWXYXn1ILDg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +145,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.105201987631879%22%7D%2C%7B%22i%22%3A%22u.135884429769034%22%7D%5D%2C%22utc3%22%3A1678733192843%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.105201987631879%22%7D%2C%7B%22i%22%3A%22u.135884429769034%22%7D%5D%2C%22utc3%22%3A1679298760684%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.03.2023 18:58 2.0 petr d10",
+	"lastEventDate": "20.03.2023 08:10 2.0 petr d14",
 	"email": "charlesmccaslin1903@magenmail.com",
 	"emailPassword": "cqmhadns6751",
 	"imapHost": "imap.firstmail.ltd",
@@ -156,5 +165,9 @@
 		"57017872",
 		"59382178",
 		"65456631"
-	]
+	],
+	"screenname": "Amālija Medvedev",
+	"birthdate": "2004 January 1",
+	"country": "Latvia",
+	"isAvatarExists": false
 }

@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679408611,
+			"expirationDate": 1679903169,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679903450,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686579532.059775,
+			"expirationDate": 1687074566.963106,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dGzxrvCVK5MJDXLl.AWVJ4kPAbY_nWztkEas6ifn4ue0.Bj72tT.PS.AAA.0.0.BkEIJM.AWVPcx7uotY"
+			"value": "0dGzxrvCVK5MJDXLl.AWUgh9IFxPe7UIQG3p-wUnauAkk.Bj72tT.PS.AAA.0.0.BkGBAH.AWVaDvXgSUU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678803779702%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679298627804%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 14:31 2.0 petr d13",
+	"lastEventDate": "20.03.2023 08:04 2.0 petr d15",
 	"email": "georgegorman2020@magenmail.com",
 	"emailPassword": "fjhohsfb3008",
 	"imapHost": "imap.firstmail.ltd",

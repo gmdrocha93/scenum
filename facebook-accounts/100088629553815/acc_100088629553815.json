@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 09:12 petr d35",
+	"lastEventDate": "18.03.2023 12:05 petr d37",
 	"status": 2,
 	"id": "100088629553815",
 	"name": "",
-	"amountFriends": "280",
+	"amountFriends": "297",
 	"screenname": "Elza Krastina",
 	"birthdate": "2001 July 31",
 	"country": "Latvia",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710233560.398358,
+			"expirationDate": 1710675357.593727,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678958356,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZ2J0eTRtYTJ3YyIsInRpbWUiOjE2Nzg2OTg1ODZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679744157,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679302619,
+			"expirationDate": 1679744513,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,19 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZjF0dHc0MjRndyIsInRpbWUiOjE2Nzg2Mzg1OTN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710233560.398427,
+			"expirationDate": 1710675357.593787,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3AE_HiPGeaD4cV6w%3A2%3A1674561051%3A-1%3A6598%3A%3AAcWyehbLdLHXn4NBFO-8ntm4gB5m7OR0zp25fz0vrLc"
+			"value": "12%3AE_HiPGeaD4cV6w%3A2%3A1674561051%3A-1%3A6598%3A%3AAcVlp9OgDONxwKCfNmF-icOeb2-PZS1iKStJjmz-oFg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686473720.138938,
+			"expirationDate": 1686915654.453371,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tUJwdOLojpUfrwvB.AWWvB4PYkVfTAN3Xbu8dQSSue6A.BkDuRZ.HI.AAA.0.0.BkDuT5.AWXoV4fGvhY"
+			"value": "0Pphg8KUTxB6vIVhD.AWX7P-skdK7REVOuTZPZWtT3L3A.BkFaIe.HI.AAA.0.0.BkFaNH.AWW1cSZq8Vc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100040876449757%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678697815336%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100005114654550%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100022190593306%22%7D%5D%2C%22utc3%22%3A1679139708966%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

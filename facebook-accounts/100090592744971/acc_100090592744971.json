@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679423687,
+			"expirationDate": 1679920780,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679921162,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1299x885"
+			"value": "1299x718"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686594781.498697,
+			"expirationDate": 1687092309.615161,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LZDfJKMSrbnU7pn4.AWUc6SFoF3NJObVCupPboL6-9Xk.Bj8PZV.y8.AAA.0.0.BkEL3e.AWVtNavPKSc"
+			"value": "0LZDfJKMSrbnU7pn4.AWVjHfTvpbFCm2oXvW0GcwsmdEc.Bj8PZV.y8.AAA.0.0.BkGFVW.AWW7e8kmGGE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678818883229%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679316354341%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 18:44 2.0 petr d13",
+	"lastEventDate": "20.03.2023 12:55 2.0 petr d15",
 	"email": "josephbarnett1996@magenmail.com",
 	"emailPassword": "omaiecna9260",
 	"imapHost": "imap.firstmail.ltd",

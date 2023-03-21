@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 03:45 petr d35",
+	"lastEventDate": "18.03.2023 03:26 petr d37",
 	"status": 2,
 	"id": "100088580239173",
 	"name": "",
-	"amountFriends": "303",
+	"amountFriends": "319",
 	"screenname": "Margrieta Mykhailo",
 	"birthdate": "2000 June 15",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710213783.731826,
+			"expirationDate": 1710644968.408251,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679282862,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "828x524"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZndtZXd5Yml2diIsInRpbWUiOjE2Nzg2Nzg5OTl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678946842,
+			"expirationDate": 1679713186,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -78,19 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679713889,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
+			"name": "wd",
 			"path": "/",
-			"sameSite": "no_restriction",
+			"sameSite": "lax",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZWhwcnptdm1wMCIsInRpbWUiOjE2Nzg2MTI1Mjd9"
+			"value": "828x524"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710213783.73187,
+			"expirationDate": 1710644968.408319,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AMJcVtjmsr8WnNQ%3A2%3A1674556479%3A-1%3A6917%3A%3AAcXSTakypKxTdFKI1l--JaTtXCx3WVMYd-5GI4W3gMU"
+			"value": "19%3AMJcVtjmsr8WnNQ%3A2%3A1674556479%3A-1%3A6917%3A%3AAcU9-cLk82TfDAMSA5JR_E-9FjJJkKSPh2AGzX0LHR8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686453959.506382,
+			"expirationDate": 1686885045.353652,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05sHHUqhNnqUBna2T.AWV-czFVt0V6sSFahWcZLyePX3Q.BkDpcY.QQ.AAA.0.0.BkDpfI.AWUIdCFk2wQ"
+			"value": "03WxLV84bXUHGsjgI.AWUKOL_m0t87-PicG00x0DuEREo.BkFStp.QQ.AAA.0.0.BkFSu2.AWXDAMWbG-4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678678058533%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100030227691392%22%7D%5D%2C%22utc3%22%3A1679109086025%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

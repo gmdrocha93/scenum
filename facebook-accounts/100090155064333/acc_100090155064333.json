@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679429006,
+			"expirationDate": 1679928073,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679928073,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1302x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686600051.71815,
+			"expirationDate": 1687099204.74797,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0R2QcPbSRgTwnA1q2.AWVi7SxBzboOWkdEXtIV59mJcpw.Bj9GtD.6l.AAA.0.0.BkENJ0.AWXgsv2zewg"
+			"value": "0R2QcPbSRgTwnA1q2.AWXHl-cECTUjL1ZZc5Ehlgu67-w.Bj9GtD.6l.AAA.0.0.BkGHBF.AWWIvZBbWAs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678824182592%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679323270750%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 20:11 2.0 petr d13",
+	"lastEventDate": "20.03.2023 14:56 2.0 petr d15",
 	"email": "glennbader1995@magenmail.com",
 	"emailPassword": "suwcydnw4079",
 	"imapHost": "imap.firstmail.ltd",

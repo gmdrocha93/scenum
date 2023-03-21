@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679409576,
+			"expirationDate": 1679900266,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679899876,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1036x684"
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686580618.098815,
+			"expirationDate": 1687071383.556973,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ny8NQI0jlgZn6hAk.AWVFa-bhougSG8xIn-Wdo3RtnwE.Bj73Mr.UZ.AAA.0.0.BkEIaK.AWWRcDxnUMY"
+			"value": "0Ny8NQI0jlgZn6hAk.AWUCP6LemHhj_AvnC7nz3er6zbU.Bj73Mr.UZ.AAA.0.0.BkGAOY.AWVkIdU9Zqg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678804752569%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679295444305%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 14:49 2.0 petr d13",
+	"lastEventDate": "20.03.2023 07:03 2.0 petr d15",
 	"email": "veronicakrantz1919@magenmail.com",
 	"emailPassword": "dgszwlpr3332",
 	"imapHost": "imap.firstmail.ltd",

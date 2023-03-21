@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 17:15 petr d32",
+	"lastEventDate": "20.03.2023 13:26 petr d35",
 	"status": 2,
 	"id": "100089820166687",
 	"name": "",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679418643,
+			"expirationDate": 1679922741,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679418643,
+			"expirationDate": 1679922741,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,19 +130,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686589742.586903,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "06jSrLcHszhMIULxw.AWXITjPfgf8B8e_6hyb6li4LsWg.Bj2m3S.is.AAA.0.0.BkEKov.AWVFyKtI8xQ"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -151,7 +138,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyaXN6em43bjFqdyIsInRpbWUiOjE2Nzg4MTM3NzV9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJydGx5ZGh6cWVkNiIsInRpbWUiOjE2NzkzMTc4NjF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687093893.993111,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "06jSrLcHszhMIULxw.AWWTnE7Nh4tvCaKp3z3s9MECROQ.Bj2m3S.is.AAA.0.0.BkGFuG.AWUbzYINAPE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,10 +163,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678813840778%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679317939265%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
-		"https://www.facebook.com/profile.php?id=100090460585003"
+		"https://www.facebook.com/profile.php?id=100090460585003",
+		"https://www.facebook.com/profile.php?id=100091322941135"
 	]
 }

@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 12:31 petr d31",
+	"lastEventDate": "18.03.2023 05:10 petr d31",
 	"status": 2,
 	"id": "100089442810377",
 	"name": "",
-	"amountFriends": "253",
+	"amountFriends": "274",
 	"screenname": "Klaudija Aleksezhevs",
 	"birthdate": "1999 January 2",
 	"country": "Daugavpils",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679314656,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZ2wwMzE4YXN2aSIsInRpbWUiOjE2Nzg3MTAwOTl9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679579272,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679719774,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,19 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyM20xYjFpdWJhZDQiLCJ0aW1lIjoxNjc4MTA0OTExfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686485731.488576,
+			"expirationDate": 1686890925.987588,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BXs8Qk8pbGMCYiug.AWWEiR1wzARixIpWm92bL4iSYXw.BjtDE3.An.AAA.0.0.BkDxPk.AWUOdNJzVRY"
+			"value": "0BXs8Qk8pbGMCYiug.AWW4bEXAAziQ2JXHKTPxONiqXy0.BjtDE3.An.AAA.0.0.BkFUKu.AWVNXDy02j8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089670670776%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100086254736780%22%7D%2C%7B%22i%22%3A%22u.100035585621933%22%7D%2C%7B%22i%22%3A%22u.100003922657108%22%7D%5D%2C%22utc3%22%3A1678709853069%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087395890192%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100086254736780%22%7D%2C%7B%22i%22%3A%22u.100035585621933%22%7D%2C%7B%22i%22%3A%22u.100003922657108%22%7D%2C%7B%22i%22%3A%22u.100062822233687%22%7D%2C%7B%22i%22%3A%22u.100042312540690%22%7D%2C%7B%22i%22%3A%22u.100089670670776%22%7D%2C%7B%22i%22%3A%22u.100089071813948%22%7D%5D%2C%22utc3%22%3A1679114971093%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 13:31 petr d31",
+	"lastEventDate": "18.03.2023 05:39 petr d31",
 	"status": 2,
 	"id": "100088886272485",
 	"name": "",
-	"amountFriends": "178",
+	"amountFriends": "206",
 	"screenname": "Agnese Ozols",
 	"birthdate": "1997 January 2",
 	"country": "",
@@ -104,7 +104,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679318201,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZ254Y3Z2ZHhhayIsInRpbWUiOjE2Nzg3MTM4ODh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679581270,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679721834,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,19 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyM25pcmJkeGt1MyIsInRpbWUiOjE2NzgxMDY4NzJ9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686489273.075779,
+			"expirationDate": 1686892969.99051,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08OKfyYzP5xXIjBBf.AWWuB8866HOv7AGjpL8PWRXN4Ec.Bjs9TF.EX.AAA.0.0.BkDyG5.AWVwuolrOsw"
+			"value": "08OKfyYzP5xXIjBBf.AWUn0p7SOVTq3QeA0wrF9k0i448.Bjs9TF.EX.AAA.0.0.BkFUqq.AWVVikff-BA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100040091382458%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100055226747522%22%7D%2C%7B%22i%22%3A%22u.100070994514783%22%7D%2C%7B%22i%22%3A%22u.100011505183841%22%7D%2C%7B%22i%22%3A%22u.100079722396128%22%7D%5D%2C%22utc3%22%3A1678713374734%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679117012209%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

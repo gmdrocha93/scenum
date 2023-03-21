@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 16:31 petr d32",
+	"lastEventDate": "20.03.2023 12:45 petr d35",
 	"status": 2,
 	"id": "100089982880171",
 	"name": "",
-	"amountFriends": "64",
+	"amountFriends": "90",
 	"screenname": "Patrīcija Zhefimova",
 	"birthdate": "1999 January 22",
 	"country": "Liepaja",
@@ -104,19 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZjZkcjVlM3NqNSIsInRpbWUiOjE2Nzg2NDQ0OTV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679415550,
+			"expirationDate": 1679673811,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679415708,
+			"expirationDate": 1679920118,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -142,7 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686586753.369511,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyb2F5NDFiamMxZGIiLCJ0aW1lIjoxNjc5MDcwMzE2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687091267.320483,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0C5RkPOnezl5FYJDF.AWUgAojJPOoxLuQpEzOCiparB9c.Bj2tH1.RB.AAA.0.0.BkEJ6C.AWXt-plGdJA"
+			"value": "0C5RkPOnezl5FYJDF.AWWcCtFg7dZRxINdNGBhqG2N-3I.Bj2tH1.RB.AAA.0.0.BkGFFE.AWXV6WHDT4U"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,10 +163,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678810904861%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679315314422%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
-		"https://www.facebook.com/profile.php?id=100090472644411"
+		"https://www.facebook.com/profile.php?id=100090472644411",
+		"https://www.facebook.com/profile.php?id=100090202695948"
 	]
 }

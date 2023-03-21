@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 16:50 petr d32",
+	"lastEventDate": "20.03.2023 13:06 petr d35",
 	"status": 2,
 	"id": "100089657874078",
 	"name": "",
@@ -104,33 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686588338.984279,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0WaBxblHsk2cOlVNo.AWWyrajp-WnVVovhef5x8Ema5nw.Bj26cE.ph.AAA.0.0.BkEKSz.AWUa4nqC2qA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679417235,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1302x706"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679417235,
+			"expirationDate": 1679565235,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -139,7 +113,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679921508,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1300x704"
 		},
 		{
 			"domain": ".facebook.com",
@@ -151,7 +138,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyaXJ3eHkyaXRsMCIsInRpbWUiOjE2Nzg4MTIzNjl9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJydGwwYWs5dGU5cCIsInRpbWUiOjE2NzkzMTY2MzR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687092660.677988,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0WaBxblHsk2cOlVNo.AWVJJFw9XdChxLcTfLBQWhSKXn0.Bj26cE.ph.AAA.0.0.BkGFa1.AWVtpdPB3MM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,10 +163,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678812433334%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679316704521%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
-		"https://www.facebook.com/profile.php?id=100090924605028"
+		"https://www.facebook.com/profile.php?id=100090924605028",
+		"https://www.facebook.com/profile.php?id=100090053653975"
 	]
 }

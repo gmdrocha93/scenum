@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 14:06 petr d32",
+	"lastEventDate": "20.03.2023 10:26 petr d35",
 	"status": 2,
 	"id": "100090145743576",
 	"name": "",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710154550.882944,
+			"expirationDate": 1710597630.626017,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -91,20 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679407306,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710154550.883008,
+			"expirationDate": 1710597630.626066,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -113,24 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AZNPocTp7-Uri-A%3A2%3A1677990184%3A-1%3A1996%3A%3AAcVJu7T3XPHcjcCLnW3QTO2Rpt_sVVfJA7Qp8RWtdg"
+			"value": "2%3AZNPocTp7-Uri-A%3A2%3A1677990184%3A-1%3A1996%3A%3AAcXVxn-7zIBWEpHYxk4R0SDgL0NDk_WHneGls3H8Qw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679407306,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1522x706"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678888544,
+			"expirationDate": 1679393275,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -143,16 +117,29 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686578342.00266,
+			"expirationDate": 1679911881,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "dpr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07eKBQ2Rq2WLt62uA.AWULCYTCFgatPWRd5p56tIRe55s.BkDa-3.GP.AAA.0.0.BkEH2m.AWXiVR_hgW4"
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679911881,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1522x706"
 		},
 		{
 			"domain": ".facebook.com",
@@ -164,7 +151,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyaWswdm42ZmpoOSIsInRpbWUiOjE2Nzg4MDIzODJ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJydGRoNnlrdnZoNiIsInRpbWUiOjE2NzkzMDcwMTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687083036.832403,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "07eKBQ2Rq2WLt62uA.AWWxdyDbW1lo69KMRkvZDolWu-k.BkDa-3.GP.AAA.0.0.BkGDEd.AWUiFmD6iFw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -176,10 +176,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678802479252%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679307078102%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
-		"https://www.facebook.com/Go-on-an-expedition-to-nature-106057015764890"
+		"https://www.facebook.com/Go-on-an-expedition-to-nature-106057015764890",
+		"https://www.facebook.com/Trip-tougether-117227417969171"
 	]
 }

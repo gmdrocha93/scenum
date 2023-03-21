@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 16:56 petr d32",
+	"lastEventDate": "20.03.2023 16:33 2.0 petr d33",
 	"status": 2,
 	"id": "100089260644257",
 	"name": "",
@@ -104,7 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679417489,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJya24xMmZ3dXR2eSIsInRpbWUiOjE2Nzg4OTk2Mzh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679933229,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -117,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679417489,
+			"expirationDate": 1679933229,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +142,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686588573.100543,
+			"expirationDate": 1687104366.029158,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,19 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Fu5lcBpKPkTu69lS.AWW4HBnaCpxlBKqrUmTOir4Hwe0.BjydIJ.Ic.AAA.0.0.BkEKWe.AWUIoT3c2z0"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyaXMzZTExenEwMWMiLCJ0aW1lIjoxNjc4ODEyNjMxfQ%3D%3D"
+			"value": "0Fu5lcBpKPkTu69lS.AWVmP6EvosLNRVKe6i2YT5ZaBDw.BjydIJ.Ic.AAA.0.0.BkGIRu.AWVA202sclg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100084342432224%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678812687270%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679328427729%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

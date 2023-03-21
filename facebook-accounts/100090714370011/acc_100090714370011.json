@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100090714370011",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Elza Cockins",
 	"birthdate": "2001 February 8",
 	"country": "Latvia",
@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679347755,
+			"expirationDate": 1679912480,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679912480,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1536x676"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686518804.668652,
+			"expirationDate": 1687083585.830301,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0bMMStlR4TSX4yht1.AWU2ArtzJPwiDT20Mu2gyP_KOzE.Bj_Uo4.SR.AAA.0.0.BkD5UV.AWWSPRqbaYU"
+			"value": "0bMMStlR4TSX4yht1.AWWCYkHCkaPMt_qKuqNA_kwOE4w.Bj_Uo4.SR.AAA.0.0.BkGDNC.AWWiTyQCUxE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +149,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678742932564%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100020796167341%22%7D%5D%2C%22utc3%22%3A1679307649430%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.03.2023 21:40 2.0 petr d10",
+	"lastEventDate": "20.03.2023 10:41 2.0 petr d14",
 	"email": "irenemartin1912@magenmail.com",
 	"emailPassword": "qgljewvv3182",
 	"imapHost": "imap.firstmail.ltd",

@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088657429025",
 	"custom": {},
-	"lastEventDate": "15.03.2023 01:23 petr d38",
+	"lastEventDate": "20.03.2023 16:29 2.0 petr d33",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Kristiāna Rudzitis",
@@ -114,11 +114,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJxaXd3NDF5NDRhd20iLCJ0aW1lIjoxNjc3MTM5MjA0fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJycDczazFnbHhzcGciLCJ0aW1lIjoxNjc5MTExOTg0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679447205,
+			"expirationDate": 1679933580,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679933580,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1300x704"
+			"value": "1302x706"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686618309.099399,
+			"expirationDate": 1687104732.410825,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -140,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dGivbWfEyfaa4HwN.AWU1OJ-6B6aJ9ssSnvkd8g-zdGk.BjoXWm.Bz.AAA.0.0.BkERnF.AWXzkRMuibA"
+			"value": "0dGivbWfEyfaa4HwN.AWXorBdM5x1FeiLVL_LVuvWVX5I.BjoXWm.Bz.AAA.0.0.BkGIXd.AWXQF3zvEa8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -152,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678842402831%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679328776663%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [

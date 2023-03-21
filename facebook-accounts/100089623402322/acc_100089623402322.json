@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.03.2023 18:38 petr d32",
+	"lastEventDate": "20.03.2023 14:04 petr d35",
 	"status": 2,
 	"id": "100089623402322",
 	"name": "",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679258948,
+			"expirationDate": 1679925050,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,7 +113,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679925050,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1038x686"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,24 +138,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZmU1NXBvM2FxeiIsInRpbWUiOjE2Nzg2NTUyMDh9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJydG5xbWhqeGtzcSIsInRpbWUiOjE2NzkzMjAxNzR9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679423666,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "829x525"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686594768.880415,
+			"expirationDate": 1687096201.301534,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s25NeuHKvcKFjorw.AWXDZqMVQbnthLEYNc53Mho-mEo.Bj15Nc.uE.AAA.0.0.BkEL3R.AWVMMCtmpEc"
+			"value": "0s25NeuHKvcKFjorw.AWX0gNv7iz7IrEU_VwnbRPKjbDY.Bj15Nc.uE.AAA.0.0.BkGGSK.AWVAmCTkNQk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,10 +163,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678818864236%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679320248034%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
-		"https://www.facebook.com/profile.php?id=100090589940372"
+		"https://www.facebook.com/profile.php?id=100090589940372",
+		"https://www.facebook.com/profile.php?id=100090491629744"
 	]
 }

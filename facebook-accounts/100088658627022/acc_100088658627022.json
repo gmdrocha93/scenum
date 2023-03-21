@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 07:53 petr d35",
+	"lastEventDate": "18.03.2023 10:08 petr d37",
 	"status": 2,
 	"id": "100088658627022",
 	"name": "",
-	"amountFriends": "92",
+	"amountFriends": "111",
 	"screenname": "Gundega Stepanova",
 	"birthdate": "1996 February 11",
 	"country": "Jurmala",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710228691.267875,
+			"expirationDate": 1710668944.621185,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679297791,
+			"expirationDate": 1679737894,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "828x524"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679737894,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -77,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679297791,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1038x686"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710228691.267943,
+			"expirationDate": 1710668944.621255,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "37%3ARO7nhEbiFH5-zQ%3A2%3A1674559871%3A-1%3A3115%3A%3AAcUx8DBHqiDeRp437baiiRHvmWavMD3pRBWupJizVWk"
+			"value": "37%3ARO7nhEbiFH5-zQ%3A2%3A1674559871%3A-1%3A3115%3A%3AAcU9NzkDv7VAjlDcFUGEaYTppBgNLY9vBvHbktb28aM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686468858.149627,
+			"expirationDate": 1686909047.470317,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0k0R1q0JIZObrVZLo.AWUkGrvXRCrG3JXBFU_8sE8-VnU.BkDtFU._h.AAA.0.0.BkDtH7.AWVg3wVqIQM"
+			"value": "0KuB7p0LeiHZzNyzq.AWV0DZSNN2qfZvoPh7TJEYP0F4o.BkFYkR._h.AAA.0.0.BkFYl4.AWX_--Nsz7o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678692968247%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679133090950%2C%22v%22%3A1%7D"
 		}
 	]
 }

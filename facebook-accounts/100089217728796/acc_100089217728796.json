@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 12:49 petr d31",
+	"lastEventDate": "18.03.2023 05:16 petr d31",
 	"status": 2,
 	"id": "100089217728796",
 	"name": "",
@@ -100,7 +100,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679315857,
+			"expirationDate": 1679579697,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679720588,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,7 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686486901.529807,
+			"expirationDate": 1686891723.008109,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vNsmeiKJWcVeUKGk.AWURtM3OPai4ZzM5tPqlMEcxmBQ.Bjs0JF.mw.AAA.0.0.BkDxh2.AWWVI8EWGC8"
+			"value": "0vNsmeiKJWcVeUKGk.AWVYBVWCt34DH58YVcn1qBO8C0c.Bjs0JF.mw.AAA.0.0.BkFUXL.AWWUnNILEbo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,7 +147,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyZ2xnZTE0c3hsOTMiLCJ0aW1lIjoxNjc4NzEwOTYwfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJycDl5cXFtaDEyciIsInRpbWUiOjE2NzkxMTU3MzJ9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -146,10 +159,14 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678710988061%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089690177264%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011787811400%22%7D%2C%7B%22i%22%3A%22g.5891755000873451%22%7D%2C%7B%22i%22%3A%22u.100063544269698%22%7D%2C%7B%22i%22%3A%22u.100085026494104%22%7D%5D%2C%22utc3%22%3A1679115793790%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
 		"https://www.facebook.com/profile.php?id=100090150747952"
-	]
+	],
+	"screenname": "Aira Serzheva",
+	"birthdate": "2000 January 2",
+	"country": "Latvia",
+	"isAvatarExists": false
 }

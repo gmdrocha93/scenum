@@ -2,11 +2,11 @@
 	"sn": "facebook",
 	"login": "Poxisudim@outlook.lv",
 	"password": "6417#3B%&8$W",
-	"lastEventDate": "14.03.2023 16:51 2.0 petr d5",
+	"lastEventDate": "20.03.2023 18:14 2.0 petr d14",
 	"status": 2,
 	"id": "100089599023913",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Mary Johnson",
 	"birthdate": "1997 April 22",
 	"country": "Latvia",
@@ -40,20 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678918176,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710348030.419246,
+			"expirationDate": 1710871222.424025,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,7 +53,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679416867,
+			"expirationDate": 1679588849,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679940154,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -79,19 +79,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678812031260%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710348030.419301,
+			"expirationDate": 1710871222.424082,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +88,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AS-9LCdqlwUsaxw%3A2%3A1678313187%3A-1%3A-1%3A%3AAcVr-wRt0eIub5XWrc6Nr2c8N2Z9_9h2Xk1PyCR1Wg"
+			"value": "19%3AS-9LCdqlwUsaxw%3A2%3A1678313187%3A-1%3A13411%3A%3AAcXVDpZA89hgYklFTQpY8OgGSeI72QXXDH4oAeaHpzI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686588029.419326,
+			"expirationDate": 1687111238.51833,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +101,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0g17CeOP8cUTlOWha.AWXKUEgXahL_IapPsmcLnhG7loc.BkEKN_.Q_.AAA.0.0.BkEKN_.AWVHUrWJbJA"
+			"value": "0gMXfBZelhO41AC8q.AWXm9qw5Il_syAGj86n9JJmew6c.BkGJ83.Q_.AAA.0.0.BkGJ9H.AWWcerGA7ZE"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679335360155%2C%22v%22%3A1%7D"
 		}
 	]
 }
